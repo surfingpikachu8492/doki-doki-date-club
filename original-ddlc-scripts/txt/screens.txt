@@ -1,0 +1,57 @@
+	Narrator	#000000aa
+	Narrator	gui/font/VerilySerifMono.otf
+	Narrator	#000
+	Narrator	subtitle" if gui.text_xalign else "tex
+	Narrator	subtitle" if gui.text_xalign else "tex
+	Narrator	#000
+	Narrator	gui/font/Halogen.ttf
+	Narrator	#000
+	Narrator	#fef", 0, 0), (2, "#fcf", 0, 0), (1, "#faf
+	Narrator	button
+	Narrator	button
+	Narrator	gui/bar/top.png
+	Narrator	gui/bar/bottom.png
+	Narrator	gui/scrollbar/horizontal_poem_bar.png
+	Narrator	gui/scrollbar/horizontal_poem_thumb.png
+	Narrator	gui/scrollbar/horizontal_poem_bar.png
+	Narrator	gui/scrollbar/horizontal_poem_thumb.png
+	Narrator	hide
+	Narrator	gui/scrollbar/vertical_poem_bar.png
+	Narrator	gui/scrollbar/vertical_poem_thumb.png
+	Narrator	hide
+	Narrator	gui/scrollbar/horizontal_poem_bar.png
+	Narrator	gui/slider/horizontal_hover_thumb.png
+	Narrator	gui/slider/vertical_[prefix_]bar.png
+	Narrator	gui/slider/vertical_[prefix_]thumb.png
+	Narrator	gui/frame.png
+	Narrator	say
+	Narrator	window
+	Narrator	what
+	Narrator	namebox
+	Narrator	who
+	Narrator	small
+	Narrator	gui/textbox.png
+	Narrator	gui/textbox_monika.png
+	Narrator	gui/namebox.png
+	Narrator	#b59", 0, 0), (1, "#b59
+	Narrator	subtitle" if gui.text_xalign else "tex
+	Narrator	gui/ctc.png
+	Narrator	#b59
+	Narrator	input
+	Narrator	input_prompt
+	Narrator	input
+	Narrator	input_caret
+	Narrator	choice
+	Narrator	choice_button
+	Narrator	choice_button
+	Narrator	choice
+	Narrator	choice_button
+	Narrator	choice_button
+	Narrator	quick
+	Narrator	History
+	Narrator	Skip
+	Narrator	Auto") action Preference("auto-forward", "toggle
+	Narrator	Save
+	Narrator	Load
+	Narrator	Settings
+	Narrator	quick_button

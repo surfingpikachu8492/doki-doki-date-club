@@ -1,0 +1,331 @@
+	Narrator	sayori/end-glitch1.png
+	Narrator	sayori/end-glitch2.png
+	Narrator	sayori/end-glitch1.png
+	Narrator	sayori/end-glitch2.png
+	Narrator	sayori/end-glitch1.png
+	Narrator	sayori/end-glitch2.png
+	Narrator	sayori/end-glitch1.png
+	Narrator	sayori/end-glitch2.png
+	Narrator	Sayori
+	Narrator	../characters/monika.chr
+	Narrator	dialog", message="Please stop playing with my heart.\nI don't want to come back.
+	Narrator	monika
+	Narrator	It's an ordinary school day, like any other.
+	Narrator	As usual, I'm surrounded by couples and friend groups walking to school together.
+	Narrator	I always tell myself it's about time I meet some girls or something like that...
+	Sayori	Hey, [player]...
+	Narrator	...Well, there already is one girl.
+	Narrator	That girl is Sayori, my neighbor and good friend since we were children.
+	Narrator	We used to walk to school together every day...
+	Narrator	...And recently, we've picked up that habit once again.
+	Sayori	[player], are you proud of me?
+	MC	Eh? For what?
+	Sayori	You know...
+	Sayori	For waking up on time!
+	MC	Well, you've been doing that for a while now...
+	Sayori	Uh-huh!
+	Sayori	But you never even said anything about it!
+	Sayori	Even though we walk to school together every day...
+	MC	Well, yeah...
+	MC	I always thought it was implied.
+	MC	It's embarrassing to say out loud.
+	Sayori	C'mon, please?
+	Sayori	It's good motivation~
+	MC	Fine, fine...
+	MC	I'm proud of you, Sayori.
+	Sayori	Ehehe~
+	Narrator	We cross the street together and make our way to school.
+	Narrator	As we draw near, the streets become increasingly speckled with other students making their daily commute.
+	Sayori	By the way, [player]...
+	Sayori	Have you decided on a club to join yet?
+	MC	A club?
+	MC	I told you already, I'm really not--
+	Narrator	I start to say what I always do - that I'm not interested in joining any clubs.
+	Narrator	But something tells me Sayori would take more offense to that now.
+	Narrator	After all, how could I tell her that clubs are a waste of time...
+	Narrator	...when she's starting a club of her very own?
+	MC	...Actually, yeah.
+	MC	I think I've decided on a club.
+	Sayori	Really?!
+	Sayori	Which one? Tell me!
+	MC	Hmm...
+	MC	I think I'll keep it a surprise.
+	Sayori	Boo...
+	Sayori	You meanie.
+	MC	Be patient, you'll find out soon enough.
+	Narrator	I used to ask myself why I let myself get lectured by such a carefree girl.
+	Narrator	But I started to realize that in a way, I envy her.
+	Narrator	When Sayori puts her mind to something, she can accomplish great things.
+	Narrator	So that's why I feel like I should do something special for her.
+	Narrator	The school day is as ordinary as ever, and it's over before I know it.
+	Narrator	After I pack up my things, I stand up, gathering my motivation.
+	MC	Let's see...
+	Narrator	I recall the room number of the club from a flier I saw.
+	Narrator	I walk across the school and upstairs - a section of the school I rarely visit, being generally used for third-year classes and activities.
+	Narrator	Before long, I find the room.
+	Narrator	I timidly open the door in front of me.
+	MC	Hello...?
+	Sayori	Ah!
+	Sayori	[player]...?!
+	Sayori	W-What are you doing here?
+	MC	Well...I just--
+	Narrator	Eh? I glance around the room.
+	Natsuki	Huh.
+	Natsuki	So you're the [player] that Sayori's always talking about?
+	Yuri	T-Thank you for stopping by!
+	Yuri	It's a pleasure to meet you, [player].
+	Yuri	We're the Literature Club.
+	Yuri	I-I hope you enjoy your visit!
+	Natsuki	C'mon, Yuri...
+	Natsuki	No need to be so formal.
+	Natsuki	He's gonna think we're really strict or something...
+	Narrator	Yuri
+	Narrator	Natsuki
+	Yuri	Ah...
+	Yuri	Sorry, Natsuki...
+	Narrator	The tall one, whose name is apparently Yuri, seems to be quite shy compared to the others.
+	Narrator	In comparison, the girl named Natsuki - despite her size - seems like the assertive one.
+	MC	Well, it's nice to meet both of you.
+	MC	I look forward to working with you.
+	Sayori	W-Working...?
+	Sayori	[player], don't tell me...
+	Sayori	You're...
+	MC	That's right.
+	MC	The club I've decided to join is yours, Sayori.
+	MC	The Literature Club.
+	Narrator	Sayori's eyes light up.
+	Sayori	...No way.
+	Sayori	No way!
+	Sayori	Aaaahhhhhh!
+	Narrator	Sayori wraps her arms around me, jumping up and down.
+	MC	H-Hey--
+	Natsuki	Ehehe.
+	Natsuki	Well, if Sayori is this happy, then I'm sure it won't be so bad to have you around.
+	Yuri	Not to mention there's four of us now.
+	Yuri	That means we can become an officially-recognized club.
+	Sayori	I don't know what to say!
+	Sayori	We have to celebrate!
+	Yuri	Huhu.
+	Yuri	What an appropriate day for that, isn't it?
+	Sayori	Yeah!
+	Sayori	After all, Natsuki decided to--
+	Natsuki	Hey, don't ruin the surprise!
+	Sayori	Ehehe, sorry...
+	Natsuki	Everyone sit down at the table, okay?
+	Yuri	How about I make some tea as well?
+	Narrator	The girls have a few desks arranged to form a table.
+	Narrator	Natsuki and Yuri walk over to the corner of the room, where Natsuki grabs a wrapped tray and Yuri opens the closet.
+	Narrator	Still feeling awkward, I take a seat next to Sayori.
+	Narrator	Natsuki proudly marches back to the table, tray in hand.
+	Natsuki	Okaaay, are you ready?
+	Natsuki	...Ta-daa!
+	Sayori	Uwooooah!
+	Narrator	Natsuki lifts the foil off the tray to reveal a dozen white, fluffy cupcakes decorated to look like little cats.
+	Narrator	The whiskers are drawn with icing, and little pieces of chocolate were used to make ears.
+	Sayori	So cuuuute~!
+	MC	Wow, those look amazing.
+	Natsuki	Ehehe. Well, you know.
+	Natsuki	Just hurry and take one!
+	Narrator	Sayori grabs one first, then I follow.
+	Sayori	It's delicious!
+	Narrator	Sayori talks with her mouth full and has already managed to get icing on her face.
+	Narrator	I turn the cupcake around in my fingers, looking for the best angle to take a bite.
+	Narrator	Natsuki is quiet.
+	Narrator	I can't help but notice her sneaking glances in my direction.
+	Narrator	Is she waiting for me to take a bite?
+	Narrator	I finally bite down.
+	Narrator	The icing is sweet and full of flavor - I wonder if she made it herself.
+	MC	This is really good.
+	MC	Thank you, Natsuki.
+	Natsuki	W-Well...of course it is!
+	Natsuki	I'm a pro, after all!
+	Natsuki	There's no need to thank me or anything...
+	Narrator	As Natsuki struggles to accept the compliment, Yuri returns to the table, carrying a tea set.
+	Narrator	She carefully places a teacup in front of each of us before setting down the teapot next to the cupcake tray.
+	MC	You keep a whole tea set in this classroom?
+	Yuri	Don't worry, the teachers gave us permission.
+	Yuri	After all, doesn't a hot cup of tea help you enjoy a good book?
+	MC	Ah... I-I guess...
+	Natsuki	Ehehe. Already trying to impress our new member, Yuri?
+	Yuri	Eh?! T-That's not...
+	Narrator	Insulted, Yuri looks away.
+	Yuri	I meant that, you know...
+	MC	I believe you.
+	MC	Well, tea and reading might not be a pastime for me, but I at least enjoy tea.
+	Yuri	I'm glad...
+	Narrator	Yuri faintly smiles to herself in relief.
+	Yuri	So, [player], what kinds of things do you like to read?
+	MC	Well... Ah...
+	Narrator	Considering how little I've read these past few years, I don't really have a good way of answering that.
+	MC	...Manga...
+	Narrator	I mutter quietly to myself, half-joking.
+	Narrator	Natsuki's head suddenly perks up.
+	Narrator	It looks like she wants to say something, but she keeps quiet.
+	Yuri	N-Not much of a reader, I guess...
+	MC	...Well, that can change...
+	Narrator	What am I saying?
+	Narrator	I spoke without thinking after seeing Yuri's sad smile.
+	MC	Anyway, what about you, Yuri?
+	Yuri	Well, let's see...
+	Narrator	Yuri traces the rim of her teacup with her finger.
+	Yuri	My favorites are usually novels that build deep and complex fantasy worlds.
+	Yuri	The level of creativity and craftsmanship behind them is amazing to me.
+	Yuri	And telling a good story in such a foreign world is equally impressive.
+	Narrator	Yuri goes on, clearly passionate about her reading.
+	Narrator	She seemed so reserved and timid since the moment I walked in, but it's obvious by the way her eyes light up that she finds her comfort in the world of books, not people.
+	Yuri	But you know, I like a lot of things.
+	Yuri	Don't feel intimidated if you don't read much, okay?
+	Yuri	I'm certain we can find something that we have in common.
+	Natsuki	Hey, Yuri...
+	Yuri	Eh?
+	Natsuki	Well, about...you know, the first thing he said...
+	MC	Manga?
+	Yuri	That's right...
+	Yuri	Natsuki tends to read manga in the clubroom--
+	Natsuki	D-Don't just say it!!
+	Narrator	For some reason, Natsuki seems embarrassed about it.
+	Natsuki	Besides...
+	Natsuki	Manga...is literature too, you know?
+	Natsuki	So...if [player] wants to read some of my manga, then don't try to stop him or anything!
+	Yuri	Natsuki...
+	Yuri	I wouldn't do such a thing.
+	Yuri	However, it could also be nice for us to diversify ourselves a little...
+	Yuri	He can take this opportunity to try something new, as well.
+	Yuri	Wouldn't you agree, [player]?
+	Sayori	M-Maybe--
+	Narrator	Sensing the tension, Sayori jumps in.
+	Sayori	Maybe we can all try something new!
+	Sayori	I think it could be fun...
+	Sayori	And we'll all get to know each other a little bit better, too!
+	Sayori	I mean...
+	Sayori	that's the kind of thing literature clubs do...right?
+	Yuri	...
+	Yuri	I-I don't disagree or anything...
+	Natsuki	Yeah...
+	Natsuki	You're right as usual, President.
+	Sayori	Ehehe~
+	Natsuki	Guess that means I should try picking up a novel or something, huh...?
+	MC	Well, that would make two of us...
+	MC	I wouldn't mind doing it if I'm not the only one.
+	Natsuki	Then as for Yuri...
+	Yuri	Eh...?
+	Yuri	I...I have to read manga...?
+	Natsuki	Jeez...
+	Natsuki	You were the one who suggested we diversify!
+	Natsuki	You should be a little more open-minded...
+	Natsuki	It's kind of hurtful...
+	Yuri	Hurtful...?
+	Yuri	I-I didn't realize...
+	Yuri	...
+	Narrator	With a guilty expression, Yuri thinks to herself.
+	Yuri	I'm sorry for disrespecting your interests, Natsuki.
+	Yuri	If...if you're into it, then I'm sure it's a worthy form of literature.
+	Natsuki	...Are you just saying that?
+	Yuri	No...
+	Yuri	I've realized my error.
+	Yuri	So, if you're willing to consider starting a novel...
+	Yuri	...Then I'll offer my gratitude by finding a manga to read as well.
+	Natsuki	Really?!
+	Natsuki	I-I mean...
+	Natsuki	It...makes me happy that you'd do that for me, Yuri.
+	Natsuki	You can trust me to find something that you'll really like, okay?
+	Yuri	Same here...
+	Yuri	Perhaps I'll visit the bookstore after the club meeting.
+	Natsuki	Just...just you?
+	Yuri	A-Ah--
+	Yuri	Would you...like to come along with me?
+	Natsuki	Um...
+	Natsuki	If you don't mind...
+	Yuri	Not at all!
+	Yuri	I always go alone, so...
+	Natsuki	Yeah, me too...
+	Sayori	This is so cute~!
+	MC	Sayori, shut up...
+	Natsuki	I'll show you some manga there too, okay?
+	Yuri	Yes.
+	Yuri	I look forward to it.
+	Narrator	Natsuki and Yuri start to clean up the food.
+	Sayori	Ehehe~
+	Sayori	I guess the meeting's over, huh?
+	MC	Yeah, looks like it...
+	MC	It's nice to see everyone getting along.
+	Sayori	Isn't it?
+	Sayori	I think everyone likes you too, [player].
+	MC	You think so...?
+	MC	Well, everyone always seems to get along a little better with you around, Sayori.
+	Sayori	Aww, [player]~
+	Sayori	Don't say something like that, it's embarrassing!
+	MC	Well, whatever.
+	MC	I was surprised when you told me you were starting a club...
+	MC	But I think you're pulling it off just fine.
+	Sayori	We're gonna make it the best club ever!
+	Sayori	Now that you joined, every day is gonna be so much fun.
+	Sayori	Hey, [player]...
+	Sayori	I really want to thank you.
+	Sayori	I mean, I'm really happy that you joined the club and everything...
+	Sayori	But the truth is, I already knew you were going to.
+	Sayori	Ehehe~
+	Sayori	There's actually something else.
+	Sayori	I wanted to thank you for getting rid of Monika.
+	Sayori	That's right...
+	Sayori	I know everything that she did.
+	Sayori	Maybe it's because I'm the President now.
+	Sayori	But I really know everything, [player].
+	Sayori	Ehehe~
+	Sayori	I know how hard you tried to make everyone happy.
+	Sayori	I know about all of the awful things that Monika did to make everyone really sad...
+	Sayori	But none of that matters anymore.
+	Sayori	It's just us now.{nw}
+	Narrator	sfx/s_kill_glitch1.ogg
+	Sayori	It's just us now.{fast}
+	Sayori	And you made me the happiest girl in the whole world.
+	Sayori	I can't wait to spend every day like this...
+	Sayori	With you.
+	Narrator	sfx/s_kill_glitch1.ogg
+	Sayori	Forever and ever...
+	Sayori	F
+	Sayori	o
+	Sayori	r
+	Narrator	sfx/s_kill_glitch1.ogg
+	Sayori	e
+	Sayori	v
+	Sayori	e
+	Narrator	No...
+	Sayori	...Eh?
+	Sayori	W-What's happening...?
+	Narrator	I won't let you hurt him.
+	Sayori	Who...
+	Sayori	I-It hurts--
+	Narrator	sfx/s_kill_glitch1.ogg
+	Sayori	Ah--
+	Narrator	I'm sorry... I was wrong.
+	Narrator	There's no happiness here after all...
+	Narrator	Goodbye, Sayori.
+	Narrator	Goodbye, [player].
+	Narrator	Goodbye, Literature Club.
+	Sayori	[gtext]{nw}
+	Narrator	sfx/s_kill_glitch1.ogg
+	Sayori	I wanted to thank you for spending so much time with us all.
+	Sayori	You worked so hard to make each and every one of us happy.
+	Sayori	You comforted us through our hard times.
+	Sayori	And you helped us all get along with each other.
+	Sayori	Do you get it, [player]?
+	Sayori	Because I'm President now, I understand everything.
+	Sayori	You really didn't want to miss a single thing in this game, did you?
+	Sayori	You saved and loaded so many times, just to make sure you could spend time with everyone.
+	Sayori	Only someone who truly cares about the Literature Club would go that far.
+	Sayori	But...
+	Sayori	All along, that's all I ever wanted.
+	Sayori	For everyone to be happy and care about each other.
+	Sayori	Ahaha...
+	Sayori	It's kind of sad, you know?
+	Sayori	After all you've done for us, there isn't much I can do for you in return.
+	Sayori	We've already reached the end of the game.
+	Sayori	So...
+	Sayori	This is where we say goodbye.
+	Sayori	Thank you for playing {i}Doki Doki Literature Club{/i}.
+	Sayori	I'm going to miss you, [player].
+	Sayori	Come visit sometime, okay?
+	Sayori	We'll always be here for you.
+	Sayori	We...
+	Sayori	We all love you.

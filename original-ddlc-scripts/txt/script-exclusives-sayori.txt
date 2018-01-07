@@ -1,0 +1,426 @@
+	Narrator	Man...
+	Narrator	It looks like no one wants to be bothered today.
+	Narrator	I slump down into the nearest desk.
+	Narrator	How am I supposed to occupy myself with something literature-related by myself like this?
+	Narrator	I guess I could always read some of the book Yuri gave me...
+	Narrator	...But I'm feeling a little too tired to read.
+	Narrator	I could probably fall asleep right now.
+	Narrator	I close my eyes and end up listening in on Sayori's conversation with Monika.
+	Sayori	We're probably gonna seem really lame compared to all the other clubs, though...
+	Monika	Hmm...
+	Monika	Well, we can't give up.
+	Monika	The festival is our chance to show everyone what literature is all about!
+	Monika	The problem is that the idea of a literature club sounds too dense and intellectual...
+	Monika	But it's not like that at all, you know?
+	Monika	We just need a way of showing that to everyone...
+	Monika	Something that speaks to their creative minds.
+	Sayori	Mmmmmmmmmmm.....
+	Sayori	That doesn't solve the problem, though!
+	Monika	Eh? What do you mean?
+	Sayori	Even if we come up with the most fun thing ever...
+	Sayori	Nobody will come in the first place if it's a literature event.
+	Sayori	So it's more important to figure out how to get people to show up in the first place, you know?
+	Sayori	And after they come, we can do the thing to speak to their creative minds.
+	Narrator	...What's this?
+	Narrator	Sayori is taking this really seriously.
+	Narrator	It's rare to hear her deliberating like this.
+	Monika	Huh, that's a good point...
+	Monika	In that case, do you think food will do the trick?
+	Sayori	W-What kind?!
+	Monika	Ah... Well, I guess we could--
+	Sayori	Cupcakes!
+	Monika	Ahaha. Good thinking.
+	Monika	Natsuki would love to do that.
+	Sayori	Ah! You're right!
+	Sayori	Natsuki makes the best cupcakes!
+	Sayori	That works out perfectly~
+	Monika	That wasn't why you suggested it...?
+	Sayori	Cupcakes speak to my creative tummy~
+	Monika	...
+	Monika	Cupcakes it is, then.
+	Sayori	I'm hungry...
+	Monika	Anyway, we still need to work out the details of the event itself...
+	Narrator	I find myself smiling.
+	Narrator	In the end, Sayori is still her usual self.
+	Narrator	But therein lies the unexpected reason I admire her.
+	Narrator	Unlike me, who has trouble finding any motivation at all...
+	Narrator	Sayori can put her mind to things and make them come to life.
+	Narrator	I suppose that's why I end up letting her get on my case about things.
+	Narrator	I can't help but wonder what it would be like to see the world through her eyes...
+	MC	Uwaa--!
+	Narrator	I open my eyes to find Sayori's face filling my vision.
+	Narrator	I nearly fall out of my chair.
+	Sayori	Ehehe, sorry~
+	Sayori	Wait!
+	Sayori	Actually, I'm not sorry at all!
+	Sayori	It's your fault for sleeping like that!
+	Sayori	This isn't the napping club!
+	MC	Does our school have a napping club...?
+	Sayori	You're staying up late again, aren't you?
+	Sayori	Now that you're in a club, you're gonna have less time for anime, you know!
+	Sayori	You'll need to get used to it!
+	MC	Don't say that so loud...!
+	Narrator	I glance over my shoulder to see if Monika overheard.
+	Sayori	It's true, though...
+	MC	Yeah...
+	MC	I know, I know.
+	MC	You're always looking out for me, Sayori.
+	Sayori	Ehehe~
+	Sayori	It's what I do best!
+	MC	...That's a problem!
+	MC	What about you?
+	MC	You look out for me better than you look out for yourself.
+	MC	You're still oversleeping every day, aren't you?
+	Sayori	Eh?
+	Sayori	N-Not every day!
+	MC	That's not very convincing...
+	MC	How many days this past week have you gotten up on time?
+	Sayori	That's...
+	Sayori	...It's a secret!
+	MC	I knew it...
+	Sayori	C'monnnn!
+	Sayori	At least give me the benefit of the doubt...
+	MC	I can't even do that.
+	MC	Look, Sayori, it's written all over you.
+	Sayori	Eh...?
+	Narrator	Sayori glances around at herself.
+	Sayori	How is it written all over me?
+	MC	You were clearly in a rush this morning...
+	MC	Look, your hair is sticking out all around here.
+	Sayori	Ah--
+	Narrator	I run my fingertips down the side of Sayori's hair, trying to straighten it out.
+	MC	Man, you really need a brush for this...
+	Sayori	My hair is just really hard to get right...
+	MC	I won't fall for that.
+	MC	There's more than just your hair.
+	MC	Look, your bow isn't straight, either.
+	MC	And there's a toothpaste stain on your collar right here.
+	Narrator	I try to wipe off the stain with my finger.
+	Sayori	B-But nobody would ever notice that...
+	MC	Of course they would.
+	MC	Nobody's gonna tell you about it because they don't want to embarrass you.
+	MC	Fortunately, I really don't care about that.
+	Sayori	Hey, you meanie...
+	MC	And you don't even keep your blazer buttoned up.
+	MC	Seriously, Sayori...
+	MC	Why do you think you don't have a boyfriend yet?
+	Sayori	Eh??
+	Sayori	That's {i}super{/i} mean!
+	MC	Sorry, but you'll thank me later...
+	Narrator	I start to button her blazer from the bottom.
+	MC	Once you see how much better it looks, you'll change your mind.
+	Sayori	Ehehe~
+	Sayori	This is so funny.
+	MC	What is?
+	Sayori	Well...
+	Sayori	I was just thinking how weird it is to have a friend who does these kinds of things.
+	MC	Eh?
+	MC	D-Don't say that!
+	MC	You'll make {i}me{/i} feel weird about it, stupid...
+	Sayori	It's okay, though.
+	Sayori	I'm happy we're like this.
+	Sayori	Aren't you?
+	MC	Ah--
+	MC	I-I guess...
+	Sayori	Hey, be careful...
+	Sayori	The button might come off!
+	MC	Why is this one so hard to close...?
+	Narrator	I struggle to fully close the button near her chest.
+	MC	Does this thing even fit you properly?
+	Sayori	Ehehe~
+	Sayori	It did when I bought it.
+	MC	Sigh...
+	MC	If you ever buttoned it, you would have noticed sooner that it doesn't fit you anymore.
+	MC	What are you smiling about?
+	Sayori	It means my boobs got bigger again!
+	MC	D-Don't say that out loud!!
+	Sayori	Ehehe~
+	MC	Anyway...
+	MC	You look much better now, so...
+	MC	Ah...
+	Narrator	...Why does it feel strange to see Sayori's blazer buttoned up like that?
+	Sayori	But it's so stuffy...
+	Sayori	Uuu...
+	Sayori	It's not worth it at all!
+	Narrator	Sayori hastily unbuttons her blazer once more.
+	Sayori	Phew!
+	Sayori	That's so much better~
+	Narrator	Sayori puts her arms out and twirls around.
+	Sayori	So if I keep it unbuttoned then I won't get a boyfriend, right?
+	MC	What kind of logic is that?
+	MC	And why are you saying that like it's a good thing?
+	Sayori	Because...
+	Sayori	...If I had a boyfriend, then he wouldn't even let you do things like this!
+	Sayori	And you take care of me better than anyone else would, anyway...
+	Sayori	So that's why I'm keeping it unbuttoned!
+	MC	Stop saying all these embarrassing things!
+	Sayori	Eh?
+	Sayori	I didn't say anything embarrassing...
+	MC	Jeez...
+	MC	Well anyway, just focus on trying to wake up a little earlier...
+	Sayori	Only if you focus on going to bed earlier!
+	MC	Fine, fine...
+	MC	It's a deal.
+	Sayori	Ehehe~
+	Sayori	I guess we really are better at taking care of each other than we are at taking care of ourselves.
+	MC	Yeah, I guess so, huh...
+	Sayori	So maybe you should come wake me up in the morning!
+	MC	You're doing it again, Sayori...
+	Sayori	Aw, but I was joking that time!
+	MC	Man, it's impossible to tell with you sometimes.
+	Monika	Okay, everyone!
+	MC	Eh?
+	Narrator	Monika suddenly calls out.
+	Monika	Why don't we share the poems we wrote now?
+	Sayori	Yay~!
+	Sayori	[player], I can't wait to read yours!
+	MC	Yeah, same...
+	Narrator	I fail to sound enthusiastic, but Sayori still trots away to retrieve her poem.
+	Sayori	[player], [player]!
+	Narrator	Sayori suddenly comes up to me.
+	Sayori	I'm gonna go get some supplies from another classroom.
+	Sayori	Want to come with me?
+	MC	Supplies?
+	MC	What for?
+	Sayori	Well, you know how the festival is coming up?
+	Sayori	Me and Monika were gonna make some posters and stuff.
+	Sayori	So I need to go find some crayons, and markers, and glue sticks...
+	MC	Ah, I see.
+	MC	Sure, I'll go with you.
+	Sayori	Yaay~
+	Sayori	Okay Monika, we'll be back soon!
+	Monika	Ah, are you going with [player] to get the supplies?
+	Monika	There's no need to trouble yourself.
+	Monika	I'd be happy to go with him.
+	Sayori	Aw, but I wanted to go!
+	Sayori	It's so much fun exploring empty classrooms and stuff!
+	Monika	Hehe, okay, okay.
+	Monika	It was just a suggestion.
+	Monika	See if you can find poster paper too, okay?
+	Sayori	Okaay~!
+	Sayori	Ready, [player]?
+	MC	Yep, let's go.
+	Narrator	Sayori and I exit the clubroom.
+	Narrator	I follow behind as Sayori hums and skips around the hallway.
+	Narrator	Honestly...
+	Narrator	It feels like I'm taking a kid to the mall or something.
+	Narrator	Sayori finds pleasure in the simplest things sometimes.
+	MC	Hey, Sayori...
+	MC	What exactly are we doing for the festival, anyway?
+	MC	I'm not sure how you would make an event out of literature...
+	Sayori	Ehehe!
+	Sayori	Me and Monika have it all planned out!
+	Sayori	Don't you worry~
+	MC	Is that so...?
+	Sayori	Yup!
+	Sayori	We're gonna do a poetry performance!
+	MC	A performance...?
+	MC	Of what kind?
+	Sayori	Well...
+	Sayori	Everyone is gonna take turns on stage...
+	Sayori	And recite their favorite poems!
+	MC	Ah...
+	MC	That sounds...
+	Narrator	...Kind of dull?
+	Sayori	[player]!
+	Sayori	You're not thinking about it the right way at all!
+	Sayori	It's not just about reading poems...
+	Sayori	It's about performing them!
+	Sayori	Like, you say the lines of the poem like...
+	Sayori	{i}Between my feet...{/i}
+	Sayori	{i}The last remaining flower beckons to me.{/i}
+	Sayori	{i}I twist the stem, freeing it from its clinging roots...{/i}
+	Sayori	{i}Caressing the final joyous moment between my fingers.{/i}
+	Sayori	{i}But to what ends have I summoned this joy?{/i}
+	Sayori	{i}For now when I look in every direction...{/i}
+	Sayori	{i}The once-prosperous field before me...{/i}
+	Sayori	{i}Is but a barren wasteland!{/i}
+	Sayori	...
+	Sayori	Like that!!
+	MC	Sayori...
+	Narrator	How do I put this...
+	MC	I'm sure it's just me, but it's impossible for me to take you seriously when you talk like that...
+	Sayori	Ehhh?
+	Sayori	You meanie!
+	Sayori	I'm working super hard on this, you know!
+	MC	Ah, I know, I know!
+	MC	I just meant that it's a pretty unordinary contrast to your cute self.
+	Sayori	Ahaha! Don't say that, it's embarrassing!
+	Sayori	But I guess that means I'm doing a good job~
+	MC	Yeah, I guess so...
+	Sayori	Aaah, I'm so excited!
+	Sayori	The festival is going to be so much fun~
+	Narrator	Sayori spins herself around in the hallway again.
+	Sayori	Hey, [player], this classroom over here is empty!
+	Sayori	Let's begin the mission!
+	MC	The mission, eh...?
+	Narrator	It's been a long time since I've spent time with Sayori like this.
+	Narrator	But in the end, she hasn't changed one bit.
+	Narrator	She's nothing but a ball of sunshine, drawing happy vibes from the world around her.
+	Narrator	It's a pretty nostalgic feeling for me.
+	Narrator	As the years went by, I began to hole myself up in my room more and more.
+	Narrator	So going adventuring with Sayori brings about a special sort of feeling I forgot I had in me.
+	Narrator	The two of us enter the classroom.
+	Narrator	Sayori heads straight to the closet, and I follow.
+	Sayori	Let's see what we have in here...
+	Sayori	...Crayons!!
+	Narrator	Sayori pulls a box full of crayons off the shelf.
+	Sayori	They're the best brand, too!
+	Sayori	They're kind of dirty, though...
+	Narrator	Sayori starts pulling various crayons out of the box, reading the color names.
+	MC	Alright, that's one down.
+	MC	Don't get distracted, we still need to find--
+	Sayori	Wait, I'm looking for my favorite color...
+	MC	Fine, fine...
+	MC	Then at least move aside so I can look for the poster paper.
+	Sayori	Ah, I dropped one by accident--
+	Narrator	sfx/smack.ogg
+	Narrator	{i}Smack!{/i}
+	Sayori	Kya--!
+	Narrator	Sayori bends over and smacks her forehead right into the shelf.
+	Narrator	She falls to the floor, and the crayons spill all over her lap.
+	Sayori	Owowowowow...
+	MC	You okay?
+	Sayori	My forehead...
+	Narrator	Sayori clutches her forehead.
+	MC	Jeez, Sayori...
+	MC	That's just like you, isn't it?
+	MC	C'mon, let me see.
+	Narrator	Since Sayori is sitting on the floor, I grab her by the waist and pull her out of the closet.
+	MC	You have to move your hands, Sayori...
+	Sayori	But it hurts...
+	MC	Just do it for a second.
+	Narrator	Sayori slowly releases her hands from her forehead.
+	Narrator	I gently brush her bangs to the side.
+	Sayori	Ow--!
+	MC	Sorry...
+	Narrator	There's a huge red mark on the center of her forehead.
+	Narrator	A bump is starting to form, as well.
+	MC	Man, that's gonna swell up.
+	MC	I should find you some ice...
+	Sayori	[player]...
+	MC	Where would I even find ice around this time...?
+	MC	Ah, I guess a cold drink would do...
+	Sayori	You don't have to--!
+	Sayori	I'm fine with--looking like a unicorn--
+	Narrator	Even wincing from the pain, Sayori makes a silly joke.
+	MC	Ahaha, what are you saying?
+	MC	I'll be right back, okay?
+	Sayori	O-Okay...
+	Narrator	I pat Sayori on the shoulder and run out into the hallway.
+	Narrator	I locate the nearest vending machine.
+	MC	What should I get...?
+	Narrator	It doesn't really matter, since it will be used as an ice pack, rather than to drink.
+	Narrator	But I know Sayori likes apple juice, so I purchase that one.
+	Narrator	In just a moment, I'm already returning to the classroom where I left Sayori.
+	Narrator	She has one palm on her forehead and is using the other hand to clumsily scoop crayons back into the box.
+	Sayori	At least they were already in the wrong spots before I spilled them...
+	MC	Sayori, here.
+	Narrator	I hand Sayori the bottle of apple juice.
+	Sayori	It's nice and cold...
+	Narrator	Sayori opens the cap and starts drinking from it.
+	MC	Sayori, what are you doing?!
+	MC	It's for your forehead, idiot!
+	Sayori	Ah--
+	Sayori	Sorry, I forgot~
+	Sayori	Ahahaha!
+	MC	How hard did you hit your head...?
+	Narrator	Sayori places the bottle against the bump on her head.
+	Sayori	It stings...
+	MC	Just bear with it, it'll feel better soon.
+	MC	Looks like you cleaned up most of the crayons, so that's good.
+	Sayori	Hey, [player]...
+	Sayori	This kind of reminds you of growing up, doesn't it...?
+	MC	Eh? What do you mean?
+	Sayori	You know how we used to play outside all the time...
+	Sayori	I would always try to keep up with you.
+	Sayori	You were kind of oblivious in some ways...
+	Sayori	Like I usually fell behind or had trouble climbing on the things you did...
+	Sayori	But sometimes when I tried to do things I couldn't, I would get myself hurt.
+	Sayori	I'd fall and scrape myself, or get a bump...
+	Sayori	And I would start crying really hard.
+	Sayori	Ahaha!
+	Sayori	And you would rush over as quick as you could.
+	Sayori	You would try really hard to get me to stop crying.
+	Sayori	It was almost like you blamed yourself and were afraid of getting in trouble if someone found out...
+	Sayori	Even though it really wasn't your fault at all, you know?
+	MC	Did I really do that...?
+	Sayori	Yeah...you don't remember?
+	MC	Come to think of it, maybe I do remember a bit...
+	MC	I guess I was always so focused on my games that I didn't pay enough attention to you.
+	MC	So in a way, it was my fault.
+	MC	Kind of like this time, too...
+	MC	If I wasn't rushing you out of the closet, you probably wouldn't have hit your head.
+	Sayori	[player]...
+	Sayori	I don't think you realize it, but you're always thinking about other people.
+	Sayori	Even after all these years...
+	Sayori	You're rushing to help me, even though I'm just being clumsy.
+	Sayori	You're really a sweetheart...
+	MC	D-Don't call me that!
+	MC	And I don't really do this kind of thing all the time...
+	MC	I guess when it comes to you, it just feels natural.
+	MC	Before I even know it, I'm treating you like that.
+	MC	I guess that's what happens when you've been friends for so long.
+	Sayori	Really...?
+	Sayori	Maybe you're right...
+	Sayori	[player]...
+	Sayori	I'm so glad that nothing's changed between us.
+	Sayori	Do you think it'll be like this forever?
+	MC	Forever...?
+	Narrator	If I'm honest to myself...
+	Narrator	There's no telling where we'll each end up for college, or after that.
+	Narrator	So it wouldn't be fair for me to make any promises.
+	Narrator	But...
+	MC	Well, I hope so.
+	MC	It's been this long already, right?
+	MC	I can't imagine you ever changing, so my hopes are up.
+	Sayori	I'm so happy...
+	Narrator	Sayori has a whimsical expression in her eyes.
+	Narrator	We remain silent for a moment.
+	Narrator	She's so silly and clumsy on the outside that when I see her deep in thought like this...
+	Narrator	It makes me not want to disturb her.
+	Sayori	I guess we should go back...
+	Sayori	I don't want to worry Monika, you know?
+	MC	Good luck with that.
+	MC	She's gonna see your forehead either way.
+	Sayori	Not if I hide it under my bangs~
+	Narrator	Sayori hops to her feet.
+	Sayori	A-Aaahh--!
+	Narrator	She clutches her forehead again.
+	MC	Don't stand up so fast after hurting yourself!
+	Sayori	Uuuu...
+	MC	Well, I guess it's too late now...
+	MC	Anyway, let's go.
+	Narrator	I follow Sayori out of the classroom.
+	Narrator	Sayori plays with her bangs to try to hide the bump, but without much success.
+	Narrator	In a moment, we make it back to the clubroom.
+	Monika	Ah, you're back!
+	Monika	Good timing, I was just about ready to start with sharing our poems.
+	Monika	Eh? Sayori, your forehead...
+	MC	She's fine, don't worry about--
+	Sayori	I was playing with the crayons and smacked my forehead into the shelf!
+	MC	...
+	Monika	...
+	Monika	...Well, anyway!
+	Monika	Were you able to find everything we needed?
+	Sayori	Uh-huh! I have it right--
+	Sayori	...Eh?
+	Narrator	Sayori frantically glances around herself.
+	Sayori	I...forgot all of the stuff!!
+	MC	Calm down, Sayori.
+	MC	I have it all right here.
+	MC	I found the poster paper, too.
+	Monika	Ahaha!
+	Monika	Sounds like you ended up doing all the work, [player].
+	MC	Ah, well, Sayori--
+	Narrator	I fail to come up with an excuse for Sayori.
+	Sayori	I made it an adventure!
+	MC	...Yeah, that.
+	Monika	Ahaha, okay, okay.
+	Monika	In any case, good work!
+	Monika	I'll start working on the posters tonight.
+	Sayori	Me too!
+	Monika	...Okay, everyone!
+	Monika	Are you ready to share your poems?
+	MC	Guess I should grab mine...
+	Narrator	After making sure the crayon box is closed tightly, I return to my seat.

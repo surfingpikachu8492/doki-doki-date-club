@@ -1,0 +1,507 @@
+	Natsuki	Ugh...!
+	Narrator	I hear Natsuki utter an exasperated sigh from within the closet.
+	Narrator	She seems to be annoyed by something.
+	Narrator	I approach her, in case she needs a hand.
+	MC	You looking for something in there?
+	Natsuki	Freaking Monika...
+	Natsuki	She never puts my stuff back in the right spot!
+	Natsuki	What's the point in keeping your collection organized if someone else is just gonna mess it up?
+	Narrator	Natsuki slides a bunch of stacked books and boxes across the shelf.
+	MC	Manga...
+	Natsuki	You read manga, right?
+	MC	Ah--
+	MC	...Sometimes...
+	Narrator	Manga is one of those things where you can't admit you're really into it until you figure out where the other person stands.
+	MC	...How did you know, anyway?
+	Natsuki	I heard you bring it up at some point.
+	Natsuki	Besides, it's kind of written on your face.
+	Narrator	What's that supposed to mean...?
+	MC	I-I see...
+	Narrator	There's a lone volume of manga amidst a stack of various books on the side of one of the shelves.
+	Narrator	Curious, I pull it out of the stack.
+	Natsuki	{i}There{/i} it is!
+	Narrator	Natsuki snatches it out of my hand.
+	Narrator	She then turns to a box of manga and slips the volume right into the middle of the rest.
+	Natsuki	Aah, much better!
+	Natsuki	Seeing a box set with one book missing is probably the most irritating sight in the world.
+	MC	I know that feel...
+	Narrator	I get a closer look at the box set she's admiring.
+	MC	Parfait Girls...?
+	Narrator	It's a series I've never heard of in my life.
+	Narrator	That probably means it's either way out of my demographic, or it's simply terrible.
+	Natsuki	If you're gonna judge, you can go do it through the glass on that door.
+	Narrator	She points to the classroom door.
+	MC	H-Hey, I wasn't judging anything...!
+	MC	I didn't even say anything.
+	Natsuki	It was the tone of your voice.
+	Natsuki	But I'll tell you one thing, [player].
+	Natsuki	Consider this a lesson straight from the Literature Club: Don't judge a book by its cover!
+	Natsuki	In fact--
+	Narrator	Natsuki pulls out the first volume of Parfait Girls from the box.
+	Natsuki	I'm gonna show you exactly why!
+	Narrator	She shoves the book right into my hands.
+	MC	Ah...
+	Narrator	I stare at the cover.
+	Narrator	It features four girls in colorful attire striking animated feminine poses.
+	Narrator	It's...exceedingly \"moe\".
+	Natsuki	Don't just stand there!
+	MC	Uwa--
+	Narrator	Natsuki grabs my arm and pulls me out of the closet.
+	Narrator	She then takes a seat against the wall, beneath the windowsills.
+	Narrator	She pats on the ground next to her, signaling me to sit there.
+	MC	Wouldn't chairs be more comfortable...?
+	Narrator	I take my seat.
+	Natsuki	Chairs wouldn't work.
+	Natsuki	We can't read at the same time like that.
+	MC	Eh? Why's that?
+	MC	Ah...I guess it's easier to be close together like this...
+	Natsuki	--!
+	Natsuki	D-Don't just say that!
+	Natsuki	You'll make me feel weird about it!
+	Narrator	Natsuki crosses her arms and scootches an inch away from me.
+	MC	Sorry...
+	Narrator	I didn't exactly expect to be sitting this close to her, either...
+	Narrator	Not that I can say it's a particularly bad thing.
+	Narrator	I open the book.
+	Narrator	It's only a few seconds before Natsuki once again inches closer, reclaiming the additional space while she hopes I won't notice.
+	Narrator	I can feel her peering over my shoulder, much more eager to begin reading than I am.
+	Natsuki	Wow, how long has it been since I read the beginning...?
+	MC	Hm?
+	MC	You don't go back and flip through the older volumes every now and then?
+	Natsuki	Not really.
+	Natsuki	Maybe sometimes after I've already finished the series.
+	Natsuki	Hey, are you paying attention?
+	MC	Uh...
+	Narrator	I am, but nothing's really happened yet, so I can talk at the same time.
+	Narrator	It looks like it's about a bunch of friends in high school.
+	Narrator	Typical slice-of-life affair.
+	Narrator	I kind of grew out of these, since it's rare for the writing to be entertaining enough to make up for the lack of plot.
+	MC	So...
+	MC	What should I expect from this?
+	MC	Is there going to be plot?
+	Natsuki	Well, obviously!
+	Natsuki	You think I would enjoy something that didn't have a plot?
+	Natsuki	I mean...
+	Natsuki	Well, I guess I know what you're saying...
+	Natsuki	A lot of the beginning is about simple things...
+	Natsuki	Like there's a really funny chapter where they're obsessed with a guy at the ice cream shop...
+	Natsuki	But that just helps you get to know the characters!
+	Natsuki	And besides, it's still entertaining.
+	Natsuki	But later on, there's all kinds of drama...
+	Natsuki	Like when they get into all their backstories, and when some of the romance starts to happen...
+	Natsuki	That's really what makes it so good.
+	Natsuki	There are so many touching parts.
+	MC	Ah, is that so?
+	MC	It sounds like you really know what you're talking about.
+	MC	Maybe I underestimated you.
+	Natsuki	Ehehe.
+	Natsuki	...Hey, wait!
+	Natsuki	What's {i}that{/i} supposed to mean?!
+	MC	Uwa--
+	Narrator	Natsuki gives me a little shove.
+	MC	I just meant that I haven't yet seen you at your full power...
+	Natsuki	Hmph. Good save.
+	MC	Ah... This chapter seems like it's about baking.
+	MC	This is just a guess, but is there a lot of baking in this manga?
+	Natsuki	Well--
+	Narrator	Natsuki pauses for a moment, as if she doesn't want to admit something.
+	Natsuki	...Yeah.
+	Natsuki	Why does that matter?
+	MC	It doesn't, I was just curious...
+	MC	Since you enjoy baking too, right?
+	Natsuki	That's--
+	Natsuki	Just a coincidence!
+	Natsuki	I just happened to get into baking around the same time I got this manga.
+	Natsuki	Like I would ever get into anything because it's in a manga.
+	Natsuki	I feel bad for anyone that impressionable.
+	Natsuki	Ahaha!
+	Narrator	Definitely not a coincidence...
+	Narrator	I guess that explains Natsuki's interest in baking.
+	Narrator	Still, of all the hobbies to pick up from a manga, that's definitely one of the better ones.
+	Narrator	Not to mention she's really good at it, so who am I to judge?
+	Narrator	...
+	Narrator	We read on for a few more minutes.
+	Narrator	I've finished a couple chapters at this point.
+	MC	...
+	MC	...Are you sure this isn't boring for you?
+	Natsuki	It's not!
+	MC	Even though you're just watching me read?
+	Natsuki	Well...!
+	Natsuki	I'm...fine with that.
+	MC	If you say so...
+	MC	...I guess it's fun sharing something you like with someone else.
+	MC	I always get excited when I convince any of my friends to pick up a series I enjoy.
+	MC	You know what I mean?
+	Natsuki	...?
+	MC	Hm?
+	MC	You don't?
+	Natsuki	Um...
+	Natsuki	That's not...
+	Natsuki	Well, I wouldn't really know.
+	MC	...What do you mean?
+	MC	Don't you share your manga with your friends?
+	Natsuki	Could you not rub it in?
+	Natsuki	Jeez...
+	MC	Ah... Sorry...
+	Natsuki	Hmph.
+	Natsuki	Like I could ever get my friends to read this...
+	Natsuki	They just think manga is for kids.
+	Natsuki	I can't even bring it up without them being all like...
+	Natsuki	'Eh? You still haven't grown out of that yet?'
+	Natsuki	Makes me want to punch them in the face...
+	MC	Urgh, I know those kinds of people...
+	MC	Honestly, it takes a lot of effort to find friends who don't judge, much less friends who are also into it...
+	MC	I'm already kind of a loser, so I guess I gravitated toward the other losers over time.
+	MC	But it's probably harder for someone like you...
+	Natsuki	Hm.
+	Natsuki	Yeah, that's pretty accurate.
+	Narrator	{i}...Wait, which part??{/i}
+	Natsuki	I mean, I feel like I can't even keep it in my own room...
+	Natsuki	I don't even know what my dad would do if he found this.
+	Natsuki	At least it's safe here in the clubroom.
+	Natsuki	'Cept Monika was kind of a jerk about it...
+	Natsuki	Ugh! I just can't win, can I?
+	MC	Well, it paid off in the end, didn't it?
+	MC	I mean, here I am, reading it.
+	Natsuki	Well, it's not like that solves any of my problems.
+	MC	Maybe...
+	MC	But at least you're enjoying yourself, right?
+	Natsuki	--
+	Natsuki	...
+	Natsuki	...So?
+	MC	Ahaha.
+	Natsuki	Jeez, that's enough!
+	Natsuki	Are you gonna keep reading, or what?
+	MC	Yeah, yeah...
+	Narrator	I flip the page.
+	Narrator	Suddenly, Natsuki starts laughing.
+	Natsuki	Ahahaha!
+	Natsuki	I totally forgot that happens!
+	Narrator	Natsuki puts her finger on one of the panels.
+	Natsuki	Minori is my favorite character.
+	Natsuki	You always feel a little bad for her, since she's so unlucky.
+	Natsuki	But it gets especially bad when--
+	Natsuki	Uu...
+	Natsuki	I shouldn't be talking about that yet!
+	Natsuki	Just finish this chapter!
+	Narrator	Natsuki's voice sparkles with excitement.
+	Narrator	It's a stark contrast to her usual bossy tone.
+	Narrator	But if she's not used to sharing her favorite manga with her friends, I can understand why.
+	Narrator	It's hard to express in words the feeling you get when connecting with someone like that.
+	Narrator	And being able to provide that to Natsuki, for whom it's a rare experience...
+	Narrator	The thought makes me smile a little to myself.
+	Monika	Okay, everyone!
+	MC	Eh?
+	Monika	Are you all ready with today's poems?
+	MC	...
+	Natsuki	Oh, come on!
+	Natsuki	Could your timing be any worse?
+	Monika	Sorry~!
+	Monika	I just need to make sure we have enough time.
+	Monika	Though you do look pretty cozy over there. Ahaha!
+	Natsuki	Eh...?
+	Natsuki	A-Ah!
+	Narrator	Natsuki suddenly notices how close she's gotten to me.
+	Narrator	She hastily slides herself a good twelve inches away from me.
+	MC	Alright...
+	MC	Guess I'll stop here for now.
+	Narrator	I close the book and hand it towards Natsuki.
+	Natsuki	You're just giving it back...?
+	Natsuki	Don't you want to know what happens?
+	MC	Ah... Yeah, but...
+	MC	Monika just said--
+	Natsuki	Don't be dumb.
+	Natsuki	Just take it home with you.
+	MC	Eh?
+	MC	...Is that really alright?
+	Narrator	I say that mostly because I really didn't plan on using my spare time to read this...
+	Natsuki	Well, of course.
+	Natsuki	It would take forever to finish if you didn't take it home.
+	Natsuki	Just finish that one before tomorrow, so we can start the next one.
+	Natsuki	And if it gets bent, I'll kill you.
+	MC	By tomorrow...?
+	Narrator	I only got partway through the volume so far.
+	Narrator	I might fall behind on some shows if I try to get through this...
+	Narrator	But I suppose that's a necessary sacrifice in exchange for seeing Natsuki's enthusiastic face.
+	Narrator	Or am I more scared of what will happen if I {i}don't{/i} finish it...?
+	MC	Alright, then!
+	Narrator	I stand up.
+	Narrator	I return to where I put my stuff and carefully slip the book into my bag.
+	Natsuki	...
+	Narrator	It's not long before Natsuki comes up to me expectantly.
+	MC	Yeah, yeah.
+	MC	Don't worry, I kept my promise.
+	Narrator	I pull the first volume of Parfait Girls out from my bag.
+	Narrator	Natsuki takes it from my hands, then quickly turns it over, presumably to check for wrinkles.
+	MC	Hey, I'm not that careless...
+	MC	I handle manga all the time, you know.
+	Natsuki	I just wanted to make sure!
+	Natsuki	Can you blame me for being paranoid?
+	Natsuki	I don't give people my manga every day, you know.
+	MC	That's true...
+	MC	I don't blame you.
+	Natsuki	Well anyway, let me put this one back.
+	Natsuki	I'm gonna get the next one, okay?
+	Narrator	Natsuki makes her way to the closet.
+	Narrator	I follow.
+	Natsuki	So you're gonna tell me everything you thought, right??
+	Natsuki	Where did this volume leave off again? I forget.
+	MC	Ah, the chapter ended when Minori and Alice found--
+	Natsuki	{i}Monika!!{/i}
+	Narrator	Natsuki's voice resonates out from inside the closet.
+	MC	Eh...?
+	Narrator	I peer inside.
+	Narrator	All of Natsuki's books are lined up on the top shelf.
+	Natsuki	Did you move my manga again?!
+	Monika	Ah, sorry, sorry!
+	Monika	The teacher got mad at me for taking up so much space in her closet...
+	Monika	So I had to move some stuff around and clean up a little bit.
+	Monika	It's all still there, I just had to organize it a bit!
+	Natsuki	Ugh...
+	Narrator	The top shelf is far above Natsuki's head.
+	Narrator	She makes a futile hop, trying to figure out how to reach her manga.
+	Natsuki	Jeez...!
+	Natsuki	This is so inconvenient!
+	Natsuki	I'm moving these all back down.
+	Natsuki	There's plenty of room on these shelves.
+	Natsuki	And besides...
+	Natsuki	They're really pretty to look at when they're all lined up!
+	Natsuki	Why would you waste that on the top shelf?
+	MC	Ah, Natsuki...
+	MC	There's a stool on the wall there.
+	Narrator	In the closet, there's a collapsible stool that's hanging on the wall.
+	MC	If you want, I can reach up there and hand them to you...
+	Natsuki	I can get them myself!
+	Narrator	Natsuki grabs the stool from the wall and unfolds it.
+	Natsuki	You think I'm too short or something?
+	MC	I mean--
+	Natsuki	I {i}knew{/i} it!
+	Natsuki	Well, you know what?
+	Natsuki	Just watch me!
+	Narrator	Natsuki hops onto the stool, which ends up being a little wobbly because of its collapsible design.
+	Natsuki	A-Ah...
+	MC	Careful...
+	Natsuki	I know what I'm doing!!
+	Narrator	Standing on the stool, Natsuki's fingertips reach the top shelf.
+	Narrator	The stool would be enough for me to easily grab the books, but Natsuki is being stubborn as usual.
+	Natsuki	U-Uuuh...
+	Narrator	Natsuki uses her fingers to scoot one of the smaller boxes to the edge of the shelf.
+	Natsuki	See...?
+	Natsuki	Kyah--!
+	Narrator	The box suddenly tips.
+	Narrator	Natsuki barely catches it before it falls to the floor.
+	Narrator	The stool wobbles.
+	Natsuki	Wawaa--
+	Narrator	Losing balance, Natsuki hops off the stool.
+	Narrator	Thankfully, she was able to stay on her feet.
+	Narrator	She holds the box triumphantly.
+	Natsuki	T-There!
+	Narrator	Having almost fell, Natsuki is a bit shaken up.
+	MC	Jeez...
+	MC	No need to prove yourself to me.
+	MC	There's no way you'll be able to get the bigger boxes like that.
+	MC	I can reach them, so just--
+	Natsuki	I said I can do it!
+	Natsuki	I don't want your help, okay?
+	MC	Sigh...
+	Natsuki	I'm gonna get a chair, so just hang on.
+	Narrator	Natsuki forces her way past me out of the closet.
+	Natsuki	Let's see...
+	Narrator	The classroom chairs have the desks attached, so they're too inconvenient to fit into the closet.
+	Natsuki	Aha!
+	Narrator	Natsuki trots over to the teacher's desk, which has a computer chair behind it.
+	Narrator	She rolls it on its wheels back over to the closet.
+	MC	Ah--
+	Narrator	It's a little dangerous, since the chair swivels and rolls.
+	Narrator	But I've already learned my lesson, so I keep my mouth shut.
+	Natsuki	Ush--
+	Narrator	Natsuki climbs onto the chair, then slowly balances onto her feet.
+	Narrator	Since she refuses my help, I take a seat with my back against the side of the doorway and simply watch.
+	Natsuki	Aha! There we go!
+	Natsuki	See? I can easily do it now.
+	Narrator	Natsuki grabs a stack of manga and bends down to put it on the shelf below.
+	Natsuki	W-Wahh--
+	Narrator	The chair swivels.
+	Narrator	Natsuki catches herself on the shelf.
+	Natsuki	What are you doing??
+	Natsuki	Can you at least hold the chair steady instead of sitting and doing nothing?
+	Narrator	{i}(Who was it who told me not to help...?){/i}
+	MC	Yeah, yeah...I got you.
+	Narrator	I hold the chair while Natsuki reaches back up.
+	MC	--!
+	Narrator	I can...
+	Narrator	{i}I can almost see up her skirt?!{/i}
+	MC	Guh--
+	Narrator	I force myself to turn away.
+	Narrator	Natsuki seriously didn't think this through...!
+	Narrator	Once she realizes, I'll be dead!
+	Natsuki	Hup--
+	Narrator	Natsuki wraps her arms around the Parfait Girls box set, easily the largest one on the shelf.
+	Natsuki	Uu...heavy...
+	Natsuki	Hey, [player]...
+	Natsuki	I-I don't think I can bend down without falling...!
+	Natsuki	Hurry and take this one...
+	MC	Eh?
+	MC	But then I have to let go of the chair...
+	Natsuki	That's fine...!
+	Natsuki	Just for a second!
+	Natsuki	Hurry up...
+	MC	Alright...!
+	MC	Let me just stand up.
+	Narrator	I slowly release my grip from the chair.
+	Natsuki	What do you mean 'stand up'?
+	Narrator	Natsuki looks down at me.
+	Natsuki	Why are you all the way back--
+	Natsuki	E-Eh...?
+	Narrator	Natsuki looks like she just realized something, but she'll lose her balance if she moves.
+	MC	Natsuki, the box--
+	Natsuki	{i}W-What are you looking at?!{/i}
+	MC	--!
+	Natsuki	You're trying to look at my...m-my...
+	Narrator	Natsuki's legs shake.
+	MC	I-I'm not! I was just--
+	MC	--Natsuki, don't try to move!
+	MC	Just give me the box!
+	Natsuki	You...you perv!
+	Natsuki	You set me up!!
+	Natsuki	Go away!
+	Natsuki	Get out!
+	MC	But--
+	Natsuki	I'll do it myself!!
+	Natsuki	A-Ah--
+	Narrator	The chair suddenly swivels beneath Natsuki's feet.
+	MC	Natsuki--!
+	Natsuki	{i}Kyaaaaa!{/i}
+	Narrator	The scene turns to chaos in a split second.
+	Narrator	The chair flies from under Natsuki's feet.
+	Narrator	Frantically, I try to catch her.
+	Narrator	The box topples out of her hands, and the books go flying.
+	MC	I got you--
+	Narrator	sfx/fall2.ogg
+	Narrator	{i}Crash!{/i}
+	Narrator	The full force of Natsuki's body against me throws me to the ground.
+	Narrator	A whole bunch of books pelt me in the face.
+	Narrator	Natsuki tries to shield herself with her own arms as her face lands straight on my chest.
+	MC	Ungh...
+	Narrator	My right arm and my back seriously felt the impact.
+	Natsuki	U-Uu...
+	Narrator	Slowly, Natsuki comes to her senses.
+	MC	Ghk--!
+	Narrator	She presses her arms straight into me to prop herself up.
+	Natsuki	Eh...?
+	Narrator	Natsuki seems to realize that it's not the floor that's beneath her.
+	Natsuki	G-Guuuuu...!!
+	Natsuki	Gross! Gross!
+	MC	Ghak--!
+	Narrator	A fist pounds into my chest.
+	Narrator	Natsuki then hoists herself to her feet.
+	Natsuki	What were you thinking?!
+	Natsuki	You sicko!
+	Monika	Everything okay over there...?
+	Monika	I heard a loud noise...
+	Narrator	Monika suddenly peers in.
+	Natsuki	Monika!
+	Natsuki	See what happens when you put the manga on the top shelf?!
+	Natsuki	Are you trying to kill your club members or something?
+	Natsuki	Jeez!
+	Monika	S-Sorry, sorry!
+	Monika	Ahaha...
+	Natsuki	Oh, and one more thing.
+	Natsuki	It seems like your most recent club member is a total pervert.
+	Natsuki	So I hope you're happy.
+	MC	I didn't--!
+	Narrator	Somehow, it's impossible for me to explain this whole bizarre situation to Monika.
+	MC	I didn't do anything, I swear...!
+	Monika	I know, I know, don't worry~
+	Narrator	Monika says that quietly to me.
+	Narrator	Looks like I'm off the hook...
+	Natsuki	Oh no...!
+	Natsuki	My...my...
+	MC	Eh?
+	Narrator	I look down.
+	Narrator	Natsuki is kneeling on the floor, holding one of the books that are scattered all over.
+	Narrator	There's a large diagonal crease along the page that she's desperately trying to smooth out.
+	MC	Ah, it must have landed on the page...
+	Narrator	Natsuki tries a bit more to fix the crease, but she can't get it out.
+	Narrator	Suddenly, she gives up and slams the book shut, then throws it to the floor.
+	Narrator	Instead of continuing to yell, she just lowers her head.
+	Natsuki	{i}*Sob*{/i}
+	MC	...Natsuki, are you--
+	Natsuki	No!
+	Narrator	Natsuki's voice squeaks.
+	Narrator	I see tears on her face.
+	MC	Ah...
+	MC	I'll help get the crease out, okay?
+	MC	It's partially my fault, so...
+	Narrator	Natsuki shakes her head, still looking down.
+	Natsuki	No...
+	Natsuki	I don't even care that much...
+	Natsuki	I'm just...
+	Natsuki	Having a really bad day today...
+	Narrator	Natsuki sobs again.
+	Natsuki	I didn't mean to take it out on you...
+	Natsuki	I really didn't mean to!
+	MC	It's...it's fine.
+	MC	...Is there anything you want to talk about?
+	Narrator	Natsuki shakes her head.
+	Natsuki	Just...
+	Natsuki	Every day...
+	Natsuki	...is...so hard.
+	Natsuki	I just want to...
+	Natsuki	...come to the club and...
+	Natsuki	...
+	Narrator	Natsuki falls silent again.
+	Narrator	I can't press her, so I can only do what I know how to do.
+	MC	Alright...
+	MC	Well, I'll help clean this up.
+	MC	And I'll move the rest of your manga for you.
+	MC	Ah.
+	Narrator	I pick up volume 2 of Parfait Girls.
+	MC	We'll set this one aside.
+	MC	This'll help cheer you up a bit, right?
+	MC	We can get started on it once I'm done here.
+	Narrator	Natsuki looks up with her glossy eyes.
+	Narrator	Her lip quivers.
+	Natsuki	You're...
+	Natsuki	You're really nice to me...
+	MC	Eh?
+	Narrator	That sounds really strange, coming from Natsuki.
+	Narrator	I didn't expect it at all.
+	MC	Well...
+	MC	I'm just treating you like a friend, you know?
+	Natsuki	Nn...
+	Narrator	Natsuki lowers her head and stifles another sob.
+	Narrator	I'm not sure what happened to her today, but being nice is the least I could do.
+	Narrator	The next couple minutes are silent between us as I begin gathering the scattered books.
+	Narrator	I make sure to slip them into the box in their correct order.
+	Narrator	After a little bit, Natsuki starts helping.
+	Narrator	It isn't long before we're done, and I hoist the box onto the shelf where Natsuki wanted to put it.
+	Narrator	Then, I get on the stool and quickly finish moving the rest of her books from the top shelf.
+	MC	Alright--!
+	MC	That should do it.
+	Narrator	I hop off the stool.
+	Narrator	Natsuki averts her gaze.
+	Natsuki	T-Thanks...
+	MC	Ahaha...
+	MC	It's nothing.
+	Narrator	Natsuki is holding the volume I set aside in her hands.
+	MC	Alright, I'm ready.
+	Natsuki	Good.
+	Natsuki	Even if you weren't, I'd make you anyway.
+	Natsuki	You're taking responsibility for what you said.
+	Natsuki	The thing about cheering me up.
+	MC	If you insist!
+	Narrator	We sit in the same spot as last time, and I open the second volume.
+	Narrator	Natsuki's mood quickly improves, laughing and pointing things out to me.
+	Narrator	She's surprisingly sharp, making note of a lot of subtle repeated jokes and background elements.
+	Narrator	In the end, I'm pretty impressed by how everything ties together in this manga.
+	Narrator	I guess Natsuki has good taste after all.
+	Narrator	After some time, Monika gets our attention as usual, and it's time to share poems again.
+	MC	Guess I'll be holding onto this for now.
+	Natsuki	Yep!
+	Natsuki	Even you sound more enthusiastic this time.
+	MC	Well, I'm starting to get into it, you know.
+	Natsuki	Ehehe.
+	Natsuki	Told you.
+	MC	Yeah, yeah...
+	Narrator	I return to my seat and slip the book into my bag.

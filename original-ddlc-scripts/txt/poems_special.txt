@@ -1,0 +1,16 @@
+	Narrator	poem_special/poem_special1.png
+	Narrator	poem_special/poem_special2.png
+	Narrator	poem_special/poem_special3.png
+	Narrator	poem_special/poem_special4.png
+	Narrator	poem_special/poem_special5a.png
+	Narrator	poem_special/poem_special5b.png
+	Narrator	poem_special/poem_special6.png
+	Narrator	poem_special/poem_special7a.png
+	Narrator	poem_special/poem_special7b.png
+	Narrator	poem_special/poem_special8.png
+	Narrator	poem_special/poem_special9.png
+	Narrator	poem_special/poem_special10.png
+	Narrator	poem_special/poem_special11.png
+	Narrator	persistent.clearall == True", "poem_special/poem_end_clearall.png
+	Narrator	True", "poem_special/poem_end.png
+	Narrator	sfx/giggle.ogg

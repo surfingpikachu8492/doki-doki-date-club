@@ -1,0 +1,45 @@
+	Narrator	It's time to write a poem!\n\nPick words you think your favorite club member\nwill like. Something good might happen with\nwhoever likes your poem the most!
+	Narrator	
+	Narrator	1
+	Narrator	/" + str(numWords), style="poemgame_text
+	Sayori	Monika
+	Narrator	
+	Narrator	poemgame_text
+	Narrator	white
+	Narrator	y_sticker glitch
+	Narrator	s_sticker hop
+	Narrator	n_sticker hop
+	Narrator	y_sticker hop
+	Narrator	m_sticker hop
+	Narrator	n_sticker hop
+	Narrator	y_sticker hopg
+	Narrator	y_sticker_cut hop
+	Narrator	y_sticker hop
+	Narrator	gui/sfx/baa.ogg
+	Narrator	PointTotal += 5
+	Narrator	sayori": sPointTotal, "natsuki": nPointTotal, "yuri
+	Narrator	natsuki
+	Narrator	yuri
+	Narrator	_appeal += 1
+	Narrator	_poemappeal[chapter] = 1
+	Narrator	sfx/eyes.ogg
+	Narrator	images/bg/eyes.png
+	Narrator	images/bg/eyes.png
+	Narrator	gui/poemgame/s_sticker_1.png
+	Narrator	gui/poemgame/n_sticker_1.png
+	Narrator	gui/poemgame/y_sticker_1.png
+	Narrator	gui/poemgame/y_sticker_cut_1.png
+	Narrator	gui/poemgame/m_sticker_1.png
+	Narrator	gui/poemgame/s_sticker_2.png
+	Narrator	s_sticker
+	Narrator	gui/poemgame/n_sticker_2.png
+	Narrator	n_sticker
+	Narrator	gui/poemgame/y_sticker_2.png
+	Narrator	y_sticker
+	Narrator	gui/poemgame/y_sticker_cut_2.png
+	Narrator	y_sticker_cut
+	Narrator	gui/poemgame/y_sticker_2g.png
+	Narrator	y_sticker
+	Narrator	gui/poemgame/m_sticker_2.png
+	Narrator	m_sticker
+	Narrator	gui/poemgame/y_sticker_1_broken.png

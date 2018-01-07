@@ -1,0 +1,11 @@
+	Narrator	???
+	Narrator	Girl 3
+	Narrator	Girl 2
+	Narrator	Girl 1
+	Narrator	/hxppy thxughts.png
+	Narrator	/hxppy thxughts.png", "wb").write(renpy.file("hxppy thxughts.png
+	Narrator	/CAN YOU HEAR ME.txt
+	Narrator	/CAN YOU HEAR ME.txt", "wb").write(renpy.file("CAN YOU HEAR ME.txt
+	Narrator	/iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt
+	Narrator	/iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt", "wb").write(renpy.file("iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt
+	Narrator	End of demo

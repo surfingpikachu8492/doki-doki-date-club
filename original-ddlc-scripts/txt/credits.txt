@@ -1,0 +1,175 @@
+	Narrator	images/cg/credits/1.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/2.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/3.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/4.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/5.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/6.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/7.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/8.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/9.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/10.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/1b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/2b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/3b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/4b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/5b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/6b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/7b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/8b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/9b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/10b.png
+	Narrator	images/menu/notfound.png
+	Narrator	images/cg/credits/1.png
+	Narrator	images/cg/credits/2.png
+	Narrator	images/cg/credits/3.png
+	Narrator	images/cg/credits/4.png
+	Narrator	images/cg/credits/5.png
+	Narrator	images/cg/credits/6.png
+	Narrator	images/cg/credits/7.png
+	Narrator	images/cg/credits/8.png
+	Narrator	images/cg/credits/9.png
+	Narrator	images/cg/credits/10.png
+	Narrator	gui/logo.png
+	Narrator	images/bg/splash-white.png
+	Narrator	gui/font/RifficFree-Bold.ttf
+	Narrator	#ffaae6
+	Narrator	gui/font/Halogen.ttf
+	Narrator	#fff
+	Narrator	gui/font/m1.ttf
+	Narrator	#fff
+	Narrator	credits_header
+	Narrator	credits_text
+	Narrator	monika_credits_text
+	Narrator	black
+	Narrator	Every day,", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	I imagine a future where", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	I can be with you", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	In my hand", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	 is a pen that will write a poem", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	of me and you", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	The ink flows down into a dark puddle", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	 Just move your hand -- write the way into his heart!", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	But in this world of infinite choices", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	 What will it take", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	 just to find that special day?", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	black
+	Narrator	What will it take just to find that special day?", style="monika_credits_text") with ImageDissolve("images/menu/wipeleft.png
+	Narrator	bg/end-glitch1.jpg
+	Narrator	end_glitch2
+	Narrator	end_glitch3
+	Narrator	end_glitch4
+	Narrator	bg/end-glitch2.jpg
+	Narrator	bg/end-glitch3.jpg
+	Narrator	bg/end-glitch4.jpg
+	Narrator	bg/end-glitch3.jpg
+	Narrator	credits
+	Narrator	bgm/end-voice.ogg
+	Narrator	renpy.music.play(\"ddlc.ogg\")", "Playing audio \"ddlc.ogg\"...
+	Narrator	<to 50.0>bgm/credits.ogg
+	Narrator	<from 50.0>bgm/credits.ogg
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	credits_cg1
+	Narrator	Concept & Game Design
+	Narrator	Dan Salvato
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/n_cg1.png\")", "n_cg1.png deleted successfully.
+	Narrator	os.remove(\"images/cg/n_cg1.png\")", "n_cg1.png deleted successfully.
+	Narrator	credits_cg2
+	Narrator	Character Art
+	Narrator	Satchely
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/n_cg2.png\")", "n_cg2.png deleted successfully.
+	Narrator	os.remove(\"images/cg/n_cg2.png\")", "n_cg2.png deleted successfully.
+	Narrator	credits_cg3
+	Narrator	Background Art
+	Narrator	Velinquent
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/y_cg1.png\")", "y_cg1.png deleted successfully.
+	Narrator	os.remove(\"images/cg/y_cg1.png\")", "y_cg1.png deleted successfully.
+	Narrator	credits_cg4
+	Narrator	Writing
+	Narrator	Dan Salvato
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/y_cg2.png\")", "y_cg2.png deleted successfully.
+	Narrator	os.remove(\"images/cg/y_cg2.png\")", "y_cg2.png deleted successfully.
+	Narrator	credits_cg5
+	Narrator	Music
+	Narrator	Dan Salvato
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/n_cg3.png\")", "n_cg3.png deleted successfully.
+	Narrator	os.remove(\"images/cg/n_cg3.png\")", "n_cg3.png deleted successfully.
+	Narrator	credits_cg6
+	Narrator	Vocals
+	Narrator	Jillian Ashcraft
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/y_cg3.png\")", "y_cg3.png deleted successfully.
+	Narrator	os.remove(\"images/cg/y_cg3.png\")", "y_cg3.png deleted successfully.
+	Narrator	credits_cg7
+	Narrator	Special Thanks
+	Narrator	Masha Gutin\nKagefumi
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/s_cg1.png\")", "s_cg1.png deleted successfully.
+	Narrator	os.remove(\"images/cg/s_cg1.png\")", "s_cg1.png deleted successfully.
+	Narrator	credits_cg8
+	Narrator	Special Thanks
+	Narrator	David Evelyn\nCorey Shin
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/s_cg2.png\")", "s_cg2.png deleted successfully.
+	Narrator	os.remove(\"images/cg/s_cg2.png\")", "s_cg2.png deleted successfully.
+	Narrator	credits_cg9
+	Narrator	Special Thanks
+	Narrator	Alecia Bardachino\nMatt Naples
+	Narrator	" if persistent.clear[imagenum] else "_locked
+	Narrator	_clearall
+	Narrator	os.remove(\"images/cg/s_cg3.png\")", "s_cg3.png deleted successfully.
+	Narrator	os.remove(\"images/cg/s_cg3.png\")", "s_cg3.png deleted successfully.
+	Narrator	credits_cg10
+	Narrator	Special Thanks
+	Narrator	Monika\n[player]
+	Narrator	os.remove(\"images/cg/m_cg1.png\")", "m_cg1.png deleted successfully.
+	Narrator	os.remove(\"images/cg/m_cg1.png\")", "m_cg1.png deleted successfully.
+	Narrator	os.remove(\"game/screens.rpy\")", "screens.rpy deleted successfully.
+	Narrator	os.remove(\"game/gui.rpy\")", "gui.rpy deleted successfully.
+	Narrator	os.remove(\"game/menu.rpy\")", "menu.rpy deleted successfully.
+	Narrator	os.remove(\"game/script.rpy\")", "script.rpy deleted successfully.
+	Narrator	made with love by
+	Narrator	postcredits_loop
+	Narrator	Error: Script file is missing or corrupt.\nPlease reinstall the game.

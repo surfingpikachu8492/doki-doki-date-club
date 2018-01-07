@@ -1,0 +1,301 @@
+	Narrator	It's an ordinary school day, like any other.
+	Narrator	Mornings are usually the worst, being surrounded by couples and friend groups walking to school together.
+	Narrator	Meanwhile, I've always walked to school alone.
+	Narrator	I always tell myself it's about time I meet some girls or something like that...
+	Narrator	But I have no motivation to join any clubs.
+	Narrator	I'm perfectly content just getting by on the average while spending my free time on games and anime.
+	Narrator	There's always the anime club, but it's not like there would be any girls in it anyway...
+	Narrator	The school day is as ordinary as ever, and it's over before I know it.
+	Narrator	After I pack up my things, I stare blankly at the wall, looking for an ounce of motivation.
+	MC	Clubs...
+	Narrator	There really aren't any that interest me.
+	Narrator	Besides, most of them would probably be way too demanding for me to want to deal with.
+	Narrator	I guess I have no choice but to start with the anime club...
+	Narrator	???
+	Monika	...[player]?
+	Narrator	sfx/s_kill_glitch1.ogg
+	MC	...Monika?
+	Narrator	Monika
+	Monika	Oh my goodness, I totally didn't expect to see you here!
+	Monika	It's been a while, right?
+	MC	Ah...
+	MC	Yeah, it has.
+	Narrator	Monika smiles sweetly.
+	Narrator	We do know each other - well, we rarely talked, but we were in the same class last year.
+	Narrator	Monika was probably the most popular girl in class - smart, beautiful, athletic.
+	Narrator	Basically, completely out of my league.
+	Narrator	So, having her smile at me so genuinely feels a little...
+	MC	What did you come in here for, anyway?
+	Monika	Oh, I've just been looking for some supplies to use for my club.
+	Monika	Do you know if there's any construction paper in here?
+	Monika	Or markers?
+	MC	I guess you could check the closet.
+	MC	...You're in the debate club, right?
+	Monika	Ahaha, about that...
+	Monika	I actually quit the debate club.
+	MC	Really? You quit?
+	Monika	Yeah...
+	Monika	To be honest, I can't stand all of the politics around the major clubs.
+	Monika	It feels like nothing but arguing about the budget and publicity and how to prepare for events...
+	Monika	I'd much rather take something I personally enjoy and make something special out of it.
+	MC	In that case, what club did you decide to join?
+	Monika	Actually, I'm starting a new one!
+	Monika	A literature club!{nw}
+	Narrator	sfx/s_kill_glitch1.ogg
+	Monika	A literature club!{fast}
+	MC	Literature...?
+	Narrator	That sounds kind of...dull?
+	MC	How many members do you have so far?
+	Monika	Um...
+	Monika	Ahaha...
+	Monika	It's kind of embarrassing, but there are only three of us so far.
+	Monika	It's really hard to find new members for something that sounds so boring...
+	MC	Well, I can see that...
+	Monika	But it's really not boring at all, you know!
+	Monika	Literature can be anything. Reading, writing, poetry...
+	Monika	I mean, one of my members even keeps her manga collection in the clubroom...
+	MC	Wait...really?
+	Monika	Yeah, it's funny, right?
+	Monika	She always insists that manga is literature, too.
+	Monika	I mean, she's not wrong, I guess...
+	Monika	And besides, a member's a member, right?
+	Narrator	...Did Monika say \"she\"?
+	Narrator	Hmm...
+	Monika	Hey, [player]...
+	Monika	By any chance...are you still looking for a club to join?
+	MC	Ah--
+	MC	I mean, I guess so, but...
+	Monika	In that case...
+	Monika	Is there any chance you could do me a big favor?
+	Monika	I won't ask you to join, but...
+	Monika	If you could at the very least visit my club, it would make me really happy.
+	Monika	Please?
+	MC	Um...
+	Narrator	Well, I guess I have no reason to refuse...
+	Narrator	Besides, how could I ever refuse someone like Monika?
+	MC	Sure, I guess I could check it out.
+	Monika	Aah, awesome!
+	Monika	You're really sweet, [player], you know that?
+	MC	I-It's nothing, really...
+	Monika	Shall we go, then?
+	Monika	I'll look for the materials another time - you're more important.
+	Narrator	And thus, today marks the day I sold my soul to Monika and her irresistible smile.
+	Narrator	I timidly follow Monika across the school and upstairs - a section of the school I rarely visit, being generally used for third-year classes and activities.
+	Narrator	Monika, full of energy, swings open the classroom door.
+	Monika	I'm back~!
+	Monika	And I brought a guest with me!
+	Yuri	Eh?
+	Yuri	A...a guest?
+	Natsuki	Seriously? You brought a boy?
+	Natsuki	Way to kill the atmosphere.
+	Monika	Don't be mean, Natsuki...
+	Monika	...But anyway, welcome to the club, [player]!
+	MC	...
+	Narrator	All words escape me in this situation.
+	Narrator	This club...
+	Narrator	{i}...is full of incredibly cute girls!!{/i}
+	Natsuki	So, let me guess...
+	Natsuki	You're Monika's boyfriend, right?
+	MC	Wha--
+	MC	No, I'm not!
+	Yuri	Natsuki...
+	Narrator	The girl with the sour attitude, whose name is apparently Natsuki, is one I don't recognize.
+	Narrator	Her small figure makes me think she's probably a first-year.
+	Monika	A-Anyway, this is Natsuki, energetic as usual...
+	Monika	And this is Yuri, the Vice President!
+	Yuri	I-It's nice to meet you...
+	Narrator	Yuri, who appears comparably more mature and timid, seems to have a hard time keeping up with someone like Natsuki.
+	MC	Yeah... It's nice to meet both of you.
+	Monika	So, I ran into [player] in a classroom, and he decided to come check out the club.
+	Monika	Isn't that great?
+	Natsuki	Wait! Monika!
+	Natsuki	Didn't I tell you to let me know in advance before you brought anyone new?
+	Natsuki	I was going to...well, you know...
+	Monika	Sorry, sorry!
+	Monika	I didn't forget that, but I just happened to run into him.
+	Yuri	In that case, I should at least make some tea, right?
+	Monika	Yeah, that would be great!
+	Monika	Why don't you come sit down, [player]?
+	Narrator	The girls have a few desks arranged to form a table.
+	Narrator	Yuri walks to the corner of the room and opens the closet.
+	Narrator	Meanwhile, Monika and Natsuki sit across from each other.
+	Narrator	Still feeling awkward, I take a seat next to Monika.
+	Monika	So, I know you didn't really plan on coming here...
+	Monika	But we'll make sure you feel right at home, okay?
+	Monika	As president of the Literature Club, it's my duty to make the club fun and exciting for everyone!
+	MC	I'm surprised there aren't more people in the club yet.
+	MC	It must be hard to start a new club.
+	Monika	You could put it that way.
+	Monika	Not many people are very interested in putting out all the effort to start something brand new...
+	Monika	Especially when it's something that doesn't grab your attention, like literature.
+	Monika	You have to work hard to convince people that you're both fun and worthwhile.
+	Monika	But it makes school events, like the festival, that much more important.
+	Monika	I'm confident that we can all really grow this club before we graduate!
+	Monika	Right, Natsuki?
+	Natsuki	Well...
+	Natsuki	...I guess.
+	Narrator	Natsuki reluctantly agrees.
+	Narrator	Such different girls, all interested in the same goal...
+	Narrator	Monika must have worked really hard just to find these two.
+	Narrator	Yuri returns to the table, carrying a tea set.
+	Narrator	She carefully places a teacup in front of each of us before setting down the teapot in the middle.
+	MC	You keep a whole tea set in this classroom?
+	Yuri	Don't worry, the teachers gave us permission.
+	Yuri	After all, doesn't a hot cup of tea help you enjoy a good book?
+	MC	Ah... I-I guess...
+	Monika	Ehehe, don't let yourself get intimidated, Yuri's just trying to impress you.
+	Yuri	Eh?! T-That's not...
+	Narrator	Insulted, Yuri looks away.
+	Yuri	I meant that, you know...
+	MC	I believe you.
+	MC	Well, tea and reading might not be a pastime for me, but I at least enjoy tea.
+	Yuri	I'm glad...
+	Narrator	Yuri faintly smiles to herself in relief.
+	Yuri	So, [player], what kinds of things do you like to read?
+	MC	Well... Ah...
+	Narrator	Considering how little I've read these past few years, I don't really have a good way of answering that.
+	MC	...Manga...
+	Narrator	I mutter quietly to myself, half-joking.
+	Narrator	Natsuki's head suddenly perks up.
+	Narrator	It looks like she wants to say something, but she keeps quiet.
+	Yuri	N-Not much of a reader, I guess...
+	MC	...Well, that can change...
+	Narrator	What am I saying?
+	Narrator	I spoke without thinking after seeing Yuri's sad smile.
+	MC	Anyway, what about you, Yuri?
+	Yuri	Well, let's see...
+	Narrator	Yuri traces the rim of her teacup with her finger.
+	Yuri	My favorites are usually novels that build deep and complex fantasy worlds.
+	Yuri	The level of creativity and craftsmanship behind them is amazing to me.
+	Yuri	And telling a good story in such a foreign world is equally impressive.
+	Narrator	Yuri goes on, clearly passionate about her reading.
+	Narrator	She seemed so reserved and timid since the moment I walked in, but it's obvious by the way her eyes light up that she finds her comfort in the world of books, not people.
+	Yuri	But you know, I like a lot of things.
+	Yuri	Stories with deep psychological elements usually immerse me as well.
+	Yuri	Isn't it amazing how a writer can so deliberately take advantage of your own lack of imagination to completely throw you for a loop?
+	Yuri	Anyway, I've been reading a lot of horror lately...
+	MC	Ah, I read a horror book once...
+	Narrator	I desperately grasp something I can relate to at the minimal level.
+	Narrator	At this rate, Yuri might as well be having a conversation with a rock.
+	Monika	Ahaha. I'd expect that from you, Yuri.
+	Monika	It suits your personality.
+	Yuri	Oh, is that so?
+	Yuri	Really, if a story makes me think, or takes me to another world, then I really can't put it down.
+	Yuri	Surreal horror is often very successful at changing the way you look at the world, if only for a brief moment.
+	Natsuki	Ugh, I hate horror...
+	Yuri	Oh? Why's that?
+	Natsuki	Well, I just...
+	Narrator	Natsuki's eyes dart over to me for a split second.
+	Natsuki	Never mind.
+	Monika	That's right, you usually like to write about cute things, don't you, Natsuki?
+	Natsuki	W-What?
+	Natsuki	What gives you that idea?
+	Monika	You left a piece of scrap paper behind last club meeting.
+	Monika	It looked like you were working on a poem called--
+	Natsuki	Don't say it out loud!!
+	Natsuki	And give that back!
+	Monika	Fine, fine~
+	MC	Natsuki, you write your own poems?
+	Natsuki	Eh? Well, I guess sometimes.
+	Natsuki	Why do you care?
+	MC	I think that's impressive.
+	MC	Why don't you share them sometime?
+	Natsuki	N-No!
+	Narrator	Natsuki averts her eyes.
+	Natsuki	You wouldn't...like them...
+	MC	Ah...not a very confident writer yet?
+	Yuri	I understand how Natsuki feels.
+	Yuri	Sharing that level of writing takes more than just confidence.
+	Yuri	The truest form of writing is writing to oneself.
+	Yuri	You must be willing to open up to your readers, exposing your vulnerabilities and showing even the deepest reaches of your heart.
+	Monika	Do you have writing experience too, Yuri?
+	Monika	Maybe if you share some of your work, you can set an example and help Natsuki feel comfortable enough to share hers.
+	Yuri	...
+	MC	I guess it's the same for Yuri...
+	Narrator	We all sit in silence for a moment.
+	Monika	Hey, I just got an idea!
+	Monika	How about this?
+	Natsuki/Yuri	...?
+	Narrator	Natsuki and Yuri look quizzically at Monika.
+	Monika	Let's all go home and write a poem of our own!
+	Monika	Then, next time we meet, we'll all share them with each other.
+	Monika	That way, everyone is even!
+	Natsuki	U-Um...
+	Yuri	...
+	Monika	Ah...
+	Monika	I mean, I thought it was a good idea...
+	Yuri	Well...
+	Yuri	...I think you're right, Monika.
+	Yuri	We should probably start finding activities for all of us to participate in together.
+	Yuri	I did decide to take on the responsibility of Vice President, after all...
+	Yuri	I need to do my best to nurture the club as well as its members.
+	Yuri	Besides, now that we have a new member...
+	Yuri	It seems like a good step for us to take.
+	Yuri	Do you agree as well, [player]?
+	MC	Hold on...there's still one problem.
+	Monika	Eh? What's that?
+	Narrator	Now that we've reached the most important topic, I bluntly come forth with what's been on my mind the entire time.
+	MC	I never said I would join this club!
+	MC	Monika may have convinced me to stop by, but I never made any decision.
+	MC	I still have other clubs to look at, and...um...
+	Narrator	I lose my train of thought.
+	Narrator	All three girls stare back at me with dejected eyes.
+	Monika	B-But...
+	Yuri	I'm sorry, I thought...
+	Natsuki	Hmph.
+	MC	Eh...?
+	Narrator	The girls exchange glances before Monika turns back to me.
+	Monika	I...guess I need to tell you the truth, [player].
+	Monika	The thing is...
+	Monika	...We don't have enough members yet to form an official club.
+	Monika	We need four...
+	Monika	And I've been trying really, really hard to find new members.
+	Monika	And if we don't find one more before the festival...
+	MC	...
+	Narrator	I...I'm defenseless against these girls.
+	Narrator	How am I supposed to make a clear-headed decision when it's like this?
+	Narrator	I would feel terrible for letting everyone down in this situation...
+	Narrator	And besides, the club itself seems pretty relaxed...
+	Narrator	So, if writing poems is the price I need to pay in order to spend every day with these beautiful girls...
+	MC	...Right.
+	MC	Okay, I've decided, then.
+	MC	I'll join the Literature Club.
+	Narrator	One by one, the girls' eyes light up.
+	Monika	Oh my goodness, really?
+	Monika	Do you really mean that, [player]?
+	MC	Yeah...
+	MC	It could be fun, right?
+	Yuri	You really did scare me for a moment...
+	Natsuki	I mean, if you really just left after all this, I would be super pissed.
+	Monika	[player], I'm so happy...
+	Monika	We can become an official club now!
+	Monika	Thank you so much for this. You're really amazing.
+	Monika	I'll do everything I can to give you a great time, okay?
+	MC	Ah...thanks, I guess.
+	Monika	Okay, everyone!
+	Monika	I think with that, we can officially end today's meeting on a good note.
+	Monika	Everyone remember tonight's assignment:
+	Monika	Write a poem to bring to the next meeting, so we can all share!
+	Narrator	Monika looks over at me once more.
+	Monika	[player], I look forward to seeing how you express yourself.
+	Monika	Ehehe~
+	MC	Y-Yeah...
+	Narrator	Can I really impress the class star Monika with my mediocre writing skills?
+	Narrator	I already feel the anxiety welling up inside me.
+	Narrator	Meanwhile, the girls continue to chit-chat as Yuri cleans up the tea set.
+	MC	I guess I'll be on my way, then...
+	Monika	Okay!
+	Monika	I'll see you tomorrow, then.
+	Monika	I can't wait!
+	Narrator	With that, I depart the clubroom and make my way home.
+	Narrator	The whole way, my mind wanders back and forth between the three girls:
+	Narrator	Natsuki,
+	Narrator	Yuri,
+	Narrator	and, of course, Monika.
+	Narrator	Will I really be happy spending every day after school in a literature club?
+	Narrator	Perhaps I'll have the chance to grow closer to one of these girls...
+	Narrator	Alright!
+	Narrator	I'll just need to make the most of my circumstances, and I'm sure good fortune will find me.
+	Narrator	And I guess that starts with writing a poem tonight...
+	Narrator	You have unlocked a special poem.\nWould you like to read it?
+	Narrator	poem_special_

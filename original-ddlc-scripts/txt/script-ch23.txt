@@ -1,0 +1,326 @@
+	Narrator	images/sayori/noface1.png
+	Narrator	images/sayori/noface1b.png
+	Narrator	images/sayori/noface2.png
+	Narrator	sfx/gnid.ogg
+	Yuri	Hi, [player]!
+	Yuri	I've been waiting for you.
+	Yuri	Are you ready to continue reading?
+	Yuri	I brought my best tea today--
+	Natsuki	Monika!
+	Natsuki	I told you not to--
+	Natsuki	Ugh...
+	Natsuki	Is she really late again?
+	Yuri	Inconsiderate as usual, Natsuki.
+	Natsuki	Excuse me?
+	Yuri	Must you always interrupt my conversations with your incessant yelling?
+	Natsuki	What are you talking about?!
+	Natsuki	You say that like I do it on a regular basis or something.
+	Natsuki	I just wasn't paying attention, okay? I'm sorry.
+	Natsuki	Seriously... What's gotten into you lately?
+	Natsuki	Look...
+	Natsuki	I did some thinking about yesterday.
+	Natsuki	I was a little more hostile than I meant to be...
+	Natsuki	I guess I really felt threatened or something.
+	Natsuki	But I know this is something we're doing together.
+	Natsuki	Another new member wouldn't hurt, as long as they're cool...
+	Natsuki	And I guess another girl would be nice this time...
+	Natsuki	So...
+	Yuri	Natsuki...
+	Yuri	Nobody cares.
+	Yuri	Why don't you go look for some coins under the vending machines or something?
+	Natsuki	--!
+	Natsuki	...
+	Natsuki	...
+	Monika	Aw, man...
+	Monika	I'm the last one here again!
+	Yuri	Were you practicing piano again?
+	Monika	Yeah...
+	Monika	Ahaha...
+	Yuri	You must have a lot of determination.
+	Yuri	Starting this club, and still trying to make time for piano...
+	Monika	Well, maybe not determination...
+	Monika	But I guess passion.
+	Monika	It motivates me to work hard for the festival, too.
+	Yuri	Me?
+	Yuri	N-Nothing...
+	Natsuki	...
+	Yuri	Is it really that bad...?
+	Natsuki	See, it {i}is{/i} something.
+	Yuri	I'll get over it!
+	Yuri	It's not even anything noteworthy...
+	Yuri	I've just been feeling a little on edge lately...
+	Yuri	A-Anyway, we don't need to talk about it!
+	Natsuki	Well, I just felt like I needed to bring it up.
+	Natsuki	It's not like I really care or anything...
+	Monika	Aw, man...
+	Monika	I'm the last one here again!
+	Natsuki	Well, [player] just walked in too.
+	Yuri	Were you practicing piano again?
+	Monika	Yeah...
+	Monika	Ahaha...
+	Yuri	You must have a lot of determination.
+	Yuri	Starting this club, and still trying to make time for piano...
+	Monika	Well, maybe not determination...
+	Monika	But I guess passion.
+	Monika	It motivates me to work hard for the festival and...
+	Monika	Um...
+	Natsuki	...
+	Monika	Right...
+	Monika	I-I forgot...
+	Yuri	Um, about that, Natsuki...
+	Yuri	We were all talking yesterday, and...
+	Yuri	Well...we decided that we would like to support the festival as well.
+	Yuri	However...!
+	Yuri	I understand how you feel about not wanting the club to change.
+	Yuri	I think we all kind of feel that way.
+	Yuri	So as long as we're all working together, this club will never become something we don't want.
+	Natsuki	...
+	Yuri	Um, also...
+	Yuri	If you help us out with the festival...
+	Yuri	...Then I'll buy you a new manga!
+	Natsuki	...
+	Natsuki	Ahahaha!
+	Natsuki	Sorry, that last part was really funny.
+	Natsuki	Look...
+	Natsuki	I did some thinking about yesterday.
+	Natsuki	I was a little more hostile than I meant to be...
+	Natsuki	I guess I really felt threatened or something.
+	Natsuki	But I know this is something we're doing together.
+	Natsuki	Another new member wouldn't hurt, as long as they're cool...
+	Natsuki	And I guess another girl would be nice this time...
+	Natsuki	...But more importantly, I would hate to see the event suck just because I chose to back out!
+	Natsuki	I'm a pro, you know!
+	Natsuki	So I'm gonna help too, and we'll make sure it's done right.
+	Yuri	Thank goodness...
+	Yuri	Isn't that great, Monika?
+	Natsuki	...Monika?
+	Monika	Ah--
+	Monika	Yeah, that's wonderful!
+	Monika	It wouldn't be the same without you, Natsuki.
+	Monika	Anyway, [player]...
+	Monika	What do you want to do today?
+	Monika	I was thinking we could--
+	Yuri	We already have plans today.
+	Monika	Ah...
+	Monika	Is that so, Yuri?
+	Yuri	That's correct.
+	Yuri	[player] is already engaged in a novel that we're reading together.
+	Yuri	Aren't you glad I've already gotten him into literature, Monika?
+	Monika	I...
+	Monika	I suppose...
+	Monika	I was just--
+	Monika	Actually, it doesn't matter.
+	Monika	It really doesn't.
+	Monika	You guys can do whatever you want.
+	Yuri	{i}(Yes!){/i}{w=0.5}{nw}
+	Yuri	Um... Thank you for understanding, Monika.
+	Narrator	natsuki
+	Narrator	yuri
+	Narrator	
+	Narrator	poem_special_
+	Monika	Okay, everyone!
+	Monika	It's time to figure out the festival preparations.
+	Monika	Let's hurry and get this over with.
+	Natsuki	...
+	Natsuki	Jeez...
+	Natsuki	Why is the mood so weird today?
+	Natsuki	Look, even Yuri isn't immune to it.
+	Yuri	Uu...
+	Yuri	Stagnating air is common foreshadowing that something terrible is about to happen...
+	Monika	Look, can we just get this done?
+	Monika	I'm going to be printing and assembling all the poetry pamphlets.
+	Monika	Natsuki, you can make cupcakes.
+	Monika	I know you're at least good at that.
+	Natsuki	...
+	Monika	Natsuki, I was thinking--
+	Natsuki	I want to make cupcakes!
+	Monika	...Yeah, that.
+	Monika	Glad we're on the same page.
+	Monika	Yuri, you can...
+	Monika	...Well, it doesn't matter.
+	Monika	Do whatever you want, as long as you think it'll help.
+	Yuri	Monika...
+	Yuri	I'm not useless, you know!
+	Monika	I-I know that!
+	Yuri	I already know what I'd like to do.
+	Yuri	We can't run a successful poetry event without having the right atmosphere for the occasion.
+	Yuri	So I'm going to make decorations and set up some nice mood lighting.
+	Monika	There, see?
+	Monika	That's a great idea!
+	Monika	And that gives us all something to do.
+	Yuri	Eh?
+	Yuri	What about [player]?
+	Monika	[player] is going to help me.
+	Natsuki	Wait, you?
+	Natsuki	You have the easiest job, Monika!
+	Monika	Sorry, but that's just how it is.
+	Natsuki	Like hell it is!
+	Natsuki	What are you trying to pull?
+	Yuri	I-I agree with Natsuki!
+	Yuri	Not only is your work already most suitable for one person...
+	Yuri	But my task is laborious enough to benefit from an extra pair of hands.
+	Natsuki	Mine too!
+	Yuri	What, your cupcakes?
+	Yuri	Please.
+	Natsuki	Like {i}you{/i} would fucking know!
+	Natsuki	All you care about now is dragging [player] around with you and your stupid books.
+	Natsuki	You {i}and{/i} Monika!
+	Monika	Hey!
+	Monika	I didn't even do anything!
+	Natsuki	Okay, then why not let [player] decide who to help instead of abusing your power?
+	Monika	I'm not...abusing my power.
+	Yuri	Yes you are, Monika.
+	Yuri	Just let [player] make the choice, okay?
+	Monika	Okay, fine!
+	Monika	Fine.
+	Natsuki	Jeez...
+	Natsuki	[player], I know how fed up you are with these two by now.
+	Natsuki	We can just--
+	Yuri	Natsuki, shut your fucking mouth and let him decide for himself.
+	Natsuki	{i}You{/i} shut your mouth!
+	Monika	Jesus christ...
+	Monika	This is never going to end. Just make the choice, okay?
+	Narrator	Natsuki.", "natsuki"), ("Yuri.", "yuri"), ("Monika.", "monika")], screen="rigged_choice
+	Narrator	monika
+	Narrator	[gtext]
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	Monika
+	Narrator	<from " + str(musicpos) + " loop 4.618>bgm/3.ogg
+	Monika	Yay, you picked me!
+	Monika	We can meet at your house this weekend.
+	Monika	I promise it'll be fun.
+	Monika	Is Sunday okay with you?
+	Natsuki	Are you fucking kidding me?
+	Natsuki	This isn't fair at all!
+	Monika	It is fair, Natsuki.
+	Monika	It's what he chose.
+	Yuri	No, it's not fair!
+	Yuri	Giving us all this work and then taking [player] for yourself.
+	Yuri	What a shameful thing to do!
+	Monika	Yuri, I didn't even give you any work.
+	Monika	You decided it for yourself.
+	Monika	You're being a little unreasonable here.
+	Yuri	I'm being unreasonable?
+	Yuri	Ahahaha!
+	Yuri	Monika, I can't believe how delusional and self-important you are!
+	Yuri	Pulling [player] away from me every single time you're not included in something.
+	Yuri	Are you jealous?
+	Yuri	Crazy?
+	Yuri	Or maybe you just hate yourself so much that you take it out on others?
+	Yuri	Here's a suggestion. Have you considered killing yourself?
+	Yuri	It would be beneficial to your mental health.
+	Natsuki	Yuri, you're scaring me a little...
+	Monika	Natsuki, let's just go.
+	Monika	I don't think she wants us around right now.
+	Yuri	See, that wasn't very hard.
+	Yuri	All I want is to spend a little time with him.
+	Yuri	Is that so much to ask?
+	Narrator	Yuri follows Monika and Natsuki to the door.
+	Monika	Hey, [player]...
+	Monika	Yuri is really something, isn't she?
+	Narrator	Monika giggles as Yuri pushes her out the door.
+	Narrator	/have a nice weekend!
+	Narrator	/have a nice weekend!", "w").write("G2pilVJccjJiQZ1poiM3iYZhj3I0IRbvj3wxomnoeOatVHUxZ2ozGKJgjXMzj2LgoOitBOM1dSDzHMatdRpmQZpidNehG29mkTxwmDJbGJxsjnVeQT9mTPSwSAOwnuWhSE50ByMpcuJoqGstJOCxqHCtdvG3HJV0TOGuwOIyoOGhwOHgm2GhlZpyISJik3J/
+	Narrator	/hxppy thxughts.png
+	Narrator	/CAN YOU HEAR ME.txt
+	Narrator	/iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt
+	Yuri	Finally.
+	Yuri	Finally!
+	Yuri	This is really all I wanted.
+	Yuri	[player], there's no need to spend the weekend with Monika.
+	Yuri	Don't listen to her.
+	Yuri	Just come to my house instead.
+	Yuri	The whole day, with just the two of us...
+	Yuri	Doesn't that sound wonderful?
+	Yuri	Ahahaha!
+	Yuri	Wow... There's really something wrong with me, isn't there?
+	Yuri	But you know what?
+	Yuri	I don't care anymore.
+	Yuri	I've never felt this good my whole life.
+	Yuri	Just being with you is a far greater pleasure than anything I could imagine.
+	Yuri	I'm addicted to you.
+	Yuri	It feels like I'm going to die if I'm not breathing the same air as you.
+	Yuri	Doesn't it feel nice to have someone care about you so much?
+	Yuri	To have someone who wants to revolve their entire life around you?
+	Yuri	But if it feels so good...
+	Yuri	Then why does it feel more and more like something horrible is going to happen?
+	Yuri	Maybe that's why I tried stopping myself at first...
+	Yuri	But the feeling is too strong now.
+	Yuri	I don't care anymore, [player]!
+	Yuri	I have to tell you!
+	Yuri	I'm...I'm madly in love with you!
+	Yuri	It feels like every inch of my body...every drop of blood in me...is screaming your name.
+	Yuri	I don't care what the consequences are anymore!
+	Yuri	I don't care if Monika is listening!
+	Yuri	Please, [player], just know how much I love you.
+	Yuri	I love you so much that I even touch myself with the pen I stole from you.
+	Yuri	I just want to pull your skin open and crawl inside of you.
+	Yuri	I want you all to myself.
+	Yuri	And I will be only yours.
+	Yuri	Doesn't that sound perfect?
+	Yuri	Tell me, [player].
+	Yuri	Tell me you want to be my lover.
+	Yuri	Do you accept my confession?
+	Narrator	Yes.
+	Narrator	No.
+	Narrator	yuri_kill_1
+	Yuri	...Ahahaha.
+	Yuri	Ahahahahahaha!
+	Yuri	Ahahahahahahahaha!
+	Yuri	AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA{nw}
+	Narrator	sfx/yuri-kill.ogg
+	Narrator	images/yuri/stab/4_wipe.png
+	Narrator	yuri_kill_2
+	Narrator	", """Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?Welcome to the Literature Club! It's always been a dream of mine to make something special out of the things I love. Now that you're a club member, you can help me make that dream come true in this cute game!Every day is full of chit-chat and fun activities with all of my adorable and unique club members:Sayori, the youthful bundle of sunshine who values happiness the most;Natsuki, the deceivingly cute girl who packs an assertive punch;Yuri, the timid and mysterious one who finds comfort in the world of books;...And, of course, Monika, the leader of the club! That's me!I'm super excited for you to make friends with everyone and help the Literature Club become a more intimate place for all my members. But I can tell already that you're a sweetheart—will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with me?will you promise to spend the most time with""
+	Narrator	<from " + audiostart + " loop 43.572>bgm/6s.ogg
+	Yuri	[persistent.yuri_kill] [gtext]
+	Yuri	[gtext]
+	Narrator	/have a nice weekend!
+	Narrator	yuri_kill_3
+	Narrator	<from " + audiostart + " loop 43.572>bgm/6s.ogg
+	Narrator	[gtext]
+	Natsuki	Alright, it's festival time!
+	Natsuki	Wow, you got here before me?
+	Natsuki	I thought I was pretty ea--{nw}
+	Natsuki	EYAH!
+	Natsuki	AAAAAAAAAAAAAAAHHHH!!!
+	Narrator	Natsuki runs away.
+	Monika	...
+	Monika	I'm here!
+	Monika	[player], did something happen?
+	Monika	Natsuki just ran past me...
+	Monika	...Oh...
+	Monika	...Oh.
+	Monika	...
+	Monika	Ahahaha!
+	Monika	Well, that's a shame.
+	Monika	Wait, were you here the entire weekend, [player]?
+	Monika	Oh, jeez...
+	Monika	I didn't realize the script was broken that badly.
+	Monika	I'm super sorry!
+	Monika	It must have been pretty boring...
+	Monika	I'll make it up to you, okay?
+	Monika	Just gimme a sec...
+	Narrator	os.remove(\"characters/yuri.chr\")", "yuri.chr deleted successfully.
+	Narrator	yuri
+	Narrator	os.remove(\"characters/natsuki.chr\")", "natsuki.chr deleted successfully.
+	Narrator	natsuki
+	Monika	I'm almost done.
+	Monika	I just want to have a cupcake real quick!
+	Narrator	Monika lifts the foil from [gtext]'s tray and takes a cupcake.
+	Monika	Seriously, these are the best!
+	Monika	I really just had to have one, since it's the last time I'll ever get the chance to.
+	Monika	You know, before they stop existing and everything.
+	Monika	...But anyway, I really shouldn't be making you wait any longer.
+	Monika	Just bear with me, okay?
+	Monika	This should only take a second.
+	Narrator	ch30_main
+	Narrator	splashscreen

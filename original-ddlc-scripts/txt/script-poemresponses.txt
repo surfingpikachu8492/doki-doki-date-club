@@ -1,0 +1,2174 @@
+	Narrator	2
+	Narrator	
+	Narrator	Who should I show my poem to first?
+	Narrator	Who should I show my poem to next?
+	Narrator	[menutext]
+	Narrator	Sayori
+	Narrator	I'm definitely most comfortable sharing it with Sayori first.
+	Narrator	She's my good friend, after all.
+	Narrator	Natsuki
+	Narrator	I told Natsuki I was interested in her poems yesterday.
+	Narrator	It's probably only fair if I shared mine with her first.
+	Narrator	Yuri
+	Narrator	Yuri seems the most experienced, so I should start with her.
+	Narrator	I can trust her opinion to be fair.
+	Narrator	Monika
+	Narrator	I should start with Monika.
+	Narrator	Yesterday she seemed eager to read my poem, and I want her to know I'm putting in effort.
+	Narrator	med
+	Narrator	bad
+	Narrator	good
+	Narrator	ch" + pt + str(chapter) + "_s_
+	Narrator	ch" + pt + str(chapter) + "_s_end
+	Narrator	med
+	Narrator	bad
+	Narrator	good
+	Narrator	ch" + pt + str(chapter) + "_n_
+	Narrator	ch" + pt + str(chapter) + "_n_end
+	Narrator	med
+	Narrator	bad
+	Narrator	good
+	Narrator	ch" + pt + str(chapter) + "_y_
+	Narrator	ch" + pt + str(chapter) + "_y_end
+	Narrator	bad
+	Narrator	good
+	Narrator	ch" + pt + str(chapter) + "_m_start
+	Narrator	ch" + pt + str(chapter) + "_m_end
+	Narrator	yuri 3t
+	Yuri	...
+	Yuri	I...I'm sorry I have such terrible handwriting!
+	MC	What??
+	MC	I wasn't thinking that at all...
+	Yuri	But it took you a long time to read...
+	MC	Ah--
+	MC	Well, I just don't read script very often...
+	MC	I actually think your handwriting is pretty.
+	Yuri	Eh?
+	Yuri	That's...a relief...
+	MC	Also, I liked the poem.
+	MC	Even though it's short, it was really descriptive.
+	Yuri	It wasn't too short?
+	Yuri	I usually write longer poems...
+	MC	Not at all.
+	Yuri	I'm...really glad you like it.
+	Yuri	I'll be honest...
+	Yuri	Since it's our first time sharing, I wanted to write something a little more mild.
+	Yuri	Something easy to digest, I suppose.
+	MC	Are you into ghosts, Yuri?
+	Yuri	Huhu.
+	Yuri	Actually, the story isn't about a ghost at all, [player].
+	MC	Really?
+	MC	I must have totally missed the point...
+	Yuri	Well, I suppose you did only glance over it, after all...
+	Yuri	But remember that poets often express their own thoughts, feelings, and experiences in their work.
+	Yuri	They usually do more than tell a simple story, or paint a picture.
+	Yuri	In this case, perhaps the subject of the poem is only being symbolically compared to a ghost.
+	Yuri	Lingering in her last remaining place of comfort, unable to let go of the past.
+	Yuri	And soon to be left with nothing...
+	MC	...That's a lot more solemn, putting it that way.
+	MC	I hadn't even thought of that...
+	MC	That's impressive.
+	Narrator	good
+	Yuri	Eh?
+	Yuri	I-It's nothing, really!
+	Yuri	Yours was impressive too, so...
+	MC	Nah...
+	MC	If anything, I could probably learn a thing or two from you.
+	Yuri	...You think so?
+	MC	Yeah, of course.
+	Yuri	Ah...
+	Yuri	You know...
+	Yuri	I was really nervous about doing all this.
+	Yuri	But in the end, I enjoyed it.
+	Yuri	I'm going to keep doing my best for you, [player].
+	MC	Ah...
+	MC	Me too.
+	Yuri	It's nothing, really...
+	Yuri	Well...it makes me happy that you think that.
+	Yuri	Just remember that it won't be long before you pick up on these things, too.
+	MC	Yeah, maybe you're right.
+	MC	I guess I'll have to keep trying.
+	Yuri	I'm counting on you.
+	Yuri	Um...
+	Yuri	I was a little more daring with this one than yesterday's...
+	MC	I can see that.
+	MC	It's a lot more metaphorical...
+	Narrator	I don't know if it's my fault, but I can't begin to imagine what this poem is about.
+	Yuri	That's right.
+	Yuri	It's a bit closer to my preferred writing style...
+	Yuri	Using the poem as a canvas to express vivid imagery, and conveying emotions through them.
+	MC	Yeah, if I take it at face value, then I can't even figure out what it's supposed to mean...
+	Yuri	Well...
+	Yuri	I think it's something that different people can relate to in their own way.
+	Yuri	I wanted to express the way it feels for me to indulge in my more unusual hobbies...
+	Yuri	It's those sorts of things I'm usually forced to keep to myself.
+	Yuri	So, I sometimes enjoy writing about them.
+	MC	Huh, that's funny...
+	Yuri	...?
+	MC	Didn't Natsuki also write something about that?
+	MC	About someone being ridiculed for a strange interest?
+	Yuri	Eh?
+	Yuri	She...she did?
+	MC	Yeah...
+	MC	She was talking about how it doesn't matter what you're into as long as you're not hurting anybody.
+	Yuri	She--She's right!
+	Yuri	Ah--I mean...
+	Yuri	Does she really feel that way...?
+	MC	Yeah.
+	MC	Sounds like you two have that in common...
+	Yuri	That's...well, that's interesting...
+	Yuri	To me, she seemed like the kind of person who would make fun of my hobbies...
+	Yuri	But I suppose that's my fault for judging, isn't it...?
+	Yuri	Ah-- Please don't tell her I said that!
+	MC	Ahaha. Don't worry, I have no reason to.
+	Yuri	Okay...
+	Yuri	Well, thank you for sharing it with me.
+	MC	Why do you keep them to yourself?
+	Yuri	Be...Because...
+	Yuri	They're embarrassing...
+	Yuri	And people would make fun of me.
+	Yuri	Don't you have anything like that, [player]?
+	MC	Well...
+	MC	Yeah, I guess I do...
+	Yuri	I feel like everyone has a little something like that.
+	Yuri	The best we can do is respect each other and our individualities.
+	Yuri	Even if it's difficult sometimes, and some things make us uncomfortable...
+	Yuri	After all, if I hadn't learned to embrace my own weirdness, I would probably hate myself.
+	Yuri	I-I might be ranting a little bit now...
+	Yuri	...But I'm glad that you're a good listener.
+	Yuri	You're good at a lot of things...
+	Yuri	Writing, listening...
+	Yuri	There really aren't many people like you, [player]...
+	MC	Th-That's exaggerating a little bit...
+	Yuri	It's just...how I feel.
+	Yuri	I never thought I would feel so comfortable sharing my writing...
+	Yuri	But now, I almost feel like I look forward to it...
+	Yuri	It's just...a really nice feeling.
+	Yuri	And you're to thank for that.
+	MC	It's...it's nothing, really...
+	Narrator	Yuri smiles sincerely at me.
+	Narrator	For just a moment, her timidness seems to disappear.
+	Narrator	yuri 2v
+	Yuri	Um...
+	Yuri	I'm aware that the beach is kind of an inane thing to write about.
+	Yuri	But I did my best to take a metaphorical approach to it.
+	MC	You say that like you didn't even want to write about it...
+	Yuri	Oh, you haven't heard...?
+	Yuri	After yesterday, Natsuki and I...well...
+	Yuri	It was...amusing that we wrote about something similar in such different ways.
+	Yuri	So, Natsuki wanted us to write about the same topic as each other again.
+	MC	I see...
+	Narrator	Something tells me the poem Natsuki showed me isn't the one she plans on sharing with everyone else...
+	Narrator	Of course, I choose not to mention that to Yuri.
+	MC	Yeah, Natsuki already told me about it.
+	Yuri	S-She did...?
+	Yuri	She didn't say anything weird, did she?
+	Yuri	She just wanted us to write about the same topic again...
+	Yuri	I suppose to better compare the differences in our writing styles...or thought processes.
+	Yuri	Anyway, it was her idea...!
+	Yuri	Knowing her, it's no surprise that she'd want to do something like that.
+	Yuri	She probably just wants to show off.
+	Yuri	It's not like I have a particular interest in her writing style...
+	Yuri	I just went with her request.
+	Yuri	But...
+	Yuri	Well, I suppose it's not so bad to write about something simple on occasion.
+	Yuri	It can be refreshing, you know?
+	Yuri	It's good for me to calm my thoughts once in a while.
+	MC	Yeah...I think I agree.
+	MC	Thanks for sharing.
+	Narrator	yuri 4b
+	Narrator	Finishing the poem, I start to hand it back to Yuri.
+	Narrator	But instead of taking it from me, she looks away.
+	Yuri	...
+	Yuri	Do you...dislike it?
+	MC	Ah--no, of course not.
+	MC	I just...don't really know how I should respond.
+	Narrator	Despite Yuri's poems usually being cryptic, it wasn't hard to figure out what this one was about.
+	Narrator	Also, this clearly isn't the poem that Natsuki said she wrote about...
+	Narrator	...Meaning I'm probably the only one she's showing this to.
+	Yuri	I-I don't know if I'll be able to explain this one...
+	MC	That's fine.
+	MC	I understand this one.
+	Yuri	...
+	Narrator	Yuri is having an even harder time speaking than usual.
+	MC	Does this one...mean a lot to you?
+	Narrator	Yuri nods.
+	MC	I'm not really good with words, but...
+	MC	I'm happy that you shared it with me.
+	MC	So, thank you.
+	MC	And I hope we keep spending time together.
+	Narrator	Despite my inability to make eye contact, I see a faint smile emerge on Yuri's lips.
+	Narrator	I once again try to hand the poem back to her.
+	Narrator	But instead, Yuri gently takes my hands and pushes them back toward me.
+	Narrator	I hesitate in response to her warm touch.
+	Yuri	You can...
+	Yuri	Um...
+	Yuri	The poem is...
+	Narrator	Once again, Yuri fails to form a complete sentence.
+	MC	You mean I can keep it?
+	Narrator	Yuri nods.
+	MC	I'd love to.
+	Narrator	Again, Yuri faintly smiles, as if she doesn't want me to notice.
+	Yuri	You always...
+	Yuri	You always...make me feel nice.
+	Yuri	I know I'm not good with people, but...
+	Yuri	I hope that...I can return the favor sometimes.
+	MC	Yeah.
+	MC	Don't worry.
+	MC	I think you do a good job.
+	Narrator	Yuri finally turns back toward me.
+	Yuri	I guess...we should move on before Monika says something.
+	Yuri	But I'm sure we can talk again later...
+	MC	Yeah.
+	MC	I'm sure we will.
+	Narrator	With that, Yuri timidly smiles at me, and I return to my seat so I can put her poem away.
+	Narrator	natsuki 2s
+	Natsuki	Yeah...
+	Natsuki	I told you that you weren't gonna like it.
+	MC	I like it.
+	Natsuki	What?
+	Natsuki	Just be honest!
+	MC	I am.
+	MC	Why are you so convinced that I wouldn't like it?
+	Natsuki	Well--
+	Natsuki	Because!
+	Natsuki	Everyone in high school thinks that writing has to be all sophisticated and stuff...
+	Natsuki	So people don't even take my writing seriously.
+	MC	But isn't the point of poems for people to express themselves?
+	MC	Your writing style wouldn't make your message any less valid.
+	Natsuki	Yes! Exactly!
+	Natsuki	I like when it's easy to read, but it hits you hard.
+	Natsuki	Like in this poem.
+	Natsuki	Seeing everyone around you do great things can be really disheartening...
+	Natsuki	So I decided to write about it.
+	MC	Yeah, I understand.
+	Natsuki	But the other nice thing about simple writing is that it puts more weight on the wordplay.
+	Natsuki	Like I set up for a rhyme at the end, but then made it fall flat on purpose.
+	Natsuki	It helps bring out the feeling in the last line.
+	MC	So you did...
+	MC	I guess more went into it than I realized.
+	Natsuki	That's what it means to be a pro!
+	Natsuki	I'm glad you learned something.
+	Natsuki	Didn't expect that from the youngest one here, did you?
+	MC	Yeah...guess not.
+	Narrator	I decide to humor her with that last comment.
+	Narrator	I don't really care how old everyone is, but if Natsuki is feeling proud then I won't take that away from her.
+	Natsuki	Not bad, right?
+	MC	It's quite a bit longer than yesterday's.
+	Natsuki	Yesterday's was way too short...
+	Natsuki	I was just warming up!
+	Natsuki	I hope you didn't think that was the best I could do.
+	MC	No, of course not...
+	Natsuki	Anyway, the message is pretty straightforward in this poem.
+	Natsuki	I doubt I have to explain it.
+	Natsuki	Sometimes you can explain complicated issues with much simpler analogies...
+	Natsuki	And it helps people realize how stupid they're being.
+	Natsuki	Like, anyone would agree that the subject of this poem is an ignorant jerk...
+	MC	Do you know people like that?
+	Natsuki	Of course. It's about how everyone thinks my--
+	Natsuki	...That doesn't matter! It can be about anything!
+	Natsuki	I wrote it to be easy to relate to...
+	Natsuki	Everyone has some kind of weird hobby, or a guilty pleasure.
+	Natsuki	Something that you're afraid if people find out, they'd make fun of you or think less of you.
+	Natsuki	...But that just makes people stupid!
+	Natsuki	Who cares what someone likes, as long as they're not hurting anyone, and it makes them happy?
+	Natsuki	I think people really need to learn to respect others for liking weird things...
+	MC	Huh, that's funny...
+	MC	Yuri wrote about something similar today.
+	Natsuki	Huh?
+	Natsuki	Did you say Yuri?
+	MC	Yeah...
+	MC	She said her poem was about an unusual hobby of hers.
+	MC	I didn't really get it, but she said something similar to you...
+	MC	That people shouldn't make each other feel insecure about those things.
+	Natsuki	Really?
+	Natsuki	Well...
+	Natsuki	I mean, Yuri's pretty weird, so I wouldn't doubt that she has some weird hobbies...
+	Natsuki	...Not that there's anything wrong with that!
+	Natsuki	Uu...
+	Natsuki	It's not like...I would judge her or anything...
+	Narrator	Natsuki has trouble finding words.
+	Natsuki	I-I guess I should try not to be so mean to her...
+	Natsuki	If she feels insecure about her weird behaviors and stuff...
+	Natsuki	I mean, I always hate people who make me feel insecure...
+	Natsuki	And Yuri made me feel insecure yesterday!
+	Natsuki	But the way you put it, it sounds like she's learned her lesson...
+	MC	Well, I would say so.
+	MC	Even if her writing style is really different, I'm sure she'll appreciate the message in your poem.
+	MC	Well, you're definitely right.
+	MC	At least, I can relate to that.
+	MC	And I'm sure a lot of other people can, too.
+	Natsuki	You know...
+	Natsuki	I'm glad that you can appreciate this kind of writing...
+	Natsuki	I mean...I know I was talking about that yesterday.
+	Natsuki	But I've been...well, I've been enjoying sharing my writing with you, so...
+	Natsuki	...So consider yourself lucky, okay?
+	MC	Ahaha.
+	MC	Well, thanks for being honest.
+	Natsuki	What's that supposed to mean?
+	Natsuki	I'm always honest!
+	Natsuki	Jeez...
+	Natsuki	Just look forward to tomorrow too, okay?
+	MC	Alright, I will.
+	Natsuki	It's what I do best, after all!
+	Natsuki	I don't like writing unless there's a good message to take away from it.
+	Natsuki	Like, conveying emotions is important...
+	Natsuki	But I want to make people think, not just feel.
+	Natsuki	Remember that!
+	Natsuki	I'm gonna write a good one for tomorrow, too, so look forward to it.
+	Natsuki	Yeah...
+	Natsuki	I felt like I kept writing about negative things, so I wanted to write something with a nice message for once.
+	Natsuki	Besides...the beach is awesome!
+	Natsuki	Kinda hard to write anything negative about the beach.
+	MC	So you decided to write about the beach first, and then came up with the message later?
+	Natsuki	Yeah, well...
+	Natsuki	It's only because of what happened yesterday.
+	Natsuki	I mean, after Yuri and I realized we kind of wrote about the same thing...
+	Natsuki	She wanted to pick a topic and have us both write about it, or whatever.
+	MC	I see...
+	Narrator	Something tells me the poem Yuri showed me isn't the one she plans on sharing with everyone else...
+	Narrator	Of course, I choose not to mention that to Natsuki.
+	MC	Well, Yuri's take on it was a little more solemn.
+	Natsuki	Well, that's--
+	Natsuki	Jeez...she better not have said anything bad about mine!
+	Natsuki	After all, she was the one who wanted us to write about the same topic.
+	Natsuki	Ugh...you can really see her doing that, too.
+	Natsuki	Making us write about a simple topic, then trying to impress me by coming up with something all fancy.
+	Natsuki	Well, it's not like I care.
+	Natsuki	I just did it anyway.
+	Natsuki	I mean, I guess mine ended up being kind of metaphorical too...
+	Natsuki	...But there's nothing wrong with doing that once in a while!
+	Natsuki	At the very least, it was good practice.
+	Natsuki	...
+	Natsuki	...Why are you looking at me like that?
+	Natsuki	If you don't like it, then just say it.
+	Natsuki	I won't...get mad.
+	MC	No, it's not that I don't like it...!
+	MC	It was just...a little surprising to read.
+	Narrator	This clearly isn't the poem that Yuri told me she had written...
+	Narrator	...Meaning I'm probably the only one she's showing this to.
+	MC	Er...I guess I'm not used to hearing such nice things coming from you...
+	Natsuki	D-Don't just say that!
+	Natsuki	Dummy...
+	Natsuki	What do you think...the point of writing is?
+	Natsuki	Expressing things that you can't just say...
+	MC	Yeah...I understand.
+	MC	I'm sorry for missing the point sometimes.
+	MC	I always mean well...
+	MC	And...I'm happy that you showed this to me.
+	MC	I liked it.
+	Natsuki	Well...yeah...
+	Natsuki	I'm...I'm a pro, so...
+	Narrator	Natsuki mumbles, completely failing to sound confident like she usually does.
+	Natsuki	Just...
+	Natsuki	Remember that...I can think these things sometimes, too!
+	Natsuki	You know, when you're nice to me, it's...
+	Natsuki	...
+	Natsuki	...Meaningful.
+	MC	Ah...I'm glad.
+	Narrator	Sensing Natsuki is satisfied, I start to hand the poem back to her.
+	Narrator	But as I do so, Natsuki takes my hands and pushes them back away.
+	Narrator	Her small, soft hands surprise me with their assertion.
+	Natsuki	I don't want it.
+	MC	Eh...?
+	MC	Why not?
+	Natsuki	I just don't!
+	Natsuki	Jeez...
+	Narrator	I realize what Natsuki is doing.
+	Narrator	Unable to be honest, she's trying to give me the poem in a roundabout way.
+	MC	Well...in that case, I'm going to keep it.
+	Narrator	Instead of teasing her, I choose to go along with it.
+	Natsuki	...Good.
+	Natsuki	If you didn't, I would...
+	Natsuki	...
+	Natsuki	Never mind...
+	Natsuki	Just...I'm glad that you want it.
+	Narrator	Natsuki backpedals on her words and leaves it at that.
+	Narrator	Despite her best efforts to hide her expression, I can see her faintly smiling to herself.
+	Natsuki	That's all for now, so...
+	Natsuki	Go put it away before someone sees it, okay?
+	MC	Ah...yeah.
+	MC	I'll go do that.
+	Narrator	With that, I return to my seat so that I can put away Natsuki's poem.
+	MC	Sayori...
+	MC	This is just a guess, but...
+	MC	Did you wait until this morning to write this?
+	Sayori	No!
+	Sayori	J-Just a little bit!
+	MC	You can't answer 'just a little bit' to a yes or no question...
+	Sayori	I forgot to do it last night...
+	MC	Well, at least that makes me feel a little better about myself...
+	Sayori	Don't be mean!
+	Sayori	I still tried my best...
+	MC	Ah, yeah...
+	MC	I didn't mean to say that it was a bad poem.
+	MC	It came out nice...or, how should I put it...
+	MC	It sounds just like you.
+	Sayori	Really?
+	MC	Yeah.
+	MC	Especially that last line...
+	Sayori	I made eggs and toast!
+	MC	Even though you were late to school...?
+	Sayori	It's bad to skip breakfast!
+	Sayori	I get all cranky...
+	MC	Well, I guess there's no point in arguing...
+	MC	Anyway, thanks for showing me.
+	Sayori	Ehehe~
+	Sayori	This was so much fun.
+	Sayori	Monika's the best!
+	MC	Ah...yeah.
+	Sayori	But next time, I won't forget.
+	Sayori	And I'm gonna write the best poem ever!
+	MC	Well, I guess I look forward to it.
+	MC	Holy crap...
+	MC	Sayori, did you really write this?
+	Sayori	Of course I did!
+	Sayori	Didn't I tell you yesterday I was gonna write the best poem ever?
+	MC	Yeah, but...
+	MC	I mean, I didn't expect something like this, coming from you.
+	Sayori	Monika taught me a whole lot!
+	Sayori	And I've been really in touch with my feelings recently...
+	MC	I see that...
+	MC	It's almost kind of creepy.
+	Sayori	Creepy...?
+	MC	Well, not exactly...
+	MC	Maybe because I'm so used to you being cheerful...
+	MC	...Well, never mind.
+	MC	I'm thinking too hard about it.
+	MC	The point is, it came out good, so you should be proud of it.
+	Sayori	Aw, thanks~
+	Sayori	I feel like...
+	Sayori	I feel like I was meant to express myself this way.
+	Sayori	It even helps me understand my own feelings a little bit better...
+	Sayori	Writing is like magic!
+	MC	You've gotten pretty passionate about this, huh?
+	MC	I hope you keep it up.
+	Sayori	Yeah!
+	Sayori	Writing's the best!
+	Sayori	I'm gonna keep writing until I die!
+	MC	Ahaha...don't get ahead of yourself.
+	Narrator	Sayori's always had a habit of getting obsessed with something, before dropping it no more than a week later.
+	Narrator	I wonder if this is one of those times?
+	Narrator	But seeing the passion in her eyes makes it hard for me to be pessimistic.
+	Monika	So...what do you think?
+	MC	Hmm...it's very...freeform, if that's what you call it.
+	MC	Sorry, I'm not really the right person to ask for feedback...
+	Monika	Ahaha. It's okay.
+	Monika	Yeah, that kind of style has gotten pretty popular nowadays.
+	Monika	That is, a lot of poems have been putting emphasis on the timing between words and lines.
+	Monika	When performed out loud, it can be really powerful.
+	MC	What was the inspiration behind this one?
+	Monika	Ah...
+	Monika	Well, I'm not sure if I know how to put it...
+	Monika	I guess you could say that I had some kind of epiphany recently.
+	Monika	It's been influencing my poems a bit.
+	MC	An epiphany?
+	Monika	Yeah...something like that.
+	Monika	I'm kind of nervous to talk about deep stuff like that, because it's kind of coming on strongly...
+	Monika	Maybe after everyone is better friends with each other.
+	Monika	Anyway...
+	Monika	Here's Monika's Writing Tip of the Day!
+	Monika	Sometimes when you're writing a poem - or a story - your brain gets too fixated on a specific point...
+	Monika	If you try so hard to make it perfect, then you'll never make any progress.
+	Monika	Just force yourself to get something down on the paper, and tidy it up later!
+	Monika	Another way to think about it is this:
+	Monika	If you keep your pen in the same spot for too long, you'll just get a big dark puddle of ink.
+	Monika	So just move your hand, and go with the flow!
+	Monika	...That's my advice for today!
+	Monika	Thanks for listening~
+	MC	Hm...
+	MC	It's even more abstract than your last one, huh?
+	Monika	Ahaha...
+	Monika	I guess it's just the way I write...
+	Monika	I'm sorry if you don't like it.
+	MC	No, I never said that.
+	MC	It's just a kind of thing I've never really seen before, I guess.
+	Monika	I kind of like playing with my space on the paper...
+	Monika	Choosing where and how to space your words can totally change the mood of the poem.
+	Monika	It's almost like magic.
+	Monika	The way I wrote the lines really short makes it feel like they're trying to speak over the noise.
+	MC	I see...
+	MC	It's still hard for me to tell what it's about, though.
+	Monika	Ahaha.
+	Monika	Sometimes asking what a poem is about isn't the right question.
+	Monika	A poem can be as abstract as a physical expression of a feeling.
+	Monika	Or a conversation with the reader.
+	Monika	So putting it that way, not every poem is {i}about{/i} something.
+	Monika	Anyway...
+	Monika	Here's Monika's Writing Tip of the Day!
+	Monika	Sometimes you'll find yourself facing a difficult decision...
+	Monika	When that happens, don't forget to save your game!
+	Monika	You never know when you might change your mind...
+	Monika	...or when something unexpected may happen!
+	Monika	Wait...is this tip even about writing?
+	Monika	What am I even talking about?
+	Monika	Ahaha!
+	Monika	...That's my advice for today!
+	Monika	Thanks for listening~
+	Monika	You know...
+	Monika	I feel like learning and looking for answers are the sorts of things that give life meaning.
+	Monika	Not to get too philosophical or anything...
+	Monika	But it was kind of on my mind, so that's what I wrote about.
+	MC	I see...
+	MC	I never really put much thought into it.
+	Monika	In a way, it's almost paradoxical.
+	Monika	Because if we had all the answers, wouldn't the world start to lose its meaning?
+	MC	You know, there's one thing I noticed...
+	MC	It seems like everyone in the club prefers writing about things that are more sad than happy.
+	Monika	Ahaha. Are you surprised?
+	Monika	I mean, if everything was okay...
+	Monika	We wouldn't really have anything to write about, would we?
+	Monika	Humans aren't two-dimensional creatures.
+	Monika	I think you'd know that better than anyone.
+	MC	You mean one-dimensional...?
+	Monika	Ah...yeah, that!
+	Monika	Anyway...
+	Monika	Here's Monika's Writing Tip of the Day!
+	Monika	Are you ever too shy to share your writing because you're afraid it's not that good?
+	Monika	It can be really disheartening to get a lukewarm response to something you put so much into.
+	Monika	But if you find other people who enjoy writing, then sharing becomes a lot easier!
+	Monika	Because instead of just telling you that your writing is good, or okay, or bad...
+	Monika	They'll want to focus more on everything that went into it, and the things you can work on.
+	Monika	It's much more encouraging that way, and it will make you want to continue improving.
+	Monika	It's almost like having your own little Literature Club, don't you think?
+	Monika	...That's my advice for today!
+	Monika	Thanks for listening~
+	Natsuki	...
+	MC	...?
+	Narrator	sfx/stab.ogg
+	Narrator	<from " + str(currentpos) + " loop 4.444>bgm/5.ogg
+	Natsuki	[player], if you're not going to take this club seriously then go home.
+	MC	W-What??
+	MC	Harsh...
+	Natsuki	What, you expect me to believe that you actually put effort into this?
+	Natsuki	Do you think I'm stupid?
+	MC	I'm not a writer!
+	MC	Maybe it's not very good, but yeah, I did put in effort.
+	MC	We all start somewhere, right?
+	MC	If you're still proud of the first poem {i}you{/i} ever wrote, then I'd like to read it.
+	Natsuki	!!
+	MC	Painful to think about?
+	Natsuki	...
+	Natsuki	Fine.
+	Natsuki	Well, sorry.
+	Natsuki	You'll get better, anyway.
+	Natsuki	I'd tell you what to improve, but you're better off just trying again.
+	MC	Fair enough...
+	MC	Well, to each their own, I guess.
+	Natsuki	Anyway, I guess I gotta share mine now...
+	Natsuki	Knowing you, you'll probably think it's stupid.
+	Natsuki	...
+	MC	...?
+	Natsuki	...Well, it's about what I expected from someone like you.
+	MC	That's a little blunt...
+	Natsuki	Well, excuse me.
+	Natsuki	It's not like I said it was bad.
+	Natsuki	It just didn't evoke any emotions.
+	MC	So basically, it's not cute enough for your tastes?
+	Natsuki	Do you want to get smacked?
+	MC	I'll pass...
+	Natsuki	Sigh...
+	Natsuki	Well anyway, I guess I need to show you mine.
+	Natsuki	Not that you'll like it.
+	Natsuki	...
+	MC	...?
+	Natsuki	...Okay, well let's start with the things I don't like!
+	Natsuki	First of all, um...
+	MC	...
+	Narrator	Natsuki re-reads my poem.
+	Natsuki	N-Never mind. I don't feel like giving you my opinion.
+	MC	Eh? Then what's the point of sharing in the first place?
+	MC	I wrote this when I could have been doing other things.
+	Natsuki	Uu...
+	MC	In fact, remember how I said I wanted to read your poems?
+	MC	That's what I had in mind when writing this.
+	MC	I want to help you feel comfortable enough to share yours.
+	MC	Like Monika said.
+	Natsuki	Uuuu...!
+	Natsuki	Well I would be more comfortable sharing my poem if yours was really bad!
+	Natsuki	You were supposed to show me some dumb poem and make me go 'Hah, well it's not that great but let me show you what real literature looks like!'
+	Natsuki	And you went and ruined it!
+	Natsuki	I hope you're happy!
+	MC	...
+	MC	...So, in other words, you're saying you liked it?
+	Natsuki	Urk--
+	Narrator	Natsuki's retort gets caught in her throat.
+	Natsuki	Uuuuuuuuu...You're so...!
+	Natsuki	You just...you...don't understand anything, do you?
+	Natsuki	I already told you that, you don't have to go announcing it to the world like you're all self-important!
+	MC	Pretty sure you never actually said that...
+	Narrator	I say that mostly to myself.
+	Narrator	Natsuki must really hate me or something.
+	Narrator	I can't figure out if it's a win or a loss that she liked my poem.
+	MC	In any case... You still need to show me yours, right?
+	Natsuki	Gr... Fine, I guess.
+	Natsuki	Only because Monika will make me if I don't.
+	Natsuki	...Hm.
+	Natsuki	Well, I can admit that it's better than the last one.
+	Natsuki	It's nice to see that you're putting in some effort.
+	MC	That's good...
+	Natsuki	But I still don't like this at all.
+	Natsuki	It's trying too hard to be serious.
+	MC	Eh? What do you mean by that?
+	Natsuki	Poems don't need to be all deep-sounding to express something.
+	Natsuki	It's going to just sound like you're forcing it unless you really don't suck at it.
+	Natsuki	Honestly... Don't bother trying to write poems like this until you're on Yuri's level--
+	Narrator	Natsuki stops short all of a sudden.
+	Natsuki	D-Don't...tell me...
+	MC	Eh?
+	Natsuki	You're not...you're not just trying to impress Yuri, are you?!
+	MC	W-What are you talking about?? And keep your voice down...!
+	Natsuki	You know Yuri would love this kind of...this angsty.......!!
+	MC	Just because she's a talented writer doesn't mean...I-I mean...
+	Natsuki	Uu....!!
+	Narrator	Looks like I'm in trouble.
+	Narrator	I somehow struck a nerve, though what I did is beyond me.
+	Natsuki	I am so done with you.
+	Narrator	Natsuki shoves the poem I handed her back over to me.
+	Natsuki	Take your stupid poem. If you wrote it for someone else, just don't show it to me!
+	MC	Ouch...
+	Narrator	This is what I get for letting a younger girl step into my business.
+	Narrator	Unless I was a mind reader, I was destined to be in a world of pain from the start.
+	Narrator	At least Natsuki wasn't really the girl I was trying to impress in the first place...
+	Natsuki	...Hm.
+	Natsuki	I liked your last one better.
+	MC	Eh? Really?
+	Natsuki	Well yeah. I can tell you were a little more daring with this one.
+	Natsuki	But you're really not good enough for that yet. It fell flat.
+	MC	That may be true, but I just wanted to try something different.
+	MC	I'm still figuring this all out.
+	Natsuki	I mean, I always like poems that aren't trying too hard.
+	Natsuki	I hate when people try to sound fancy or add more meaning just by using annoying and complicated language.
+	Natsuki	Just make it simple, cute, and to the point!
+	Natsuki	Yuri's head over heels for all this cryptic nonsense, but I see right through that BS. Hah!
+	Natsuki	Making your reader look so hard for all this deep meaning is just an excuse to have no meaning at all.
+	MC	I guess that's one way to look at it.
+	Natsuki	Well, everyone has their own opinion.
+	Natsuki	But my opinion is the best opinion. I'm sure you've figured that out already.
+	MC	Er...
+	Natsuki	Anyway, here's my poem. Maybe you'll learn something.
+	Natsuki	...Hm.
+	Natsuki	Well, I can admit that it's better than the last one.
+	Natsuki	It's nice to see that you're putting in some effort.
+	MC	That's good...
+	Natsuki	Come to think of it, this kind of reminds me of Sayori's poem from yesterday...
+	MC	Eh? You think so?
+	Natsuki	Yeah. Well I guess if you've been friends with her for so long, you might be on the same wavelength.
+	Natsuki	But you never really struck me as her type.
+	MC	Sayori has a 'type' all of a sudden...?
+	Natsuki	Well, I don't know! But honestly, how can someone so...er, fluffy...spend so much time with someone like you?
+	Natsuki	It's like she's dragging around a dead weight.
+	MC	Uug... That was a little unnecessary...
+	MC	But think of it this way. If it weren't for me, she would probably just fly away like letting go of a balloon.
+	MC	You could say we each take care of each other in our own way.
+	Natsuki	Whatever it is, I don't get it...
+	Natsuki	...Oh, yeah, I guess I'm supposed to show you my poem.
+	Natsuki	Here.
+	Natsuki	...Hm.
+	Natsuki	Well, it's not really any worse than your last one.
+	Natsuki	But I can't really say it's any better, either.
+	MC	Phew...
+	Natsuki	Huh? 'Phew' what?
+	MC	Ah... Well anything that isn't a trainwreck, I'll take as a win.
+	MC	And I get the feeling you're probably the most critical.
+	Natsuki	H-Hey! What makes you--
+	Natsuki	{i}(Wait, maybe that was a compliment...?){/i}
+	Natsuki	A-Ahah! Glad to see someone recognizes my experience!
+	Natsuki	Well then, keep practicing and maybe you'll be as good as me someday!
+	MC	That's...uh...
+	Narrator	Something tells me Natsuki completely missed the point.
+	Natsuki	...Hm.
+	Natsuki	Well, it's not terrible.
+	Natsuki	But it's pretty disappointing after your last one.
+	Natsuki	Then again, if this one was as good as your last one, I would be completely pissed.
+	MC	Well, I guess I wanted to try something a little different this time.
+	Natsuki	Fair enough. You're still new to this, so I wouldn't expect you to find your style right away.
+	Natsuki	...
+	Narrator	Natsuki reads my poem.
+	Narrator	She keeps glancing at me, then back at the poem.
+	Narrator	By now, she must have read it more than once.
+	Natsuki	...Aren't you supposed to be bad at this?
+	MC	...Is that a compliment?
+	Natsuki	N-No! I mean... You know...
+	Narrator	Natsuki struggles to find the words she wants.
+	Natsuki	I just...expected a lot less after what you showed me yesterday.
+	Natsuki	That's all.
+	MC	Well, I guess I just got lucky with this one.
+	Natsuki	Y-Yeah!! Exactly!
+	Natsuki	You just got lucky, you know?
+	Natsuki	Don't get used to it.
+	Natsuki	You won't always manage to write poems this cute. I mean--!
+	Natsuki	I mean well-written! No, I mean--
+	MC	Ah, so that's how it is. My poem is cute?
+	Natsuki	No! Why are you smiling?! It's not like I like cute things!
+	Narrator	Natsuki shoves my poem back towards me.
+	Natsuki	H-Huh! Reading it again, I decided that it's not so great after all.
+	Natsuki	It's too cute and doki-doki.
+	Natsuki	It would only impress...you know, girls...who like those kinds of things.
+	Natsuki	Ahaha!
+	Narrator	For some reason, Natsuki is incredibly easy to see through.
+	Natsuki	Well, anyway...!
+	Natsuki	You're gonna read mine now, right?
+	Natsuki	Judging by your tastes, you'll probably like it a lot.
+	Natsuki	You'll probably learn something, too. Don't forget who the {i}real{/i} pro is.
+	Natsuki	...
+	Narrator	Natsuki reads my poem.
+	Narrator	She keeps glancing at me, then back at the poem.
+	Narrator	By now, she must have read it more than once.
+	Natsuki	Rrgh...
+	MC	...?
+	MC	Is it that bad?
+	Natsuki	No! No, it's not!
+	Natsuki	It's good. It's really good, okay?!
+	Natsuki	There, I said it!
+	Natsuki	Ugh, this wasn't supposed to happen at all...!
+	Natsuki	Why can't you just be bad at this?
+	Natsuki	My poems are supposed to impress {i}you{/i}, not the other way around!
+	MC	You're trying to impress me?
+	Natsuki	Obviously! You think I'd let you enjoy Yuri's writing more than mine?
+	Natsuki	Give me a break.
+	MC	Well...
+	MC	In that case, what's the problem with me trying to impress you?
+	Natsuki	I'll tell you! You--
+	Natsuki	--
+	Narrator	Natsuki's face freezes, like she just realized something.
+	Natsuki	Y-Y-You...
+	Natsuki	You're trying to...impress {i}me?{/i}
+	Narrator	Natsuki vigorously scans her eyes over my poem one more time.
+	Narrator	Then, the poem slips out of her hands and flutters to the floor.
+	Natsuki	I...have to use the bathroom!
+	Narrator	Red-faced, Natsuki quickly walks out of the room.
+	Monika	Hey, [player]...
+	Monika	Did you do something to Natsuki?
+	Monika	I just saw her rush out like that...
+	Monika	You didn't do anything terrible, did you?
+	MC	N-No!
+	MC	I just told her that--
+	Narrator	My voice gets caught in my throat.
+	Narrator	There's no way I could tell Monika that I'm trying to impress Natsuki.
+	Monika	Hmm?
+	Narrator	Monika sees the poem lying on the floor and swiftly picks it up.
+	Narrator	She skims over it a second time, her smile not fading from her face.
+	Monika	I see.
+	Monika	At first I just thought you liked her writing style...
+	Monika	But you wrote this {i}for{/i} Natsuki, didn't you?
+	Narrator	She reads through it, her smile not fading from her face.
+	Monika	I see.
+	Monika	You wrote this for Natsuki, didn't you?
+	MC	I-I mean...
+	MC	Not really...
+	Monika	In fact, didn't she like your poem a lot the other day, too?
+	Monika	I'm surprised you know her taste so well already.
+	Monika	Are you sure you're not cheating, [player]?
+	MC	Cheating...?
+	MC	What do you mean by that?
+	Monika	Never mind, I'm just kidding. Ahaha!
+	Narrator	I didn't understand Monika's joke at all.
+	Monika	Anyway...
+	Monika	How do you think Natsuki feels about you?
+	Monika	Oh, you don't need to answer that.
+	Monika	It was just something for you to think about.
+	Natsuki	Hey!
+	Narrator	Natsuki comes up and snatches the poem out of Monika's hands.
+	Narrator	Neither of us had noticed her reenter the classroom.
+	Natsuki	Did you read this, Monika?
+	Monika	Of course! I liked it!
+	Natsuki	Ugh...
+	Natsuki	You should really stop reading things that aren't for you, you know.
+	Natsuki	You have a bad habit of doing that.
+	Monika	Eh?
+	Monika	But [player] wrote this poem.
+	Monika	And we're supposed to share with everyone, right?
+	Natsuki	Uu--
+	Narrator	Natsuki freezes.
+	Narrator	She apparently forgot that my poem is technically for everyone to read.
+	Natsuki	Okay, well, I think [player] is done sharing this poem with everyone.
+	Natsuki	It's not like anyone would want to read this anyway.
+	Natsuki	In fact, I'm just going to hold onto this.
+	Monika	If you insist~
+	Natsuki	What?
+	Natsuki	Why are you looking at me like that??
+	Monika	Like what?
+	Natsuki	Ugh...
+	Natsuki	Never mind.
+	Narrator	Well, I guess Natsuki has my poem now.
+	Narrator	Not that I really planned on keeping it.
+	Narrator	Sayori
+	Narrator	Yuri
+	MC	Ah, Natsuki...
+	MC	I'll give you the poem, but that's still not very fair to [unfairto]...
+	MC	...She hasn't gotten to read it yet.
+	Natsuki	So what?
+	Monika	Well... I guess [player] is right, Natsuki...
+	Monika	It's not fair if you don't let everyone finish reading it.
+	Natsuki	...
+	Natsuki	...Fine.
+	Narrator	Natsuki returns my poem.
+	Natsuki	It's not like she's going to like it, though.
+	Natsuki	Anyway, read my poem now.
+	Natsuki	And no, I won't let you keep it.
+	Natsuki	This is my only copy.
+	Natsuki	Yeah, no thanks.
+	MC	Eh? You didn't even--
+	Natsuki	{i}Next!{/i}
+	Natsuki	...
+	Natsuki	...Meh.
+	Natsuki	I guess you really haven't learned anything after all.
+	Natsuki	Honestly, I don't know why I got my hopes up in the first place.
+	MC	What? I didn't think this one was that bad...
+	MC	What did I do wrong?
+	Natsuki	...
+	Natsuki	Oh, man.
+	Natsuki	This is seriously a step backwards.
+	MC	Eh?
+	Natsuki	I liked your last two way better than this one.
+	Natsuki	I mean...
+	Natsuki	I guess I can't be mad at you for trying different things.
+	Natsuki	As long as you're not just trying to impress Yuri or something like that.
+	Natsuki	Gross.
+	MC	Okay, okay.
+	MC	Like you said, I'm allowed to try new things.
+	MC	Why are you so emotionally invested in my poems, anyway?
+	MC	Isn't that more of a compliment to me?
+	Natsuki	...Eh?
+	Natsuki	N-No! Gross!
+	Natsuki	It's not like I care!
+	Natsuki	It's just that {i}one{/i} of us in this club has to make sure you're not slacking off.
+	MC	Really?
+	MC	Well, what if you ended up just scaring me away?
+	Natsuki	That's--um...
+	Natsuki	...It's not like you would actually do that.
+	MC	Yeah, you're right.
+	MC	It's kind of fun to hang out here, even if I have to put up with you.
+	MC	{i}Guh--!!{/i}
+	Narrator	Natsuki's elbow connects with my stomach.
+	Natsuki	Oh?
+	Natsuki	Maybe I won't mind scaring you away after all.
+	MC	I was......just joking....
+	Natsuki	Oh, I know!
+	Natsuki	Don't worry, I was too.
+	Natsuki	Ahahaha!
+	MC	...
+	Narrator	How the hell do you call that a joke?
+	Narrator	That seriously hurt.
+	Narrator	Well, maybe it was funny to her...
+	Narrator	...I guess that's kind of the point.
+	Narrator	I should really just watch my mouth around Natsuki.
+	Natsuki	Anyway...
+	Narrator	Natsuki holds her poem out to me like nothing even happened.
+	Natsuki	...
+	Natsuki	...This one's alright.
+	MC	Alright?
+	Natsuki	Well, yeah.
+	Natsuki	It doesn't blow me away.
+	Natsuki	But there's nothing I really hate about it.
+	Natsuki	It's just not really my style. I mean, that's fine.
+	Natsuki	...
+	Natsuki	...This one's alright.
+	MC	Alright?
+	Natsuki	Well, yeah.
+	Natsuki	About as good as yesterday's, anyway.
+	Natsuki	I see what you're going for, but it's just not really my style.
+	Natsuki	I mean, that's fine.
+	Natsuki	I'm mostly just glad that you're trying a little bit.
+	MC	Well, of course I'm at least trying.
+	Natsuki	Let's see, let's see!
+	MC	You're certainly enthusiastic today.
+	Natsuki	Of course.
+	Natsuki	You know I like your writing.
+	MC	I'm just surprised.
+	MC	It seemed like you had a lot of trouble admitting that before.
+	Natsuki	Well... Well, of course!
+	Natsuki	I just had to put you in your place a little bit!
+	Natsuki	It's not like...
+	Natsuki	I mean, it's not like I was shy or anything stupid like that.
+	Natsuki	Or jealous!
+	Natsuki	I really wasn't jealous.
+	Natsuki	Just because you happen to be a good writer?
+	Natsuki	That's such a dumb thing to get jealous about.
+	Natsuki	Ahaha!
+	MC	Natsuki...
+	Natsuki	What??
+	MC	You're not very confident about your writing, are you?
+	Natsuki	...Eh?
+	Natsuki	W-What are you talking about?
+	Natsuki	My writing is obviously the best...
+	Natsuki	...Right?
+	MC	...
+	Narrator	It took me a while to figure out, but I think I finally did.
+	Narrator	Maybe Natsuki acts so arrogant because she's trying to make up for her own insecurities.
+	Narrator	If she acts like she's the best, then other people might think that way, too.
+	Natsuki	Right...?
+	Natsuki	[player]...
+	Natsuki	Please just tell me you like my poems.
+	Natsuki	I don't care if you hate them.
+	Natsuki	Just please tell me I'm the best.
+	Natsuki	I just...
+	Natsuki	I just really need to hear that from someone.
+	Natsuki	I know I sound stupid.
+	Natsuki	But there's a reason I never shared my poems before this.
+	MC	Natsuki...
+	Natsuki	Because...
+	Natsuki	Because nobody ever takes me seriously!
+	Natsuki	What's the point in sharing my poems if people just laugh and say \"That's so cute, just like you, Natsuki!\"
+	Natsuki	Sometimes I don't want to be cute!
+	Natsuki	But nobody understands that!
+	Natsuki	I try really hard when I write.
+	Natsuki	The style doesn't matter.
+	Natsuki	The emotions are there.
+	Natsuki	Why can't anyone {i}see{/i} that...?
+	Natsuki	I just want...
+	Narrator	Natsuki trails off.
+	Narrator	Maybe it's because her lip started to quiver.
+	Narrator	I look down.
+	Narrator	Her fists are clenched really tightly.
+	MC	Hey, Natsuki.
+	MC	If you're not careful, you'll rip your own poem.
+	Narrator	I gently grab the poem with my own hand until she relaxes her grip on it.
+	Narrator	I place it flat on the desk and smooth out the wrinkles that she put into it.
+	Natsuki	D-Don't read it!
+	Narrator	Before I can pick it back up, Natsuki snatches the poem up from the desk.
+	Natsuki	It's not any good.
+	Natsuki	And I know you hate my poems.
+	Natsuki	So you don't have to read this one, okay?
+	MC	But I want to read it.
+	Natsuki	W-Why?
+	MC	Because.
+	MC	I like your poems.
+	MC	I really do.
+	MC	Why would I judge you for your style?
+	MC	It's not like my own style is anything crazy.
+	MC	I mean, it's true that the first time I read one of your poems, I didn't look much into it.
+	MC	But I know you better now.
+	MC	And it's wrong for Yuri to think your style is more amateur than hers.
+	MC	And Sayori... She always means well...
+	MC	But sometimes she's so focused on simple happiness that she doesn't understand what people really want.
+	MC	Yeah... I guess I never really thought about how hard it is for you.
+	MC	And I'm sorry if I was part of that problem.
+	MC	I understand now.
+	MC	You're not just cute, you're a lot more than that.
+	MC	Ah-- Natsuki, you're doing it again--
+	Narrator	Once again, Natsuki clutches her poem a little too hard.
+	Narrator	She looks down, hiding her eyes from me.
+	Narrator	I never realized how difficult this was for her.
+	Narrator	But finally, she forces herself to extend her arms and set her poem on the table.
+	Natsuki	You can...read it.
+	Natsuki	Just turn that way.
+	Natsuki	I don't want you to...look at my face right now.
+	MC	Okay, I will.
+	Natsuki	...
+	Natsuki	...Finally!
+	MC	Eh?
+	Natsuki	This one. It's good!
+	Natsuki	I was wondering how long it would take you.
+	MC	All right!
+	Natsuki	Yeah, seriously.
+	Natsuki	Don't listen to what anyone else says.
+	Natsuki	Especially Yuri.
+	Natsuki	Just keep writing poems like this. That's all you need!
+	MC	Er...
+	MC	Are you sure that's not just what {i}you{/i} want?
+	Natsuki	Excuse me?
+	Natsuki	You're talking to a pro, you know.
+	Natsuki	Don't you think you should trust my opinion the most?
+	MC	I guess that depends.
+	MC	Aren't you biased towards poems that are more simple and cute?
+	Natsuki	Biased?
+	Natsuki	Of course not.
+	Natsuki	My opinion just happens to be the best.
+	MC	...
+	Narrator	There's one thing I still can't tell.
+	Narrator	Is Natsuki actually self-aware of her spoiled behavior?
+	Narrator	At this rate, I don't know if I'll ever figure it out.
+	MC	...Fair enough.
+	MC	I'm glad that you like my poem, after all.
+	Natsuki	Ahaha!
+	Natsuki	I knew you'd finally understand.
+	Natsuki	Just keep showing me your poems and you'll be a pro before you know it.
+	Natsuki	Anyway, here's the one I wrote.
+	Sayori	...
+	Sayori	...Wow!
+	Sayori	[player]...
+	Sayori	Your poem is really bad!
+	Sayori	Ahahaha!
+	MC	Eh?!
+	Sayori	It's fine, it's fine~
+	Sayori	It's your first time.
+	Sayori	Besides...
+	Sayori	I'm really happy just that you wrote one.
+	Sayori	It just reminds me of how you're really a part of the club now~
+	Narrator	(Not to mention the fact that I'm standing in front of you in the clubroom...?)
+	MC	Er...well, of course.
+	MC	I'm not really into it yet, but that doesn't mean I'll break my promise.
+	Sayori	See?
+	Sayori	It's like I said before, [player]...
+	Sayori	Deep down, you're not selfish at all, you know?
+	Sayori	Trying new things like this for other people...
+	Sayori	That's something that only really good people do!
+	MC	Thanks...Sayori.
+	Narrator	...I'm not sure if Sayori sees the full picture of my motive here.
+	Narrator	Then again...
+	Narrator	I can't deny that she's part of the reason I joined.
+	Narrator	Knowing how much this means to her and all...
+	Sayori	Yeah.
+	Sayori	And I'm gonna make sure you have lots of fun here, okay?
+	Sayori	That will be my way of thanking you~
+	MC	Alright, I'm going to hold you to that, then.
+	Sayori	Yay~!
+	Sayori	Now, you'll read my poem too, right?
+	Sayori	Don't worry, I'm really bad at this.
+	Sayori	Ehehe...
+	MC	We'll see about that.
+	Sayori	...
+	Sayori	This is a good poem, [player]!
+	Sayori	Are you sure it's your first time?
+	MC	Of course...
+	MC	It's not that good.
+	MC	Am I the kind of guy who would be writing poems in his spare time?
+	Sayori	Ehehe, I guess you're right~
+	Sayori	But that's why it impressed me!
+	Sayori	Well, to be honest...
+	Sayori	I was afraid that you wouldn't do it seriously...
+	Sayori	Or that you wouldn't write one at all.
+	Sayori	...
+	Sayori	...Oh my goodness!
+	Sayori	This is sooooo good, [player]!
+	MC	Eh?
+	Sayori	I love it~!
+	Sayori	I had no idea you were such a good writer!
+	MC	Sayori...
+	MC	You must be seriously overreacting.
+	MC	I'm not a good writer at all.
+	MC	I honestly have no idea what I'm doing.
+	Sayori	Well...
+	Sayori	Maybe that's why!
+	Sayori	Because I have no idea what I like, either!
+	Sayori	Ahahaha!
+	MC	Jeez...
+	Narrator	Yuri's opinion was way more constructive than this...
+	Narrator	I'm sure Yuri's opinion has to be a little more constructive than this.
+	Narrator	Maybe even Natsuki's.
+	MC	Are you sure you don't like it just because I wrote it?
+	Sayori	Eh?
+	Sayori	Well, I'm sure that's part of it.
+	Sayori	I think I understand you better than a lot of other people, you know?
+	Sayori	So when I read your poem...
+	Sayori	It's not just a poem...
+	Sayori	It's a [player] poem!
+	Sayori	And that makes it feel extra special!
+	Sayori	Like I can feel your feelings in it~
+	Narrator	Sayori hugs the sheet against her chest.
+	MC	You're so weird, Sayori...
+	Sayori	Ehehe...
+	Sayori	...
+	Sayori	Ehehe, I love reading your poems~
+	Sayori	It's like I never know what I'm going to get!
+	MC	So basically you're saying it sucks.
+	Sayori	No! Not at all!
+	Sayori	...Maybe!
+	Sayori	Just a little?
+	Sayori	Yuri must have spoiled me a little bit with her poems...
+	Sayori	Ehehe...
+	MC	It's fine, it's fine.
+	MC	After all, I still have no idea what kinds of writing you even like.
+	Sayori	Yeah!
+	Sayori	Me neither!
+	MC	Ugh...
+	MC	Why don't you at least try giving it some thought?
+	Sayori	Aww, you want to write something for me?
+	Sayori	That's so sweet~
+	MC	Yeah, right.
+	MC	But you're always thinking about other people.
+	MC	You need to think about yourself once in a while.
+	MC	If you don't, you might end up getting hurt at some point.
+	Sayori	Ehh?
+	Sayori	Well...
+	Sayori	I don't really know what you mean, but I'll try to keep it in mind!
+	MC	Well, whatever...
+	Sayori	Anyway, let's see...
+	Sayori	Hmm...
+	Sayori	I guess I like...happy poems~
+	Sayori	Wait, sometimes I like sad poems too...
+	Sayori	Sometimes a little bit of both...
+	Sayori	There's a word for that, right...?
+	Sayori	What's the word I'm looking for...
+	Sayori	...Bittersweet!
+	Sayori	Yeah!
+	Sayori	I like things that are happy and things that are sad.
+	MC	Happy and sad?
+	MC	I can't see you liking something sad, Sayori...
+	Sayori	Well...
+	Sayori	I like happy the most!
+	Sayori	But sometimes when you have a little raincloud in your head...
+	Sayori	A sad poem can help give the raincloud a little hug...
+	Sayori	...And make a nice happy rainbow!
+	MC	...Sayori, that's unexpectedly poetic.
+	Sayori	Eh? It is?
+	Sayori	Maybe I'm getting better at expressing my feelings after all!
+	Sayori	Thanks, [player]!
+	Sayori	I should go write that down, then~
+	Sayori	You can read my poem now, okay?
+	Sayori	...
+	Sayori	Ooh!
+	Sayori	I like this one, [player]!
+	Sayori	It has some nice feelings in it~
+	MC	Ah, I'm glad.
+	MC	So it's at least better than yesterday's.
+	Sayori	Uh-huh!
+	MC	Maybe I'm getting better at this, then.
+	Sayori	Well, I'm not very good at figuring out if poems are good or bad...
+	Sayori	But that's why I just go by my heart~
+	Sayori	If it makes me feel things, then it must be a good poem!
+	Narrator	I'm not sure that's exactly how it works...
+	Narrator	...Then again, I guess conveying feelings is a pretty important part of this whole thing.
+	MC	Yeah, maybe...
+	MC	Honestly, I don't even know what kind of writing you like in the first place.
+	Sayori	...
+	Sayori	Ooh!
+	Sayori	I like this one, [player]!
+	Sayori	It has some nice feelings in it~
+	MC	Ah, I'm glad.
+	MC	Does that mean it's better than yesterday's?
+	Sayori	Mmm, lemme think...
+	Sayori	I dunno!
+	Sayori	I guess I like them both!
+	Sayori	Ehehe~
+	MC	That's not very helpful, you know...
+	Sayori	...
+	Sayori	Ooh!
+	Sayori	I like this one, [player]!
+	Sayori	It has some nice feelings in it~
+	MC	Ah, I'm glad.
+	MC	Still, though...
+	MC	Your tone makes it sound like you liked yesterday's poem better.
+	Sayori	Ehehe, I guess you caught me...
+	Sayori	Sometimes you know me a little too well for my own good!
+	MC	Well, don't just try to be nice about it.
+	MC	If I'm doing a bad job then I'd rather just hear it.
+	Sayori	No, no!
+	Sayori	I still liked this one! I promise!
+	Sayori	You know I wouldn't lie to you, [player]...!
+	Sayori	Never ever!
+	MC	Yeah, I guess so...
+	MC	What made yesterday's poem so great compared to this one, then?
+	Sayori	Umm.....
+	Sayori	...
+	Sayori	...Oh my goodness!
+	Sayori	This is sooooo good, [player]!
+	MC	Eh?
+	Sayori	I love it~!
+	Sayori	Especially after yesterday's poem!
+	MC	Ugh...
+	MC	You're too honest sometimes, Sayori.
+	Sayori	No, but really!!
+	Sayori	I wanna put this on my wall~
+	Sayori	Can I?
+	MC	Sayori...
+	MC	You must be seriously overreacting.
+	MC	I'm not a good writer at all.
+	MC	I honestly have no idea what I'm doing.
+	Sayori	Well...
+	Sayori	Maybe that's why!
+	Sayori	Because I have no idea what I like, either!
+	Sayori	Ahahaha!
+	MC	Jeez...
+	Narrator	I'm sure Yuri's opinion has to be a little more constructive than this.
+	Narrator	Maybe even Natsuki's.
+	MC	Are you sure you don't like it just because I wrote it?
+	Sayori	Eh?
+	Sayori	Well, I'm sure that's part of it.
+	Sayori	I think I understand you better than a lot of other people, you know?
+	Sayori	So when I read your poem...
+	Sayori	It's not just a poem...
+	Sayori	It's a [player] poem!
+	Sayori	And that makes it feel extra special!
+	Sayori	Like I can feel your feelings in it~
+	Narrator	Sayori hugs the sheet against her chest.
+	MC	You're so weird, Sayori...
+	Sayori	Ehehe...
+	Sayori	...
+	Sayori	[player]...
+	Sayori	I really love your poems.
+	Sayori	I can't believe you've been hiding these from me!
+	MC	Eh? I'm not hiding anything!
+	Sayori	But...
+	Sayori	Your poems are sooo good...
+	Sayori	Yesterday's, and this one too!
+	Sayori	You can't tell me you haven't done this before!
+	MC	I mean...
+	MC	You're really the only one who feels that way, so...
+	Sayori	Eh?!
+	Sayori	No way!!
+	Sayori	Not even Natsuki...?
+	MC	Well, I guess Natsuki is the least likely to admit how much she likes something...
+	MC	But I don't think it's that.
+	Sayori	What do you mean?
+	MC	Well...
+	MC	I guess I'll be honest about it.
+	MC	It's a lot easier to write poems when I'm thinking about you.
+	Sayori	E-Eh?!
+	Sayori	Wawawa--!
+	MC	Stop thinking weird things, idiot!
+	MC	I just mean that you're a really...expressive person, I guess.
+	MC	How am I supposed to write poems about my own stupid life?
+	MC	But you somehow make everything in your life an adventure.
+	MC	Even the little things.
+	Sayori	Like cooking!!
+	MC	Let's not talk about that!
+	Sayori	Ehehe...
+	MC	So, yeah...
+	MC	I guess what I'm saying is that I can feel more feelings through you than I can through myself.
+	MC	We have that kind of weird connection.
+	MC	It's your fault for getting in my business all the time.
+	Sayori	Ehh...?
+	Sayori	I don't know if I understand...
+	MC	Sigh...
+	MC	You never understand when I try to explain things to you, do you, Sayori?
+	Narrator	I pat Sayori's head.
+	Sayori	Ahaha! Heyyy!
+	Sayori	I'm not a kid, you know!
+	MC	Are you sure about that?
+	Sayori	Mmmm, maybe~
+	Narrator	Sayori starts fiddling with her pencil between her hands.
+	Sayori	Hey, [player]...
+	Sayori	Will you give me your poem?
+	Sayori	I kinda want to keep it.
+	MC	Huh? Why?
+	Sayori	Because...
+	Sayori	Well...
+	Sayori	It's the first time you've written something for me...
+	Sayori	Ehehe...
+	MC	!!
+	MC	Sayori, you completely misunderstood!
+	MC	I didn't write this for you!
+	Sayori	Ehehehehe...
+	MC	Sigh...
+	MC	Are you even listening anymore?
+	MC	Well, whatever.
+	MC	I'll give it to you when we go home.
+	Sayori	Really?!
+	Narrator	{i}Snap!{/i}
+	Sayori	A-Ah!!
+	Sayori	I broke my pencil...
+	Narrator	Sayori hastily bends down to pick up the piece she dropped.
+	Narrator	But being inattentive of her surroundings, she bumps right into me.
+	Sayori	S-S-Sorry--!!
+	MC	It's fine, it's fine.
+	MC	I'll get it for you.
+	Narrator	I bend down and pick up the broken pencil.
+	Narrator	Sayori clutches the desk beside her to support herself, knees shaking.
+	Sayori	I-I'm a little clumsy today...
+	Sayori	Ahahaha...
+	MC	Let's sit down, Sayori...
+	Sayori	Y-Yeah...
+	Narrator	I grab Sayori's arm and help her sit at the desk.
+	MC	Anyway, I still haven't read your poem...
+	Sayori	Oh!
+	Sayori	Sorry, I forgot about that~
+	Sayori	But it's not as good as yours!!
+	MC	Jeez, don't worry.
+	MC	I'm sure I'll like it.
+	Narrator	Yuri
+	Narrator	Natsuki
+	Sayori	...
+	Sayori	...Hm.
+	Sayori	It's nice, I guess~
+	MC	Come on, I can already tell you don't like it.
+	Sayori	Well...
+	Sayori	You don't need to worry about what I think.
+	Sayori	After all, you wrote this for someone else, didn't you?
+	Sayori	Probably [currentname]...
+	MC	Eh??
+	MC	I didn't write this for anyone specifically!
+	Sayori	Maybe...
+	Sayori	That's not really what I meant, though.
+	Sayori	But it's okay.
+	Sayori	You're making new friends, just like I was hoping.
+	Sayori	That makes me...really happy.
+	Sayori	And you're happy too, right?
+	Sayori	In this club?
+	MC	Well...
+	MC	Of course I am.
+	Sayori	Good~
+	Sayori	That's all that matters to me.
+	Sayori	Thank you, [player].
+	MC	Sayori...
+	MC	Is there something wrong?
+	Sayori	Huh?
+	Sayori	No, nothing.
+	Sayori	I'm just a little tired today.
+	Sayori	Ehehe.
+	MC	Alright...
+	MC	Just tell me if you need anything.
+	Sayori	I will.
+	Sayori	Don't worry about me, okay?
+	Sayori	You can go play with everyone else now.
+	MC	If you insist...
+	Sayori	Yaay~
+	Sayori	I'm gonna go home a little bit early today.
+	MC	Sayori...?
+	Sayori	Tell Monika I wasn't feeling well, okay?
+	Sayori	I'll see you tomorrow~
+	Narrator	Before I can say anything else, Sayori cheerfully walks out of the classroom, humming to herself.
+	Narrator	sayori" and poemwinner[1] != "sayori
+	Sayori	...
+	Sayori	This is your best one so far.
+	Sayori	It's really really nice, [player]~
+	MC	Er-- Thanks.
+	Sayori	Mhm~
+	MC	...
+	MC	Sayori, you've been a little quiet today.
+	MC	Is everything alright?
+	Sayori	E-Eh??
+	Sayori	Of course!
+	Sayori	Everything is fine~
+	Sayori	Maybe I'm just a little tired today.
+	Sayori	Ehehe.
+	MC	Do you want to nap or something?
+	Sayori	No, that's silly!
+	Sayori	Don't worry about me, okay?
+	Sayori	I only want to see smiles on your face~
+	MC	Well, alright...
+	Sayori	Hey, [player]...
+	Sayori	I'm still a little surprised.
+	Sayori	I really thought that you would try writing your poems like the way Yuri does...
+	Sayori	Or even Natsuki...
+	Sayori	But in the end...
+	MC	...Yeah.
+	MC	I guess you're the one who likes this one the most.
+	Sayori	...Why?
+	Sayori	You don't want to get closer with everyone else?
+	MC	Wait!
+	MC	Of course I do!
+	MC	But that doesn't mean I need to try so hard to impress them.
+	MC	I still understand you the most, Sayori.
+	MC	I know you have to sometimes put up with me.
+	MC	And I have to sometimes put up with you.
+	MC	But we have...a wavelength or something.
+	MC	And this is how the poem came out.
+	MC	Sometimes it feels like you're the only exciting thing in my life.
+	MC	So sometimes it's just easier to write when thinking about you.
+	MC	...Sayori?
+	Sayori	N-No...
+	Sayori	[player]...
+	Sayori	I don't...deserve this...
+	Sayori	You're too nice to me...
+	Sayori	Why are you doing this...?
+	Narrator	Sayori has trouble keeping her voice steady, all of a sudden.
+	Sayori	If you had fun with everyone else instead...
+	Sayori	This would be...so much easier!
+	MC	Sayori...!
+	Narrator	I glance around the room to make sure nobody has noticed this.
+	MC	Sayori.
+	MC	I've probably never said this before, but I don't understand what you're feeling right now.
+	MC	Tell me what will cheer you up.
+	Narrator	Sayori shakes her head.
+	Narrator	She sniffles and keeps shaking her head.
+	Narrator	Finally, she gathers herself and puts on a smile.
+	Sayori	It's nothing, [player].
+	Sayori	It's just a little raincloud.
+	Sayori	I'm sorry you had to see that. Ahahaha!
+	Sayori	I promise it won't happen again.
+	Sayori	Just smiles from everyone, okay?
+	Sayori	That's all that matters.
+	Sayori	Go play with everyone else.
+	Sayori	I'm gonna go home a little bit early today~
+	MC	Sayori--
+	Sayori	Tell Monika I wasn't feeling well, okay?
+	Sayori	I'll see you tomorrow~
+	Narrator	Before I can say anything else, Sayori cheerfully walks out of the classroom, humming to herself.
+	Yuri	...
+	Yuri	Mm...
+	Yuri	...
+	Narrator	Yuri stares at the poem.
+	Narrator	A minute passes, more than enough time for her to finish reading.
+	MC	Um...
+	Yuri	Oh!
+	Yuri	S-Sorry...!
+	Yuri	I forgot to start speaking...
+	Yuri	U-Um!
+	MC	It's fine, don't force yourself.
+	Yuri	I'm not...
+	Yuri	I just need to put my thoughts into words.
+	Yuri	Hold on...
+	Yuri	...Okay.
+	Yuri	This is your first time writing a poem, right?
+	MC	Er, yeah...
+	MC	Why do you ask?
+	Yuri	I'm just making sure.
+	Yuri	I guessed that it might be after reading through it.
+	MC	Ah, so it's that bad.
+	Yuri	No!!
+	Yuri	...Did I just raise my voice...?
+	Yuri	Uu, I'm so sorry...
+	Narrator	Yuri buries her face in her hands.
+	Narrator	I couldn't help but notice that it's been several minutes and we really haven't gotten anywhere.
+	Narrator	It might take Yuri a while to get used to new people...
+	MC	It's fine, I really didn't notice.
+	MC	What were you saying?
+	Yuri	Right...um...
+	Yuri	It's just that there are specific writing habits that are usually typical of new writers.
+	Yuri	And having been through that myself, I kind of learned to pick up on them.
+	Yuri	I think the most noticeable thing I recognize in new writers is that they try to make their style very deliberate.
+	Yuri	In other words, they tend to pick a writing style separate from the topic matter, and they form-fit the two together.
+	Yuri	The end result is that both the style and the expressiveness are weakened.
+	Narrator	Once Yuri finds her train of thought, it's as if her demeanor totally changes.
+	Narrator	Her stammering is completely gone, and she sounds like an expert.
+	Yuri	Of course, that's not something you can be blamed for.
+	Yuri	There are so many different skills and techniques that go into writing even a simple poem.
+	Yuri	Not just finding them and building them, but getting them to work together is probably the most challenging part.
+	Yuri	It might take you some time, but it all comes with practice, and learning by example, and trying new things.
+	Yuri	I also hope that everyone else in the club gives you valuable feedback.
+	Yuri	Natsuki can be a little bit biased, though...
+	MC	Biased? How?
+	Yuri	U-Um...
+	Yuri	Well...
+	Yuri	Never mind...
+	Yuri	I shouldn't be talking about people like that...
+	Yuri	Sorry...
+	MC	It's fine.
+	Narrator	I'm not sure if Yuri is apologizing to herself, to me, or to Natsuki.
+	MC	Do you mind if I read your poem now?
+	Yuri	Please do!
+	Yuri	I'd love to share my thought process behind it...
+	Narrator	Yuri smiles dreamily, as if that's a rare opportunity for her.
+	Narrator	Which itself is kind of funny...
+	Narrator	...After all, isn't this supposed to be a literature club?
+	Yuri	...
+	Narrator	As Yuri reads the poem, I notice her eyes lighten.
+	Yuri	...Exceptional.
+	MC	Eh? What was that?
+	Yuri	...?
+	Yuri	D-Did I say that out loud...?
+	Narrator	Yuri first covers her mouth, but then ends up covering her whole face.
+	Yuri	I...!
+	Yuri	Uu...
+	Yuri	{i}(He's going to hate me...){/i}
+	MC	Um...
+	MC	You really didn't do anything wrong, Yuri...
+	Yuri	Eh...?
+	Yuri	That's...
+	Yuri	I-I guess you're right...
+	Yuri	What am I getting so nervous for?
+	Yuri	A-Ahaha...
+	Narrator	Yuri takes a breath.
+	Yuri	So...
+	Yuri	What kind of writing experience do you have?
+	Yuri	Your use of imagery and metaphors indicates you've written a lot of poetry before.
+	MC	Really...?
+	MC	Wow, that's a huge compliment coming from you.
+	MC	This is actually my first time, really.
+	Yuri	Huh...?
+	Narrator	Yuri stares at me blankly, then looks at my poem again.
+	Yuri	...
+	Yuri	...Well, I know that!
+	Yuri	I just meant...u-um...
+	Narrator	Yuri trails off, unable to find an excuse.
+	Narrator	She traces her finger along the words in the poem, as if breaking it down more thoroughly.
+	Yuri	...Yeah.
+	Yuri	Okay.
+	Yuri	This is the reason I was able to tell.
+	Yuri	...
+	Yuri	Um...
+	Yuri	...Are you still mad at me?
+	MC	Eh?!
+	Yuri	For disrespecting Natsuki yesterday...
+	Yuri	Because reading this poem...
+	Yuri	Now I know why you got mad at me.
+	Yuri	Because you...
+	Yuri	You prefer her writing over mine!
+	MC	That's not really true...!
+	Yuri	Meaning when I disrespected her...
+	Yuri	I disrespected you too...didn't I?
+	Yuri	Oh no...
+	MC	Yuri...
+	MC	You might be reading into this a little too much...
+	Yuri	How could I be so stupid...?
+	Yuri	I always let these things happen...
+	Yuri	Whenever I think before I speak, I just come off as awkward and unlikable.
+	Yuri	But if I speak without thinking, the things I want to keep inside come out and make people hate me.
+	Yuri	So...please don't force yourself to be around me.
+	Yuri	I know this is what Monika wants.
+	Yuri	But it's not fair to you when you could be enjoying your time with Natsuki and Sayori.
+	MC	Yuri--
+	Yuri	Please...
+	Yuri	It makes it easier for me if you don't express any concern.
+	Yuri	Besides...
+	Yuri	I have my books with me.
+	Yuri	That's...all I need.
+	MC	...
+	Narrator	Yuri smiles sadly and puts her head down on her desk.
+	Narrator	I'm frustrated.
+	Narrator	I don't hate her, but it's as if she's not capable of listening to me over her own thoughts.
+	Narrator	I sigh to myself.
+	Narrator	All I can do is accept that that's how she is.
+	Narrator	If she wants to be left alone, then I have no choice but to abide to that request.
+	Yuri	Ah, is it my turn?
+	Yuri	Let's see how it compares to yesterday's...
+	Yuri	Mm...
+	Yuri	I see...
+	Yuri	It's a bit different.
+	Yuri	I respect you for trying different things, [player].
+	Yuri	Were you inspired by Natsuki's poem?
+	Yuri	Or Sayori's, perhaps?
+	MC	Well...
+	MC	I guess you could say that...
+	Yuri	I thought so.
+	Yuri	I'm happy for you.
+	Yuri	You don't need to find inspiration in my poems.
+	Yuri	I write them for myself...
+	Yuri	...Not for anyone else.
+	Yuri	So I don't really...need for people to like them or anything.
+	MC	Yuri!
+	Yuri	E-Eh?
+	MC	I'm sorry for being blunt, but you're overthinking this a little.
+	MC	Just because our styles are different doesn't mean I dislike your poems...
+	MC	In fact, if I tried to do something in your style, I would probably just do a terrible job.
+	Yuri	I...I see...
+	Yuri	I'm sorry...
+	Yuri	My stupid mind...it likes to do that sometimes.
+	Yuri	Anyway...
+	Yuri	You don't need to be afraid to be a little more daring...
+	Yuri	Metaphors can go a long way.
+	Yuri	Don't feel like you need to work your brain like turning a bunch of gears.
+	Yuri	Try letting your mind wander through your feelings...
+	Yuri	And write down the things you see and hear.
+	Yuri	That's one way to truly enable your reader to see into your mind.
+	Yuri	It's a very intimate exercise...
+	MC	I see.
+	MC	That's a certainly interesting technique.
+	MC	Thanks for sharing.
+	Yuri	I have, um...
+	Yuri	...Well, an example of that, if you'd like to read it...
+	MC	Of course.
+	MC	Is this the poem you wrote for today?
+	Narrator	Yuri nods, and timidly hands me her poem.
+	Yuri	Let's see what you've written for today.
+	Yuri	...
+	Yuri	Mm...
+	Yuri	Well done, [player].
+	Yuri	Your skills are already improving.
+	MC	Really?
+	MC	Thanks, Yuri.
+	MC	Coming from you, that means a lot.
+	Yuri	Eh?
+	Yuri	I-It's nothing!
+	Yuri	I'm just happy to help inspire fellow writers...
+	Yuri	I know you're new to this, so don't worry so much if it seems like you can't get your poem to feel perfect.
+	Yuri	Let's see what you've written for today.
+	Yuri	...
+	Yuri	Mm...
+	Yuri	This is pretty good, [player].
+	Yuri	Were you influenced by seeing everyone's writing styles yesterday?
+	MC	I guess you could say that...
+	Yuri	I was also a bit surprised by how differently everyone writes.
+	Yuri	So I respect you for trying new things.
+	Yuri	Let's see what you've written for today.
+	Yuri	...
+	Yuri	......
+	Narrator	Yuri stares at the poem with a surprised expression on her face.
+	MC	Do you...like it?
+	Yuri	[player]...
+	Yuri	...How did you pick up on this so quickly?
+	Yuri	Just yesterday, I was telling you the kind of techniques worth practicing...
+	MC	Maybe that's why...
+	MC	You did a good job explaining.
+	MC	I really wanted to try giving it more imagery.
+	Narrator	Yuri visibly swallows.
+	Narrator	Even her hands appear sweaty.
+	Yuri	I'm not...used to this...
+	MC	Used to what?
+	Yuri	I don't know...!
+	MC	It's fine, take your time...
+	Narrator	Yuri breathes and collects her thoughts.
+	Narrator	I know that Yuri likes to think before she speaks, so I offer that patience to her.
+	Yuri	Yeah...
+	Yuri	Just...being appreciated like this...I guess.
+	Yuri	It probably sounds really stupid...
+	Yuri	But seeing someone motivated by my writing...
+	Yuri	It just makes me...
+	Yuri	Really happy...
+	MC	Are you saying you've never shared your writing before?
+	Narrator	Yuri nods.
+	MC	Really? I don't believe it.
+	Yuri	I really only write for myself...
+	Yuri	And besides...
+	Yuri	...People would just laugh at me!
+	MC	Do you really think that...?
+	Narrator	Again, Yuri nods.
+	MC	Huh...
+	MC	Even your close friends?
+	Yuri	...
+	Narrator	Yuri doesn't respond to that.
+	Narrator	I wonder why...
+	MC	Anyway...
+	MC	Do you want to share the poem you wrote today?
+	Yuri	...Yeah.
+	Yuri	I do!
+	Yuri	If it's with you...
+	Yuri	Let's see what you've written for today.
+	Yuri	...
+	Yuri	......
+	Narrator	Yuri stares at the poem with a surprised expression on her face.
+	MC	Do you...like it?
+	Yuri	[player]...
+	Yuri	This one might even be better than yesterday's...
+	Yuri	...How did you even pick up on this so quickly?
+	Yuri	...
+	Narrator	Yuri doesn't look too enthusiastic about spending time with me...
+	Narrator	I guess if she changes her mind, she'll come to me.
+	Narrator	But I should leave her be for now.
+	Yuri	...
+	Yuri	...I see.
+	Yuri	I think you're improving at writing in general, [player].
+	Yuri	But I can't help but feel a little bit foolish.
+	MC	Eh? What for?
+	Yuri	Just...
+	Yuri	I feel like I kept trying to offer advice...
+	Yuri	When it should have been clear to me that you prefer a different writing style.
+	Yuri	I probably just sounded arrogant!
+	Yuri	I'm so stupid...
+	MC	Yuri, that's a little--
+	Yuri	No...
+	Yuri	You don't understand.
+	Yuri	I spent so much time worrying about what's better and what's worse.
+	Yuri	Not just with you...
+	Yuri	With Natsuki, and Sayori...
+	Yuri	It's obvious now why nobody has fun when talking to me...
+	Yuri	And because of that...
+	Yuri	...I'll just keep my mouth shut about your poem!
+	MC	...
+	Narrator	Yuri buries her head into her arms on her desk.
+	Narrator	That's not the first time I've seen her do that.
+	MC	I don't think it's ever as bad as you make it sound in your head...
+	Yuri	...
+	MC	I think if people really didn't like talking to you...
+	MC	Then it would be a lot more obvious.
+	MC	I know that you like to read deeply into things.
+	MC	But some things are just worth taking at face value.
+	Yuri	I just...
+	Yuri	I've gotten so used to it...
+	Yuri	...That it's hard for me to comprehend any other possibility.
+	MC	Gotten used to what?
+	MC	Reading deeply into things?
+	Yuri	Being disliked.
+	MC	Yuri...
+	Yuri	What...what am I saying?
+	Yuri	I'm sorry...
+	Yuri	I never meant to bring this up...
+	Narrator	Yuri turns away from me.
+	Yuri	You should go...
+	MC	Eh...?
+	Yuri	Please...
+	Yuri	Please don't look at me right now.
+	Yuri	I want to do some thinking...
+	MC	Are you sure...?
+	Narrator	Yuri nods.
+	MC	Alright...
+	Narrator	I leave Yuri be.
+	Narrator	Comforting or reassuring her is nearly impossible as it is.
+	Narrator	So when she wants to be alone, I think anything I say could only make things worse.
+	Narrator	I feel bad, but thankfully she doesn't take it out on me...
+	Narrator	I'll wait until she's feeling a little bit better.
+	Yuri	...
+	Yuri	...Ah.
+	Yuri	Decided to try something different today?
+	MC	I guess so.
+	MC	Is that good, or bad?
+	Yuri	Well, neither.
+	Yuri	I have my preferences.
+	Yuri	But it would be unfair of me to call something good or bad based on that.
+	Yuri	As always, I believe what's most important is exploring and discovering yourself.
+	MC	That's comforting.
+	MC	I'm kind of afraid of disappointing you in some way or another.
+	Yuri	Eh...?
+	Yuri	Why me...?
+	MC	Well, you're always sophisticated with your writing and have the most advice to share.
+	Yuri	Is that so...?
+	Yuri	...
+	Narrator	Yuri thinks for a good minute.
+	Yuri	...That must be terrible.
+	MC	Eh?
+	Yuri	For me to have become someone whose opinion is fearsome...
+	Yuri	How unlikable of me...
+	MC	Yuri...
+	MC	It's not as bad as you're making it sound in your head.
+	MC	I just meant that I respect your opinion.
+	Yuri	I see...
+	Yuri	I'm sorry that I always overthink and come to those sorts of conclusions...
+	Yuri	I'm just...a little too used to it.
+	MC	Overthinking?
+	Yuri	Being disliked.
+	MC	Yuri...
+	Yuri	What...what am I saying?
+	Yuri	I'm sorry, I didn't mean to bring that up...
+	Yuri	Let's move on...
+	MC	Alright...
+	MC	Do you want to share your poem now?
+	Yuri	Okay...
+	Yuri	Here.
+	Yuri	...
+	Yuri	Well done, [player].
+	Yuri	You've definitely improved your writing over the course of these few days.
+	Yuri	Has my advice been helpful to you?
+	MC	Yeah... Definitely.
+	Yuri	I'm glad...
+	Yuri	Sharing our writing like this...
+	Yuri	It's a lot more fun and rewarding than I anticipated.
+	Yuri	I need to remember to thank Monika...
+	Yuri	I think we all felt a little awkward at first.
+	Yuri	But now it seems like everyone is enjoying sharing their writing and seeing what others think.
+	MC	I guess I can't really disagree.
+	MC	I was afraid this whole thing would be a chore...
+	Narrator	But it's a great way for me to spend some personal time with all the girls in the club.
+	MC	But it's been fun getting to know everyone and their writing.
+	MC	And I guess doing some writing myself...
+	Yuri	Well...
+	Yuri	Have you learned anything about yourself, [player]?
+	MC	Eh?
+	Yuri	Well, you know how I like to say that writing is a very personal way to get in touch with yourself...
+	Yuri	In the end, it doesn't matter if you're a good writer, or a bad writer.
+	Yuri	And even my opinions are just opinions...you know?
+	Yuri	...
+	Yuri	...Ah.
+	Yuri	Decided to try something different today?
+	MC	I guess so.
+	MC	Is that good, or bad?
+	Yuri	Well, neither.
+	Yuri	I have my preferences.
+	Yuri	But it would be unfair of me to call something good or bad based on that.
+	Yuri	...
+	Yuri	[player]...
+	Yuri	...This is wonderful.
+	Yuri	I can feel the emotion that you poured into it.
+	Yuri	Is this the result of trying what I suggested yesterday?
+	MC	Yeah, I guess so...
+	MC	You did a good job explaining.
+	MC	I really wanted to try giving it more feeling.
+	Narrator	Yuri visibly swallows.
+	Narrator	Even her hands appear sweaty.
+	Yuri	I'm not...used to this...
+	MC	Used to what?
+	Yuri	I don't know...!
+	MC	It's fine, take your time...
+	Narrator	Yuri breathes and collects her thoughts.
+	Narrator	I know that Yuri likes to think before she speaks, so I offer that patience to her.
+	Yuri	Yeah...
+	Yuri	Just...being appreciated like this...I guess.
+	Yuri	It probably sounds really stupid...
+	Yuri	But seeing someone motivated by my writing...
+	Yuri	It just makes me...
+	Yuri	Really happy...
+	MC	Are you saying you've never shared your writing before?
+	Narrator	Yuri nods.
+	MC	Really? I don't believe it.
+	Yuri	I really only write for myself...
+	Yuri	And besides...
+	Yuri	...People would just laugh at me!
+	MC	Do you really think that...?
+	Narrator	Again, Yuri nods.
+	MC	Huh...
+	MC	Even your close friends?
+	Yuri	...
+	Narrator	For some reason, Yuri doesn't respond.
+	MC	Yuri...?
+	Narrator	Yuri smiles sadly.
+	Yuri	[player], during lunchtime, I eat by myself.
+	Yuri	Did you know that?
+	Yuri	It's a great time to find a quiet spot and do some reading.
+	Yuri	In fact...
+	Yuri	I always have some books with me.
+	Yuri	You could say I really enjoy reading...
+	Yuri	...Well, that's one way to put it, anyway...
+	Yuri	But...
+	Yuri	Books are so full of amazing and inspiring people.
+	Yuri	People you want to fall in love with.
+	Yuri	Or people you just know would make a really good friend.
+	Yuri	Cheerful people, who always put a smile on your face...
+	Yuri	Or deep thinkers, and problem solvers, who discover the mysteries of life.
+	Yuri	So when you look at it that way...
+	Yuri	I'm surrounded by friends every day...
+	Yuri	...You know?
+	Yuri	And those friends don't laugh at me...
+	Yuri	They don't tease me for spacing out all the time...
+	Yuri	They don't make fun of my body type...
+	Yuri	And...
+	Yuri	...And they don't hate me for acting like a know-it-all!
+	MC	People...say that about you?
+	Yuri	I'm not a know-it-all, [player]!
+	Yuri	It's the opposite. I don't know anything!
+	Yuri	I don't know how to talk to people.
+	Yuri	I don't know how to make people see me as normal.
+	Yuri	I don't even know how to make myself happy!
+	Yuri	I have all these feelings...
+	Yuri	And all I can do with them is read, and write...
+	Yuri	But it wasn't until now...
+	Yuri	That I started sharing it with you...
+	Yuri	...That I really understood what was missing all this time.
+	MC	But I haven't really done anything...
+	Yuri	No...
+	Yuri	That's wrong.
+	Yuri	Just being patient and respectful...
+	Yuri	That's really...important to me.
+	Yuri	I know I'm a difficult person, [player]...
+	Yuri	I speak too slowly...
+	Yuri	I second-guess myself all the time...
+	Yuri	I read too deeply into things...
+	Yuri	But every time...
+	Yuri	You've always treated me just like anyone else.
+	Yuri	It's so rare that I feel comfortable with myself when I talk to others...
+	Yuri	But that's why every time I talk to you...
+	Yuri	...I just feel really happy.
+	MC	I see...
+	MC	Well, I treat you how you deserve to be treated, Yuri.
+	MC	And if other people don't see it that way, then screw them.
+	MC	I mean, I joined this club hoping I would make friends.
+	MC	And I would say I've had at least one success.
+	MC	Wouldn't you?
+	Yuri	U-Um...
+	Yuri	If you put it that way...
+	Yuri	...Yeah...
+	Yuri	We really are friends now, aren't we?
+	Narrator	Yuri puts her head in her hands.
+	Narrator	But this time, she's smiling as she does it.
+	MC	Do you want to show me your poem?
+	Yuri	Yeah.
+	Yuri	I do!
+	Yuri	Let me get it for you...
+	Yuri	...
+	Yuri	[player].
+	Yuri	Your writing has only improved in these last few days.
+	Yuri	Every poem you've shown me has been nothing short of spectacular.
+	Yuri	I can really feel the emotions...
+	Yuri	I'm a little envious, even...
+	Yuri	I don't think it ever came to me this naturally.
+	MC	Yuri, that's the wrong way to put it.
+	MC	This never did come naturally to me.
+	MC	But I've been able to improve so much thanks to you.
+	MC	You're really the example I was chasing after.
+	Yuri	I-Is that so...?
+	Narrator	Yuri gently smiles to herself.
+	Yuri	This feeling...
+	Yuri	I'm so glad...I got the chance to share my writing.
+	Yuri	I never thought it would feel like this.
+	MC	I remember you mentioning that yesterday.
+	MC	I can't believe that you're so good at something and you've never even shared it with anyone.
+	MC	It's kind of a shame.
+	Yuri	Maybe, but...
+	Yuri	It's not like I really...had a choice.
+	MC	What do you mean...?
+	Yuri	Well...
+	Monika	Hi, [player]!
+	Monika	Having a good time so far?
+	MC	Ah...yeah.
+	Monika	Good! Glad to hear it!
+	Monika	By the way, since you're new and everything...
+	Monika	If you ever have any suggestions for the club, like new activities, or things we can do better...
+	Monika	I'm always listening!
+	Monika	Don't be afraid to bring things up, okay?
+	MC	Alright...I'll keep that in mind.
+	Narrator	Of course I'll be afraid to bring things up.
+	Narrator	I'm much better off just going with the flow until I'm more settled in.
+	Monika	Anyway...
+	Monika	Want to share your poem with me?
+	MC	It's kind of embarrassing, but I guess I have to.
+	Monika	Ahahaha!
+	Monika	Don't worry, [player]!
+	Monika	We're all a little embarrassed today, you know?
+	Monika	But it's that sort of barrier that we'll all learn to get past soon.
+	MC	Yeah, that's true.
+	Narrator	I hand Monika my poem.
+	Monika	...Mhm!
+	Narrator	m_" + poemwinner[0] + "_" + str(eval(poemwinner[0][0] + "_appeal
+	MC	I'm sure I'll end up trying different things a lot.
+	MC	It could take a while before I feel comfortable doing this.
+	Monika	That's okay!
+	Monika	I'd love to see you try new things.
+	Monika	That's the best way to find the kind of style that suits you.
+	Monika	Everyone else might be a little bit biased toward their own kinds of styles...
+	Monika	But I'll always help you find what suits you the most!
+	Monika	So don't force yourself to write the way everyone else wants you to write.
+	Monika	It's not like you have to worry about impressing them or anything.
+	Monika	Ahaha!
+	MC	Ahaha...
+	Monika	Anyway, do you want to read my poem now?
+	Monika	Don't worry, I'm not very good...
+	MC	You sound pretty confident for someone who claims to not be very good.
+	Monika	Well...that's 'cause I have to sound confident.
+	Monika	That doesn't mean I always feel that way, you know?
+	MC	I see...
+	MC	Well, let's read it, then.
+	Monika	Hi again, [player]!
+	Monika	How's the writing going?
+	MC	Alright, I guess...
+	Monika	I'll take that.
+	Monika	As long as it's not going bad!
+	Monika	I'm happy that you're applying yourself.
+	Monika	Maybe soon you'll come up with a masterpiece!
+	MC	Ahaha, I wouldn't count on that...
+	Monika	You never know!
+	Monika	Want to share what you wrote for today?
+	MC	Sure... Here you go.
+	Narrator	I give my poem to Monika.
+	Monika	...
+	Monika	...Alright!
+	Narrator	m_" + poemwinner[1] + "_" + str(eval(poemwinner[1][0] + "_appeal
+	Monika	But anyway...
+	Monika	You want to read my poem now?
+	Monika	I like the way this one turned out, so I hope you do too~
+	MC	Alright, let's take a look.
+	Monika	Hi [player]~
+	Monika	Have you thought about what you want to submit to perform at the festival?
+	MC	Well...
+	Narrator	Being in this club is one thing, but performing in front of a bunch of people...
+	MC	...I'll have to give it some more thought.
+	Monika	Okay, no pressure!
+	Monika	But whatever you do, I'm sure it'll turn out great.
+	Monika	It would also make me happy to see.
+	Monika	Ahaha!
+	Monika	Anyway, let's take a look at today's poem!
+	MC	Sure...
+	Narrator	I let Monika take the poem I'm holding in my hands.
+	Monika	...
+	Narrator	m_" + poemwinner[2] + "_" + str(eval(poemwinner[2][0] + "_appeal
+	Monika	Anyway...!
+	Monika	I'll share my poem with you now, alright?
+	MC	Er...
+	MC	Alright...
+	Monika	I like it, [player]!
+	MC	Really...?
+	Monika	It's a lot cuter than I expected.
+	Monika	Ahahaha!
+	MC	Oh jeez...
+	Monika	No, no!
+	Monika	It kind of makes me think of something Natsuki would write.
+	Monika	And she's a good writer, too.
+	Monika	So take that as a compliment!
+	MC	Ahaha...
+	MC	If you say so.
+	Monika	Yep!
+	Monika	By any chance have you read anything by Shel Silverstein?
+	MC	Eh?
+	MC	Maybe a long time ago...
+	Monika	He's famous for telling all kinds of stories in just a few simple words.
+	Monika	His poems can be funny, endearing, or even sad...
+	Monika	And sometimes they're only a few lines long.
+	Monika	They might even feel like they're written for kids, but if you think about them...
+	Monika	They can express views of the world that would apply to anybody.
+	MC	I see...
+	MC	So you're saying that Natsuki is kind of like that?
+	Monika	Sort of.
+	Monika	Maybe she's not an expert...
+	Monika	But you probably won't find much filler in her poems.
+	Monika	They might be easy to write, but they're super challenging to get the meaning through.
+	Monika	So I can see why it would be your kind of poem to explore!
+	Monika	I like this one!
+	Monika	It makes me think of something Sayori would like.
+	MC	Is that so?
+	Monika	You and Sayori are really good friends, right?
+	Monika	I wouldn't be surprised if you had those sorts of things in common.
+	MC	Ah, well...
+	MC	We may be good friends, but Sayori and I are actually really different.
+	Monika	Hmm...
+	Monika	Well, that may be the case.
+	Monika	But maybe there are also some similarities that you wouldn't expect.
+	Monika	The way she talks about you...
+	Monika	It sounds like the two of you really care about each other's well-being.
+	Monika	Even if you show it in different ways, it ends up being more similar than you'd think.
+	Monika	So I think that's the kind of vibe I get when reading your poem.
+	MC	Hmm...
+	MC	You sure you're not reading into it too much?
+	Monika	Ahaha! I could be!
+	Monika	Oh gosh, I sound like Yuri...
+	Monika	...But in any case, Sayori's writing has kind of a gentle feel to it.
+	Monika	I can tell that she likes exploring with emotions, like happiness and sadness.
+	Monika	Who knew that someone so happy would enjoy sad things, too?
+	MC	Yeah... That's totally unexpected.
+	Monika	Well, to each their own~
+	Monika	And you shouldn't be afraid to experiment a little bit, either.
+	Monika	Great job, [player]!
+	Monika	I was going 'Ooh' in my head while reading it.
+	Monika	It's really metaphorical!
+	Monika	I'm not sure why, but I didn't expect you to go for something so deep.
+	Monika	I guess I underestimated you!
+	MC	It's easiest for me to keep everyone's expectations low.
+	MC	That way, it always counts when I put in some effort.
+	Monika	Ahaha! That's not very fair!
+	Monika	Well, I guess it worked, anyway.
+	Monika	You know that Yuri likes this kind of writing, right?
+	Monika	Writing that's full of imagery and symbolism.
+	Monika	Unlike Sayori, who likes using simple and direct words to describe happiness and sadness...
+	Monika	Yuri likes it when readers are left to derive their own meaning out of it.
+	Monika	It's very challenging to write like that effectively.
+	Monika	Both allowing people to get something out of it just by feel...
+	Monika	Or letting them deeply analyze all of the nuances.
+	Monika	It can take years of practice, which I'm assuming Yuri has at this point.
+	Monika	I never really asked, though...
+	MC	I'm sure I'm nowhere near her level yet.
+	Monika	Don't worry so much about that!
+	Monika	You do your own thing.
+	Monika	Just keep exploring, and learn by trying new things!
+	Monika	It's pretty good~
+	Monika	You've been spending some time with Natsuki, haven't you?
+	Monika	You must like her writing style.
+	MC	Ah, yeah...
+	MC	I think it's a neat way to tell a story.
+	Monika	Mhm. I don't disagree.
+	Monika	Natsuki's poems may be cute, but they're also meaningful.
+	Monika	I can see why you'd be into the style.
+	Monika	I guess that means you're not as much a fan of Yuri's poems, then?
+	MC	Ah-- I wouldn't say that...
+	MC	I kind of like everyone's poems.
+	Monika	That's true, but I'm sure you like some more than others, right?
+	Monika	Like Yuri's use of complex words and symbolism...
+	Monika	Or Sayori's way of expressing happiness or sadness in a more direct way.
+	Monika	You must have some kind of preference, don't you?
+	Monika	Ah, not that it's a contest or anything!
+	Monika	I was just curious, that's all.
+	Monika	It's pretty good~
+	Monika	It makes me think of Sayori, like the other one that you wrote.
+	Monika	You two are like the dynamic duo!
+	MC	Ahaha... That's kind of exaggerating it.
+	Monika	Yeah, probably.
+	Monika	But you do spend a lot of time with her even in this club, don't you?
+	Monika	Then again, I don't blame you for being a little shy~
+	MC	I-I'm not shy, it's just...
+	Monika	Ahaha! I'm just teasing.
+	Monika	I know it takes a bit of time to make friends with everyone.
+	Monika	But Yuri and Natsuki are super interesting people, so don't be afraid to give them their share of time!
+	Monika	And you can talk to me every now and then too...
+	Monika	I'm not, like, unapproachable or anything, am I?
+	MC	Ah, no, it's nothing like that...
+	MC	I'm just still getting used to being here, that's all.
+	Monika	Yeah...
+	Monika	I'm sorry if I was putting pressure on you or something!
+	Monika	I really didn't mean it like that.
+	MC	No, don't worry.
+	MC	I get what you're saying.
+	Monika	Well, alright~
+	Monika	This one's good!
+	Monika	It feels like you're not only getting more comfortable with your style...
+	Monika	But the imagery is better than the last one I read!
+	Monika	Just wondering, but have you been finding inspiration in Yuri's writing style?
+	MC	Hmm...
+	MC	I guess so.
+	MC	You can't deny that she's talented.
+	Monika	Yeah, totally!
+	Monika	I think her poems are the most...
+	Monika	...Romantic.
+	Monika	That's the best way to describe it.
+	Monika	She's like a totally different person when she picks up a pen...
+	MC	I noticed that, too.
+	MC	Or when she's talking about literature, it's like a light turns on inside her.
+	Monika	Mhm!
+	Monika	Sadly, it's hard to get much personal conversation out of her...
+	Monika	Trust me, I've tried...
+	Monika	Who knows what goes on in that head of hers?
+	MC	I hope you don't mean that in a bad way.
+	Monika	No, of course not!
+	Monika	I just meant that I wish she didn't keep so much to herself...
+	Monika	But still, defending her like that...
+	Monika	You must be pretty into her...
+	MC	Eh?!
+	MC	You...completely misunderstood!
+	Monika	Ahaha! Calm down, I'm kidding!
+	Monika	Besides, I'm pretty sure she's already got a boyfriend...
+	MC	Wait, really?
+	Monika	Yeah. A fictional one, anyway.
+	Narrator	Monika kind of whispers that last part to me.
+	Monika	It's just a hunch, but...
+	MC	...Well, there's not really anything wrong with that!
+	Monika	Oh, well I know...!
+	Monika	I was just saying~
+	Monika	Sticking with the Natsuki style once more, I see~
+	Monika	Hmm...
+	Monika	You really like Natsuki, don't you?
+	MC	Eh? That's--
+	Monika	Oh, come on, [player].
+	Monika	It's awfully suspicious, you know?
+	Monika	Spending time with her in the clubroom every day...
+	Monika	Pretending to like the manga that she's into...
+	MC	Y-You know how Natsuki is...!
+	MC	If I don't indulge her, she'll end up hating me.
+	Monika	Eh?
+	Monika	No, I think you're misunderstanding, [player].
+	Monika	It's not like Natsuki just hates anyone who doesn't give her what she wants.
+	Monika	Yeah, she's assertive, but she's not that selfish...
+	Monika	In fact, I think you're the only one who's indulged her as much as you have.
+	MC	Is that so...
+	Narrator	I kind of knew that, but I just didn't want to admit it.
+	Monika	So, I just need to ask one thing of you...
+	Monika	...Be careful. Please?
+	Monika	Natsuki is kind of unpredictable.
+	Monika	A lot of times, she doesn't even know what she wants.
+	Monika	After all, she's the youngest one here.
+	Monika	She might not know how to handle her own feelings properly.
+	Monika	What I'm saying is...
+	Monika	If something bad happens, then it could end up damaging the club, too...
+	Monika	And you wouldn't do that to me...right?
+	MC	That's--
+	Narrator	I'm not sure how to respond to Monika.
+	Narrator	While I care about her and the club, it's also kind of unfair to bring that up.
+	Monika	Well...you're smart.
+	Monika	I'm sure you'll do the right thing.
+	Narrator	Monika smiles sweetly.
+	Monika	Ahaha.
+	Monika	It's kind of funny...
+	MC	How so?
+	Monika	No, not the poem...
+	Monika	I mean, it's funny how your poems and Sayori's poems have been getting more and more similar to each other every day.
+	Monika	I'm surprised you're so in sync with her.
+	Monika	Then again, you've been spending a lot of time together lately, haven't you?
+	MC	Ah, I guess you could say that...
+	MC	Although we kind of grew up as best friends, I haven't been seeing as much of her this past year...
+	MC	But since I joined the club, we've been spending a lot of time together again.
+	Monika	I see, I see~
+	Monika	That reminds me...
+	Monika	About how Sayori's been a little bit off today...
+	MC	Yeah? Did she tell you something?
+	Monika	Ah...
+	Monika	Well...
+	Monika	[player], you haven't been flirting with her, have you?
+	MC	O-Of course not!
+	MC	I've been treating her like I always do.
+	Monika	Alright.
+	Monika	Just making sure~
+	Monika	I know how much you care about her...
+	Monika	It would be terrible if something bad happened to her, so keep an eye on her.
+	Monika	Sayori's been acting so much happier ever since you joined the club.
+	Monika	What could have happened all of a sudden...?
+	MC	...
+	Monika	...Well, never mind.
+	Monika	This really isn't the time to be talking about this...
+	Monika	Your style's gotten so refined, [player].
+	Monika	Yuri's been teaching you a lot of things, hasn't she?
+	MC	Well--
+	MC	I guess so.
+	Monika	Yeah... I've been noticing how much time you spend with her.
+	Monika	I think I've heard her say more words these past couple days than she's talked in the whole year.
+	Monika	Not sure how you did it, but that's pretty impressive...
+	MC	Well, she just needs some patience and a way to talk about all the things in her head, I guess...
+	MC	I'm still getting the hang of it, myself.
+	Monika	Hm...
+	Monika	You're certainly putting in a lot of effort.
+	Monika	You must really like her.
+	MC	Eh? That's--
+	Monika	Ahaha!
+	Monika	It's awfully suspicious, you know?
+	Monika	Spending time with her in the clubroom every day...
+	Monika	Reading that edgy novel with her...
+	MC	Well--!
+	MC	I just...feel bad that she has a hard time socializing.
+	MC	It makes me want to make sure she doesn't spend all her time alone.
+	MC	Besides, the novel isn't too bad either, you know...
+	Monika	Alright, alright~
+	Monika	I get you.
+	Monika	Just...be careful, alright?
+	Monika	I know that Yuri isn't used to opening herself up...
+	Monika	So if something bad happens while she's vulnerable...
+	Monika	Then it could be really hard for her.
+	Monika	Her books aren't a total escape from reality.
+	Monika	They're just a bandage.
+	MC	You say that like I'm going to hurt her...
+	Monika	Sorry, I didn't really mean that~
+	Monika	If anything, she might accidentally hurt herself.

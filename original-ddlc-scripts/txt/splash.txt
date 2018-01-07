@@ -1,0 +1,80 @@
+	Narrator	This game is not suitable for children\nor those who are easily disturbed.
+	Narrator	You are my sunshine,\nMy only sunshine
+	Narrator	I missed you.
+	Narrator	Play with me
+	Narrator	It's just a game, mostly.
+	Narrator	This game is not suitable for children\nor those who are easily disturbed?
+	Narrator	sdfasdklfgsdfgsgoinrfoenlvbd
+	Narrator	null
+	Narrator	I have granted kids to hell
+	Narrator	PM died for this.
+	Narrator	It was only partially your fault.
+	Narrator	This game is not suitable for children\nor those who are easily dismembered.
+	Narrator	Don't forget to backup Monika's character file.
+	Narrator	splash_text
+	Narrator	gui/menu_bg.png
+	Narrator	gui/menu_bg.png
+	Narrator	white
+	Narrator	gui/menu_art_y.png
+	Narrator	gui/menu_art_n.png
+	Narrator	gui/menu_art_s.png
+	Narrator	gui/menu_art_m.png
+	Narrator	gui/menu_art_y_ghost.png
+	Narrator	gui/menu_art_n_ghost.png
+	Narrator	gui/menu_art_s_ghost.png
+	Narrator	gui/menu_art_m_ghost.png
+	Narrator	gui/menu_art_s_break.png
+	Narrator	gui/overlay/main_menu.png
+	Narrator	gui/logo.png
+	Narrator	gui/menu_particle.png
+	Narrator	white
+	Narrator	bg/splash.png
+	Narrator	white
+	Narrator	white
+	Narrator	splash_warning
+	Narrator	white
+	Narrator	bg/warning.png
+	Narrator	bg/warning2.png
+	Narrator	
+	Narrator	wmic process get Description", shell=True).lower().replace("\r", "").replace(" ", "").split("\n
+	Narrator	
+	Narrator	firstrun
+	Narrator	/game/firstrun", "wb
+	Narrator	A previous save file has been found. Would you like to delete your save data and start over?
+	Narrator	Yes, delete my existing data.
+	Narrator	Deleting save data...{nw}
+	Narrator	No, continue where I left off.
+	Narrator	/game/firstrun", "w
+	Narrator	1
+	Narrator	readonly
+	Narrator	This game is not suitable for children or those who are easily disturbed.
+	Narrator	Individuals suffering from anxiety or depression may not have a safe experience playing this game. For content warnings, please visit: http://ddlc.moe/warning.html
+	Narrator	By playing Doki Doki Literature Club, you agree that you are at least 13 years of age, and you consent to your exposure of highly disturbing content.
+	Narrator	I agree.
+	Narrator	../characters/sayori.chr
+	Narrator	../characters/monika.chr
+	Narrator	/characters/monika.chr", "wb").write(renpy.file("monika.chr
+	Narrator	../characters/natsuki.chr
+	Narrator	/characters/natsuki.chr", "wb").write(renpy.file("natsuki.chr
+	Narrator	../characters/yuri.chr
+	Narrator	/characters/yuri.chr", "wb").write(renpy.file("yuri.chr
+	Narrator	../characters/sayori.chr
+	Narrator	/characters/sayori.chr", "wb").write(renpy.file("sayori.chr
+	Narrator	bgm/s_kill_early.ogg
+	Narrator	images/cg/s_kill_early.png
+	Narrator	Now everyone can be happy.", style="sayori_text
+	Narrator	[splash_message]
+	Narrator	yuri_kill_2
+	Narrator	The save file could not be loaded.
+	Narrator	Are you trying to cheat?
+	Narrator	Monika
+	Narrator	
+	Monika	You're so funny.
+	Monika	You're so funny, [persistent.playername].
+	Narrator	Hint: You can use the \"Skip\" button to\nfast-forward through text you've already read.
+	Narrator	_old_game_menu_screen
+	Narrator	_old_history
+	Narrator	yuri_kill_2
+	Narrator	gui/menu_art_m_ghost.png
+	Narrator	The game cannot be run because you are trying to run it from a read-only location.
+	Narrator	Please copy the DDLC application to your desktop or other accessible location and try again.

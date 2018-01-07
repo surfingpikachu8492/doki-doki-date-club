@@ -1,0 +1,457 @@
+	Narrator	images/bg/poem_y1.jpg", img="yuri 2s
+	Yuri	Ahaha...
+	Yuri	It doesn't really matter what it's about.
+	Yuri	My mind has been a little hyperactive lately, so I had to take it out on your pen.
+	Yuri	Ah--
+	Yuri	That is...a-a pen fell out of your backpack yesterday, so I took it home for safekeeping and...
+	Yuri	I, um...
+	Yuri	I just...really like...the way...that it writes.
+	Yuri	So I wrote this...poem...with it.
+	Yuri	And now you're touching it...
+	Yuri	Ahaha.
+	Yuri	I-I'm okay!!
+	Yuri	What did I just...
+	Yuri	...
+	Yuri	...Can we pretend this conversation never happened?
+	Yuri	You can keep the poem, though...
+	Narrator	bgm/5_yuri2.ogg", revert_music=False, paper="images/bg/poem_y2.jpg", img="yuri eyes
+	Yuri	Do you like it??
+	Yuri	I wrote it for you!
+	Yuri	In case you couldn't tell, the poem is about [gtext]
+	Yuri	More importantly, I've endowed it with my scent.
+	Yuri	See, aren't I the most thoughtful person in the club?
+	Narrator	sfx/glitch2.ogg
+	Narrator	music_poem
+	Narrator	<from " + str(currentpos) + " loop 4.444>bgm/5.ogg
+	Narrator	music_poem
+	Yuri	...
+	Yuri	I...
+	Yuri	I think I'm...going to vomit.
+	Natsuki	Not bad, right?
+	MC	It's quite a bit longer than yesterday's.
+	Natsuki	Yesterday's was way too short...
+	Natsuki	I was just warming up!
+	Natsuki	I hope you didn't think that was the best I could do.
+	MC	No, of course not...
+	Natsuki	Anyway, the message is pretty straightforward in this poem.
+	Natsuki	I doubt I have to explain it.
+	Natsuki	Like, anyone would agree that the subject of this poem is an ignorant jerk...
+	Natsuki	Everyone has some kind of weird hobby, or a guilty pleasure.
+	Natsuki	Something that you're afraid if people find out, they'd make fun of you or think less of you.
+	Natsuki	...But that just makes people stupid!
+	Natsuki	Who cares what someone likes, as long as they're not hurting anyone, and it makes them happy?
+	Natsuki	I think people really need to learn to respect others for liking weird things...
+	Natsuki	...Such as two of the girls in this very club, whom I respectfully won't name.
+	Natsuki	Kind of ironic that even in my one place of comfort, I can't even have people respect me...
+	Natsuki	...Jeez, now you're making me complain too much!
+	Narrator	{i}(...What did I do?){/i}
+	MC	For what it's worth, I respect you...
+	Natsuki	Well--
+	Natsuki	I guess thanks...
+	Natsuki	...But it's kind of obvious that you 'respect' Yuri more, so...
+	Natsuki	Whatever... We're done sharing, so you can leave now.
+	Natsuki	[player]...
+	Natsuki	Why didn't you come read with me today?
+	Natsuki	I was waiting for you.
+	Natsuki	I was waiting for a long time.
+	Natsuki	It was the only thing I had to look forward to today.
+	Natsuki	Why did you ruin it?
+	Natsuki	Do you like Yuri more?
+	Natsuki	I think you're better off not associating with her.
+	Natsuki	Are you listening to me?
+	Narrator	music_poem
+	Narrator	<from " + str(currentpos) + " loop 4.444>bgm/5_ghost.ogg
+	Natsuki	Yuri is a sick freak.
+	Natsuki	That should be obvious by now.
+	Natsuki	So just play with me instead.
+	Natsuki	Okay?
+	Natsuki	You don't hate me, [player], do you?
+	Natsuki	Do you hate me?
+	Natsuki	Do you want to make me go home crying?
+	Natsuki	The club is the only place I feel safe.
+	Natsuki	Don't ruin that for me.
+	Natsuki	Don't ruin it.
+	Natsuki	Please.
+	Natsuki	Just stop talking to Yuri.
+	Natsuki	Play with me instead.
+	Natsuki	It's all I have...
+	Natsuki	Play with me.
+	Natsuki	PLAY WITH ME!!!
+	Narrator	sfx/crack.ogg
+	Narrator	sfx/run.ogg
+	Narrator	music_poem
+	Natsuki	I changed my mind.
+	Natsuki	Ignore everything you just read.
+	Natsuki	There's no point in trying to do anything.
+	Natsuki	It's Yuri's own fault that she's so unlikable.
+	Natsuki	Can you hear me, [player]?
+	Natsuki	If you would just spend more time with Monika, all these problems would go away.
+	Natsuki	Yuri and I are too messed up for someone as wonderful as you.
+	Natsuki	Just think of Monika from now on.
+	Natsuki	Just Monika.
+	Narrator	Just Monika.
+	Narrator	Just Monika.
+	Narrator	Just Monika.
+	Narrator	dialog", "Just Monika.
+	Narrator	Just Monika.
+	Narrator	music_poem
+	Narrator	<from " + str(currentpos) + " loop 4.444>bgm/5.ogg
+	Monika	Sorry, I know it's kind of abstract.
+	Monika	I'm just trying to...um...
+	Monika	Well, never mind.
+	Monika	There's no point in explaining.
+	Monika	Anyway...
+	Monika	Here's Monika's Writing Tip of the Day!
+	Monika	Sometimes you'll find yourself facing a difficult decision...
+	Monika	When that happens, don't forget to save your game!
+	Monika	You never know when...um...
+	Monika	...Who am I talking to?
+	Monika	Can you hear me?
+	Monika	Tell me you can hear me.
+	Monika	Anything.
+	Narrator	dialog", "Please help me.
+	Monika	...That's my advice for today!
+	Monika	Thanks for listening~
+	Monika	Jeez! That really startled me!{fast}
+	Monika	Um...
+	Monika	Well, I guess I kinda messed up at, uh... 'writing' this poem.
+	Monika	I was just trying to...
+	Monika	...Never mind.
+	Monika	Let's just move on...
+	Natsuki	...
+	Natsuki	Yeah, just as I thought...
+	MC	...?
+	Natsuki	[player], come on.
+	Natsuki	I'm not stupid.
+	Natsuki	I know how much time you've been spending with Yuri...
+	Natsuki	It's obvious that you care more about impressing her than trying to improve your writing.
+	Natsuki	To put it bluntly, it's kind of pathetic.
+	Natsuki	Why are you even in this club, [player]?
+	Natsuki	Honestly...
+	Natsuki	I thought getting a new member would help everyone get more involved together.
+	Natsuki	Not exclude each other even more.
+	Natsuki	This is such a stupid activity anyway...
+	Natsuki	...Look, I'm not in a good mood today, and I just really don't feel like talking right now.
+	Natsuki	Please go away.
+	Natsuki	...Hm.
+	Natsuki	I liked your last one better.
+	MC	Eh? Really?
+	Natsuki	Well yeah. I can tell you were a little more daring with this one.
+	Natsuki	But you're really not good enough for that yet. It fell flat.
+	MC	That may be true, but I just wanted to try something different.
+	MC	I'm still figuring this all out.
+	Natsuki	...Hm.
+	Natsuki	Well, I can admit that it's better than the last one.
+	Natsuki	It's nice to see that you're putting in some effort.
+	MC	That's good...
+	Natsuki	Just make sure you find a little bit of influence from everyone.
+	Natsuki	I think you're at least being influenced by Yuri a little bit, aren't you?
+	Natsuki	I mean, I know you've been, like...
+	Natsuki	Spending some time with her, or whatever...
+	Natsuki	But you know, Monika and I are just as good as her!
+	Natsuki	A-At poems, I mean!
+	Natsuki	So you should really try to learn something, or you'll never get better!
+	Natsuki	Here's the one I wrote...
+	Natsuki	I'll make sure you learn something from it.
+	Natsuki	...Hm.
+	Natsuki	Well, it's not really any worse than your last one.
+	Natsuki	But I can't really say it's any better, either.
+	MC	Phew...
+	Natsuki	Huh? 'Phew' what?
+	MC	Ah... Well anything that isn't a trainwreck, I'll take as a win.
+	MC	And I get the feeling you're probably the most critical.
+	Natsuki	H-Hey! What makes you--
+	Natsuki	{i}(Wait, maybe that was a compliment...?){/i}
+	Natsuki	A-Ahah! Glad to see someone recognizes my experience!
+	Natsuki	Well then, keep practicing and maybe you'll be as good as me someday!
+	MC	That's...uh...
+	Narrator	Something tells me Natsuki completely missed the point.
+	Natsuki	...Hm.
+	Natsuki	Well, it's not terrible.
+	Natsuki	But it's pretty disappointing after your last one.
+	Natsuki	Then again, if this one was as good as your last one, I would be completely pissed.
+	MC	Well, I guess I wanted to try something a little different this time.
+	Natsuki	Fair enough. You're still new to this, so I wouldn't expect you to find your style right away.
+	Natsuki	I mean, everyone in the club writes really differently from each other...
+	Natsuki	Maybe you'll find a little influence from all of us.
+	Natsuki	For instance...
+	Natsuki	I noticed that you were spending some time with Yuri today...
+	Natsuki	Not that I care who you spend your time with.
+	Natsuki	After all, I was taught never to expect anything from anybody.
+	Natsuki	So it's not like I was waiting for you, or anything.
+	Natsuki	Still, you should at least look over my poem...
+	Natsuki	You'll probably be able to learn something from it.
+	Natsuki	I'm not going to read another one of your Yuri suck-up poems.
+	Natsuki	But I'm still going to make you read mine.
+	Natsuki	There's a reason.
+	Natsuki	I really wish I didn't have to do this...
+	Natsuki	But unfortunately I don't have much of a choice.
+	Natsuki	Just...read it carefully, okay?
+	Natsuki	Then you can go away.
+	Natsuki	...
+	Natsuki	...Meh.
+	Natsuki	I guess you really haven't learned anything after all.
+	Natsuki	Honestly, I don't know why I got my hopes up in the first place.
+	Natsuki	This is clearly Yuri's influence...
+	Natsuki	I didn't realize you were so impressionable.
+	Natsuki	Spending all this time with her in the club...
+	Natsuki	Now trying to write like her...
+	Natsuki	This is stupid.
+	Natsuki	At least Monika appreciates my writing...
+	Natsuki	...Ugh.
+	Natsuki	Okay...I guess I'm going to share my poem with you now.
+	Natsuki	I really hate that I have to do this.
+	Natsuki	But unfortunately I don't have much of a choice.
+	Natsuki	Just...read it carefully, okay?
+	Natsuki	Then you can go away.
+	Natsuki	...
+	Natsuki	Oh, man.
+	Natsuki	This is seriously a step backwards.
+	MC	Eh?
+	Natsuki	I liked your last two way better than this one.
+	Natsuki	...
+	Natsuki	...This one's alright.
+	MC	Alright?
+	Natsuki	Yeah, it's at least better than yesterday's.
+	Natsuki	I still can't really tell how much you actually care about writing, but either way, you're doing alright.
+	Natsuki	Even though you're not really spending time with anyone but Yuri...
+	Natsuki	I still think it's nice to have activities that we all participate in.
+	Natsuki	So you better keep working hard!
+	Natsuki	I mean...
+	Natsuki	I know I'm not President or Vice President or anything...
+	Natsuki	But that doesn't mean you can let me down, okay?
+	Natsuki	So, at least read mine too for now.
+	Natsuki	But just to be clear...
+	Natsuki	This poem...means a lot to me.
+	Natsuki	So read it carefully, okay?
+	Natsuki	...
+	Natsuki	...This one's alright.
+	MC	Alright?
+	Natsuki	Well, yeah.
+	Natsuki	About as good as yesterday's, anyway.
+	Natsuki	What?
+	Natsuki	You gave your poem to Yuri?
+	Natsuki	Gross!
+	Natsuki	What is with you two?
+	Natsuki	Hmph...
+	Natsuki	It's not like I wanted to read it anyway.
+	Natsuki	It's just pissing me off a little bit that you didn't even think to show me at all.
+	Natsuki	...Ugh.
+	Natsuki	Okay...I guess I'm going to share my poem with you anyway.
+	Natsuki	I really hate that I have to do this.
+	Natsuki	But unfortunately I don't have much of a choice.
+	Natsuki	Just...read it carefully, okay?
+	Natsuki	Then you can go away.
+	Yuri	I've been waiting for this...
+	Yuri	Let's see what you've written for today.
+	Yuri	...
+	Narrator	Yuri smiles and takes a deep breath.
+	Yuri	I like just holding it.
+	MC	...?
+	Yuri	Ah, I mean--
+	Yuri	The poem turned out good!
+	Yuri	It's, ah...
+	Yuri	...Well, there are some things that you could work on...
+	Yuri	But that doesn't really matter.
+	Yuri	It feels like anything written by you is a treasure.
+	Yuri	Ahaha...
+	Yuri	That came out a little awkward...
+	Yuri	L-Let's move on...
+	Yuri	Here's the poem I wrote.
+	Yuri	You don't have to like it or anything...
+	Yuri	I've been waiting for this...
+	Yuri	Let's see what you've written for today.
+	Yuri	...
+	Yuri	......
+	Narrator	Yuri stares at the poem with a surprised expression on her face.
+	MC	Do you...like it?
+	Yuri	[player]...
+	Yuri	...How did you pick up on this so quickly?
+	Yuri	Just yesterday, I was telling you the kind of techniques worth practicing...
+	MC	Maybe that's why...
+	MC	You did a good job explaining.
+	MC	I really wanted to try giving it more imagery.
+	Narrator	Yuri visibly swallows.
+	Narrator	Even her hands appear sweaty.
+	Yuri	A-Ah...
+	Yuri	That makes me so happy...
+	Yuri	It's so amazing to feel like I'm valued, [player]!
+	Yuri	Everything that you write is a treasure to me.
+	Yuri	My heart pounds just holding it...
+	Yuri	Ahaha...
+	Yuri	I want to write a poem about this feeling...
+	Yuri	Is that bad, [player]?
+	Yuri	I'm not being weird, right?
+	Yuri	I-I'm having a harder time than usual at concealing my emotions...
+	Yuri	I'm kind of embarrassed.
+	Yuri	But right now, I just want you to read my poem, too.
+	Yuri	Okay?
+	Yuri	I've been waiting for this...
+	Yuri	Let's see what you've written for today.
+	Yuri	...
+	Yuri	......
+	Narrator	Yuri stares at the poem with a surprised expression on her face.
+	MC	Do you...like it?
+	Yuri	[player]...
+	Yuri	This one might even be better than yesterday's...
+	Yuri	...How did you even pick up on this so quickly?
+	Yuri	Finally...
+	Yuri	Ahaha...
+	Narrator	Yuri holds my poem to her face and takes a deep breath.
+	Yuri	I love it.
+	Yuri	I love everything about it.
+	Yuri	[player], I want to take this home.
+	Yuri	Will you let me keep it?
+	Yuri	Please?
+	MC	Sure, I don't care...
+	Yuri	Ahaha.
+	Yuri	You're too nice to me, [player]...
+	Yuri	I've never met anyone as nice as you.
+	Yuri	I could die...
+	Yuri	N-Not really, but--!
+	Yuri	I just don't know how to describe it.
+	Yuri	It's okay to be feeling this way, right?
+	Narrator	yuri 3y4
+	Narrator	yuri 3y6
+	Yuri	It's not bad, right?
+	Narrator	Yuri holds my poem to her chest.
+	Yuri	I'm going to take this home with me and keep it in my room.
+	Yuri	I hope that it makes you feel good when you think about me having it.
+	Yuri	I'll take good care of it!
+	Yuri	I'll even touch myself while reading it over and over.
+	Yuri	I'll give myself paper cuts so your skin oil enters my bloodstream.
+	Yuri	Ahahahahaha.
+	Yuri	You can have my poem too.
+	Yuri	Besides, after you read it, I know you're really going to want to keep it.
+	Yuri	Here, take it. I can't wait any longer.
+	Yuri	Hurry! Read it!
+	Monika	Hi, [player]!
+	Monika	Having a good time so far?
+	MC	Ah...yeah.
+	Monika	Good! Glad to hear it!
+	Monika	By the way, since you're new and everything...
+	Monika	If you ever have any suggestions for the club, like new activities, or things we can do better...
+	Monika	I'm always listening!
+	Monika	Don't be afraid to bring things up, okay?
+	MC	Alright...I'll keep that in mind.
+	Narrator	Of course I'll be afraid to bring things up.
+	Narrator	I'm much better off just going with the flow until I'm more settled in.
+	Monika	Anyway...
+	Monika	Want to share your poem with me?
+	MC	It's kind of embarrassing, but I guess I have to.
+	Monika	Ahahaha!
+	Monika	Don't worry, [player]!
+	Monika	We're all a little embarrassed today, you know?
+	Monika	But it's that sort of barrier that we'll all learn to get past soon.
+	MC	Yeah, that's true.
+	Narrator	I hand Monika my poem.
+	Monika	...Mhm!
+	Narrator	m2_" + poemwinner[0] + "_" + str(eval(poemwinner[0][0] + "_appeal
+	Monika	Anyway, do you want to read my poem now?
+	Monika	Don't worry, I'm not very good...
+	MC	You sound pretty confident for someone who claims to not be very good.
+	Monika	Well...that's 'cause I have to sound confident.
+	Monika	That doesn't mean I always feel that way, you know?
+	MC	I see...
+	MC	Well, let's read it, then.
+	Monika	Hi again, [player]!
+	Monika	How's the writing going?
+	MC	Alright, I guess...
+	Monika	I'll take that.
+	Monika	As long as it's not going bad!
+	Monika	I'm happy that you're applying yourself.
+	Monika	Maybe soon you'll come up with a masterpiece!
+	MC	Ahaha, I wouldn't count on that...
+	Monika	You never know!
+	Monika	Want to share what you wrote for today?
+	MC	Sure... Here you go.
+	Narrator	I give my poem to Monika.
+	Monika	...
+	Monika	...Alright!
+	Narrator	m2_yuri_" + str(eval("y_appeal
+	Monika	But anyway...
+	Monika	You want to read my poem now?
+	Monika	I like the way this one turned out, so I hope you do too~
+	Narrator	m2_yuri_" + str(eval("y_appeal
+	Monika	Anyway...
+	Monika	I guess we won't worry about your poem...
+	Monika	Yuri should have at least had the courtesy of letting you finish sharing it before taking it.
+	Monika	...Well, whatever.
+	Monika	If it makes her happy, I won't stop her.
+	Monika	As for mine...
+	Monika	I worked really...really hard on this poem, so...
+	Monika	I hope that it's, uh, effective.
+	Monika	Here goes...
+	Monika	I like it, [player]!
+	MC	Really...?
+	Monika	It's a lot cuter than I expected.
+	Monika	Ahahaha!
+	MC	Oh jeez...
+	Monika	No, no!
+	Monika	It kind of makes me think of something Natsuki would write.
+	Monika	And she's a good writer, too.
+	Monika	So take that as a compliment!
+	MC	Ahaha...
+	MC	If you say so.
+	Monika	Yep!
+	Monika	If you're interested in Natsuki, then always keep a snack on you.
+	Monika	She'll cling to you like a puppy.
+	Monika	Ahaha!
+	Monika	Natsuki's dad doesn't give her lunch money or leave her any food in the house, so she's in a fussy mood pretty often...
+	Monika	But sometimes she just loses all of her strength and shuts down.
+	Monika	Like earlier.
+	Monika	This is just a guess, but I think she's so small because her malnutrition is interfering with her adolescent growth...
+	Monika	...But hey, some guys are into petite girls too, you know?
+	Monika	Sorry...just trying to look at the bright side!
+	Monika	Great job, [player]!
+	Monika	I was going 'Ooh' in my head while reading it.
+	Monika	It's really metaphorical!
+	Monika	I'm not sure why, but I didn't expect you to go for something so deep.
+	Monika	I guess I underestimated you!
+	MC	It's easiest for me to keep everyone's expectations low.
+	MC	That way, it always counts when I put in some effort.
+	Monika	Ahaha! That's not very fair!
+	Monika	Well, I guess it worked, anyway.
+	Monika	You know that Yuri likes this kind of writing, right?
+	Monika	Writing that's full of imagery and symbolism.
+	Monika	Sometimes I feel like Yuri's mind is just totally detached from reality.
+	Monika	I don't mean that like it's a bad thing, though.
+	Monika	But sometimes I get the impression that she's just totally given up on people.
+	Monika	She spends so much time in her own head that it's probably a much more interesting place for her...
+	Monika	But that's why she gets so happy when you treat her with a lot of kindness.
+	Monika	I don't think she's used to being indulged like that.
+	Monika	She must be really starved for social interaction, so don't blame her for coming on a little strongly.
+	Monika	Like earlier...
+	Monika	I think if she gets too stimulated, she ends up withdrawing and looking for alone time.
+	Narrator	Suddenly, the door opens.
+	Monika	Yuri!
+	Yuri	I'm back...
+	Yuri	Did I miss anything?
+	Monika	Not really...
+	Monika	Well, we all started sharing our poems with each other.
+	Yuri	Eh?
+	Yuri	Already?
+	Yuri	I-I'm sorry for being late...
+	Monika	No need to apologize!
+	Monika	We still have plenty of time, so I'm more glad that you took all the time you needed.
+	Yuri	Alright...
+	Yuri	Thanks, Monika.
+	Yuri	I suppose I should go get my poem now.
+	Monika	[player], I think you saw something earlier that you weren't supposed to see.
+	Monika	I didn't want to have to tell you this, but I don't think I have a choice.
+	Monika	It's getting kind of dangerous for you to spend so much time with Yuri.
+	Monika	I don't know why, but she seems pretty easily excitable when she's around you...
+	Monika	Which shouldn't be a problem in itself.
+	Monika	But when Yuri gets too excited, she finds a place to hide and starts cutting herself with a pocket knife.
+	Monika	Isn't that kind of messed up?
+	Monika	She even brings a different one to school every day, like she has a collection or something...
+	Monika	I mean, it's definitely not because she's depressed or anything like that!
+	Monika	I think she just gets some kind of high from it.
+	Monika	It might even be, like, a sexual thing...
+	Monika	But the point is, you've kind of been enabling her.
+	Monika	I'm not saying it's your fault, though!
+	Monika	But I guess that's why I had to explain it all to you...
+	Monika	So I think if you keep your distance, that would probably be best for her.
+	Monika	While you're at it, don't be shy to spend a little more time with me...
+	Monika	To put it lightly, I at least have it together in the head...and I know how to treat my club members.
+	Monika	Don't say I didn't warn you, [player].

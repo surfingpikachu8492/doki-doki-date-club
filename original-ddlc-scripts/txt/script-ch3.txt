@@ -1,0 +1,780 @@
+	Monika	Aw, man...
+	Monika	I'm the last one here again!
+	MC	Don't worry, I just walked in too.
+	Yuri	Were you practicing piano again?
+	Monika	Yeah...
+	Monika	Ahaha...
+	Yuri	You must have a lot of determination.
+	Yuri	Starting this club, and now picking up piano...
+	Monika	Well, maybe not determination...
+	Monika	But I guess passion.
+	Monika	Remember that the club wouldn't be here if it wasn't for all of you.
+	Monika	And I'm super happy that you're all willing to help out for the festival, too!
+	Natsuki	Aaah, I can't wait for the festival!
+	Natsuki	It's gonna be great!
+	Monika	Eh?
+	Monika	Weren't you complaining about it just yesterday, Natsuki?
+	Natsuki	Well, yeah.
+	Natsuki	I'm not talking about {i}our{/i} part of the festival.
+	Natsuki	But it's a whole day of school where we get to play and eat all kinds of delicious food!
+	MC	You sound a bit like Sayori all of a sudden...
+	Natsuki	Monika! Do they usually have fried squid?
+	Monika	Squid...?
+	Monika	That's a pretty specific thing to look forward to...
+	Natsuki	Oh, come on.
+	Natsuki	Are you saying you don't like squid?
+	Natsuki	You, of all people?
+	Monika	Eh? I didn't say I don't like it.
+	Monika	Besides, what do you mean by 'you of all people'?
+	Natsuki	Because!
+	Natsuki	It's right in your name!
+	Natsuki	Mon-ika!
+	Monika	Eh?!
+	Monika	That's not how you say my name at all!
+	Monika	Also, that joke makes no sense in translation!
+	Natsuki	...?
+	Monika	Ah...never mind!
+	Monika	Let's just focus on our own event for now, okay?
+	Natsuki	Ehehe.
+	Natsuki	Fine, fine.
+	Natsuki	Your reactions aren't as fun as Yuri's or Sayori's, anyway.
+	Yuri	Excuse me...
+	MC	Where is Sayori, anyway...?
+	MC	Oh, there you are.
+	Narrator	Sayori is sitting at a desk in the corner of the room, looking down at nothing.
+	Narrator	I walk over to her.
+	MC	Hey, Sayori.
+	Narrator	I wave my hand in front of her face.
+	Sayori	Eh--?
+	MC	You're spacing out again.
+	Sayori	A-Ah...
+	Sayori	Ehehe, sorry...
+	Sayori	Don't mind me.
+	Sayori	You can go talk to everyone else.
+	MC	Huh...
+	MC	Is everything alright?
+	Sayori	O-Of course!
+	Sayori	Why wouldn't it be?
+	MC	It just feels like you're a little off...
+	MC	Sorry for assuming things.
+	Sayori	Jeez, you worry too much about me.
+	Sayori	I'm fine, see?
+	Narrator	Sayori shows me a big smile.
+	Sayori	Don't let me distract you from having fun with everyone.
+	MC	Well...alright.
+	MC	If you say so.
+	Narrator	I worriedly glance at Sayori before turning back toward everyone else.
+	Narrator	But the conversation has already dispersed, with everyone back at their usual activities.
+	Narrator	Maybe I should ask Monika if she's noticed anything about Sayori recently...
+	Narrator	Since they've been preparing for the festival, they must be spending a lot of time together.
+	Narrator	I timidly approach Monika, who is shuffling through some papers at her desk.
+	Monika	[player]! What's up?
+	MC	Hey, this might sound a little strange, but...
+	MC	Have you noticed anything up with Sayori recently?
+	Monika	Anything up with her...?
+	Monika	In what way do you mean?
+	MC	Maybe I'm reading into it a little too much, but she seems a bit downcast today...
+	Monika	Oh? You think so?
+	Monika	I can't say I've noticed anything about her...
+	Narrator	Monika peers across the room at Sayori, who is idly dragging a rubber eraser up and down her desk.
+	Monika	Maybe there is something on her mind...
+	Monika	But I'm surprised I'm not the one asking you, [player].
+	Monika	You certainly know her a lot better than I do.
+	MC	Yeah, but she's never really like this...
+	MC	She's always talked to me about things that bothered her.
+	MC	But this time, when I asked her, she was really dismissive.
+	MC	...Sorry, I know it's not your problem!
+	MC	I just wanted to ask if you knew anything, so I'll drop it now...
+	Monika	No, no...
+	Monika	It's important to me, too.
+	Monika	I mean, I'm also friends with her...
+	Monika	And I also care about the well-being of my club members, you know?
+	Monika	Maybe I'll try talking to her myself...
+	MC	Eh? Are you sure about that...?
+	MC	She seemed like she wanted to be left alone...
+	Monika	Are you sure?
+	Monika	Maybe she just has a hard time bringing it up with the person of interest...
+	MC	Person of interest...?
+	MC	What do you mean by that?
+	Monika	I'm saying that maybe the thing on her mind is you, [player].
+	MC	Me...?
+	MC	How on Earth would you come to that conclusion?
+	Monika	Well...
+	Monika	I probably shouldn't say too much, but...
+	Monika	Sayori talks about you more than anything else, you know?
+	MC	Eh...?
+	Monika	She's been so much happier ever since you've joined the club.
+	Monika	It's like an extra light was turned on inside of her.
+	MC	What?
+	MC	No way...
+	MC	Sayori...is always like that.
+	MC	She's always been full of sunshine.
+	MC	It's not any different now than it always has been.
+	Monika	Ehehe.
+	Monika	You're so funny, [player].
+	Monika	Have you thought that maybe you've always seen her as so cheerful...
+	Monika	...because that's just how she is when she's around you?
+	MC	...
+	Monika	Ah...I said too much.
+	Monika	I'm sorry...what do I know, anyway?
+	Monika	I didn't mean to jump to conclusions, so you should just forget about what I said.
+	Monika	I'll try to talk to her, so try not to think about it for now.
+	MC	Ah...
+	MC	Alright...
+	Narrator	Monika smiles meaningfully.
+	Narrator	I know she said to forget about it...
+	Narrator	But I already know that I won't be able to get her words out of my head.
+	Narrator	Monika stands up from her desk and walks across the room to where Sayori is sitting.
+	Narrator	I watch her kneel down next to Sayori and gently talk to her.
+	Narrator	But she's keeping her voice so quiet that I can't hear her from here.
+	Narrator	I sigh and sit myself down.
+	Narrator	I know Sayori told me not to worry about her, and to have fun with everyone else...
+	Narrator	But that's impossible to do when she's behaving like this.
+	Narrator	Exactly how much do I care about her, that I'm letting this weigh me down so much?
+	Narrator	Now it feels like I'm the one behaving out of the ordinary...
+	Narrator	But there's nothing I can do besides wait for Monika.
+	Narrator	natsuki
+	Narrator	yuri
+	Narrator	natsuki
+	Narrator	yuri
+	Natsuki	Hey, you.
+	MC	Eh?
+	Narrator	I look up to see Natsuki next to me.
+	Natsuki	Are you just gonna sit there and keep staring at nothing?
+	Natsuki	There isn't that much time, so...
+	MC	Ah, sorry.
+	MC	I didn't mean to make you worry or anything.
+	Natsuki	I-It's not like I'm worried!
+	Natsuki	I was just...
+	Narrator	Natsuki glances down at her side.
+	Narrator	She's holding a volume of manga in her hand.
+	MC	That's right...
+	MC	Something just came up for a minute, but we can get started now.
+	MC	I won't make you wait any longer.
+	Natsuki	Jeez...
+	Natsuki	Now you're making me feel like a jerk.
+	Natsuki	If something's bothering you, then you can just tell me to leave you alone, and I will.
+	Natsuki	I mean...
+	Natsuki	Assuming you didn't feel like talking about it or anything...
+	Narrator	She practically mumbles that last part.
+	MC	Nah...I'm probably making it seem like a bigger deal than it is.
+	MC	I've just been thinking about Sayori, that's all.
+	Natsuki	S-Sayori...?
+	Natsuki	Thinking about her...?
+	MC	Yeah, she seems pretty down today.
+	MC	But she didn't want to admit it to me.
+	MC	So I can't help but wonder if something happened to her.
+	Natsuki	Oh...
+	Narrator	Natsuki exhales.
+	Natsuki	Well, first of all...
+	Natsuki	You should really work on your phrasing!
+	Natsuki	But anyway...
+	Natsuki	You're her best friend, right?
+	MC	Yeah, I guess so...
+	Natsuki	Yeah.
+	Natsuki	Then in that case, I think you should trust her a little more.
+	Natsuki	If she needed you, then you would be the first person she would go to, right?
+	MC	Well... I guess that's true.
+	Natsuki	I mean, some people just have those days.
+	Natsuki	You can't always avoid it.
+	Natsuki	If anything, she probably doesn't want you to worry about her because it's not important.
+	MC	Yeah, that's kind of what she said to me...
+	MC	Maybe it's not right for me to go against her wishes.
+	Natsuki	Exactly.
+	Natsuki	If she needs you to worry about her, then it'll be a lot more obvious.
+	MC	Yeah...
+	MC	I should have thought of it that way from the start.
+	Narrator	Natsuki fiddles with the book she's holding in her hands.
+	Natsuki	She...
+	Natsuki	She really means a lot to you, doesn't she...?
+	MC	Ah--
+	MC	Don't get the wrong idea or anything...!
+	MC	We've just been friends for a long time.
+	MC	It's normal to be worried about your friends.
+	MC	I mean, you were worried about me, so--
+	Natsuki	I was not!!
+	Natsuki	Jeez...if you're fine, then let's hurry and get started already!
+	MC	Yeah, yeah...
+	Narrator	natsuki
+	Narrator	Why does it feel like I'm being watched...?
+	Narrator	I glance around the room.
+	Narrator	Suddenly, I notice Yuri peering at me from over her book.
+	Narrator	But she looks away just as quickly with a flustered look on her face.
+	Narrator	I realize that she won't get anywhere like this.
+	Narrator	I've never really seen Yuri approach anyone or start a conversation on her own accord.
+	Narrator	So, I have no choice but to approach her myself.
+	Narrator	By now, it's a little easier for me to do that.
+	Narrator	I stand up from my desk and sit in one next to her own.
+	Yuri	...
+	Yuri	I...didn't mean to bother you or anything...
+	MC	Relax, you didn't even do anything.
+	Yuri	But...
+	Yuri	I could tell that you wanted to be alone with your thoughts...
+	MC	Alone with my thoughts...?
+	MC	How were you even able to tell that I was thinking like that?
+	Yuri	Well...
+	Yuri	It's something that I do a lot...
+	Yuri	So it wasn't hard for me to spot based on your posture and expression.
+	Yuri	N-Not that I was staring or anything...!
+	Yuri	I didn't do anything creepy like that...!
+	MC	In any case, I guess you were right.
+	MC	I'm sorry if I caused you any concern.
+	Yuri	Don't apologize...
+	Yuri	Your troubles are only the concern of those who willingly share in that concern.
+	Yuri	Of course, there are certainly those who find the most comfort in keeping to themselves...
+	Yuri	But if you would prefer to share what's on your mind, then I would be glad to listen.
+	MC	Ah, it's really not that big of a deal...
+	MC	I was just feeling a bit uneasy about Sayori.
+	Yuri	Sayori...?
+	MC	Yeah...she seems a little off today, but when I asked her about it, she didn't want to admit it to me.
+	MC	So I can't help but wonder if something happened to her.
+	Yuri	Oh?
+	Yuri	That's quite romantic...
+	MC	Eh...?
+	Yuri	S-Sorry!
+	Yuri	I didn't mean to say something stupid...!
+	MC	It's not that, I just didn't want you to misunderstand.
+	MC	Sayori and I have just been friends for a long time, that's all.
+	Yuri	Ah...I see...
+	Yuri	Then perhaps it is unusual for her to be dismissive to you about her feelings...
+	MC	Or maybe I'm just reading into it a little too much...
+	Yuri	[player]...
+	Yuri	The world is full of meaning, often hidden deep beneath plain sight.
+	Yuri	And there are many untold mysteries behind every person, no matter how well you may know them.
+	MC	Ah...
+	MC	So you think that there might be something behind it after all?
+	Yuri	Mm...
+	Yuri	I think that Sayori is a very complex person.
+	Yuri	Her mannerisms on the outside don't always match what may be going on inside her head...
+	Yuri	And she may not always know what she wants.
+	Yuri	I noticed her strange behavior today, too...
+	Yuri	And I also feel some concern for her.
+	Yuri	But in your case, it looked like she was fully occupying your thoughts, wasn't she?
+	MC	Well...
+	MC	I guess that was the case.
+	Yuri	Sayori...
+	Yuri	She really...means a lot to you, doesn't she?
+	MC	Ah--I...I guess...
+	MC	But you don't need to put it that way!
+	MC	We're just good friends, that's all...
+	Yuri	...
+	Narrator	Yuri suddenly looks deeply into my eyes.
+	Narrator	Her expression is gentle and curious, as if she was searching for something.
+	Narrator	Embarrassed, I avert my gaze.
+	Yuri	Sometimes...
+	Yuri	A person's mysteries are untold even to themselves.
+	Yuri	And you, as someone honest and caring...
+	Yuri	May uncover feelings you weren't aware were in you.
+	Yuri	T-That is...
+	Yuri	I think that...
+	Yuri	She would be a very fortunate person...
+	Yuri	To have you...feel that way about her.
+	MC	Yuri...
+	MC	You're giving me too much credit.
+	MC	I'm a pretty simple guy.
+	MC	So I think I'm pretty good at understanding my own feelings.
+	MC	I'm not nearly as sophisticated as you.
+	Yuri	A-Ah...
+	Yuri	That's not...a compliment, is it?
+	MC	It is what it is.
+	MC	Anyway, as long as we're here, why don't we do some reading?
+	Yuri	Well...
+	Yuri	As long as you're okay with it.
+	MC	Yeah.
+	MC	I should be taking my mind off this whole thing anyway.
+	Narrator	yuri
+	Narrator	...
+	Monika	Okay, everyone!
+	Narrator	After some time passes, Monika calls out to the clubroom.
+	Monika	Why don't we share our poems now?
+	Narrator	Before I know it, everything is back to normal.
+	Narrator	Everyone goes to retrieve their poems, and I do the same.
+	Narrator	I make eye contact with Monika, and she smiles at me.
+	Narrator	I wonder what she was talking about with Sayori...
+	Monika	...Okay, you three!
+	Monika	We're all done sharing poems, right?
+	Monika	Why don't we start figuring out--
+	Natsuki	Hold on a second!
+	Natsuki	Is it just me, or did you say something strange just now?
+	Monika	Eh...?
+	Yuri	Something did sound a bit unusual...
+	Yuri	That's right.
+	Yuri	You deviated from your usual catchphrase when addressing the club.
+	Monika	C-Catchphrase?
+	Monika	I don't have a catchphrase...
+	Natsuki	Jeez...
+	Natsuki	Why is the mood so weird today?
+	Natsuki	Look, even Yuri isn't immune to it.
+	Yuri	Uu...
+	Yuri	Stagnating air is common foreshadowing that something terrible is about to happen...
+	MC	In {i}your{/i} books, maybe!
+	MC	Look, the only thing different is that Sayori isn't here.
+	Yuri	Ah...
+	Yuri	...It seems you're right.
+	Monika	Sigh...
+	Monika	Sayori always helps lighten the mood a little bit, doesn't she?
+	Monika	It's almost like everyone's balance is thrown off a little when she's not around...
+	Natsuki	Where the heck did she run off to, anyway?
+	Natsuki	I thought she just went to pee.
+	Yuri	Natsuki, please show some decency...
+	Natsuki	Oh, come on.
+	MC	Ah, she actually wasn't feeling too well and went home early...
+	Yuri	Is that so...?
+	Yuri	I hope she's alright...
+	Natsuki	Seriously?
+	Natsuki	Of all the times to not go home with her, you pick the time she's not feeling well?
+	Natsuki	So much for you two being all lovey-dovey.
+	MC	Ah--no!
+	MC	First of all, stop misunderstanding my friendship with Sayori!
+	MC	And second...
+	MC	She's kind of been avoiding me today, so I didn't want to force it...
+	Yuri	Hooooh?
+	MC	{i}That curious expression coming from Yuri, of all people??{/i}
+	Monika	Calm down, guys...!
+	Monika	I talked to her earlier, and everything is fine.
+	MC	What did she say...?
+	Monika	Anyway, we need to figure out the rest of the festival preparations, so...
+	Monika	Let's decide what everyone will be doing this weekend.
+	Natsuki	I already know what {i}I'm{/i} doing!
+	Monika	That's right.
+	Monika	Natsuki will be making cupcakes.
+	Monika	But we might need a lot of them, and different flavors...
+	Monika	Can you handle that all by yourself, Natsuki?
+	Natsuki	Challenge accepted!
+	Monika	And as for myself...
+	Monika	I'm going to be printing and assembling all the poetry pamphlets.
+	Monika	Sayori will be helping me design them.
+	Monika	And as for Yuri...
+	Monika	...
+	Monika	Yuri, you can...
+	Monika	Ah... Um...
+	Natsuki	...?
+	Monika	Guys...
+	Monika	Can you help me come up with something for Yuri...?
+	Yuri	I...
+	Yuri	I'm useless...
+	Monika	N-No!
+	Monika	That's not it at all!
+	Monika	You're the most talented person here, you know!
+	Natsuki	...
+	Monika	N-Now Natsuki's pouting, too??
+	MC	Jeez, even I can tell now...
+	MC	I guess I never gave Sayori enough credit, but I can tell things are even harder on you when she's not around.
+	Monika	Ah...
+	Monika	That may be the case...
+	Monika	But if I can't also be a leader on my own, then I won't grow as a person.
+	Monika	So, Yuri...!
+	Monika	You have beautiful handwriting, you know?
+	Monika	So you should make some banners and decorations to help set the atmosphere.
+	Yuri	Atmosphere...?
+	Yuri	Um, about that...
+	Yuri	I...
+	Yuri	I love atmosphere!
+	Narrator	Yuri's expression suddenly changes as she stares at her desk in focus and starts nodding to herself.
+	MC	Your mind is already racing, I see...
+	Monika	That's great!
+	Monika	You'll be a wonderful help, Yuri.
+	Monika	But anyway...
+	Monika	That just leaves you, [player].
+	MC	The one who is truly useless.
+	Monika	Ahaha! Don't say that.
+	Monika	In fact...
+	Monika	Both Natsuki and Yuri have some pretty heavy tasks to handle.
+	Monika	It would probably go a long way to give one of them a hand.
+	Monika	You could always help me out, as well...
+	Monika	I would be really appreciative of that.
+	MC	Ah--
+	MC	That's...
+	Narrator	Is Monika suggesting I spend the weekend with one of my club members?
+	Narrator	How on Earth are they going to respond to a suggestion like that...?
+	Yuri	Ah...
+	Yuri	I...suppose I wouldn't mind a bit of help...
+	Natsuki	Well, even if you don't know how to bake, there's always some dirty work I could give to you.
+	Natsuki	It's not like Monika's going to give me a choice, and you shouldn't be sitting on your butt anyway...
+	Narrator	Natsuki tries to mumble a bunch of excuses like that.
+	Yuri	Um...
+	Yuri	If I recall, Natsuki...
+	Yuri	You mentioned that you would like to handle the baking on your own.
+	Yuri	[player] may not like to be around if you only make him out to be a nuisance...
+	Yuri	So therefore...
+	Yuri	He may be more suited to assisting with the decorations.
+	Natsuki	Hold on! I never said that!
+	Natsuki	How hard could it be to make a few decorations, anyway?
+	Natsuki	Sounds more like you're just making excuses for [player] to--
+	Yuri	W-What are you saying?!
+	Yuri	It will be extremely meticulous work...
+	Natsuki	And baking isn't?
+	Natsuki	Just what do you think--
+	Monika	Guys, guys!
+	Monika	Let's settle down for a moment...
+	Monika	In the end, I think it's up to [player] to decide how he'd like to contribute.
+	Monika	Besides...
+	Monika	He hasn't really gotten the chance to spend any time with me yet, you know?
+	Monika	So I'm sure he's interested in--
+	Natsuki	You {i}literally{/i} just said--
+	Yuri	I-I'm surprised as well!
+	Monika	Sorry, sorry!
+	Monika	I was just saying, though...
+	Natsuki	Jeez...
+	Natsuki	Can we just settle this already?
+	Monika	Yeah...
+	Monika	[player], you're okay with this, right?
+	Monika	In the end, it's up to you.
+	MC	Ah...
+	MC	Of course.
+	Natsuki	Hmph.
+	Yuri	Very well...
+	Monika	In that case...
+	Narrator	Everyone looks straight at me.
+	Narrator	But of course, I'm going to go with--
+	Narrator	Natsuki.
+	Narrator	Yuri.
+	Narrator	Monika.
+	Narrator	Sayori...
+	Narrator	I can't believe this!
+	Narrator	[ch4_name] is going to be coming to my house on Sunday...?
+	Narrator	Even though I would have preferred to do this with Sayori...
+	Narrator	My anxiety still shoots through the roof.
+	Narrator	I guess I've gotten pretty used to handling her at this point...
+	Narrator	But who knows what might end up happening when we're outside of school?
+	Narrator	She even told me she was looking forward to it...
+	Narrator	I shake my head.
+	Narrator	Why do I feel nervous that Sayori finds out about this?
+	Narrator	It's not like we feel {i}that{/i} way about each other...
+	Narrator	Besides, like Monika said, this is about the club.
+	Narrator	I have nothing to worry about.
+	Narrator	If I just go with it, then I'll have a good time.
+	Narrator	My anxiety shoots through the roof.
+	Narrator	Even though I've gotten pretty used to handling her at this point...
+	Narrator	There's no telling what might end up happening when we're outside of school.
+	Narrator	More than that...she told me that she was looking forward to it.
+	Narrator	Is this the chance I have to make something happen between us?
+	Narrator	...Or is it too early for that?
+	Narrator	Only time will tell...
+	Narrator	But until then, I won't be able to take my mind off it.
+	Narrator	I seriously can't wait!
+	MC	I mean...
+	MC	If it's going to be anyone, then I prefer helping Sayori.
+	MC	I mean, we're already neighbors, and--
+	Yuri	But Monika said--
+	Natsuki	Monika said that Sayori was helping her!
+	Natsuki	Jeez...
+	Natsuki	Do you really hate us that much?
+	MC	N-No!
+	Monika	Sorry, I didn't mean for this to be difficult...
+	Monika	Just think of the club, okay?
+	Narrator	Natsuki.
+	Narrator	Yuri.
+	Narrator	Monika.
+	MC	Well, I guess I should probably be helping Monika...
+	Monika	Yay, you picked me!
+	Natsuki	Hold on one second!
+	Yuri	Y-Yeah!
+	Natsuki	Monika, you're the one who needs the least help out of all of us!
+	Monika	Eh? But...
+	Yuri	I agree with Natsuki.
+	Yuri	Not only is your work already most suitable for one person...
+	Yuri	But you already have Sayori as well.
+	Monika	But [player] was the one who...
+	Monika	Ah...
+	Natsuki	That doesn't matter.
+	Natsuki	You were the one who scared him into picking you in the first place.
+	Natsuki	You're the club president, Monika.
+	Natsuki	You're supposed to make responsible decisions for the club!
+	Yuri	Monika, you shouldn't let any ulterior motives interfere with this decision.
+	Monika	Ulterior motives?
+	Monika	W-What are you saying, Yuri?
+	Monika	In fact, it sounds like you guys are the ones with ulterior motives!
+	Natsuki	{i}Excuse{/i} me?
+	Monika	Otherwise...this wouldn't have been made into such a big deal in the first place!
+	Yuri	That's...completely false, Monika!
+	Natsuki	Yeah!
+	Natsuki	We have a lot of work to do, you know!
+	Natsuki	We won't do as good of a job if you make us work alone.
+	Monika	Ah...maybe...that's true...
+	Yuri	Think of the club, Monika...
+	Yuri	If we want our event to succeed, then we need to appropriately distribute our resources.
+	Monika	Um...
+	Monika	Ah...
+	Natsuki	So are you going to do the right thing, {i}President{/i}?
+	Monika	Okay, okay!
+	Monika	I get it!
+	Monika	Sigh...
+	Monika	It's...technically most logical for [player] to help one of you two.
+	Monika	So...
+	Monika	I guess...that's what we'll do.
+	Monika	Do you have a preference, [player]?
+	Narrator	Natsuki.
+	Narrator	Yuri.
+	Narrator	Sayori...
+	Narrator	natsuki
+	MC	Well, baking sounds like it could be fun...
+	MC	And you guys made it sound like a lot of work, so it could probably use two people.
+	Natsuki	Don't worry!
+	Natsuki	Baking is a ton of fun!
+	Natsuki	You'll definitely agree!
+	Monika	Eh?
+	Monika	Just a minute ago you were saying that--
+	Natsuki	Th-That's because--!
+	Natsuki	...
+	Natsuki	...Never mind, okay?
+	Monika	Well, anyway...
+	Monika	You'll be fine by yourself, right, Yuri?
+	Yuri	Of course.
+	Yuri	I'm used to it, after all...
+	Monika	...
+	MC	...
+	Monika	That's...good...
+	Narrator	Even though Yuri is being melodramatic, it's a little hard to not feel bad...
+	Natsuki	So, that's everything, right?
+	Natsuki	Anything else we need to talk about?
+	Monika	No, I think that's it...
+	Monika	Are you guys excited?
+	Natsuki	Yes!
+	Natsuki	Everything except the performance is gonna be awesome!
+	MC	I don't think that really counts...
+	Monika	What about you, [player]?
+	MC	Me?
+	MC	Ah, I guess you could say I'm interested to see how it'll turn out...
+	Monika	That's good enough for me!
+	Monika	What about you, Yuri?
+	Monika	...Yuri?
+	Natsuki	She's still sulking.
+	Yuri	...
+	Natsuki	...
+	Narrator	Natsuki starts pouting, too.
+	Natsuki	It's not...
+	Natsuki	I mean, it's not that big of a deal or anything...
+	MC	Well, it might not be just that...
+	Natsuki	...?
+	MC	I think that Yuri might just be feeling a little underappreciated in general.
+	MC	Having to come up with something for her to do, and then nobody offering to help.
+	Natsuki	That doesn't mean...
+	Natsuki	...
+	Natsuki	Uu...
+	Narrator	Natsuki glances back and forth between everyone with a worried expression.
+	Natsuki	Look...
+	Narrator	Natsuki goes over and puts her hands down on Yuri's shoulders.
+	Natsuki	Yuri.
+	Natsuki	You really are the most talented one here.
+	Natsuki	And...
+	Natsuki	And you're going to help make the event a lot more fun and welcoming.
+	Natsuki	I mean, the cupcakes will probably help a lot too...
+	Natsuki	But you're gonna make the atmosphere special.
+	Natsuki	That'll be really important for the way that people feel during the performances.
+	Natsuki	So...
+	Natsuki	You need to stop being dumb and give yourself a little more credit!
+	Narrator	Natsuki releases her hands and turns around to face the other direction.
+	Yuri	...
+	Yuri	You didn't...really mean that, did you?
+	Natsuki	Um...
+	Natsuki	N-Not really, but...
+	Narrator	Yuri isn't the only one surprised.
+	Narrator	Monika and I are also taken aback by Natsuki's words.
+	Narrator	Natsuki, of all people, to be saying such encouraging things.
+	Narrator	But I begin to understand.
+	Narrator	Natsuki was trying to sound like Sayori.
+	Narrator	Even if it didn't work perfectly, I can tell that she tried to say something Sayori would say at a time like this.
+	Narrator	Because Sayori always helps everyone smile and feel good about themselves.
+	Yuri	I'm sorry...for being dumb.
+	Yuri	I'm going to do my best.
+	Yuri	And all of us are going to make it a really great event.
+	Natsuki	Yeah.
+	Monika	Yeah!
+	Monika	I hope to see everyone do their best.
+	Monika	But with that...
+	Monika	There's nothing more for today.
+	Monika	So I guess it's time for us to head out.
+	Natsuki	Okay, but I'm staying here a bit longer.
+	Natsuki	I barely got to do any reading today, so...
+	Monika	Fair enough, there's nothing wrong with that.
+	Narrator	Everyone packs up their things.
+	Narrator	I start to follow Monika and Yuri out the door as they chat between each other.
+	Natsuki	Um, where are you going?
+	MC	Eh...?
+	Natsuki	We still need to figure out our plans for this weekend.
+	Natsuki	You literally would've gotten home and realized that you didn't even have a way to contact me.
+	MC	Oh, that's true...
+	MC	I have no idea how that slipped my mind.
+	Natsuki	Jeez, good thing I stopped you.
+	Natsuki	I'm giving you my number, okay?
+	Natsuki	You'd better not make it weird or anything!
+	MC	Why would I do that...?
+	Natsuki	Hmph...
+	Narrator	Natsuki gives me her number.
+	Natsuki	Okay...
+	Natsuki	I'm coming over on Sunday.
+	Natsuki	I'll bring all the ingredients.
+	MC	Wait!
+	MC	You're coming to {i}my{/i} house?
+	Natsuki	Well, yeah.
+	Natsuki	What's wrong with that?
+	MC	I mean...
+	MC	I just figured that since I'm the one helping, I would be going to your house...
+	Natsuki	Yeah, right.
+	Natsuki	Like I could have a guy over my house...
+	Natsuki	My dad would kill me.
+	MC	Really?
+	MC	That's kinda strict, if you ask me.
+	Natsuki	Yeah, how do you think I feel?
+	Natsuki	I can't do anything when my dad is home...
+	Natsuki	Anyway...I just needed to complain for a second.
+	Natsuki	We have each other's numbers now.
+	Natsuki	That's all I needed from you.
+	Natsuki	I guess I'll text you when I'm coming over.
+	MC	Alright, fine by me.
+	Natsuki	Yeah.
+	Natsuki	I'm really gonna show you why I love baking so much.
+	Natsuki	So you'd better look forward to it.
+	MC	Oh?
+	MC	Didn't you say you were just going to give me the dirty work?
+	Natsuki	Well--!
+	Natsuki	I was...just saying that.
+	Natsuki	It's not like I could act like...in front of everyone...
+	Natsuki	That I was looking forward to this.
+	MC	Wait, really??
+	Natsuki	Well, kind of!
+	Natsuki	Just because...I never got to bake with someone else before.
+	Natsuki	That's all it is, so...
+	MC	Alright, I get it.
+	MC	Sorry for overreacting.
+	MC	Anyway, I'll be heading out now.
+	MC	See you on Sunday.
+	Natsuki	Ah--
+	Natsuki	...
+	Natsuki	...Never mind.
+	Narrator	yuri
+	MC	Well, I'll probably be most useful helping out Yuri...
+	Yuri	M-Me...?
+	Natsuki	Are you serious?
+	Natsuki	Why would you--
+	Monika	Natsuki.
+	Monika	I can already tell you're about to say something mean.
+	Natsuki	N-No...
+	Natsuki	I was just saying--
+	Natsuki	Ugh...
+	Monika	So, you'll be helping Yuri then, [player]?
+	MC	Yeah.
+	MC	That's what I'm going to do.
+	Yuri	I'm glad.
+	Yuri	I have a bad habit of overthinking these sorts of things...
+	Yuri	So I think your assistance will be very useful.
+	Monika	That's great to hear.
+	Monika	Natsuki, will you be able to handle the baking yourself?
+	Natsuki	I mean, yeah.
+	Natsuki	I already said I would be fine.
+	Monika	Okay, okay...
+	Narrator	Everyone can tell that Natsuki is feeling a little sour.
+	MC	So...is that everything we needed to go over?
+	Monika	Yeah, that should be about it.
+	Monika	Are you guys excited?
+	Yuri	Well, 'excited' may not be the right word...
+	Yuri	But I suppose I'm looking forward to it a little bit.
+	Monika	Do you feel the same way, [player]?
+	MC	Me?
+	MC	Ah, I guess you could say I'm interested to see how it'll turn out...
+	Monika	That's good enough for me!
+	Monika	What about you, Natsuki?
+	Natsuki	...
+	Yuri	Natsuki!
+	Natsuki	What??
+	Natsuki	Why is everyone yelling at me?
+	Natsuki	I didn't even do anything...!
+	Yuri	N-no--!
+	Yuri	That's not what I meant at all!
+	Yuri	A-Ah...
+	Narrator	Yuri anxiously glances between everyone in the room.
+	Yuri	I-I'm sorry for this!
+	Yuri	I don't really know why [player] picked me...
+	Yuri	And also...
+	Yuri	Your cupcakes are the best cupcakes I've ever had!
+	Yuri	They go really well with my tea!
+	Yuri	And nothing that I do for the event will compare to that, so...
+	Yuri	So...
+	Natsuki	I get it, I get it.
+	Natsuki	I'm kinda surprised, though...
+	Yuri	W-Why?
+	Natsuki	Um...
+	Natsuki	Well, I'm the one acting immature...
+	Natsuki	I already know that.
+	Natsuki	But you're trying to cheer me up all of a sudden...
+	Yuri	I-I know I'm not very good at it...
+	Yuri	I'm sorry if I said something bad!
+	Narrator	Natsuki isn't the only one surprised.
+	Narrator	Monika and I are also taken aback by Yuri's words.
+	Narrator	When she already has trouble with words, trying to cheer someone up must be far out of her own comfort zone.
+	Narrator	But I begin to understand.
+	Narrator	Yuri was trying to sound like Sayori.
+	Narrator	Even if it didn't work perfectly, I can tell that she tried to say something Sayori would say at a time like this.
+	Narrator	Because Sayori always helps everyone smile and feel good about themselves.
+	Natsuki	No...
+	Natsuki	I kinda appreciated it.
+	Natsuki	I'm sorry...for making a big deal out of nothing.
+	Natsuki	But I'm going to say this.
+	Yuri	...?
+	Natsuki	You better bet that my cupcakes are going to be the best part of the whole event!
+	Yuri	Ah...
+	Yuri	...I believe you.
+	Monika	Yeah!
+	Monika	I hope to see everyone do their best.
+	Monika	But with that...
+	Monika	There's nothing more for today.
+	Monika	So I guess it's time for us to head out.
+	Natsuki	Alright, let's get out of here, then.
+	Narrator	Everyone packs up their things.
+	Narrator	I start to follow Monika and Natsuki out the door as they chat between each other.
+	Yuri	U-Um--!
+	MC	Eh?
+	Narrator	I turn around.
+	Yuri	Sorry...
+	Yuri	I realized that I don't have any way of contacting you this weekend...
+	MC	Oh, you're right.
+	MC	I can't believe that slipped my mind.
+	MC	Should I give you my phone number?
+	Yuri	I think...that would be the best way, yes.
+	MC	Alright, then...
+	Narrator	Yuri and I exchange phone numbers.
+	Yuri	Okay.
+	Yuri	Then, I'll be stopping by your house on Sunday...
+	MC	Eh?
+	MC	My house?
+	Yuri	I-Is that a problem...?
+	MC	No, not at all...
+	MC	I just thought that I would be the one going to your house, since I'm the one helping you.
+	Yuri	Ah, I suppose that makes sense...
+	Yuri	But, if you don't mind...
+	Yuri	I think I would prefer going to your house.
+	MC	Alright.
+	MC	In that case, it won't be a problem.
+	Narrator	I decide not to press Yuri for a reason.
+	Narrator	It's not like it should matter much either way, so I'll just need to make sure my room is clean.
+	MC	I hope I manage to make myself useful in some way...
+	MC	I'm not nearly as creative as you are.
+	Yuri	Don't underestimate yourself, [player].
+	Yuri	I think that we'll make a very productive team.
+	Yuri	Even if you only chose me because you felt bad or something...
+	MC	Wait...!
+	MC	You don't actually think that, do you?
+	Yuri	...
+	Yuri	I...don't know.
+	Yuri	It's difficult to come up with any other reason you may have chosen me...
+	MC	You're forgetting the one reason with the most common sense!
+	MC	I chose to help you because that's what I want to do.
+	Yuri	B-But...
+	Narrator	Yuri thinks to herself with an extremely tense expression.
+	MC	Yuri...you're overthinking this.
+	MC	You wanted me to point out when you're overthinking, right?
+	Yuri	Eh...?
+	Yuri	I...didn't realize...
+	MC	I'm telling you, I want to.
+	MC	That's all there is to it.
+	MC	Do you believe me?
+	Yuri	I...
+	Narrator	Yuri thinks really hard again.
+	Narrator	She looks straight into my eyes for a long while.
+	Yuri	...I believe you!
+	Narrator	As if it took her tremendous effort, Yuri finally says that and relaxes her expression.
+	Yuri	And I'm really looking forward to Sunday.
+	MC	Yeah...
+	MC	I am too.
+	Narrator	After that exchange, I make my way out the door, and Yuri follows.

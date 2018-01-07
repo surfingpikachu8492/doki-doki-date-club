@@ -1,0 +1,16 @@
+	Narrator	gui/sfx/hover.ogg
+	Narrator	gui/sfx/select.ogg
+	Narrator	gui/sfx/select_glitch.ogg
+	Narrator	gui/font/Aller_Rg.ttf
+	Narrator	gui/font/RifficFree-Bold.ttf
+	Narrator	gui/font/Aller_Rg.ttf
+	Narrator	menu_bg
+	Narrator	game_menu_bg
+	Narrator	#522
+	Narrator	#fcc
+	Narrator	#a66
+	Narrator	#000
+	Narrator	#fa9
+	Narrator	hide
+	Narrator	touch
+	Narrator	small

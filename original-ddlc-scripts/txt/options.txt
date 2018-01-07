@@ -1,0 +1,24 @@
+	Narrator	Doki Doki Literature Club!
+	Narrator	1.1.0
+	Narrator	
+	Narrator	DDLC
+	Narrator	auto
+	Narrator	DDLC-1454445547
+	Narrator	gui/window_icon.png
+	Narrator	front
+	Narrator	white
+	Narrator	scripts", "all
+	Narrator	images", "all
+	Narrator	audio", "all
+	Narrator	fonts", "all
+	Narrator	game/**.jpg", "images
+	Narrator	game/**.png", "images
+	Narrator	game/**.rpyc", "scripts
+	Narrator	game/**.txt", "scripts
+	Narrator	game/**.chr", "scripts
+	Narrator	game/**.wav", "audio
+	Narrator	game/**.mp3", "audio
+	Narrator	game/**.ogg", "audio
+	Narrator	game/**.ttf", "fonts
+	Narrator	game/**.otf", "audio
+	Narrator	teamsalvato/ddlc

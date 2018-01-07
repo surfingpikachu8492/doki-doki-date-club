@@ -1,0 +1,229 @@
+	Monika	Hi again, [player]!
+	Monika	Glad to see you didn't run away on us. Hahaha!
+	MC	Nah, don't worry.
+	MC	This might be a little strange for me, but I at least keep my word.
+	Narrator	Well, I'm back at the Literature Club.
+	Narrator	I was the last to come in, so everyone else is already hanging out.
+	Yuri	Thanks for keeping your promise, [player].
+	Yuri	I hope this isn't too overwhelming of a commitment for you.
+	Yuri	Making you dive headfirst into literature when you're not accustomed to it...
+	Natsuki	Oh, come on! Like he deserves any slack.
+	Natsuki	You already had to be dragged here by Monika.
+	Natsuki	I don't know if you plan to just come here and hang out, or what...
+	Natsuki	But if you don't take us seriously, then you won't see the end of it.
+	Monika	Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom.
+	Natsuki	M-M-M...!!
+	Narrator	Natsuki finds herself stuck between saying \"Monika\" and \"Manga\".
+	Natsuki	Manga is literature!!
+	Narrator	Swiftly defeated, Natsuki plops back into her seat.
+	Yuri	I'm sorry, [player]...
+	Yuri	We'll make sure to put your comfort first, okay?
+	Narrator	Yuri shoots Natsuki with a disappointed glance.
+	Yuri	Um, anyway...
+	Yuri	Now that you're in the club and all...
+	Yuri	...Perhaps you might have interest in picking up a book to read?
+	MC	Well...
+	MC	I can't really say no either way.
+	MC	Like you said, I'm in this club now.
+	MC	So it only feels right for me to do something like that, if you ask.
+	Yuri	W-Wait...
+	Yuri	I didn't mean it like that!
+	Yuri	Uu...
+	Yuri	If you don't really want to, then forget I said anything, I guess...
+	MC	Ah--No, it's not that, Yuri.
+	MC	I want to try to be a part of this club.
+	MC	So even if I don't read often, I'd be happy to pick up a book if you wanted me to.
+	Yuri	A-Are you sure...?
+	Yuri	I just felt like...
+	Yuri	...Well, as Vice President and all...
+	Yuri	...That I should help you get started on something you might like.
+	Narrator	Yuri reaches into her bag and pulls out a book.
+	Yuri	I didn't want you to feel left out...
+	Yuri	So I picked out a book that I thought you might enjoy.
+	Yuri	It's a short read, so it should keep your attention, even if you don't usually read.
+	Yuri	And we could, you know...
+	Yuri	Discuss it...if you wanted...
+	Narrator	Th-This is...
+	Narrator	How is this girl accidentally being so cute?
+	Narrator	She even picked out a book she thinks I'll like, despite me not reading much...
+	MC	Yuri, thank you! I'll definitely read this!
+	Narrator	I enthusiastically take the book.
+	Yuri	Phew...
+	Yuri	Well, you can read it at your own pace.
+	Yuri	I look forward to hearing what you think.
+	Narrator	Now that everyone's settled in, I expected Monika to kick off some scheduled activities for the club.
+	Narrator	But that doesn't seem to be the case.
+	Narrator	Yuri's face is already buried in a book.
+	Narrator	I can't help but notice her intense expression, like she was waiting for this chance.
+	Narrator	Meanwhile, Natsuki is rummaging around in the closet.
+	Narrator	_exclusive2_" + str(eval(poemwinner[0][0] + "_appeal
+	MC	Phew...
+	Narrator	I guess that's everyone.
+	Narrator	I glance around the room.
+	Narrator	That was a little more stressful than I anticipated.
+	Narrator	It's as if everyone is judging me for my mediocre writing abilities...
+	Narrator	Even if they're just being nice, there's no way my poems can stand up to theirs.
+	Narrator	This is a literature club, after all.
+	Narrator	I sigh.
+	Narrator	I guess that's what I ended up getting myself into.
+	Narrator	Across the room, Monika is writing something in her notebook.
+	Narrator	My eyes land on Yuri and Natsuki.
+	Narrator	They gingerly exchange sheets of paper, sharing their respective poems.
+	Narrator	As they read in tandem, I watch each of their expressions change.
+	Narrator	Natsuki's eyebrows furrow in frustration.
+	Narrator	Meanwhile, Yuri smiles sadly.
+	Natsuki	{i}(What's with this language...?){/i}
+	Yuri	Eh?
+	Yuri	Um...did you say something?
+	Natsuki	Oh, it's nothing.
+	Narrator	Natsuki dismissively returns the poem to the desk with one hand.
+	Natsuki	I guess you could say it's fancy.
+	Yuri	Ah-- Thanks...
+	Yuri	Yours is...cute...
+	Natsuki	Cute?
+	Natsuki	Did you completely miss the symbolism or something?
+	Natsuki	It's clearly about the feeling of giving up.
+	Natsuki	How can that be cute?
+	Yuri	I-I know that!
+	Yuri	I just meant...
+	Yuri	The language, I guess...
+	Yuri	I was trying to say something nice...
+	Natsuki	Eh?
+	Natsuki	You mean you have to try that hard to come up with something nice to say?
+	Natsuki	Thanks, but it really didn't come out nice at all!
+	Yuri	Um...
+	Yuri	Well, I do have a couple suggestions...
+	Natsuki	Hmph.
+	Natsuki	If I was looking for suggestions, I would have asked someone who actually liked it.
+	Natsuki	Which people {i}did{/i}, by the way.
+	Natsuki	Monika liked it.
+	Natsuki	And [player] did, too!
+	Natsuki	So based on that, I'll gladly give you some suggestions of my own.
+	Natsuki	First of all--
+	Yuri	Excuse me...
+	Yuri	I appreciate the offer, but I've spent a long time establishing my writing style.
+	Yuri	I don't expect it to change anytime soon, unless of course I come across something particularly inspiring.
+	Yuri	Which I haven't yet.
+	Natsuki	Nn...!
+	Yuri	And [player] liked my poem too, you know.
+	Yuri	He even told me he was impressed by it.
+	Narrator	Natsuki suddenly stands up.
+	Natsuki	Oh?
+	Natsuki	I didn't realize you were so invested in trying to impress our new member, Yuri.
+	Yuri	E-Eh?!
+	Yuri	That's not what I...!
+	Yuri	Uu...
+	Yuri	You...You're just...
+	Narrator	Yuri stands up as well.
+	Yuri	Maybe you're just jealous that [player] appreciates my advice more than he appreciated yours!
+	Natsuki	Huh! And how do you know he didn't appreciate {i}my{/i} advice more?
+	Natsuki	Are you that full of yourself?
+	Yuri	I...!
+	Yuri	No...
+	Yuri	If I was full of myself...
+	Yuri	...I would deliberately go out of my way to make everything I do overly cutesy!
+	Natsuki	Uuuuuu...!
+	Natsuki	Well, you know what?!
+	Natsuki	I wasn't the one whose boobs magically grew a size bigger as soon as [player] started showing up!!
+	Yuri	N-Natsuki!!
+	Monika	Um, Natsuki, that's a little--
+	Natsuki/Yuri	This doesn't involve you!
+	Yuri	Taking out your own insecurities on others like that...
+	Yuri	You really act as young as you look, Natsuki.
+	Natsuki	{i}Me?{/i} Look who's talking, you wannabe edgy bitch!
+	Yuri	Edgy...?
+	Yuri	Sorry that my lifestyle is too much for someone of your mental age to comprehend!
+	Natsuki	See??
+	Natsuki	Just saying that proves my point!
+	Natsuki	Most people learn to get over themselves after they graduate middle school, you know.
+	Yuri	If you want to prove anything, then stop harassing others with your sickening attitude!
+	Yuri	You think you can counterbalance your toxic personality just by dressing and acting cute?
+	Yuri	The only cute thing about you is how hard you try.
+	Natsuki	Whoa, be careful or you might cut yourself on that edge, Yuri.
+	Natsuki	Oh, my bad... You already do, don't you?
+	Yuri	D-Did you just accuse me of cutting myself??
+	Yuri	What the fuck is wrong with your head?!
+	Natsuki	Yeah, go on!
+	Natsuki	Let [player] hear everything you really think!
+	Natsuki	I'm sure he'll be head over heels for you after this!
+	Yuri	A-Ah--!
+	Narrator	Suddenly, Yuri turns toward me, as if she just noticed I was standing here.
+	Yuri	[player]...!
+	Yuri	She-- She's just trying to make me look bad...!
+	Natsuki	That's not true!
+	Natsuki	She started it!
+	MC	...
+	Narrator	{cps=*2}How did I get dragged into this in the first place?!{/cps}{nw}
+	Narrator	{cps=*2}It's not like I know anything about writing...{/cps}{nw}
+	Narrator	{cps=*2}But whomever I agree with, they'll probably think more highly of me!{/cps}{nw}
+	Narrator	{cps=*2}So, of course that's going to be...!{/cps}{nw}
+	Narrator	Natsuki.
+	Narrator	Yuri.
+	Narrator	sfx/s_kill_glitch1.ogg
+	Monika	...
+	Monika	...
+	Monika	...
+	Monika	Um...
+	Monika	Hey, [player]...
+	Monika	Why don't we\nstep outside for\na little bit?
+	Monika	Okay?
+	Monika	Sorry about that...
+	Monika	They really shouldn't have tried to get you involved.
+	Monika	It's probably better for us to stay out of this...
+	Monika	We'll go back inside once they're done yelling.
+	Monika	Ahaha...
+	Monika	Some president I am, right?
+	Monika	I can't even confront my own club members properly...
+	Monika	I just wish I was able to be a little more assertive sometimes.
+	Monika	But I never have it in me to put my foot down against others...
+	Monika	You understand, right?
+	Monika	Anyway...
+	Monika	If this makes you want to spend less time with the others, then that's fine.
+	Monika	I'd be happy to spend time with you instead...
+	Narrator	Suddenly, Natsuki runs out of the classroom.
+	Natsuki	...
+	Narrator	She quickly runs away.
+	Monika	Oh dear...
+	Monika	...Well, it looks like they're done...
+	Yuri	I didn't mean it...
+	Yuri	I didn't mean it...
+	Yuri	I didn't mean it...
+	Narrator	Yuri is rocking back and forth in her desk with her palms on her forehead.
+	MC	Yuri...?
+	Yuri	I didn't mean it!!
+	MC	I-I believe you...
+	Narrator	I have no idea what Yuri might have said to Natsuki.
+	Narrator	Or did.
+	Yuri	[player].
+	Yuri	Please don't hate me.
+	Yuri	Please!
+	Yuri	I'm not like this!
+	Yuri	There's something wrong with me today...
+	Monika	It's fine, Yuri.
+	Monika	We know you didn't mean it.
+	Monika	Besides, I'm sure Natsuki will forget all about it by tomorrow.
+	Monika	Completely.
+	Yuri	...
+	Monika	Anyway, the meeting is over, so you can go home now if you want.
+	Yuri	...
+	Narrator	Yuri looks at me like she wants to say something.
+	Narrator	But she keeps glancing at Monika.
+	Yuri	Y-You can go first, Monika...
+	Yuri	I'd like to stay a little bit longer.
+	Monika	I'm the President, so I should be the last one out.
+	Monika	I'll wait for you to be done.
+	Yuri	...
+	Yuri	...
+	Yuri	Well-- I'm Vice President, so...
+	Yuri	Please let me take that responsibility today.
+	Monika	It kind of sounds like you don't want me around for something, Yuri.
+	Yuri	I-It's not that!
+	Yuri	It's not that...
+	Yuri	I just...
+	Yuri	I didn't get much of a chance to discuss my book with [player]...
+	Yuri	It would just be...embarrassing with you listening...
+	Monika	{i}*Sigh*{/i}
+	Monika	I guess I don't really have a choice, do I?
+	Yuri	I-I'm sorry for causing trouble...
+	Yuri	But I really appreciate you understan{nw}
+	Yuri	But I really appreciate you understan{fast}[gtext] [gtext][gtext]{nw}

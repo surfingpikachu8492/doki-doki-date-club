@@ -1,0 +1,21 @@
+	Narrator	music
+	Narrator	sound", "sfx/glitch1.ogg
+	Narrator	invert
+	Narrator	show
+	Narrator	hide" action PauseAudio("music
+	Narrator	hide" action Stop("sound
+	Narrator	hide
+	Narrator	show
+	Narrator	hide
+	Narrator	#000
+	Narrator	gui/logo.png
+	Narrator	gui/menu_art_s.png
+	Narrator	gui/blood_drop.png
+	Narrator	gui/blood_drop.png
+	Narrator	blood_particle
+	Narrator	blood_particle
+	Narrator	blood_particle
+	Narrator	images/bg/bsod.png
+	Narrator	black
+	Narrator	bsod_1", (0, 0), "bsod_2
+	Narrator	images/bg/veinmask.png", "images/bg/veinmask.png", "images/bg/veinmaskb.png

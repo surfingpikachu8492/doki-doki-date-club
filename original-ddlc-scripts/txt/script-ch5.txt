@@ -1,0 +1,179 @@
+	Narrator	#dadada
+	Narrator	An exception has occurred.", size=40, style="_default
+	Narrator	File \"game/script-ch5.rpy\", line 307\nSee traceback.txt for details.", size=20, style="_default
+	Narrator	images/bg/splash-glitch.png
+	Narrator	gui/menu_bg.png
+	Narrator	gui/menu_bg.png
+	Narrator	gui/menu_art_m.png
+	Narrator	gui/menu_art_n.png
+	Narrator	gui/menu_art_y.png
+	Narrator	It's the day of the festival.
+	Narrator	Of all days, I expected this to be the one where I'd be walking to school with Sayori.
+	Narrator	But Sayori isn't answering her phone.
+	Narrator	I considered going to her house to wake her up, but decided that's a little too much.
+	Narrator	Meanwhile, the preparations for the event should be nearly complete.
+	Narrator	natsuki
+	Narrator	I managed to carry all the cupcakes myself by carefully stacking two trays.
+	Narrator	Natsuki is already texting up a storm, but I can't respond, thanks to my hands being full.
+	Narrator	The banner Yuri and I painted is dry, and I gently rolled it up to take with me.
+	Narrator	She sent me a pleasant text reminding me not to forget anything, and I reassured her.
+	Narrator	Funnily enough, I probably feel the same way as Natsuki about the event.
+	Narrator	I'm more excited for it to be over so I can spend time with Sayori and [ch4_name] at the festival.
+	Narrator	But knowing Monika, I'm sure the event will be great, too.
+	Monika	[player]!
+	Monika	You're the first one here.
+	Monika	Thanks for being early!
+	MC	That's funny, I thought at least Yuri would be here by now.
+	Narrator	Monika is placing little booklets on each of the desks in the classroom.
+	Narrator	They must be the ones she prepared that has all the poems we're performing.
+	Narrator	In the end, I found a random poem online that I thought Monika would like, and submitted it.
+	Narrator	So, that's the one I'll be performing.
+	Monika	I'm surprised you didn't bring Sayori with you.
+	MC	Yeah, she overslept again...
+	MC	That dummy.
+	MC	You'd think that on days this important, she'd try a little harder...
+	Narrator	I say that, but I suddenly remember what Sayori told me yesterday...
+	Narrator	And I suddenly feel awful, knowing it's not nearly that simple for her.
+	Narrator	I only said it because it's the way I'm used to thinking.
+	Narrator	But...
+	Narrator	Maybe I should have gone to wake her up after all?
+	Monika	Ahaha.
+	Monika	You should take a little responsibility for her, [player]!
+	Monika	I mean, especially after your exchange with her yesterday...
+	Monika	You kind of left her hanging this morning, you know?
+	MC	Exchange...?
+	MC	Monika-- You know about that??
+	Monika	Of course I do.
+	Monika	I'm the club president, after all.
+	MC	But--!
+	Narrator	I stammer, embarrassed.
+	Narrator	Did Sayori really tell her about it that quickly?
+	Narrator	That we're...a couple now?
+	Narrator	I didn't really plan on bringing it up with anyone yet...
+	Narrator	About how I basically turned down her confession?
+	Narrator	That makes me really seem like the bad guy here...
+	Narrator	But I'm the one who knows what's best for her, right?
+	MC	Jeez...
+	MC	You don't know the full story at all, so...
+	Monika	Don't worry.
+	Monika	I probably know a lot more than you think.
+	MC	Eh...?
+	Narrator	Monika is being as friendly as usual, but for some reason I felt a chill down my spine after hearing that.
+	Monika	Hey, do you want to check out the pamphlets?
+	Monika	They came out really nice!
+	MC	Yeah, sure.
+	Narrator	I grab one of the pamphlets laid out on the desks.
+	MC	Oh yeah, they really did.
+	MC	Something like this will definitely help people take the club more seriously.
+	Monika	Yeah, I thought so too!
+	Narrator	I flip through the pages.
+	Narrator	Each member's poem is neatly printed on its own page, giving it an almost professional feel.
+	Narrator	I recognize Natsuki's and Yuri's poems from the ones they performed during our practice.
+	MC	What's this...?
+	Narrator	I flip to Sayori's poem.
+	Narrator	It's different from the one she practiced.
+	Narrator	It's one that I haven't read before...
+	MC	Ah--
+	Narrator	What is this...?
+	Narrator	Reading the poem, I get a pit in my stomach.
+	Monika	[player]?
+	Monika	What's wrong?
+	MC	Ah, nothing...
+	Narrator	This poem feels completely different from everything else Sayori's written.
+	Narrator	But more than that...
+	MC	I-I changed my mind!
+	MC	I'm going to go get Sayori, so...
+	Monika	Ah--
+	Monika	Well, alright!
+	Monika	Try not to take too long, okay?
+	Narrator	I quickly leave the classroom.
+	Monika	Don't strain yourself~
+	Narrator	Monika calls that out after me.
+	Narrator	I quicken my pace.
+	Narrator	What was I thinking?
+	Narrator	I should have tried a little bit harder for Sayori.
+	Narrator	It's not a big deal to at least wait for her, or help her wake up.
+	Narrator	Even the simple gesture of walking her to school makes her really happy.
+	Narrator	Besides...
+	Narrator	I told her yesterday that things will be the same as they always have been.
+	Narrator	That's all she needs, and what I want to give her.
+	Narrator	I reach Sayori's house and knock on the door.
+	Narrator	I don't expect an answer, since she's not picking up her phone, either.
+	Narrator	Like yesterday, I open the door and let myself in.
+	MC	Sayori?
+	Narrator	She really is a heavy sleeper...
+	Narrator	I swallow.
+	Narrator	I can't believe I ended up doing this after all.
+	Narrator	Waking her up in her own house...
+	Narrator	That really is something that a boyfriend would do, isn't it?
+	Narrator	Isn't that more like something a boyfriend would do?
+	Narrator	In any case...
+	Narrator	It just feels right.
+	Narrator	Outside Sayori's room, I knock on her door.
+	MC	Sayori?
+	MC	Wake up, dummy...
+	Narrator	There's no response.
+	Narrator	I really didn't want to have to enter her room like this...
+	Narrator	Isn't it kind of a breach of privacy?
+	Narrator	But she really leaves me no choice.
+	Narrator	I gently open the door.
+	MC	{cps=30}.......Sayo--{/cps}{nw}
+	Narrator	sayori
+	Narrator	sfx/s_kill_glitch1.ogg
+	Narrator	sfx/s_kill_glitch1.ogg
+	Narrator	sfx/s_kill_glitch1.ogg
+	Narrator	Oh jeez...I didn't break anything, did I? Hold on a sec, I can probably fix this...I think...\nActually, you know what? This would probably be a lot easier if I just deleted her. She's the one who's making this so difficult. Ahaha! Well, here's goes nothing.
+	Narrator	...
+	Narrator	What the hell...?
+	Narrator	{i}What the hell??{/i}
+	Narrator	Is this a nightmare?
+	Narrator	It...has to be.
+	Narrator	This isn't real.
+	Narrator	There's no way this can be real.
+	Narrator	Sayori wouldn't do this.
+	Narrator	Everything was normal up until a few days ago.
+	Narrator	That's why I can't believe what my eyes are showing me...!
+	Narrator	I suppress the urge to vomit.
+	Narrator	Just yesterday...
+	Narrator	I told Sayori I would be there for her.
+	Narrator	I told her I know what's best, and that everything will be okay.
+	Narrator	Then why...?
+	Narrator	Why would she do this...?
+	Narrator	How could I be so helpless?
+	Narrator	What did I do wrong?
+	Narrator	Confessing to her...
+	Narrator	I shouldn't have confessed to her.
+	Narrator	That's not what Sayori needed at all.
+	Narrator	She even told me how painful it is for others to care about her.
+	Narrator	Then why did I confess to her, and make her feel even worse?
+	Narrator	Turning down her confession...
+	Narrator	That has to have been what pushed her over the edge.
+	Narrator	Her agonized scream still echoes in my ears.
+	Narrator	Why did I do that to her when she needed me the most?
+	Narrator	Why was I so selfish?
+	Narrator	This is my fault--!
+	Narrator	My swarming thoughts keep telling me everything I could have done to prevent this.
+	Narrator	If I just spent more time with her.
+	Narrator	Walked her to school.
+	Narrator	And remained friends with her, like it always has been...
+	Narrator	And gave her what I know she wanted out of our relationship...
+	Narrator	...Then I could have prevented this.
+	Narrator	I know I could have prevented this!
+	Narrator	Screw the Literature Club.
+	Narrator	Screw the festival.
+	Narrator	I just...lost my best friend.
+	Narrator	Someone I grew up with.
+	Narrator	She's gone forever now.
+	Narrator	Nothing I do can bring her back.
+	Narrator	This isn't some game where I can reset and try something different.
+	Narrator	I had only one chance, and I wasn't careful enough.
+	Narrator	And now I'll carry this guilt with me until I die.
+	Narrator	Nothing in my life is worth more than hers...
+	Narrator	But I still couldn't do what she needed from me.
+	Narrator	And now...
+	Narrator	I can never take it back.
+	Narrator	Never.
+	Narrator	Never.
+	Narrator	Never.
+	Narrator	Never.
+	Narrator	Never...

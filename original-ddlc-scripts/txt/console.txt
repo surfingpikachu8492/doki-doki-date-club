@@ -1,0 +1,18 @@
+	Narrator	#333
+	Narrator	gui/font/F25_Bank_Printer.ttf
+	Narrator	#fff
+	Narrator	console_text_console
+	Narrator	console_text
+	Narrator	>", style="console_text
+	Narrator	", history="
+	Narrator	_
+	Narrator	[text]
+	Narrator	_
+	Narrator	", history="
+	Narrator	", history="
+	Narrator	_
+	Narrator	_
+	Narrator	
+	Narrator	[drawtext]_
+	Narrator	
+	Narrator	[consolehistorydisplay]

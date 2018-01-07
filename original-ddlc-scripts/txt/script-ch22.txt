@@ -1,0 +1,375 @@
+	Narrator	images/yuri/1l.png
+	Narrator	images/yuri/1r.png
+	Narrator	Another day passes, and it's time for the club meeting already.
+	Narrator	I've gotten a little more comfortable here over the past couple days.
+	Narrator	Entering the clubroom, the usual scene greets me.
+	Yuri	Welcome back, [player]...
+	MC	Ah, hi Yuri...
+	Narrator	I'm not sure if it's me, or if it's Yuri's expression...
+	Narrator	But the weight of yesterday's quarrel still hangs in the air a little.
+	Yuri	U-Um...
+	Narrator	Yuri glances over her shoulder, looking around the room.
+	Narrator	Natsuki is reading manga at a desk.
+	Narrator	And surprisingly, Monika isn't here yet.
+	Narrator	Suddenly, Yuri takes my arm and pulls me to the corner of the room.
+	Yuri	About yesterday...
+	Yuri	I...
+	Yuri	I really need to apologize.
+	Yuri	Nothing like that has ever happened before...
+	Yuri	And...something just came over me, I guess...
+	Yuri	I wasn't acting mentally sound.
+	Yuri	Please don't think we're usually like this!
+	Yuri	Not just me, but Natsuki as well...
+	MC	Yuri...
+	MC	I'm happy that you were considerate and apologized.
+	MC	You don't have to worry too much.
+	MC	Even though I've only been here a couple days, I could tell something was off yesterday...
+	MC	Maybe we were just a little extra sensitive because it was our first time sharing poems.
+	MC	But whatever it was...
+	MC	It didn't make me think any less of you.
+	MC	I had already decided that there's no way you can be a bad person.
+	MC	And now that you're apologizing, I know you really didn't mean it.
+	Yuri	A-Ah...
+	Yuri	[player]...
+	Yuri	Don't say those kinds of things so frankly...
+	Yuri	They make me a little too happy.
+	Yuri	I'm really glad that you're such an understanding person...
+	Yuri	And I'm really glad that you joined this club.
+	Yuri	Everything is a little bit brighter with you around, and--
+	Yuri	Ah--
+	Yuri	Sorry, what am I saying right now...?
+	Yuri	I just--
+	Natsuki	Hey, have you guys seen Monika?
+	Yuri	Ah--!
+	MC	No, I haven't...
+	MC	I was also kind of wondering where she was.
+	Natsuki	Man...
+	Natsuki	Yuri, I'm guessing you haven't, either?
+	Yuri	...
+	Narrator	Yuri is clearly taken aback by how calmly Natsuki is addressing her.
+	Yuri	N-No, I haven't...
+	Natsuki	Jeez, this isn't like her at all.
+	Natsuki	I know it's stupid, but I can't help but worry a little bit...
+	Yuri	...
+	Natsuki	What?
+	Natsuki	Why're you looking at me like that?
+	Yuri	U-Um...
+	Yuri	Natsuki, about yesterday...
+	Yuri	I-I just wanted to apologize!
+	Yuri	I promise I didn't mean any of the things I said!
+	Yuri	And I'll do my best to stay under control from now on...
+	Yuri	So--
+	Natsuki	Yuri, what the heck are you talking about?
+	Natsuki	Did you do something yesterday?
+	Yuri	...Eh?
+	Natsuki	Jeez...
+	Natsuki	Whatever's on your mind, I'm sure it was nothing.
+	Natsuki	I don't even remember anything bad happening.
+	Natsuki	You're the kind of person who worries too much about the little things, aren't you?
+	Yuri	...
+	Yuri	B-But...
+	Natsuki	mibulls sailcloth blindsight lifeline anan rectipetality faultlessly offered scleromalacia neighed catholicate
+	Natsuki	I'll accept your apology anyway, if it helps you feel better about it.
+	Natsuki	Besides, it's kinda nice to hear, since I was always afraid you secretly hated me or something like that.
+	Natsuki	Ehehe.
+	Yuri	N-No, not at all...!
+	Yuri	I don't hate you...
+	Natsuki	Ahaha.
+	Natsuki	Well, you're kind of weird, but I don't hate you either.
+	Yuri	...
+	Narrator	Natsuki turns to me.
+	Natsuki	You're still on trial, though.
+	MC	Hey...!
+	Narrator	Suddenly, the door swings open.
+	Monika	Sorry! I'm super sorry!
+	MC	Ah, there you are...
+	Monika	I didn't mean to be late...
+	Monika	I hope you guys weren't worried or anything!
+	MC	Nah...
+	MC	Well, Natsuki was.
+	Natsuki	I-I was not!!
+	Monika	Ahaha.
+	Natsuki	...What took you so long, anyway?
+	Monika	Ah...
+	Monika	Well, my last period today was study hall.
+	Monika	To be honest, I kind of just lost track of time...
+	Monika	Ahaha...
+	Natsuki	That makes no sense, though.
+	Natsuki	You would have heard the bell ring, at least.
+	Monika	I must not have heard it, since I was practicing piano...
+	Yuri	Piano...?
+	Yuri	I wasn't aware you played music as well, Monika.
+	Monika	Ah, don't give me more credit than I deserve.
+	Monika	I guess I've been practicing for a while, but I'm still not really good yet.
+	Yuri	Still...
+	Yuri	That must require a lot of dedication.
+	Yuri	So, I'm still impressed.
+	Monika	Aw, well thanks, Yuri~
+	Natsuki	You should play something for us sometime!
+	Monika	Ahaha, that's...
+	Narrator	Monika looks at me.
+	Monika	Well, I am working on writing a song, but it's not quite done yet...
+	Monika	Maybe once I get a little bit better, I will.
+	MC	That sounds cool.
+	MC	I look forward to it.
+	Monika	Is that so?
+	Monika	In that case...
+	Monika	I won't let you down, [player].
+	Narrator	Monika smiles sweetly.
+	MC	Ah...
+	MC	I didn't mean any pressure or anything like that!
+	Monika	Ahaha, don't worry.
+	Monika	I was hoping that I could share it with you, anyway.
+	Monika	I guess that's why I've been practicing so much recently.
+	MC	I see...
+	Narrator	I'm not sure if Monika was referring to the whole club, or just me...
+	MC	In that case, best of luck.
+	Monika	Thanks~!
+	Monika	So, I didn't miss anything, did I?
+	MC	Not...not really.
+	Narrator	I choose not to bring up anything that the three of us talked about.
+	Narrator	Besides, Natsuki has already run off into the closet.
+	Yuri	[player]...
+	Yuri	Um...
+	Yuri	Since your compliments put me in a good mood...
+	Yuri	I was wondering if you would like to spend some time together today.
+	Yuri	I mean--in the club!
+	Narrator	natsuki
+	MC	Ah, I suppose so.
+	MC	I don't think I could say no to you, after you gave that book to me.
+	MC	Well, I guess I need to make sure Natsuki isn't waiting for me.
+	MC	After we finished reading yesterday, she--
+	Yuri	She's fine!
+	Yuri	She's reading over there. See?
+	Yuri	Don't think about her so much.
+	Yuri	She's used to being ignored.
+	Yuri	Come on, we're going over there.
+	Narrator	<from " + str(currentpos) + " loop 10.893>bgm/6.ogg
+	Yuri	S-She's fine!
+	Yuri	She's reading over there.
+	Yuri	So it's okay, right?
+	MC	Ah--
+	MC	In that case, I don't see any problem...
+	MC	Yeah, definitely.
+	MC	I planned on it anyway.
+	Yuri	Okay!
+	Yuri	Can we start now?
+	Yuri	Let's find a place to sit--
+	Yuri	A-Ah--
+	Yuri	I'm being a little forceful, aren't I...?
+	Yuri	I'm sorry!
+	Yuri	My heart...just won't stop pounding, for some reason...
+	MC	Don't worry about it.
+	MC	If anything, it's nice to see you have so much energy.
+	Yuri	Y-Yeah!
+	Yuri	But...
+	Yuri	I need to try to calm down.
+	Yuri	I won't be able to focus on reading like this...
+	MC	Take your time.
+	Narrator	Yuri takes a deep breath, then pulls a copy of the book out of her bag.
+	Narrator	yuri
+	Narrator	yuri_exclusive2_" + str(eval("y_appeal")) + "_ch22
+	Narrator	You have unlocked a special poem.\nWould you like to read it?
+	Narrator	poem_special_
+	Narrator	ff0000
+	Narrator	#440000
+	Narrator	default
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head.png
+	Narrator	gui/mouse/s_head.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head2.png
+	Narrator	gui/mouse/s_head.png
+	Monika	Okay, everyone!
+	Monika	We're all done reading each other's poems, right?
+	Monika	We have something we need to go over today, so if everyone could come sit at the front of the room...
+	Natsuki	Is this about the festival?
+	Monika	Well, sort of~
+	Natsuki	Ugh. Do we really have to do something for the festival?
+	Natsuki	It's not like we can put together anything good in just a few days.
+	Natsuki	We'll just end up embarrassing ourselves instead of getting any new members.
+	Yuri	That's a concern of mine as well.
+	Narrator	<from " + str(currentpos) + " loop 4.618>bgm/3.ogg
+	Yuri	I don't really do well with last-minute preparations...
+	Monika	Don't worry so much!
+	Monika	We're going to keep it simple, okay?
+	Monika	Look...
+	Monika	I know everyone's been a little more...lively...ever since [player] joined and we've started with some club activities.
+	Monika	But this isn't the time for us to become complacent.
+	Monika	We still only have four members...
+	Monika	And the festival is our only real chance to find more, you know?
+	Natsuki	What's so great about getting new members, anyway?
+	Natsuki	We already have enough to be considered an official club.
+	Natsuki	More members will just mean everything gets noisier and more difficult to manage.
+	Monika	Natsuki...
+	Monika	I don't think you're looking at it the right way at all.
+	Monika	Don't you want to share your passion with as many people as you can?
+	Monika	To inspire them to find the same feelings that brought you here in the first place?
+	Monika	The Literature Club should be a place where people can express themselves like they can't do anywhere else.
+	Monika	It should be a place so intimate that you never want to leave.
+	Monika	I know you feel that way, too.
+	Monika	I know we all do!
+	Monika	So that's why we should work hard and put something together for the festival...even if it's something small!
+	Monika	Right, [player]?
+	MC	Ah...
+	Natsuki	Oh, come on!
+	Natsuki	You can't take advantage of [player] to agree with you just because he doesn't know how to say no to anything.
+	Natsuki	Look, Monika.
+	Natsuki	Do you really think any of us here joined the club with other people in mind?
+	Natsuki	Yuri never even talked until [player] joined.
+	Natsuki	As for me, I just like it better here than I do at home.
+	Natsuki	And [player] isn't even passionate about literature in the first place.
+	Natsuki	And that's everyone.
+	Natsuki	Sorry, but you're really the only one who's so interested in finding new members.
+	Natsuki	The rest of us are fine like this.
+	Natsuki	I know you're President and all, but you should really consider our opinions for once.
+	Monika	...
+	Narrator	Monika is clearly taken aback by Natsuki's words.
+	Monika	That's...not true at all.
+	Monika	I'm sure Yuri and [player] want to get more members too...
+	Monika	...Right?
+	Yuri	...
+	MC	...
+	Narrator	I don't know about Yuri, but I'm kind of indifferent.
+	Narrator	If I showed as much enthusiasm as Monika wanted, then I would probably be lying.
+	Narrator	Still, if it's up to me to rescue this situation...
+	MC	Um--
+	Monika	No.
+	Monika	Natsuki's right, isn't she?
+	Monika	This club...
+	Monika	It's nothing more than a place for a few people to hang out.
+	Monika	Why did I think that everyone here saw it the same way as I did?
+	MC	But that doesn't mean that we're against getting new members or anything...
+	Monika	[player], why did you even join this club?
+	Monika	What were you hoping to get out of it?
+	MC	Well--
+	Narrator	That's not really something I can be honest about, is it?
+	Monika	In fact...
+	Monika	If I remember, you weren't even given a choice not to join.
+	Narrator	Monika sits down and stares at her desk.
+	Monika	What's the point of all this, anyway?
+	Monika	What if starting this club was a mistake?
+	MC	...
+	Yuri	Now you've done it, Natsuki...
+	Natsuki	What, me?
+	Natsuki	I just spoke my mind...
+	Natsuki	Is it a crime to be honest?
+	Yuri	It's not about being honest.
+	Yuri	It's about word choice.
+	Yuri	Besides, you have no right to speak for everyone else in the club like that...
+	Natsuki	You don't understand at all!
+	Natsuki	I just...
+	Natsuki	I just want a place that feels nice to hang out with a few friends.
+	Natsuki	Is there a problem with the club being that for me?
+	Natsuki	There aren't...there aren't many other places like that for me...
+	Natsuki	And now Monika wants to take it away from me!
+	MC	She's not taking anything away--
+	Natsuki	No, [player].
+	Natsuki	It's not the same.
+	Natsuki	It won't be the same with the direction she wants to take it.
+	Natsuki	If I wanted that, then I could have just joined any other stupid club.
+	Natsuki	But this one...
+	Natsuki	I mean...
+	Natsuki	At least for a little bit of time...
+	Natsuki	Things were nice.
+	Narrator	Natsuki starts packing up her things.
+	Natsuki	I'm going home.
+	Natsuki	I feel like...I don't belong here right now.
+	Yuri	Natsuki...
+	Narrator	Natsuki ignores Yuri and walks right out of the classroom.
+	Yuri	...
+	Yuri	This is bad...
+	Yuri	I don't know what to do...
+	MC	Well...
+	MC	Do you have an opinion on the festival?
+	Yuri	I-I don't know...
+	Yuri	I'm kind of indifferent, I guess...
+	Narrator	<from " + str(currentpos) + " loop 1.532>bgm/9g.ogg
+	Yuri	Who cares about that obnoxious brat?
+	Narrator	<from " + str(currentpos) + " loop 3.172>bgm/9.ogg
+	Yuri	I mean, I like how nice and quiet the club is right now...
+	Yuri	And I'm just...happy with you here...
+	Yuri	But still!
+	Yuri	I'm the Vice President...
+	Yuri	It's not right for me to ignore my responsibilities like that...
+	Narrator	<from " + str(currentpos) + " loop 1.532>bgm/9g.ogg
+	Yuri	Nobody would cry if she killed herself.
+	Narrator	sfx/stab.ogg
+	Narrator	<from " + str(currentpos) + " loop 3.172>bgm/9.ogg
+	Yuri	I should do my best to consider everyone's perspective and make the decision that's right for the club.
+	Yuri	But what about you, [player]?
+	Yuri	What do you want to get out of this club?
+	Narrator	Yuri repeats the same question as Monika.
+	Narrator	I decide giving an indirect answer is better than nothing.
+	MC	...I think the most important thing is for everyone to get along...
+	MC	...And for the club to provide something that you can't get anywhere else.
+	MC	I don't think it's about how many members, but rather the quality of each member.
+	MC	That's what will end up making the Literature Club a special place.
+	Yuri	I see...
+	Yuri	I really agree with you.
+	Yuri	Each member contributes their own qualities in a special way.
+	Yuri	With each change in members, the identity of the club as a whole will change, too.
+	Yuri	I don't think that's necessarily a bad thing.
+	Yuri	Stepping out of your comfort zone once in a while...
+	Yuri	So if you would like to help Monika with the festival, then I'm on your side as well.
+	MC	Alright.
+	MC	Well, maybe we can all talk to Natsuki tomorrow...
+	Narrator	Yuri nods.
+	Monika	Hey, Yuri...
+	Yuri	Eh?
+	Monika	Um, I know things were a little awkward yesterday...
+	Monika	But I feel like you deserve to know that I still think you're a wonderful vice president.
+	Monika	And also, a wonderful friend.
+	Yuri	M-Monika...
+	Monika	I want to do everything I can to make this the best club ever.
+	Monika	Okay?
+	Yuri	...Me too.
+	Monika	Yeah...
+	Monika	Let's all go home for today.
+	Monika	We'll talk about the festival tomorrow.
+	Yuri	Okay.
+	Yuri	I look forward to it.
+	Yuri	Shall we go, [player]?
+	Monika	Um--
+	Monika	Please don't take this the wrong way, but...
+	Monika	I'm going to chat a little bit with [player] before we leave.
+	Monika	Just to see what he thinks of his time here and all that...
+	Monika	It's important to me, as President.
+	Yuri	...
+	Narrator	Yuri looks a little troubled, but she doesn't protest.
+	Yuri	Okay.
+	Yuri	I trust your judgment, Monika.
+	Yuri	In that case, I'll see the two of you tomorrow.
+	Monika	See you tomorrow~
+	Narrator	Monika waves as Yuri exits the classroom.
+	Monika	Phew...
+	Monika	Things have been a bit hectic lately, haven't they?
+	Monika	[player], I just wanted to make sure you're enjoying your time at this club.
+	Monika	I would really hate to see you unhappy.
+	Monika	I feel kind of like I'm responsible for that, as President...
+	Monika	And I really do care about you...you know?
+	Monika	I don't like seeing the other girls give you a hard time.
+	Monika	With how mean Natsuki is and everything...
+	Monika	And Yuri being a little bit...you know.
+	Monika	Ahaha...
+	Monika	Sometimes it feels like you and I are the only real people here.
+	Monika	You know what I mean?
+	Monika	But it's weird, because in all the time you've been here, we've hardly gotten to spend any time together.
+	Monika	Ah...I mean...
+	Monika	I guess it's technically only been a couple days...
+	Monika	Sorry, I didn't mean to say something weird!
+	Monika	There are just some things I've been hoping to talk about with you...
+	Monika	Things I know only you could understand.
+	Monika	So that's why--\"{space=5000}{w=0.75}{nw}
+	Monika	Wait, not yet!\"{space=5000}{w=0.5}{nw}
+	Monika	No!\"{space=5000}{w=0.5}{nw}
+	Monika	Stop it!\"{space=5000}{w=1.0}{nw}

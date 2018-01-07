@@ -1,0 +1,583 @@
+	Narrator	Another day passes, and it's time for the club meeting already.
+	Narrator	I've gotten a little more comfortable here over the past couple days.
+	Narrator	Entering the clubroom, the usual scene greets me.
+	Sayori	Hi [player]~
+	MC	Yo, Sayori.
+	MC	Looks like you're in a good mood today.
+	Sayori	Ehehe~
+	Sayori	I'm just still not used to you being in the club, that's all.
+	MC	I see...
+	MC	...That's a pretty simple thing to get you in a good mood.
+	MC	But I guess it's always the simple things with you, anyway.
+	Sayori	Speaking of which...
+	Sayori	I'm kinda hungry...
+	Sayori	Will you come with me to buy a snack?
+	MC	No thanks.
+	Sayori	Eh??
+	Sayori	T-That's not like you at all!!
+	MC	I have my reasons.
+	MC	Why don't we take a look at your purse, Sayori?
+	Sayori	E-Eh?
+	Sayori	Why that...all of a sudden?
+	MC	No reason, really.
+	MC	I just wanted to look at it.
+	Sayori	A-Ah...
+	Narrator	Sayori nervously retrieves her coin purse.
+	Narrator	She fumbles with the latch and gets it open.
+	Narrator	Then, she turns it upside-down and lets its contents spill onto the desk.
+	Narrator	Only two small coins fall out.
+	Sayori	A-Ahaha...
+	MC	I knew it...
+	MC	I can see right through you, Sayori.
+	Sayori	That's not fair!
+	Sayori	How did you even know?
+	MC	It's simple.
+	MC	If you had enough money in the first place, you would have bought a snack before coming to the clubroom.
+	MC	So, either you're not hungry and wanted an excuse to take a walk...
+	MC	Or, you planned to conveniently forget that you spent all your money, so that I would lend you some!
+	MC	But there's one more thing...
+	MC	...You're always hungry!
+	MC	And so, that only leaves the one option!
+	Sayori	Uwaaa~!
+	Sayori	I give up!
+	Sayori	Don't make me feel guiltyyy!
+	MC	If you feel guilty, that means you deserve to feel guilty...
+	Yuri	Ahaha.
+	Narrator	Yuri suddenly giggles.
+	MC	Eh?
+	Narrator	I didn't notice that she was listening in.
+	Narrator	Her face is in her book, as always.
+	Yuri	A-Ah!
+	Yuri	I wasn't listening or anything--!
+	Yuri	It was just...something in my book...
+	Sayori	Yuriiii...
+	Sayori	Tell [player] to let me borrow some money...
+	Yuri	That's--!
+	Yuri	Don't get me involved like that, Sayori...
+	Yuri	Besides...
+	Yuri	You should only buy what you can responsibly afford...
+	Yuri	And frankly, after pulling a mischievous little stunt like that, your suffering is fair enough retribution.
+	MC	...
+	Yuri	Ah--!
+	Yuri	Did I just...
+	Yuri	I-I didn't mean that!!
+	Yuri	I got too absorbed into my book...
+	Yuri	Uu...
+	Sayori	Ahaha!
+	Sayori	I really like when you speak your mind, Yuri...
+	Sayori	It doesn't happen much, but it's a fun side of you!
+	Yuri	That's...
+	Yuri	There's no way you could think that...
+	Sayori	You were right, though...
+	Sayori	I did something bad and now I have to accept the revolution.
+	Yuri	Retribution...
+	Sayori	That!
+	Yuri	Still, coming from you, Sayori...
+	Yuri	I guess there's a little devil inside all of us, isn't there?
+	Sayori	Ehehe...
+	MC	Don't let her fool you.
+	MC	Sayori knows exactly what she's doing.
+	MC	After all, she told you guys she was bringing me to the club before she even told me...
+	Sayori	B-But...!
+	Sayori	You wouldn't have come if it weren't for the cupcakes...
+	Sayori	So I had to trick Natsuki into making them!
+	MC	Come on, give me more credit than that, Sayori.
+	Sayori	Ehehe...
+	Narrator	sfx/slap.ogg
+	Narrator	{i}Pwap!{/i}
+	Sayori	Kyaa--!
+	Narrator	Out of nowhere, something smacks Sayori in the face and tumbles onto the desk.
+	Sayori	Ow...
+	Sayori	What was--
+	Sayori	Eh??
+	Sayori	A-A cookie!
+	Narrator	Sure enough, it's a giant cookie wrapped in plastic.
+	Narrator	Sayori glances around.
+	Sayori	I-Is this a miracle??
+	Sayori	It's because I paid my restitution!
+	MC	Retribution...
+	Yuri	Actually, that one almost worked...
+	Natsuki	Ahahaha!
+	Natsuki	I {i}was{/i} just gonna give it to you.
+	Natsuki	But then I heard you blab about the cupcakes.
+	Natsuki	It was totally worth seeing your reaction, though. Ahaha!
+	Sayori	N-Natsuki!
+	Sayori	That's so nice of you!
+	Sayori	I'm so happy...
+	Narrator	Sayori hugs the cookie.
+	MC	Jeez, just eat it...
+	Narrator	Sayori rapidly tears open the wrapper and takes a big bite.
+	Sayori	Sho good...
+	Sayori	Mmf--!
+	Narrator	Sayori suddenly clasps her hands over her mouth.
+	Sayori	I bit my tongue...
+	Natsuki	Ehehe.
+	Natsuki	You're going through a lot over just one cookie.
+	Narrator	Natsuki takes a bite of her own cookie.
+	Sayori	Ah, yours looks really good too, Natsuki!
+	Sayori	Can I try it?
+	Natsuki	Jeez...
+	Natsuki	Beggars can't be choosers!
+	Sayori	But yours is chocolate...
+	Natsuki	Yeah, why do you think I gave you that one?
+	Sayori	Fine...
+	Sayori	Still, I'm really happy that you shared this one with me.
+	Sayori	Ehehe~
+	Narrator	Sayori gets out of her seat and goes behind Natsuki, then wraps her arms around her.
+	Natsuki	Ah-- Jeez...
+	Natsuki	I get it, I get it.
+	Narrator	Cookie still in hand, Natsuki reaches up to nudge Sayori off of her.
+	Sayori	...{i}Om.{/i}
+	Narrator	Sayori suddenly leans down and takes a bite out of Natsuki's cookie.
+	Natsuki	{i}H-Hey!!{/i}
+	Natsuki	Did you seriously just do that?!
+	Sayori	Uhuhuhu!
+	Narrator	Mouth full, Sayori trots away to safety.
+	Narrator	Yuri and I laugh as well.
+	Natsuki	Jeez! You're such a kid sometimes!
+	Natsuki	Monika! Can you tell Sayori--
+	Natsuki	--Eh?
+	Narrator	Natsuki glances around.
+	Narrator	Monika isn't in the clubroom.
+	Natsuki	Ugh...
+	Natsuki	Where's Monika, anyway?
+	Yuri	Good question...
+	Yuri	Have any of you heard anything about her being late today?
+	Sayori	Not me...
+	MC	Yeah, I haven't either.
+	Yuri	Hm...
+	Yuri	That's a bit unusual.
+	Sayori	I hope she's okay...
+	Natsuki	Of course she's okay.
+	Natsuki	She probably just had something to do today.
+	Natsuki	She's pretty popular, after all...
+	Sayori	Eh?
+	Sayori	You don't think she...
+	Sayori	She has a...!
+	Yuri	Ahaha. I wouldn't be surprised.
+	Yuri	She's probably more desirable than all of us combined.
+	Sayori	Ehehe, that's true...
+	Natsuki	Excuse me?!
+	Narrator	Suddenly, the door swings open.
+	Monika	Sorry! I'm super sorry!
+	MC	Ah, there you are...
+	Monika	I didn't mean to be late...
+	Monika	I hope you guys weren't worried or anything!
+	Sayori	Eh??
+	Sayori	Monika chose the club over her boyfriend after all!
+	Sayori	You're so strong-willed!
+	Monika	B-Boyfriend...?
+	Monika	What on Earth are you talking about?
+	Narrator	Monika quizzically glances at me.
+	MC	Ah, never mind that...
+	MC	What held you up, anyway?
+	Monika	Ah...
+	Monika	Well, my last period today was study hall.
+	Monika	To be honest, I kind of just lost track of time...
+	Monika	Ahaha...
+	Natsuki	That makes no sense, though.
+	Natsuki	You would have heard the bell ring, at least.
+	Monika	I must not have heard it, since I was practicing piano...
+	Yuri	Piano...?
+	Yuri	I wasn't aware you played music as well, Monika.
+	Monika	Ah, I don't, really...!
+	Monika	I kind of just started recently.
+	Monika	I've always wanted to learn piano.
+	Sayori	That's so cool!
+	Sayori	You should play something for us, Monika!
+	Monika	That's...
+	Narrator	Monika looks at me.
+	Monika	Maybe once I get a little bit better, I will.
+	Sayori	Yay~!
+	MC	That sounds cool.
+	MC	I'd also look forward to it.
+	Monika	Is that so?
+	Monika	In that case...
+	Monika	I won't let you down, [player].
+	Narrator	Monika smiles sweetly.
+	MC	Ah...
+	MC	I didn't mean any pressure or anything like that!
+	Monika	Ahaha, don't worry.
+	Monika	I've been practicing a whole lot recently.
+	Monika	And I'd really love the chance to share once I'm ready.
+	MC	I see...
+	MC	In that case, best of luck.
+	Monika	Thanks~!
+	Monika	So, I didn't miss anything, did I?
+	MC	Not...not really.
+	Narrator	I choose to leave out Sayori's mischievous escapade.
+	Narrator	I'm sure Natsuki will end up complaining to her, anyway.
+	Narrator	It looks like everyone has already settled down.
+	Narrator	Sayori somehow already finished her entire cookie.
+	Narrator	Yuri is back to her book, and Natsuki disappeared into the closet.
+	Narrator	_exclusive_" + str(eval(poemwinner[1][0] + "_appeal
+	Monika	Okay, everyone!
+	Monika	We're all done reading each other's poems, right?
+	Monika	I have something extra planned today, so if everyone could come sit at the front of the room...
+	Natsuki	Is this about the festival?
+	Monika	Well, sort of~
+	Natsuki	Ugh. Do we really have to do something for the festival?
+	Natsuki	It's not like we can put together anything good in just a few days.
+	Natsuki	We'll just end up embarrassing ourselves instead of getting any new members.
+	Yuri	That's a concern of mine as well.
+	Yuri	I don't really do well with last-minute preparations...
+	Monika	Don't worry so much!
+	Monika	We're going to keep it simple, okay?
+	Monika	We won't need much more than a few decorations.
+	Monika	Sayori has been working on posters, and I've designed some pamphlets we can give out during the event.
+	Natsuki	Okay, that's great and all...
+	Natsuki	But that doesn't tell us what we're actually going to be doing for the event.
+	Monika	Ah, sorry! I thought you heard about it already.
+	Monika	We're going to be performing!
+	Natsuki	Performing?
+	Yuri	P...
+	Yuri	Um, Monika...
+	Monika	Yeah! We're going to be having a poetry performance.
+	Monika	Each of us are going to choose a poem to recite during the event.
+	Monika	But the cool part is, we're also going to let anyone else come up and recite poems too!
+	Monika	Sayori's putting it on all the posters in case anyone wants to prepare ahead of time.
+	Sayori	Ehehe~
+	Narrator	Sayori, who's been coloring a poster, holds it up for us to see.
+	Natsuki	Are you kidding me, Monika?
+	Natsuki	You didn't...you didn't already start putting those posters up, did you?
+	Monika	Eh? Well, I did...
+	Monika	Do you really think it's that bad of an idea...?
+	Natsuki	Well, no.
+	Natsuki	It's not a bad idea.
+	Natsuki	But I didn't sign up for this, you know!
+	Natsuki	There is {i}no{/i} way I'm going to be performing in front of a group of people like that!
+	Yuri	I...I agree with Natsuki!
+	Yuri	I could never...in my life...do something like that...
+	Narrator	Imagining it, Yuri shakes her head in fear.
+	Sayori	Guys...
+	Monika	No, Sayori...
+	Monika	I understand where they're coming from.
+	Monika	Remember that Natsuki and Yuri have never shared their poems with anyone until just a couple days ago...
+	Monika	It's a lot to ask for them to recite their poems out loud to a whole room full of people.
+	Monika	I guess I kind of overlooked that.
+	Monika	So, I'm sorry.
+	Natsuki	...
+	Monika	...But!
+	Monika	I still think we should give it our best!
+	Monika	We're the only ones responsible for the fate of this club.
+	Monika	If we start the event and each put on a good performance...
+	Monika	Then it will inspire others to do the same!
+	Monika	And the more people who perform, the better we'll be able to show everyone what literature is all about!
+	Sayori	Yeah!
+	Sayori	It's about expressing your feelings...
+	Sayori	Being intimate with yourself...
+	Sayori	Finding new horizons...
+	Sayori	And having fun!
+	Monika	That's right!
+	Monika	And it's those reasons that we're all in this club today.
+	Monika	Don't you want to share that with others?
+	Monika	To inspire them to find the same feelings that brought you here in the first place?
+	Monika	I know you do.
+	Monika	I know we all do.
+	Monika	And if all it takes is standing in front of the room for two minutes and reciting a poem...
+	Monika	...Then I know you can do it!
+	Natsuki	...
+	Yuri	...
+	Narrator	Natsuki and Yuri remain silent.
+	Narrator	Sayori looks worried.
+	Narrator	I guess that leaves me no choice...
+	MC	I agree...
+	MC	I don't think it's too much to ask.
+	MC	I think that Sayori and Monika have been trying really hard to get new members.
+	MC	The least we can do is help them out a little bit.
+	Natsuki	Well...maybe, but...
+	Natsuki	...
+	Narrator	It looks like Natsuki doesn't have any arguments left.
+	Natsuki	Uu...
+	Natsuki	...Okay, fine!
+	Natsuki	I guess I'll just have to get it over with.
+	Sayori	Alright~!
+	Monika	Phew...
+	Monika	Thanks, Natsuki.
+	Monika	What about you, Yuri...?
+	Yuri	...
+	Narrator	Yuri dejectedly glances around at everyone else's expectant faces.
+	Yuri	Sigh...
+	Yuri	I-I guess I don't really have a choice...
+	Sayori	Ahaha! That's everyone!
+	Sayori	You're the best, Yuri~
+	Yuri	This club is seriously going to be the death of me...
+	Monika	Oh gosh...
+	Monika	You'll be fine, Yuri.
+	Monika	But anyway...
+	Monika	Let's move onto the main event!
+	Monika	I want each of you to choose a poem of yours.
+	Monika	We're going to practice reciting them in front of each other.
+	Natsuki	N-N-No way!!
+	Yuri	Monika...!
+	Yuri	This is too sudden...!
+	Monika	Well, if you can't recite your poem in front of the club, how do you expect to do it in front of strangers?
+	Yuri	Oh no...
+	Monika	Don't worry.
+	Monika	I'll start off to help everyone feel a little more comfortable.
+	Sayori	Can I go next??
+	Monika	Ahaha. Of course.
+	Monika	Now, let's see...
+	Narrator	Monika flips through her notebook to the specific poem she has in mind for herself.
+	Narrator	She then stands behind the podium.
+	Monika	The title of this poem is {i}The Way They Fly{/i}.
+	Monika	Ahem...
+	Narrator	Monika begins reciting her poem.
+	Narrator	Her clear, confident voice fills the room.
+	Narrator	More than that, her inflection is pristine.
+	Narrator	She knows exactly how to apply emotion behind each line she recites, bringing the words to life.
+	Narrator	Is this something she's done before, or is she simply a natural?
+	Narrator	I glance around me.
+	Narrator	Everyone has their eyes on Monika.
+	Narrator	Sayori looks amazed.
+	Narrator	Yuri has an intense expression on her face that I don't understand.
+	Narrator	Finally, Monika finishes the recitation.
+	Narrator	The four of us applaud.
+	Narrator	Monika takes a breath and smiles.
+	Sayori	That...that was so good, Monika!
+	Monika	Ahaha, thank you very much.
+	Monika	I was just hoping to set a good example.
+	Monika	Are you ready to go next, Sayori?
+	Yuri	I...I'll go next!!
+	Sayori	Uwah! Yuri's fired up all of a sudden!
+	Narrator	Yuri clutches a sheet of paper between her hands and stands up.
+	Narrator	Keeping her head down, she walks quickly over to the podium.
+	Yuri	This poem is called--!
+	Narrator	Yuri anxiously glances at each of us.
+	Sayori	You can do it, Yuri...
+	Yuri	It...It's called...{i}Afterimage of a Crimson Eye{/i}.
+	Narrator	Yuri's voice shakes as she starts reading the poem.
+	Narrator	Just a moment ago, she practically refused to do this.
+	Narrator	Why is she suddenly putting in so much effort?
+	Narrator	As Yuri gets past the first couple of lines, her voice changes.
+	Narrator	It's almost like what happens when Yuri gets absorbed into her books.
+	Narrator	Her quivering words transform into the sharp syllables of a fierce and confident woman.
+	Narrator	The poem is full of twists and turns in its structure that she enunciates with perfect timing.
+	Narrator	This must be a rare glimpse into the whirling fire Yuri keeps concealed inside her head...!
+	Narrator	Suddenly, she's finished.
+	Narrator	Everyone is stunned.
+	Narrator	Yuri snaps back into reality and glances around her, as if she bewildered even herself.
+	Yuri	I...
+	Narrator	...It's up to me to save this situation.
+	Narrator	I'm the first to start applauding.
+	Narrator	Everyone joins me afterward, and we give Yuri the recognition she deserves.
+	Narrator	It's not that we didn't want to applaud for her.
+	Narrator	But we were caught so off-guard that we must have forgotten.
+	Narrator	As we applaud, Yuri holds the poem to her chest and rushes back into her seat.
+	Monika	Yuri, that was really good.
+	Monika	Thank you for sharing.
+	Yuri	...
+	Narrator	Looks like Yuri is down for the count...
+	Sayori	Okaay~
+	Sayori	I guess I'm next, then!
+	Narrator	Sayori hops out of her chair and cheerfully walks to the podium.
+	Sayori	This one's called...{i}My Meadow{/i}.
+	Sayori	Ah...
+	Sayori	...Ahaha!
+	Sayori	Sorry, I giggled...
+	Sayori	Ehehe...
+	MC	Sayori...
+	Sayori	It's a lot harder than I thought!
+	Sayori	How did you guys do it so easily?
+	Monika	Ah...
+	Monika	Try not to think of it like you're reciting to other people.
+	Monika	Imagine you're reciting it to yourself, like in front of a mirror, or in your own head.
+	Monika	It's your poem, so it'll come out the best that way.
+	Sayori	I see, I see...
+	Sayori	Okay, then...
+	Narrator	Sayori begins her poem.
+	Narrator	Somehow, it feels like her soft voice was made as a perfect match.
+	Narrator	The poem isn't aimlessly cheery like Sayori is.
+	Narrator	It's serene and bittersweet.
+	Narrator	If I were to read this on paper, I probably wouldn't think much of it...
+	Narrator	But hearing it come from Sayori's voice almost gives it a whole new meaning.
+	Narrator	Maybe this is what Sayori meant when she said she likes my poems.
+	Narrator	It's like I get to reach more deeply into someone I thought I knew through and through.
+	Narrator	Sayori finishes, and we applaud.
+	Sayori	I did it~!
+	MC	Good job, Sayori.
+	Sayori	Ehehe, even [player] liked it.
+	Sayori	I guess that's a good sign~
+	MC	What does that even mean...?
+	Monika	It came out nicely, Sayori.
+	Monika	The atmosphere of the poem fits you really nicely.
+	Monika	But it might be that other poems wouldn't work quite as well with that kind of delivery...
+	Sayori	Eh? I don't really understand...
+	Monika	In other words, I've seen poems of yours where that sort of gentle delivery wouldn't work as well.
+	Monika	They might need a little more force behind them, depending on what you're reading...
+	Sayori	Oh, I know what you mean!
+	Sayori	That's...well, I've been practicing that kind of thing...
+	Sayori	It's just embarrassing to do in front of everyone...
+	Sayori	Ehehe...
+	Monika	Then next time, I'm going to make you pick a poem that challenges you a little more.
+	Monika	We don't have much time before the festival, you know?
+	Sayori	Okaaaaay.
+	Monika	Now, who's next...?
+	Monika	Natsuki?
+	Natsuki	Hmph.
+	Natsuki	Don't make me go before [player].
+	Natsuki	It's not like I can compare to you guys, anyway...
+	Natsuki	Might as well let [player] lower everyone's standards a little before I have to do it.
+	Sayori	Natsuki...
+	MC	It's fine, it's fine.
+	MC	I might as well get it over with.
+	MC	But it's not like I have much of a selection of what to read...
+	MC	I'll just have to go with what I wrote for today.
+	Narrator	I stand up and step in front of the podium.
+	Narrator	Everyone has their eyes on me, making me feel terribly awkward.
+	Narrator	I recite my poem.
+	Narrator	Since I'm not exactly confident in my own writing, it's hard to put energy into it.
+	Narrator	Despite that, once I finish, I receive applause anyway.
+	MC	Sorry I'm not really as good as everyone else...
+	Monika	Don't worry about it so much.
+	Monika	I think it's less about your abilities, and more about your lack of confidence in your writing.
+	Monika	That's something that'll improve over time, though.
+	MC	Yeah... Maybe.
+	Monika	Alright, then!
+	Monika	That just leaves you, Natsuki.
+	Natsuki	Yeah, yeah.
+	Natsuki	I'm going.
+	Narrator	Natsuki begrudgingly gets out of her seat and makes her way to the podium.
+	Natsuki	The poem is called...
+	Natsuki	It's called...
+	Natsuki	W-Why are you all looking at me?!
+	Monika	Because you're presenting...
+	Natsuki	Hmph...
+	Natsuki	Anyway...the poem is called {i}Jump{/i}.
+	Narrator	Natsuki takes a breath.
+	Narrator	Once she starts reciting the poem, her sour attitude disappears a little.
+	Narrator	While she's still a little unenthused, her poem has a rhythm and rhyme to it.
+	Narrator	It's Natsuki's trademark style, and it works surprisingly well when spoken aloud.
+	Narrator	The words feel like they bounce up and down, as if giving life to the poem.
+	Narrator	Natsuki finishes, and everyone applauds.
+	Narrator	She huffs back to her seat.
+	Monika	That wasn't so bad, was it?
+	Natsuki	Easy for you to say...
+	Natsuki	You'd better not make me do that again.
+	Monika	Ah, well...
+	Monika	Do you at least feel prepared enough to recite a poem in front of other people?
+	Natsuki	I mean, doing it in front of other people will be way easier!
+	Natsuki	I can put on whatever face I want for other people.
+	Natsuki	But when it's just my friends...
+	Natsuki	It's just...embarrassing.
+	Sayori	That's a surprise, Natsuki...
+	Sayori	I think it would be the other way around for me.
+	Natsuki	Well, that's just how it is, so...
+	Monika	Well, I guess in that case...
+	Monika	You won't have much to worry about for the festival.
+	Monika	That said, I want to thank everyone for coming through.
+	Monika	It might be hard, but I hope that you all have an idea of what it's like now.
+	Monika	Make sure you pick a poem and get enough practice before the festival, okay?
+	Monika	I'll be making pamphlets, so let me know ahead of time what you'll be reciting.
+	MC	Jeez...
+	MC	I should probably find some other poem to recite instead.
+	Monika	That's fine, too!
+	Monika	It doesn't have to be your own.
+	Monika	I'm already pleasantly surprised that you're putting in all this effort for the club.
+	Monika	It makes me really happy.
+	MC	Ah... Yeah, no problem...
+	Monika	Okay, everyone!
+	Monika	I think that's about it for today.
+	Monika	I know the festival is coming up, but let's try to write poems for tomorrow, as well.
+	Monika	It's been working out really nicely so far, so I'd like to continue that.
+	Monika	As for the festival, we'll finish planning tomorrow, and then we'll have the weekend to prepare.
+	Monika	Monday's the big day!
+	Sayori	I can't wait~!
+	Yuri	I can do this... I can do this...
+	MC	Alright--
+	Narrator	I stand up.
+	Narrator	There's no way I'll be able to find the same enthusiasm as Sayori and Monika, but I'll do my best to get through it.
+	Narrator	If it's for the sake of the club...
+	Narrator	And impressing Monika...
+	Narrator	Then I'll have to do my best.
+	MC	Ready to go, Sayori?
+	Sayori	Yep!
+	Natsuki	Look at you two, always going home together like that.
+	Monika	It's kind of adorable, isn't it?
+	Sayori	Ehehe~
+	MC	Jeez, guys...
+	MC	Don't make such a big deal out of it.
+	Yuri	It must be a little nice, though...
+	MC	Well...
+	MC	Ah...
+	Narrator	How am I supposed to respond to that?
+	Sayori	It's okay, [player], you don't have to say it.
+	MC	...Whatever. Let's go already.
+	Narrator	Sayori
+	Narrator	Yuri
+	Narrator	I walk home with Sayori once more.
+	Narrator	Even though it's only been a few days, a lot of things have already changed.
+	Narrator	But today, Sayori is being a little quieter than usual on the way home.
+	MC	Hey, Sayori...
+	Sayori	...
+	Sayori	...Sorry! I was spacing out!
+	MC	Ah, no wonder...
+	Sayori	Um...
+	Sayori	I was...thinking about something from earlier.
+	Sayori	I like how we get to...
+	Sayori	I-I mean...
+	Narrator	Sayori fumbles with her words.
+	Sayori	So...let's just say that one day, [ch2_winner] asked to walk home with you...
+	MC	Huh?!
+	Sayori	What would you do?
+	MC	What kind of question is that...?
+	MC	You're kind of putting me on the spot here...
+	Sayori	Ehehe...
+	Narrator	Well...
+	Narrator	I would walk home with [ch2_winner].
+	Narrator	Natsuki
+	Narrator	I would still walk home with Sayori.
+	Narrator	Then again, the festival is only a few days away...
+	Narrator	Who knows what will happen in that time?
+	MC	Sayori...
+	MC	You really think I would ditch you for [ch2_winner]?
+	Sayori	Eh?!
+	Sayori	B-But...
+	Narrator	Natsuki
+	Sayori	She's so cute and fun to be around...
+	Sayori	She's so beautiful and smart...
+	MC	Jeez...
+	MC	I already see her in the club every day.
+	MC	Besides, you always seem to really like going home together...
+	MC	I wouldn't just ruin that for you.
+	Sayori	You're so silly, [player]...
+	Sayori	You think about me too much sometimes.
+	Sayori	[ch2_winner] would deserve it if she wanted it, so...
+	MC	Sayori, I've already made up my mind.
+	MC	I really can't figure you out sometimes...
+	Sayori	Sorry...
+	MC	Besides, what's the point in speculating something that's never going to happen?
+	Sayori	Hm...
+	Narrator	The conversation trails off.
+	Narrator	It's kind of a weird thing for Sayori to care so much about...
+	Narrator	But I want to respect her and keep her happy, too.
+	MC	Walking home with Natsuki, huh...
+	Narrator	Why does the thought of that make my heart pound...?
+	MC	I mean...
+	MC	I think I would be afraid of what she'd do to me if I turned her down...
+	Sayori	Isn't she so cute and fun to be around?
+	MC	Walking home with Yuri, huh...
+	Narrator	Why does the thought of that make my heart pound...?
+	MC	I mean...
+	MC	Given how hard it is for her to socialize, I would feel awful turning her down, so...
+	Sayori	Isn't she so beautiful and smart?
+	MC	That has nothing to do with what I just said!
+	Sayori	Ahaha! You admitted it!
+	MC	Jeez...
+	MC	There's not even any point in speculating something that's never going to happen.
+	Sayori	Well, maybe...
+	Sayori	But I just like to think about it.
+	Sayori	It's not long before you won't need me anymore, you know?
+	MC	Need you...?
+	MC	Sayori...
+	MC	I can't figure out how you're seeing things in your head right now.
+	Sayori	Sorry...
+	MC	Everyone is different...
+	MC	Nobody in the club is a replacement for you.
+	Sayori	Hmm...
+	Sayori	If you say so...
+	Narrator	The conversation trails off, and I'm left feeling awkward.
+	Narrator	But it was kind of her fault for trapping me with such a weird question...
+	Narrator	I can't just lie to her.
+	Narrator	But if there's something that makes her happy, I would hate to take that away from her.
+	Narrator	That's why I said there's no point in speculating.

@@ -1,0 +1,121 @@
+	Narrator	", title="", text="
+	Narrator	yuri
+	Narrator	Ghost Under the Light
+	Narrator	"
+	Narrator	"
+	Narrator	yuri
+	Narrator	The Raccoon
+	Narrator	"
+	Narrator	"
+	Narrator	yuri
+	Narrator	Beach
+	Narrator	"
+	Narrator	"
+	Narrator	yuri
+	Narrator	Ghost Under the Light pt. 2
+	Narrator	"
+	Narrator	"
+	Narrator	yuri
+	Narrator	Wheel
+	Narrator	"
+	Narrator	"
+	Narrator	yuri
+	Narrator	mdpnfbo,jrfp
+	Narrator	"
+	Narrator	"
+	Narrator	natsuki
+	Narrator	Eagles Can Fly
+	Narrator	"
+	Narrator	"
+	Narrator	natsuki
+	Narrator	Amy Likes Spiders
+	Narrator	"
+	Narrator	"
+	Narrator	natsuki
+	Narrator	T3BlbiBZb3VyIFRoaXJkIEV5ZQ==
+	Narrator	"
+	Narrator	"
+	Narrator	natsuki
+	Narrator	I'll Be Your Beach
+	Narrator	"
+	Narrator	"
+	Narrator	natsuki
+	Narrator	Because You
+	Narrator	"
+	Narrator	"
+	Narrator	natsuki
+	Narrator	
+	Narrator	"
+	Narrator	"
+	Narrator	sayori
+	Narrator	Dear Sunshine
+	Narrator	"
+	Narrator	"
+	Narrator	sayori
+	Narrator	Bottles
+	Narrator	"
+	Narrator	"
+	Narrator	sayori
+	Narrator	%
+	Narrator	"
+	Narrator	"
+	Narrator	monika
+	Narrator	Hole in Wall
+	Narrator	"
+	Narrator	"
+	Narrator	monika
+	Narrator	Hole in Wall
+	Narrator	"
+	Narrator	"
+	Narrator	monika
+	Narrator	Save Me
+	Narrator	"
+	Narrator	"
+	Narrator	monika
+	Narrator	Save Me
+	Narrator	"
+	Narrator	"
+	Narrator	monika
+	Narrator	The Lady who Knows Everything
+	Narrator	"
+	Narrator	"
+	Narrator	monika
+	Narrator	Happy End
+	Narrator	"
+	Narrator	"
+	Narrator	images/bg/poem.jpg
+	Narrator	paper_glitch1", (0, 0), "paper_glitch2
+	Narrator	images/bg/poem-glitch1.png
+	Narrator	images/bg/poem-glitch2.png
+	Narrator	paper
+	Narrator	poem
+	Narrator	vp
+	Narrator	yuri
+	Narrator	[currentpoem.title]\n\n[currentpoem.text]" style "yuri_text
+	Narrator	[currentpoem.title]\n\n[currentpoem.text]" style "yuri_text_3
+	Narrator	[currentpoem.title]\n\n[currentpoem.text]" style "yuri_text
+	Narrator	sayori
+	Narrator	[currentpoem.title]\n\n[currentpoem.text]" style "sayori_text
+	Narrator	natsuki
+	Narrator	[currentpoem.title]\n\n[currentpoem.text]" style "natsuki_text
+	Narrator	monika
+	Narrator	[currentpoem.title]\n\n[currentpoem.text]" style "monika_text
+	Narrator	vp") style "poem_vbar
+	Narrator	gui/font/y1.ttf
+	Narrator	#000
+	Narrator	gui/font/y2.ttf
+	Narrator	#000
+	Narrator	gui/font/y3.ttf
+	Narrator	#000
+	Narrator	gui/font/n1.ttf
+	Narrator	#000
+	Narrator	gui/font/s1.ttf
+	Narrator	#000
+	Narrator	gui/font/m1.ttf
+	Narrator	#000
+	Narrator	<from " + str(currentpos) + " loop 4.444>
+	Narrator	<from " + str(currentpos) + " loop 4.444>bgm/5_" + poem.author + ".ogg
+	Narrator	music_poem
+	Narrator	gui/poem_dismiss.png
+	Narrator	music_poem
+	Narrator	<from " + str(currentpos) + " loop 4.444>bgm/5.ogg

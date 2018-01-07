@@ -1,0 +1,62 @@
+	Narrator	images/cg/y_cg2_bg1.png
+	Narrator	images/cg/y_cg2_bg2.png
+	Narrator	images/cg/y_cg2_bg1.png
+	Narrator	images/cg/y_cg2_base.png
+	Narrator	images/cg/y_cg2_nochoc.png
+	Narrator	images/cg/y_cg2_details.png
+	Narrator	images/cg/y_cg2_exp2.png
+	Narrator	images/cg/y_cg2_exp3.png
+	Narrator	images/cg/y_cg2_dust1.png
+	Narrator	images/cg/y_cg2_dust2.png
+	Narrator	images/cg/y_cg2_dust3.png
+	Narrator	images/cg/y_cg2_dust4.png
+	Narrator	images/cg/n_cg1_bg.png
+	Narrator	images/cg/n_cg1_base.png
+	Narrator	images/cg/n_cg1_exp1.png
+	Narrator	images/cg/n_cg1_exp2.png
+	Narrator	images/cg/n_cg1_exp3.png
+	Narrator	images/cg/n_cg1_exp4.png
+	Narrator	images/cg/n_cg1_exp5.png
+	Narrator	images/cg/n_cg1b.png", (882,325), "n_rects1", (732,400), "n_rects2", (850,475), "n_rects3
+	Narrator	#000
+	Narrator	#000
+	Narrator	#000
+	Narrator	images/cg/n_cg2_bg.png
+	Narrator	images/cg/n_cg2_base.png
+	Narrator	images/cg/n_cg2_exp1.png
+	Narrator	images/cg/n_cg2_exp2.png
+	Narrator	images/cg/n_cg3_base.png
+	Narrator	images/cg/n_cg3_cake.png
+	Narrator	images/cg/n_cg3_exp1.png
+	Narrator	images/cg/n_cg3_exp2.png
+	Narrator	images/cg/y_cg1_base.png
+	Narrator	images/cg/y_cg1_exp1.png
+	Narrator	images/cg/y_cg1_exp2.png
+	Narrator	images/cg/y_cg1_exp3.png
+	Narrator	images/cg/y_cg3_base.png
+	Narrator	images/cg/y_cg3_exp1.png
+	Narrator	images/cg/s_cg1.png
+	Narrator	images/cg/s_cg2_base1.png
+	Narrator	images/cg/s_cg2_base2.png
+	Narrator	images/cg/s_cg2_exp1.png
+	Narrator	images/cg/s_cg2_exp2.png
+	Narrator	images/cg/s_cg2_exp3.png
+	Narrator	images/cg/s_cg3.png
+	Narrator	images/cg/s_kill_bg.png
+	Narrator	images/cg/s_kill.png
+	Narrator	images/cg/s_kill_bg2.png
+	Narrator	images/cg/s_kill2.png
+	Narrator	persistent.yuri_kill >= 1380", "images/cg/y_kill/3a.png
+	Narrator	persistent.yuri_kill >= 1180", "images/cg/y_kill/3c.png
+	Narrator	persistent.yuri_kill >= 1120", "images/cg/y_kill/3b.png
+	Narrator	persistent.yuri_kill >= 920", "images/cg/y_kill/3a.png
+	Narrator	persistent.yuri_kill >= 720", "images/cg/y_kill/2c.png
+	Narrator	persistent.yuri_kill >= 660", "images/cg/y_kill/2b.png
+	Narrator	persistent.yuri_kill >= 460", "images/cg/y_kill/2a.png
+	Narrator	persistent.yuri_kill >= 260", "images/cg/y_kill/1c.png
+	Narrator	persistent.yuri_kill >= 200", "images/cg/y_kill/1b.png
+	Narrator	True", "images/cg/y_kill/1a.png
+	Narrator	s_kill_bg
+	Narrator	s_kill
+	Narrator	s_kill_bg2
+	Narrator	s_kill2
