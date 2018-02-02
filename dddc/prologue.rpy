@@ -57,9 +57,10 @@ label prologue_1:
   
   # Decodes to "Can you hear me? It's me, Mon... Nah, just kidding, it's a stupid ass Easter Egg I decided to add.
   # "In case you are actually reading this, then what the fuck are you doing with your life? XD"
-  call updateconsole("Q2FuIHlvdSBoZWFyIG1lPyBJdCdzIG1lLCBNb24uLi4gTmFoLCBqdXN0IGtpZGRpbmcsIGl0J3MgYSBzdHVwaW" + \ 
-  "QgYXNzIEVhc3RlciBFZ2cgSSBkZWNpZGVkIHRvIGFkZC4gSW4gY2FzZSB5b3UgYXJlIGFjdHVhbGx5IHJlYWRpbmcgdGhpcywgdGhlbiB3a" + \
-  "GF0IHRoZSBmdWNrIGFyZSB5b3UgZG9pbmcgd2l0aCB5b3VyIGxpZmU/IFhE")
+  call updateconsole(("Q2FuIHlvdSBoZWFyIG1lPyBJdCdzIG1lLCBNb24uLi4gTmFoLCBqdXN0IGtpZGRpbmcsIGl0J3MgYSBzdHVwaW" 
+                      "QgYXNzIEVhc3RlciBFZ2cgSSBkZWNpZGVkIHRvIGFkZC4gSW4gY2FzZSB5b3UgYXJlIGFjdHVhbGx5IHJlYWRp"
+                      "bmcgdGhpcywgdGhlbiB3aGF0IHRoZSBmdWNrIGFyZSB5b3UgZG9pbmcgd2l0aCB5b3VyIGxpZmU/IFhE")
+                     )
   
   menu:
     ""
