@@ -437,171 +437,198 @@ label prologue_2:
   mc "...late!"
   play sound "sfx/thump.ogg"
   
-  ”I hit my head several times against the pillow as I say all this.”
-  ”It helps me, eventually, to feel at least somewhat awake.”
-  ”[...]”
-  ”...and with it, a weird thought comes through my mind.”
-  mc “Did I even stay up late yesterday?”
-  ”And if I didn’t, then I should have at least had enough sleep, right?”
-  ”Unfortunately, my mind’s library appears to still be closed, since I am unable to 
-  even recall the events of the last night.”
-  ”It’s either me having some weird amnesia, or just being extremely sleepy...”
-  mc “(yawn)”
-  ”...must have been the latter after all.”
-  ”Finally mustering my strength, I push myself off from the bed, letting my feet 
-  find the floor.”
-  ”...to sit and stare at the window.”
-  ”[...]”
-  ”For some reason I feel like I’ve been doing the exact same thing just recently...”
-  mc “School...”
-  ”While my mind is clearly not in condition to make up any coherent thoughts...”
-  ”It seems that at least my self-preservation instincts are still functioning, 
-  capable of prioritizing my tasks...”
-  [play some sound imitating the mc standing up]
-  ”I finally let my body stand up, completely automatically, the real “me” still laying 
-  on the bed, trying to fall back to sleep.”
-  ”I start with my morning chores...”
-  ”Dressing up...”
-  ”Brushing my teeth...”
-  ”And while I’m, like, 50% positive that if I were offered to exchange my soul 
-  for at least one extra hour of sleep, I would definitely say “yes”...”
-  ”...skipping the classes now, with the exams on the horizon... clearly not the best 
-  idea.”
-  ”And besides...”
-  ”For some reason... I feel like I...”
-  ”{i}Need{/i} to go there...”
-  ”[...]”
-  ”I really hope that I still have some instant breakfast left, because I’m 
-  already being a bit late...”
-  [change background – slowly change to white screen]
-  [change soundtrack – music fades away]
-  [pause for ~ 2 seconds]
-  [play intro] (NOTE – the whole “intro” sequence is optional; it’s just my suggestion, but I consider it to be a great way to start the actual story. It should also help to make an impression of overall mod being more... solid and high-grade)
-  [intro description starts here]
-  1)	remove all HUD elements
-  2)	slowly change the background to a sky background, color scheme being similar to that of “residential.png” (the first background we see in the original game, when MC first meets Sayori)
-  3)	change soundtrack – DDLC Main Theme (we should also find a way too loop it, with the “Doki-Doki!” part happening just one time)
-  4)	display text “Team Silver”
-  5)	text fades away
-  6)	display text “Proudly presents”
-  7)	text fades away
-  8)	the DDDC logo pops up (pay attention to the timing – just like in the main menu, it should pop-up as song goes “Doki-Doki!” XD)
-  9)	pause for about 5 seconds
-  10)	 logo fades away
-  11)	 the camera goes downwards
-  12)	 Add some “blur” effect to that motion, as if we were just looking at the sky and then shifted our gaze downwards
-  13)	 change the background to the actual “residential.png”
-  14)	 HUD elements reappear
-  [intro description ends here]
-  (NOTE – in case we skip the intro, then the soundtrack for that sequence should be just a regular looped version of “DDLC Main Theme” OST)
-  ”Despite the fact that I’m already walking down the street, I am fairly certain  
-  my consciousness fell asleep somewhere on the sofa back at home...”
-  ”And while I'm used to starting my school weeks in such condition, this 
-  time my tiredness seems to be amplified tenfold. ”
-  mc “(yawn)”
-  ”Well, let’s just hope that my inner-GPS still works and I won’t wander into some 
-  completely different part of the city.”
-  ??? “Hey! [player]!”
-  ”Wha??”
-  ”Nooo-no-no-no...”
-  ”I am in neither condition nor mood for any morning chit-chats...”
-  ”So, whoever this is...”
-  ”Please... just ignore me...”
-  ”Imagine that I am some sort of glitch or something...”
-  ??? “[player]!!”
-  ”The voice is getting closer; it’s starting to sound more irritated...”
-  ”...and familiar?”
-  mc “Oh no...”
-  ”As I rub my eyes, barely holding myself from letting out yet another yawn, I 
-  turn around to meet my annoying pursuer.”
-  ”I see an ann8ying girl rrunning toWard me f--rom the dIIStance, wavi—
-  bm9wZSwgd2UgYXJlIG5vdCByZWhhc2hpbmcgdGhlIG9yaWdpbmFsIHNjcmlwd
-  CA=” [NOTE – that whole message should skip on it’s own, without any need for 
-  input from player]
-  ”Yep, that’s definitely her.”
-  ”Your one and only...”
-  s “Hey, what was that all about?!”
-  s “Did you really try to just ignore me and walk away?”
-  s “...pretending that you didn’t hear me?”
-  s “That is {i}super{/i} mean, [player]!”
-  ”Her accusing gaze and her hands on her hips don’t go well with her 
-  otherwise cute appearance and extremely (sometimes – even ridiculously) 
-  cheerful personality.”
-  mc “I’m sorry, Sayori, I ju-“
-  mc “(yawn)”
-  ”As I yawn, Sayori’s expression quickly shifts from irritated to concerned one.”
-  s “Whoa, did you even sleep last night?”
-  ”...and then it’s back to accusations again.”
-  s “Don’t tell me you’d stayed up late again just to watch some anime!”
-  mc “Wow, look who’s talking...”
-  s “Eh?”
-  ”Sayori is almost taken aback by my sudden retaliation.”
-  mc “Sayori, this is the first time in, like, I don’t even remember how 
-  long...”
-  mc “But it’s been a {b}while{/b} since we last met each other before 
-  school, and would you like to know why?”
-  s “Eheheh... Well...”
-  mc “Because whenever I pass by your house, you’re still sleeping yourself!”
-  mc “Seriously, I can almost hear you snoring; right here, from the street!”
-  s “Awww! Okay! Okay!”
-  s “You win...”
-  ”She pouts a little and lets her index fingers touch each-other’s tips; it’s her 
-  typical gesture whenever she feels embarrassed or guilty.”
-  ”...or gets busted.”
-  s “I just had a...  problem with getting up recently...”
-  s “And that still doesn’t get you off the hook!”
-  s “Seriously, you should always get enough sleep! You look like you’ve been run 
-  over by a steamroller!”
-  ”She suddenly comes closer and holds me by my wrist, looking into my eyes like a 
-  hurt puppy.”
-  s “Please, promise me you won’t do it anymore, ok?”
-  ”I chuckle slightly as I pull back from her and put my hand on my heart.”
-  mc “Of course, my {i}darling{/i}, whatever you say.”
-  s “H-Hey!”
-  s “D-Dont call me that...”
-  ”A small blush starts appearing on her face.”
-  s “You make it sound like we’re... a couple or something...”
-  ”As I turn around and start walking away, I let out another chuckle.”
-  mc “Pff! Not in a million years...”
-  s “Hey!!!”
-  ”She hits my back with a bottom of her fist.”
-  s “Now what was {i}that{/i} supposed to mean?!”
-  mc “Heheh... Sorry, I guess I’m just a bit grumpy this morning...”
-  ”Sayori catches up, walking (or rather - skipping) right next to me.”
-  ”We start off a typical, insignificant morning chat, which my mind doesn’t even 
-  record, keeping up the conversation completely autonomously.”
-  ”Sayori and I have been good friends since we were children. And to be quite honest, I can’t even imagine befriending her right now.”
-  ”I mean, while I’m just being your stereotypical, unremarkable high-schooler, 
-  whose interests are limited mostly (if not exclusively) to only the greatest of 
-  humanity’s achievements in terms of technological and cultural progress...”
-  ”In other words – video games and anime...”
-  ”Sayori, on the other hand is...”
-  ”Well...”
-  ”Let’s just say that the first thing I would compare her to is the Energizer Bunny, 
-  with two huge light bulbs instead of eyes.”
-  ”Even in the most boring and uneventful day, this little girl can remain cheerful, 
-  capable of finding joy in the smallest of things.”
-  ”It’s quite adorable, contagious even; not that I mind it...”
-  ”The point is – with us being almost complete opposites, it’s funny that we’ve 
-  managed to even preserve our friendship through so many years, let alone care 
-  for each other’s well being.”
-  ”I guess there {i}are{/i} some things in this world that you just accept the way the are, without looking for some explanation…”
+  "I hit my head several times against the pillow as I say all this."
+  "It helps me, eventually, to feel at least somewhat awake."
+  "..."
+  "...and with it, a weird thought comes through my mind."
+  
+  mc "Did I even stay up late yesterday?"
+  
+  "And if I didn't, then I should have at least had enough sleep, right?"
+  "Unfortunately, my mind's library appears to still be closed, since I am unable to even recall the events of the last night."
+  "It's either me having some weird amnesia, or just being extremely sleepy..."
+  
+  mc "{i}*Yawn*{/i}..."
+  
+  "...must have been the latter after all."
+  "Finally mustering my strength, I push myself off from the bed, letting my feet find the floor."
+  "...to sit and stare at the window."
+  "..."
+  "For some reason I feel like I've been doing the exact same thing just recently..."
+  
+  mc "School..."
+  
+  "While my mind is clearly not in condition to make up any coherent thoughts..."
+  "It seems that at least my self-preservation instincts are still functioning, capable of prioritizing my tasks..."
+  
+  # play a sound imitating MC standing up?
+  
+  "I finally let my body stand up, completely automatically, the real \"me\" still laying on the bed, trying to fall back to sleep."
+  "I start with my morning chores..."
+  "Getting dressed..."
+  "Brushing my teeth..."
+  "And while I'm, like, 50\% positive that if I were offered to exchange my soul for at least one extra hour of sleep, I would definitely say \"yes\"..."
+  "...skipping the classes now, with the exams on the horizon... clearly not the best idea."
+  "And besides..."
+  "For some reason... I feel like I..."
+  "{i}Need{/i} to go there..."
+  "..."
+  "I really hope that I still have some instant breakfast left, because I'm already being a bit late..."
+  
+  scene white with dissolve_cg
+  stop music fadeout 2.0
+  $ renpy.pause(2.0)
+  
+  # [play intro] (NOTE – the whole “intro” sequence is optional; it’s just my suggestion, but I consider it to be a great way to start the actual story. It should also help to make an impression of overall mod being more... solid and high-grade)
+  # [intro description starts here]
+  # 1)	remove all HUD elements
+  window hide(None)
+  # 2)	slowly change the background to a sky background, color scheme being similar to that of “residential.png” (the first background we see in the original game, when MC first meets Sayori)
+  # 3)	change soundtrack – DDLC Main Theme (we should also find a way too loop it, with the “Doki-Doki!” part happening just one time)
+  play music t1
+  # 4)	display text “Team Silver”
+  # 5)	text fades away
+  # 6)	display text “Proudly presents”
+  # 7)	text fades away
+  # 8)	the DDDC logo pops up (pay attention to the timing – just like in the main menu, it should pop-up as song goes “Doki-Doki!” XD)
+  # 9)	pause for about 5 seconds
+  # 10)	 logo fades away
+  # 11)	 the camera goes downwards
+  # 12)	 Add some “blur” effect to that motion, as if we were just looking at the sky and then shifted our gaze downwards
+  # 13)	 change the background to the actual “residential.png”
+  # 14)	 HUD elements reappear
+  window auto
+  # [intro description ends here]
+  # (NOTE – in case we skip the intro, then the soundtrack for that sequence should be just a regular looped version of “DDLC Main Theme” OST)
+  
+  "Despite the fact that I'm already walking down the street, I am fairly certain my consciousness fell asleep somewhere on the sofa back at home..."
+  "And while I'm used to starting my school weeks in such condition, this time my tiredness seems to be amplified tenfold."
+  
+  mc "{i}*Yawn*...{/i}"
+  
+  "Well, let's just hope that my inner GPS still works and I won’t wander into some completely different part of the city."
+  
+  $ s_name = "???"
+  s "Hey! [player]!"
+  
+  "Wha??"
+  "Nooo-no-no-no..."
+  "I am in neither condition nor mood for any morning chit-chats..."
+  "So, whoever this is..."
+  "Please... just ignore me..."
+  "Imagine that I am some sort of glitch or something..."
+  
+  s "[player]!!"
+  
+  "The voice is getting closer. It's starting to sound more irritated..."
+  "...and familiar?"
+  
+  mc "Oh no..."
+  
+  "As I rub my eyes, barely holding myself from letting out yet another yawn, I turn around to meet my annoying pursuer."
+  
+  # Decodes: "nope, we are not rehashing the original script"
+  "I see an ann8ying girl rrunning toWard me f--rom the dIIStance, wavi— bm9wZSwgd2UgYXJlIG5vdCByZWhhc2hpbmcgdGhlIG9yaWdpbmFsIHNjcmlwdCA={nw}"
+  "Yep, that’s definitely her."
+  "Your one and only..."
+  
+  $ s_name = "Sayori"
+  s "Hey, what was that all about?!"
+  s "Did you really try to just ignore me and walk away?"
+  s "...pretending that you didn’t hear me?"
+  s "That is {i}super{/i} mean, [player]!"
+  
+  "Her accusing gaze and her hands on her hips don't go well with her otherwise cute appearance and extremely (sometimes – even ridiculously) cheerful personality.”
+  
+  mc "I’m sorry, Sayori, I ju-{nw}"
+  mc "{i}*Yawn*...{/i}"
+  
+  "As I yawn, Sayori’s expression quickly shifts from irritated to concerned."
+  
+  s "Whoa, did you even sleep last night?"
+  
+  "...and then it’s back to accusations again."
+  
+  s "Don't tell me you’d stayed up late again just to watch some anime!"
+  mc "Wow, look who’s talking..."
+  s "Eh?"
+  
+  "Sayori is almost taken aback by my sudden retaliation."
+  
+  mc "Sayori, this is the first time in, like, I don't even remember how long..."
+  mc "But it’s been a {i}while{/i} since we last met each other before school, and would you like to know why?"
+  s "Eheheh... Well..."
+  mc "Because whenever I pass by your house, you’re still sleeping yourself!"
+  mc "Seriously, I can almost hear you snoring; right here, from the street!"
+  s "Awww! Okay! Okay!"
+  s "You win..."
+  
+  "She pouts a little and lets her index fingers touch each-other’s tips."
+  "It’s her typical gesture whenever she feels embarrassed or guilty."
+  "...or gets busted."
+  
+  s "I just had a... problem with getting up recently..."
+  s "And that still doesn’t get you off the hook!"
+  s "Seriously, you should always get enough sleep! You look like you’ve been run over by a steamroller!"
+  
+  "She suddenly comes closer and holds me by my wrist, looking into my eyes like a hurt puppy."
+  
+  s "Please, promise me you won't do it anymore, okay?"
+  
+  "I chuckle slightly as I pull back from her and put my hand on my heart."
+  
+  mc "Of course, my {i}darling{/i}, whatever you say."
+  s "H-Hey!"
+  s "D-Don't call me that..."
+  
+  "A small blush starts appearing on her face."
+  
+  s "You make it sound like we're... a couple or something..."
+  
+  "As I turn around and start walking away, I let out another chuckle."
+  
+  mc "Pff! Not in a million years..."
+  s "Hey!!!"
+  
+  "She hits my back with a bottom of her fist."
+  
+  s "Now what was {i}that{/i} supposed to mean?!"
+  mc "Heheh... Sorry, I guess I'm just a bit grumpy this morning..."
+  
+  "Sayori catches up, walking (or rather - skipping) right next to me."
+  "We start off a typical, insignificant morning chat, which my mind doesn't even record, keeping up the conversation completely autonomously."
+  "Sayori and I have been good friends since we were children. And to be quite honest, I can't even imagine befriending her right now."
+  "I mean, while I’m just being your stereotypical, unremarkable high-schooler..."
+  "...whose interests are limited mostly (if not exclusively) to only the greatest of humanity’s achievements in terms of technological and cultural progress...”
+  "In other words – video games and anime..."
+  "Sayori, on the other hand is..."
+  "Well..."
+  "Let’s just say that the first thing I would compare her to is the Energizer Bunny, with two huge light bulbs instead of eyes."
+  "Even in the most boring and uneventful day, this little girl can remain cheerful, capable of finding joy in the smallest of things."
+  "It’s quite adorable, contagious even; not that I mind it..."
+  "The point is, with us being almost complete opposites, it’s funny that we’ve managed to even preserve our friendship through so many years..."
+  "...let alone care for each other’s well being."
+  "I guess there {i}are{/i} some things in this world that you just accept the way the are, without looking for some explanation..."
 
-  [fast-forward screen]
-  [change background – school entrance, morning]
-  s “Helloooo!”
-  ”Huh?”
-  ”Sayori snaps her fingers in front of my face several times, trying to get my 
-  attention.”
-  mc “Huh? What is it?”
-  s “Quit spacing out, will you?”
-  mc “S-Sorry, guess I am still- (yawn)“ 
-  s “Oh, come on, you sleepyhead! We’re almost at the school!”
-  s “Cheer up!”
-  “Sayori runs in front of me, twirling as she goes.“ 
-  s “There is a whole new, sunny day ahead of you! And you get to hang out with 
-  people, maybe meet some new friends...”
-  “She slowly falls silent, watching a sour grimace appearing on my face.“
+  # fast forward screen
+  scene bg school_entrance_morning
+  
+  s "Helloooo!"
+  
+  "Huh?"
+  "Sayori snaps her fingers in front of my face several times, trying to get my attention."
+  
+  mc "Huh? What is it?"
+  s "Quit spacing out, will you?"
+  mc "S-Sorry, guess I am still - {i}*yawn*{/i}"
+  s "Oh, come on, you sleepyhead! We’re almost at the school!"
+  s "Cheer up!"
+  
+  "Sayori runs in front of me, twirling as she goes."
+  
+  s "There is a whole new, sunny day ahead of you! And you get to hang out with people, maybe meet some new friends..."
+  
+  "She slowly falls silent, watching a sour grimace appearing on my face."
   “There is no need for me to even say anything to show how skeptical I am.“
   s “Jeez, you’re getting less and less sociable every year!”
   s “Please, don’t tell me that you still spend all of your free time on playing 
