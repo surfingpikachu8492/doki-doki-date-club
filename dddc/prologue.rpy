@@ -496,6 +496,7 @@ label prologue_2:
   # 11)	 the camera goes downwards
   # 12)	 Add some “blur” effect to that motion, as if we were just looking at the sky and then shifted our gaze downwards
   # 13)	 change the background to the actual “residential.png”
+  scene bg residential_day with dissolve_scene_full
   # 14)	 HUD elements reappear
   window auto
   # [intro description ends here]
