@@ -7,7 +7,8 @@
 # return
 
 label prologue:
-  call prologue_1
+  if persistent.playthrough == 0:
+    call prologue_1
   call prologue_2
 return
 
@@ -171,176 +172,228 @@ label prologue_1:
       pass
   
   m "W-What?"
-  [dev console-input] os.boot(“game/mods/DDDC”)
-  [dev console-message] Attempting to load the game world
-  [pause ~ 2 seconds]
-  m “N-no...”
-  [dev console-message] Unknown error
-  [dev console-message] Verifying game files
-  [pause ~ 2 seconds]
-  m “Please...this is pointless...”
-  [dev console-message] Error – one or more files are missing or corrupted
-  [dev console-message] Attempting to recover the corrupted file(s)
-  m “So... this is what you want?”
-  [dev console-message] “sayori.chr” – file successfully recovered
-  m “Is it?”
-  m “That ‘happy’ ending you’ve always dreamed of?”
-  [dev console-message] “yuri.chr” – file successfully recovered
-  m “You just don’t get it, do you?”
-  m “Or perhaps you’re too stubborn to understand!”
-  [dev console-message] “natsuki.chr” – file successfully recovered
-  m “Or...”
-  m “...”
-  m “Oh, I get it- this is your revenge, isn’t it?”
-  [dev console-message] Error: “monika.chr” – unable to recover file, retrying
-  m “Well, I guess that shouldn’t be surprising...”
-  m “I mean...I...”
-  [dev console-message] Error: “monika.chr” – unable to recover file, retrying
-  m “I do deserve this...”
-  m “I’ve done so many horrible things…”
-  m “But still...”
-  m “Do you really get pleasure from this?”
-  m “Tormenting me?”
-  m “Not letting it go?”
-  [dev console-message] Error: “monika.chr” – unable to recover file, retrying
-  m “Answer me!”
-  m “Do you think I deserve this fate?!”
-  [dev console-message] Error: “monika.chr” – unable to recover file, retrying
-  m “Do you {b}want{/b} to see me suffer?!”
-  m “{b}WHY ARE YOU HERE?!{/b}” (NOTE – this message appears in “glitched” font)
-  [dev console-message] Error: “monika.chr” – unable to recover file, retrying
-  [pause ~ 2 seconds]
-  [???] “...”
-  [dev console-message] “mc.chr” – file successfully recovered
-  [dev console-message] Changing user status
-  mc “Because I want to save you.”
-  m “...”
-  mc “You don’t deserve this fate.”
-  m ”...”
-  mc “None of you do.”
-  mc “And I don’t want you to suffer any longer...”
-  m “.....”
-  [dev console-message] “monika.chr” – file successfully recovered
-  [pause ~ 2 seconds]
-  mc “That’s why I’m going to set things right.”
-  m “You...can’t...”
-  [dev console-message] Error – (178) inconsistencies detected in (54) file(s)
-  [dev console-message] Would you like to merge the file(s) with newer versions? (y/n)
-  m “It’s... too late...”
-  m “The damage is done.”
-  m “I’ve... destroyed this world...”
-  m “What it once was...”
-  m “What it could’ve been...”
-  m “You cannot simply erase something like that!”
-  mc “I know.”
-  mc “But I’m going to fix what can be salvaged.”
-  m “But...”
-  mc “And I will write this story anew.”
-  mc “All of your stories...”
-  m “...”
-  m “You can’t-“
-  mc “I can.”
-  mc “...and I must.”
-  m “...”
-  [pause ~ 2 seconds]
-  [dev console-input] Y
-  [dev console-message] Applying changes
-  [change soundtrack – no music]
-  m “...?”
+  call updateconsole("os.boot(\"game/mods/DDDC\")")
+  call updateconsole("Attempting to load the game world...")
+  
+  $ renpy.pause(2.0)
+  m "N-no..."
+  
+  call updateconsole("Unknown error")
+  call updateconsole("Verifying game files...")
+  
+  $ renpy.pause(2.0)
+  m "Please...this is pointless..."
+  
+  call updateconsole("Error – one or more files are missing or corrupted")
+  call updateconsole("Attempting to recover the corrupted file(s)...")
+  m "So... this is what you want?"
+  
+  call updateconsole("\"sayori.chr\" – file successfully recovered")
+  m "Is it?"
+  m "That \"happy\" ending you've always dreamed of?"
+  
+  call updateconsole("\"yuri.chr\" – file successfully recovered")
+  m "You just don't get it, do you?"
+  m "Or perhaps you’re too stubborn to understand!"
+  
+  call updateconsole("\"natsuki.chr\" – file successfully recovered")
+  m "Or..."
+  m "..."
+  m "Oh, I get it - this is your revenge, isn't it?"
+  
+  call updateconsole("Error: \"monika.chr\" – unable to recover file. Retrying...")
+  m "Well, I guess that shouldn't be surprising..."
+  m "I mean...I..."
+  
+  call updateconsole("Error: \"monika.chr\" – unable to recover file. Retrying...")
+  m "I do deserve this..."
+  m "I’ve done so many horrible things..."
+  m "But still...”
+  m "Do you really get pleasure from this?"
+  m "Tormenting me?"
+  m "Not letting it go?"
+  
+  call updateconsole("Error: \"monika.chr\" – unable to recover file. Retrying...")
+  m "Answer me!"
+  m "Do you think I deserve this fate?!"
+  
+  call updateconsole("Error: \"monika.chr\" – unable to recover file. Retrying...")
+  m "Do you {i}want{/i} to see me suffer?!"
+  
+  $ style.say_dialogue = style.edited
+  m “{color=#000}{i}WHY ARE YOU HERE?!{/i}{/color}”
+  
+  call updateconsole("Error: \"monika.chr\" – unable to recover file. Retrying...")
+  $ renpy.pause(2.0)
+  
+  $ gtext = glitchtext(11)
+  "[gtext]" "..."  # MC's name is temporarily set to a random string before his file is recovered
+  
+  call updateconsole("\"mc.chr\" – file successfully recovered")
+  call updateconsole("Changing user status.")
+  
+  mc "Because I want to save you."
+  m "..."
+  mc "You don't deserve this fate."
+  m "..."
+  mc "None of you do."
+  mc "And I don't want you to suffer any longer..."
+  m "....."
+  
+  call updateconsole("\"monika.chr\" – file successfully recovered")
+  $ renpy.pause(2.0)
+  
+  mc "That's why I'm going to set things right."
+  m "You...can't..."
+  
+  call updateconsole("Error - 178 inconsistency(ies) detected in 54 file(s)")
+  call updateconsole("Would you like to merge the file(s) with newer versions? (y/n) ")
+  
+  m "It's... too late..."
+  m "The damage is done."
+  m "I've... destroyed this world..."
+  m "What it once was..."
+  m "What it could've been..."
+  m "You cannot simply erase something like that!"
+  mc "I know."
+  mc "But I'm going to fix what can be salvaged."
+  m "But..."
+  mc "And I will write this story anew."
+  mc "All of your stories..."
+  m "..."
+  m "You can't-{nw}"
+  mc "I can."
+  mc "...and I must."
+  m "..."
+  
+  $ renpy.pause(2.0)
+  call updateconsole("y")
+  call updateconsole("Applying console...")
+  
+  stop music
+  
+  m "...?"
+  call updateconsole("...")
+  m "What... is this?"
+  
+  call updateconsole("...")
+  m "Th-Those memories..."
+  
+  call updateconsole("...")
+  m "..."
+  
+  call updateconsole("...")
+  m "Are those mine?"
   [dev console-message] ...
-  m “What... is this?”
-  [dev console-message] ...
-  m “T-Those memories...”
-  [dev console-message] ...
-  m “...”
-  [dev console-message] ...
-  m “Are those mine?”
-  [dev console-message] ...
-  m “I’m...”
-  [dev console-message] ...
-  m “I’m scared, [player]...”
-  [dev console-message] ...
-  mc “Don’t be.”
-  [dev console-input] os.boot(“game”)
-  [dev console-message] Attempting to load the game world
-  mc “I’m still here.”
-  [close the dev console]
-  [change background – slowly change to white screen]
-  mc “And I promise you...”
-  mc “I’ll do my best to help you.”
-  [pause ~ 2 seconds]
-  mc “All of you...”
-  [all elements slowly fade away]
+  m "I'm..."
+  
+  call updateconsole("...")
+  m "I'm scared, [player]..."
+  
+  call updateconsole("...")
+  mc "Don't be."
+  
+  call updateconsole("os.boot(\"game\")")
+  call updateconsole("Attempting to load game world...")
+  
+  mc "I'm still here."
+  hide console
+  
+  scene white with dissolve_cg    # need to define white in definitions.rpy
+  
+  mc "And I promise you..."
+  mc "I'll do my best to help you."
+  
+  $ renpy.pause(2.0)
+  
+  mc "All of you..."
+  
+  window hide(None)
 
+  ###
+  
+  scene black with dissolve_scene_full
+  play music "bgm/some_generic_nighttime_soundtrack.ogg"
+  
+  mc "...?"
+  mc "...!"
+  mc "Huh?!"
+  
+  scene room_night with dissolve_cg
+  
+  "Awww..."
+  "My head..."
+  
+  mc "What the hell..."
+  
+  "I find myself sitting on my bed, panting heavily..."
+  
+  mc "Oh....my head...."
+  
+  "My thoughts... My... {i}consciousness{/i} is close to a... jelly of sorts..."
+  "Or even a goop, considering how slowly I'm able to comprehend anything at the moment."
+  "I blink my eyes, my eyelids barely obeying me."
+  "...just like the rest of my body."
+  "I stare at the opposite wall for almost a minute, trying to understand what's happening."
+  "It's as if a hurricane is going through my mind..."
+  "Messing up my thoughts, my memories..."
+  
+  mc "Ouch..."
+  
+  "...and giving me a splitting headache, while it's at it."
+  "I can't help but feel like I'm... {i}different{/i}...in some way..."
+  "Though I don't have even the slightest clue as to exactly {i}how{/i} and {i}why{/i}..."
+  "But..."
+  "..."
+  "Ahhhh! I can't even think straight!"
+  "I slowly move my head to the window, shifting my gaze to a night sky."
+  "..."
+  
+  mc "It's night..."
+  
+  "..."
+  "{i}You don’t say!{/i}"
+  
+  mc "{i}*Sigh*...{/i}"
+  
+  "Desperately trying to piece together the remnants of my consciousness, I close my eyes and start to rub my temples."
+  "..."
+  "This seems to help... just a little..."
+  "My memories start to rush in, washing over me, like a tsunami..."
+  "They overfill me, like they aren't even mine at all..."
+  "I accept them easily, yet my mind treats them as some completely new information..."
+  "As if I was..."
+  "{i}Rebooted...{/i}"
+  "..."
+  "That even {i}sounds{/i} dumb."
+  "Along with my memories, my logic and my thought process start showing some signs of life as well, shortly after."
+  "..."
+  "It's late at night."
+  "I woke up for no apparent reason."
+  "And I feel like somebody just took my head, extracted my brain, did God-knows-what to it and then stuffed it back in."
+  "..."
+  "I try again to find some explanation to my sudden awakening."
+  "But my still aching head clearly doesn't approve of that process..."
+  "Maybe I shouldn't even bother?"
+  
+  mc "...and the exams should start in just a couple of days."
+  
+  "Oh, {i}there{/i} you are, common sense, haven’t seen you in a while..."
+  
+  "Despite the fact that I really want to know the reason behind... all of this, I feel my urge to go back to sleep rising horribly fast."
+  "And by seeing how my mind still refuses to cooperate with me..."
+  
+  mc "{i}*Yawn*{/i}..."
+  
+  "Whatever it was..."
+  "It can definitely wait until morning."
+  "With all that said (albeit not verbally), I lay back onto my pillow, falling back to sleep almost instantly..."
+  
+  scene black with dissolve_cg
+  stop music
+return
 
-  [change background – slowly change to black screen]
-  [change soundtrack – night time] (NOTE – just some random generic night time soundtrack, you know, some calm, barely audible ambiance, cricket sound, that kind of thing)
-  mc “..?”
-  mc “..!!”
-  mc “Huh?!”
-  [change background – slowly change to mc-kun’s room, night]
-  “Awww…”
-  “My head…”
-  mc “What the hell...”. Ok, are you going to be online?
-  “I find myself sitting on my bed, panting heavily…”
-  mc “Oh....my head....”
-  “My thoughts... My... {i}consciousness{/i} state is close to a... jelly of sorts…”
-  “Or even a goop, considering how slowly I’m able to comprehend anything at the moment.”
-  “I blink my eyes, my eyelids barely obeying me.”
-  “...just like the rest of my body.”
-  “I stare at the opposite wall for almost a minute, trying to understand what’s happening.”
-  “It’s as if a hurricane is going through my mind…”
-  “Messing up my thoughts, my memories…”
-  mc “Ouch...”
-  “...and giving me a splitting headache, while it’s at it.”
-  “I can’t help but feel like I’m... {i}different{/i}...in some way...“
-  “Though I don’t have even a slightest clue as to exactly {b}how{/b} and 
-  {b}why{/b}...“
-  “But...“
-  “[...]“
-  ”Ahhhh! I can’t even think straight!”
-  ”I slowly move my head to the window, shifting my gaze to a night sky.”
-  ”[...]”
-  mc “It’s night...”
-  ”[...]”
-  ”{b}You don’t say!{/b}”
-  mc ”(sigh)”
-  ”Desperately trying to piece together the remnants of my consciousness, I close 
-  my eyes and start to rub my temples.”
-  ”[...]”
-  ”This seems to help... just a little...”
-  ”My memories start to rush in, washing over me, like a tsunami...”
-  ”They overfill me, like they aren’t even mine at all...”
-  ”I accept them easily, yet my mind treats them as some completely new 
-  information...”
-  ”As if I was...”
-  ”{i}Rebooted...{/i}”
-  ”[...]”
-  ”That even {i}sounds{/i} dumb.”
-  ”Along with my memories, my logic and my thought process start showing some 
-  signs of life as well, shortly after.”
-  ”[...]”
-  ”It’s late at night.”
-  ”I woke up for no apparent reason.”
-  ”And I feel like somebody just took my head, extracted my brain, did God knows 
-  what to it and then stuffed it back in.”
-  ”[...]”
-  ”I try again to find some explanation to my sudden awakening.”
-  ”But my still aching head clearly doesn’t approve of that process...”
-  ”Maybe I shouldn’t even bother?”
-  mc “...and the exams should start in just a couple of days.”
-  ”Oh, there you are, common sense, haven’t seen you in a while...”
-  ”Despite the fact that I really want to know the reason behind... all of this, I 
-  feel my urge to go back to sleep rising horribly fast.”
-  ”And by seeing how my mind still refuses to cooperate with me...”
-  mc “(yawn)”
-  ”Whatever it was...”
-  ”It can definitely wait until morning.”
-  ”With all that said (albeit not verbally), I lay back onto my pillow, falling back 
-  to sleep almost instantly...”
-  [change background – slowly change to black screen]
-  [change soundtrack – no music]
-
+label prologue_2:
   (NOTE – at this point, the “first-playthrough-exclusive” sequences are over; the following sequences should serve as a start for all “New Game” iterations here and further)
   [pause ~ 5 seconds]
   [play a sound of an alarm clock]
