@@ -27,7 +27,7 @@ label prologue_1:
   m "Um... hello?"
   m "Anyone?"
   
-  call updateconsole("os.boot("game\")")
+  call updateconsole("os.boot(\"game\")")
   call updateconsole("Attempting to load the game world...")
   m "What is happening?!"
   
