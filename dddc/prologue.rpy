@@ -394,35 +394,49 @@ label prologue_1:
 return
 
 label prologue_2:
-  (NOTE – at this point, the “first-playthrough-exclusive” sequences are over; the following sequences should serve as a start for all “New Game” iterations here and further)
-  [pause ~ 5 seconds]
-  [play a sound of an alarm clock]
-  ”[...]”
-  ”[...!]”
-  ”[SLAM!]” (play the sound of MC hitting the alarm clock with a fist, turning it off)
-  mc ”...”
-  mc “Ughh… I hate Mondays...”
-  [change background – slowly change to mc-kun’s room, morning]
-  [change soundtrack – morning] (NOTE – again, just some random generic soundtrack, suitable for a morning – birds tweeting, maybe some distant car noises or something...)
-  ”[...]”
-  ”I muffle those words into my pillow, before lifting my head slowly.”
-  ”My eyelids protest, as I try to open them, letting my eyes see the sunlight, 
-  permeating into my room.”
-  ”The grimace I’m making while doing so should be quite comical.”
-  ”[...]”
-  ”I’m pretty sure I look like a cat right now, woken from it’s nap...”
-  ”Because I squint my eyes, yawn eagerly and I can barely suppress an urge to 
-  start hissing spitefully at everyone and everything.”
-  mc “Uuugh....”
-  [play some “thump” sound, as if mc hits his head against the pillow]
-  ”I let my head hit the pillow, pressing it in as deep as possible...”
-  mc “Need to...”
-  [play “thump” sound]
-  mc “...stop...”
-  [play “thump” sound]
-  mc “...staying...”
-  [play “thump” sound]
-  mc “...up late!”
+  $ renpy.pause(5.0)
+  play sound "sfx/alarm.ogg"
+  
+  "..."
+  "...!"
+  
+  play sound "sfx/alarm_slam.ogg"
+  
+  mc "..."
+  mc "Ughh... I hate Mondays..."
+  
+  scene bg room_day with dissolve_cg
+  play music "bgm/some_generic_morning_track.ogg"
+  
+  "..."
+  "I muffle those words into my pillow, before lifting my head slowly."
+  "My eyelids protest, as I try to open them, letting my eyes see the sunlight, permeating into my room."
+  "The grimace I'm making while doing so should be quite comical."
+  "..."
+  "I'm pretty sure I look like a cat right now, woken from it’s nap..."
+  "Because I squint my eyes, yawn eagerly and I can barely suppress an urge to start hissing spitefully at everyone and everything."
+  
+  mc "Uuugh...."
+  
+  play sound "sfx/thump.ogg"
+  
+  "I let my head hit the pillow, pressing it in as deep as possible..."
+  
+  mc "Need to..."
+  play sound "sfx/thump.ogg"
+  
+  mc "...stop..."
+  play sound "sfx/thump.ogg"
+  
+  mc "...staying..."
+  play sound "sfx/thump.ogg"
+  
+  mc "...up..."
+  play sound "sfx/thump.ogg"
+  
+  mc "...late!"
+  play sound "sfx/thump.ogg"
+  
   ”I hit my head several times against the pillow as I say all this.”
   ”It helps me, eventually, to feel at least somewhat awake.”
   ”[...]”
