@@ -221,7 +221,7 @@ label prologue_1:
   m "Do you {i}want{/i} to see me suffer?!"
   
   $ style.say_dialogue = style.edited
-  m “{color=#000}{i}WHY ARE YOU HERE?!{/i}{/color}”
+  m "{color=#000}{i}WHY ARE YOU HERE?!{/i}{/color}"
   
   call updateconsole("Error: \"monika.chr\" – unable to recover file. Retrying...")
   $ renpy.pause(2.0)
