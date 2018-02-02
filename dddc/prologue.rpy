@@ -630,78 +630,98 @@ label prologue_2:
   s "There is a whole new, sunny day ahead of you! And you get to hang out with people, maybe meet some new friends..."
   
   "She slowly falls silent, watching a sour grimace appearing on my face."
-  “There is no need for me to even say anything to show how skeptical I am.“
-  s “Jeez, you’re getting less and less sociable every year!”
-  s “Please, don’t tell me that you still spend all of your free time on playing 
-  games!”
-  s “How can you even live like this?”
-  “Sure, go ahead, {i}wound{/i} my pride even more...“
-  mc “Sayori, I appreciate your concern, but trust me, I’m fine the way I 
-  am.”
-  s “Come oooon, [player]! You really need to have something else to brighten up 
-  your everyday life! You know, something to look forward to whenever you go to 
-  school!”
-  “Look forward to going to school? Now that’s a joke to remember...“
-  “As I keep myself immersed in my thoughts, Sayori’s face suddenly changes as if 
-  she remembered something important.“
-  s “...“
-  “Her eyes light up, as if she comes to some sort of realization.“
-  s “By the way, [player]!”
-  “For some reason, I find that tone somewhat familiar... and suspicious...“
-  s “Have you considered joining a club?”
-  “Oh, no...“
-  “Not this again...“
-  mc “Sayori... we’ve been through this...”
-  s “Exactly! I’m always trying to convince you to join some club, and I keep 
-  doing so until you say something like, ‘I’ll think about it’ and then do nothing!”
-  s “And then it keeps happening over and over again!”
-  mc “Heh… sounds like a plan to me...”
-  s “Oh, come oooon! Pleeeease?”
-  “She once again comes closer, trying to give me the puppy eyes...“
-  s “Pretty-pretty please??”
-  “Nuh-uh. Not this time around.“
-  s “H-Huh?!”
-  “I put my hand on her head, shielding her eyes, then use my other hand to 
-  delicately get her out of my way.“
-  “As I go pass her, I can barely hold myself from laughing at her stupefied 
-  expression.“
-  s “YOU’RE SUCH A MEANIE, [player]!!”
-  “I chuckle to myself and wave her goodbye, without even turning back.“
-  “I have to admit, I feel kinda bad for alienating her like that, especially 
-  considering that she is just trying to help, but I’m really not in the mood right 
-  now.“
-  mc “(sigh)“
-  mc “Sorry, Sayori, but I’m better off this way...”
-  “I adjust the straps of my backpack and finally enter the building.“
-
-  [fast-forward screen]
-  [change background – classroom, day]
-  [change soundtrack – “Ohayou Sayori!” OST]
-  “I spent the most of the school day trying to finally shake off the remnants of 
-  my sleep.“
-  “Other than that, it’s as ordinary as ever, therefore it’s over before I even know 
-  it.“
-  “I wave goodbye to some of my classmates as they leave the classroom.“
-  “Meanwhile I am still sitting at my desk, lazily packing up my things.“
-  “No matter what I do, Sayori’s upset face still haunts me.“
-  mc “Ughhh...”
-  mc “Maybe I should consider joining some club, after all...”
-  “I mean, I understand that this is not obligatory, nor does it involve any serious 
-  responsibility.“
-  “But the main purpose of those clubs (at least in theory) is to help people sharing the same interests to become more social, and get involved in something they all enjoy, devoting themselves to it.“
-  “And based on my interests, where would I even go? The Anime Club?“
-  mc “Pfff... Yeah, sure...”
-  “Despite the fact that it sounds like something right up my alley, I... don’t think 
-  it’s such a good idea after all...“
-  ??? “Huh? [player]?”
-  “[...?]“
-  “My solitude is suddenly interrupted by a familiar, cheerful girlish voice.“
-  mc “Sayori? What are you doing here?”
-  s “It’s funny, I was going to ask you the same thing...”
-  mc “Huh? Why would y-“
-  mc “Oh.”
+  "There is no need for me to even say anything to show how skeptical I am."
+  s "Jeez, you’re getting less and less sociable every year!"
+  s "Please don’t tell me that you still spend all of your free time playing games!"
+  s "How can you even live like this?"
   
-  # VEN'S COMMENTS START HERE
+  "Sure, go ahead, {i}wound{/i} my pride even more..."
+  
+  mc "Sayori, I appreciate your concern, but trust me, I'm fine the way I am."
+  s "Come oooon, [player]! You really need to have something else to brighten up your everyday life!"
+  s "You know, something to look forward to whenever you go to school!"
+  
+  "Look forward to going to school? Now that’s a joke to remember..."
+  "As I keep myself immersed in my thoughts, Sayori’s face suddenly changes as if she's remembered something important."
+  
+  s "..."
+  
+  "Her eyes light up, as if she's come to some sort of realization."
+  s "By the way, [player]!"
+  
+  "For some reason, I find that tone somewhat familiar... and suspicious..."
+  
+  s "Have you considered joining a club?"
+  
+  "Oh, no..."
+  "Not this again..."
+  
+  mc "Sayori... we’ve been through this..."
+  s "Exactly! I’m always trying to convince you to join some club..."
+  s "and I keep doing so until you say something like, \"I'll think about it\" and then do nothing!"
+  s "And then it keeps happening over and over again!"
+  mc "Heh... sounds like a plan to me..."
+  s "Oh, come oooon! Pleeeease?"
+  
+  "She once again comes closer, trying to give me the puppy eyes..."
+  
+  s "Pretty-pretty please??"
+  
+  "Nuh-uh. Not this time around."
+  
+  s "H-Huh?!"
+  
+  "I put my hand on her head, shielding her eyes, then use my other hand to delicately get her out of my way."
+  "As I go pass her, I can barely hold myself from laughing at her stupefied expression."
+  
+  $ temp = player.upper()
+  s "YOU’RE SUCH A MEANIE, [temp]!!"
+  
+  "I chuckle to myself and wave her goodbye, without even turning back."
+  "I have to admit, I feel kinda bad for alienating her like that..."
+  "especially considering that she is just trying to help, but I’m really not in the mood right now."
+  
+  mc "Sigh..."
+  mc "Sorry, Sayori, but I’m better off this way..."
+  
+  "I adjust the straps of my backpack and finally enter the building."
+
+  # fast forward screen
+  scene bg class_day
+  play music t2  # Ohayou Sayori!
+  
+  "I spend the most of the school day trying to finally shake off the remnants of my sleep."
+  "Other than that, it’s as ordinary as ever, and it’s over before I even know it."
+  "I wave goodbye to some of my classmates as they leave the classroom."
+  "Meanwhile, I am still sitting at my desk, lazily packing up my things."
+  "No matter what I do, Sayori’s upset face still haunts me."
+  
+  mc "Ughhh..."
+  mc "Maybe I should consider joining some club, after all..."
+  
+  "I mean, I understand that this is not obligatory, nor does it involve any serious responsibility."
+  "But the main purpose of those clubs (at least in theory) is to help people sharing the same interests to become more social..."
+  "and get involved in something they all enjoy, devoting themselves to it."
+  "And based on my interests, where would I even go? The Anime Club?"
+  
+  mc "Pfff... Yeah, sure..."
+  
+  "Despite the fact that it sounds like something right up my alley, I... don't think it’s such a good idea after all..."
+  
+  $ s_name = "???"
+  s "Huh? [player]?"
+  
+  "...?"
+  
+  "My solitude is suddenly interrupted by a familiar, cheerful girlish voice."
+  
+  mc "Sayori? What are you doing here?"
+  
+  $ s_name = "Sayori"
+  s "It’s funny, I was going to ask you the same thing..."
+  mc "Huh? Why would y-{nw}"
+  mc "Oh."
+  
   “I finally realize that I’m the only person (apart from Sayori that is) still sitting 
   in the classroom.“
   mc “Yeah, I just kinda spaced out for a moment...”
