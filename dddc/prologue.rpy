@@ -59,8 +59,7 @@ label prologue_1:
   # "In case you are actually reading this, then what the fuck are you doing with your life? XD"
   call updateconsole(("Q2FuIHlvdSBoZWFyIG1lPyBJdCdzIG1lLCBNb24uLi4gTmFoLCBqdXN0IGtpZGRpbmcsIGl0J3MgYSBzdHVwaW" 
                       "QgYXNzIEVhc3RlciBFZ2cgSSBkZWNpZGVkIHRvIGFkZC4gSW4gY2FzZSB5b3UgYXJlIGFjdHVhbGx5IHJlYWRp"
-                      "bmcgdGhpcywgdGhlbiB3aGF0IHRoZSBmdWNrIGFyZSB5b3UgZG9pbmcgd2l0aCB5b3VyIGxpZmU/IFhE")
-                     )
+                      "bmcgdGhpcywgdGhlbiB3aGF0IHRoZSBmdWNrIGFyZSB5b3UgZG9pbmcgd2l0aCB5b3VyIGxpZmU/IFhE"))
   
   menu:
     ""
