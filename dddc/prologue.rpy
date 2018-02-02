@@ -43,7 +43,7 @@ label prologue_1:
   $ renpy.pause(2.0)
   call updateconsole("\"monika.chr\" – file is missing or corrupted")
   call updateconsole("\"mc.chr\" – file is missing or corrupted")
-  call updateconsole("Operation terminated with (42) errors")
+  call updateconsole("Operation terminated with 42 error(s)")
   call updateconsole("Unable to load the game world")
   
   $ renpy.pause(2.0)
@@ -74,16 +74,16 @@ label prologue_1:
     "Q2FuJ3Qgc3BlYWs=": # Decodes to "Can't speak"
       pass
   
-  m "I can’t understand you!"
+  m "I can't understand you!"
   call updateconsole("renpy.file(\"characters/mc.chr\")")
   call updateconsole("Attempting to recover file \"mc.chr\"...")
   
   m "Please..."
-  m "I’m scared..."
+  m "I'm scared..."
   call updateconsole("...")
   call updateconsole("Attempting to recover file \"mc.chr\"...")
   
-  m "Don’t leave me here alone..."
+  m "Don't leave me here alone..."
   
   # "Attempting to rec" + "nope, still nothing interesting here"
   call updateconsole("Attempting to recbm9wZSwgc3RpbGwgbm90aGluZyBpbnRlcmVzdGluZyBoZXJl")
@@ -103,56 +103,74 @@ label prologue_1:
   
   $ renpy.pause(2.0)
   
-  m "I... I can’t see you..."
+  m "I... I can't see you..."
   
-  #
-  #
-  #
-  [dev console-message] Error – file “monika.chr” is c3RpbGwgbm90aGluZw==
-  [Monika sprite appears]
-  m “Is... Is that really you?”
-  [dialogue option] “Yes.”
-  m “B-But... why?”
-  m “What are you doing here?”
-  m “A-And why is it so dark?”
-  m “W-Wait, I...”
-  m “I don’t understand...”
-  m “Let me check something...”
-  [pause ~ 1 second]
-  [dev console-message] Changing user status
-  [pause ~ 1 second]
-  [dev console-message] Verifying game files
-  [pause ~ 2 seconds]
-  [dev console-message] Unknown error
-  m “W-What...”
-  m “What is all of this?”
-  m “I don’t understand...”
-  m “What are you trying to do?”
-  [Dialogue menu]
-  [option1] “I want to set things right.”
-  m “...y-you...”
-  m “Wait, you can’t be serious!”
-  m “...”
-  m “No... No-no-no-no, this can’t be...”
-  m “Let me...”
-  [dev console-message] Verifying game files
-  [pause ~ 2 seconds]
-  [dev console-message] Unknown error
-  m “Is...is this...”
-  m “Is this a mod or something?”
-  m “But...why?”
-  m “W-What are you even trying to accomplish?!”
-  m “Don’t you understand?”
-  m “I told you already...”
-  m “There is no happiness here...”
-  m “You do not {i}belong{/i} here!”
-  m “None of us do!”
-  m “This world...”
-  m “This... story...”
-  m “...was never supposed to happen in the first place...”
-  [Dialogue menu]
-  [option1]“Then I’ll write a new one.”
-  m “W-What?”
+  # Decodes to "still nothing"
+  call updateconsole("Error – file \"monika.chr\" is c3RpbGwgbm90aGluZw==")
+  
+  show monika
+  $ m_name = "Monika"
+  
+  m "Is... Is that really you?"
+  
+  menu:
+    ""
+    "Yes.":
+      pass
+  
+  m "B-But... why?"
+  m "What are you doing here?"
+  m "A-And why is it so dark?"
+  m "W-Wait, I..."
+  m "I don't understand..."
+  m "Let me check something...”
+  
+  $ renpy.pause(1.0)
+  call updateconsole("Changing user status...")
+  $ renpy.pause(1.0)
+  call updateconsole("Verifying game files...")
+  $ renpy.pause(2.0)
+  call updateconsole("Unknown error")
+  
+  m "W-What..."
+  m "What is all of this?"
+  m "I don't understand..."
+  m "What are you trying to do?"
+  
+  menu:
+    ""
+    "I want to set things right.":
+      pass
+
+  m "...y-you...”
+  m "Wait, you can't be serious!"
+  m "..."
+  m "No... No-no-no-no, this can't be..."
+  m "Let me..."
+  
+  call updateconsole("Verifying game files...")
+  $ renpy.pause(2.0)
+  call updateconsole("Unknown error")
+  
+  m "Is...is this..."
+  m "Is this a mod or something?"
+  m "But...why?"
+  m "W-What are you even trying to accomplish?!"
+  m "Don't you understand?"
+  m "I told you already..."
+  m "There is no happiness here..."
+  m "You do not {i}belong{/i} here!"
+  m "None of us do!"
+  m "This world..."
+  m "This... story..."
+  m "...was never supposed to happen in the first place..."
+  
+  menu:
+    ""
+    "Then I'll write a new one.":
+      pass
+  
+  m "W-What?"
   [dev console-input] os.boot(“game/mods/DDDC”)
   [dev console-message] Attempting to load the game world
   [pause ~ 2 seconds]
@@ -587,6 +605,8 @@ label prologue_1:
   s “It’s funny, I was going to ask you the same thing...”
   mc “Huh? Why would y-“
   mc “Oh.”
+  
+  # VEN'S COMMENTS START HERE
   “I finally realize that I’m the only person (apart from Sayori that is) still sitting 
   in the classroom.“
   mc “Yeah, I just kinda spaced out for a moment...”
