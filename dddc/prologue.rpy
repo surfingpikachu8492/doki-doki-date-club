@@ -1617,61 +1617,70 @@ label prologue_day_2:
   
   "She smiles sweetly as to assure me that she’s totally fine, but something about all this seems a bit off."
   
-  ###########################################################################################################
-  ###########################################################################################################
+  mc "You sure you're okay with being at school? I mean, it's only been one day and you’re back already..."
+  mc "What made you stay at home, by the way? Cold? Fever?"
+  y "Eheheh... I-It's okay, [player], please don't worry about it, I am fine..."
+  mc "Hmm... if you say so..."
   
-  mc “You sure you’re okay with being at school? I mean, it’s only been one day and you’re back already...”
-  mc “What made you stay at home, by the way? Cold? Fever?”
-  y “Eheheh... I-It’s okay, [player], please don’t worry about it, I am fine...”
-  mc “Hmm… if you say so...”
-  ”I still don’t buy it, but knowing Yuri’s gentle and private personality, pushing her any further won’t lead to anything good.”
+  "I still don't buy it, but knowing Yuri's gentle and private personality, pushing her any further won't lead to anything good."
+  
   y "A-Anyway, how are you doing with your studies? I would be happy to give some assistance in case you need help."
-  mc "Ahaha- Nah, I'm... I’m good, Yuri. But thank you for your consideration."
+  mc "Ahaha- Nah, I'm... I'm good, Yuri. But thank you for your consideration."
+  
   "That's a blatant lie to be honest, but I'd hate to cause her any trouble."
   "Though it might also be my pride talking..."
-  "[...]"
-  "As I turn my head back to the teacher’s desk, I see Monika, Sayori, and Natsuki chatting while occasionally glancing at me."
+  "..."
+  "As I turn my head back to the teacher's desk, I see Monika, Sayori, and Natsuki chatting while occasionally glancing at me."
+  
   n "They seem so close, right? I'm starting to think that Yuri has feelings for him..."
-  m "Natsuki, don't gossip about them. They might be able to hear you, you know. Besides, it's just rude"
+  m "Natsuki, don't gossip about them. They might be able to hear you, you know. Besides, it's just rude."
   mc "So, what are you guys talking about?"
   s "Oh, we're just talking about you, [player]."
   mc "Really? Never considered myself as an interesting topic for discussion.”
   n "Yeah, well, you know... With you and Yuri being so close together all of a sudden."
-  mc "What? We aren't even that close! We're just friends, that's all.”
-  mc "If I hadn’t known you any better, I would honestly presume you’re being jealous.”
-  n “W-WHAT?!”
-  m “Natsuki, mind your volume.”
-  y "Umm… are you talking about me, by any chance?" 
+  mc "What? We aren't even that close! We're just friends, that's all."
+  mc "If I didn't know you any better, I'd assume you're just being jealous!"
+  n "W-WHAT?!"
+  m "Natsuki, mind your volume."
+  y "Umm... are you talking about me, by any chance?"
   n "Well yeah, we are."
-  mc "Not really, Yuri. Don't mind Natsuki, we're just... ehm...”
+  mc "Not really, Yuri. Don't mind Natsuki, we're just... ehm..."
   m "We're discussing the poems we're going to write to showcase for the school festival."
-  mc "Y-Yeah, what she said.”
+  mc "Y-Yeah, what she said."
+  
   "Writing poems became a part of our everyday routine, as well as our homework."
-  "It was pretty difficult for everyone at first (especially me, since literature and I don’t mix well), but we’ve all been making some slow, yet steady progress."
-  m "Anyone has any ideas as to what we should write about?"
+  "It was pretty difficult for everyone at first (especially me, since literature and I don't mix well)."
+  "But we"ve all been making some slow, yet steady progress."
+  
+  m "Does anyone have a topic in mind?"
   s "Oh, I know! How about writing a poem about the future?"
-  mc "Err… that's kinda vague..."
-  s "You think so? Aww...”
+  mc "Err... that's kinda vague..."
+  s "You think so? Aww..."
   n "What about writing a poem about animals, then? I mean, every animal has its own perks. It should be interesting!"
   y "Natsuki's idea seems fine, but I'd suggest writing about our surroundings, like nature."
-  n "What? 'Seems fine?' It's way better than your idea!”
-  n "Writing about surroundings and nature? That'll put people to sleep at the festival!".
+  n "What? \"Seems fine\"? It's way better than your idea!"
+  n "Writing about surroundings and nature? That'll put people to sleep at the festival!"
   y "Excuse me, but nature is beautiful in so many ways. The peacefulness of an untouched forest, or the vibrant colors of the Northern Lights..."
   y "It's a perfect topic for a poem."
   y "Writing about hidden beauty and tranquility is what poetry is all about."
   y "On the other hand, I find it hard to turn a subject such as animals into a poem..."
   n "What?! A poem about animals is easy! You could write about something like the life of a cat in plenty of ways!"
   n "Like how they behave and what they do that's cute!"
-  m "Come on guys, there is no need to argue over something that trivial."
-  n "It's not me who started arguing, by the way! Yuri started it!"
+  m "Come on, guys, there's no need to argue over something that trivial."
+  n "I didn't start it! Yuri did!"
   y "Excuse me? I wasn't arguing, I was just stating facts."
   n "Facts? Those aren't {i}facts{/i}! Those are just words made to start an argument!"
-  y “(sigh)”
-  n “Hmpf!”
+  y "Sigh..."
+  n "Hmph!"
+  
   "As their argument slowly falls silent, Natsuki suddenly turns to me."
-  n "It's your fault we started arguing, [mc-kun]!"
-  mc "Huh? What?! What did {b}I{/b} do?!"
-  "The girls start to laugh, and soon both Natsuki and I join them."
+  
+  n "It's your fault we started arguing, [player]!"
+  mc "Huh? What?! What did {i}I{/i} do?!"
+  "The others start to laugh, and soon both Natsuki and I join them."
+  
+  ###########################################################################################################################
+  ###########################################################################################################################
 
   [fast-forward screen]
   [don’t change the background]
