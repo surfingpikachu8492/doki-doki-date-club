@@ -1,4 +1,4 @@
-# prologue.rpy :: done up to line 1620
+# prologue.rpy :: done up to line 1680
 
 # script.rpy should look like:
 # label start:
