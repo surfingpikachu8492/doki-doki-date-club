@@ -1,4 +1,4 @@
-# prologue.rpy
+# prologue.rpy :: done up to line 1620
 
 # script.rpy should look like:
 # label start:
@@ -8,11 +8,12 @@
 
 label prologue:
   if persistent.playthrough == 0:
-    call prologue_1
-  call prologue_2
+    call prologue_intro
+  call prologue_day_1
+  call prologue_day_2
 return
 
-label prologue_1:
+label prologue_intro:
   scene black
   play music mend  # "I Still Love You"
   
@@ -393,7 +394,7 @@ label prologue_1:
   stop music
 return
 
-label prologue_2:
+label prologue_day_1:
   $ renpy.pause(5.0)
   play sound "sfx/alarm.ogg"
   
@@ -1089,184 +1090,241 @@ label prologue_2:
   
   y "It took some time to convince the teachers, but they allowed us to keep it in the clubroom."
   s "Yeah! Thankfully we have Monika as our president, so we basically have all the teaching staff on our side, no matter what!"
-  y "I agree, we couldn’t have asked for a better president."
-  m “Ahahah... “
-  m “Please, girls, you’re embarrassing me...” 
-  ”Monika getting embarrassed? Now that’s something you don’t see that every day...”
-  ”As Yuri sets everything on the table, I take a seat between Monika and Sayori.”
-  ”I instinctively move my chair a bit closer to Sayori, though, since she is the one I feel most comfortable around.”
-  ”As I raise my eyes, I see Natsuki, proudly marching back to the table with a tray covered in tin foil in her hands.”
-  n “Okaaay, everybody ready?”
-  n “...Ta-daa!”
-  ”Natsuki lifts the foil off the tray to reveal a dozen white, fluffy cupcakes decorated to look like little cats.”
-  ”Their whiskers are drawn with icing, and little pieces of chocolate were used to make the ears.”
+  y "I agree, we couldn't have asked for a better president."
+  m "Ahahah..."
+  m "Please, girls, you're embarrassing me..."
+  
+  "Monika getting embarrassed? Now that's something you don’t see that every day..."
+  "As Yuri sets everything on the table, I take a seat between Monika and Sayori."
+  "I instinctively move my chair a bit closer to Sayori, though, since she is the one I feel most comfortable around."
+  "As I raise my eyes, I see Natsuki, proudly marching back to the table with a tray covered in tin foil in her hands."
+  
+  n "Okaaay, everybody ready?"
+  n "...Ta-daa!"
+  
+  "Natsuki lifts the foil off the tray to reveal a dozen white, fluffy cupcakes decorated to look like little cats."
+  "Their whiskers are drawn with icing, and little pieces of chocolate were used to make the ears."
+  
   s "Uwooooah!"
-  s “They’re soooo cuuuuute!”
-  ”For some reason I feel like I’ve {i}seen{/i} them somewhere before…”
-  ”[...]”
-  ”In a recipe or an advertisement somewhere online, most likely...”
-  m “Wow, I knew you were good at baking, Natsuki, but I never expected something of this scale!”
-  n “Ehehe. Well, the more you know..."
-  n “Don’t just sit there, grab one already!”
-  ”You don’t have to tell Sayori twice...”
-  ”She grabs one and takes a huge bite.”
-  s “Shhooo goooood!”
-  ”Without even chewing it all down, she starts talking, her voice muffled, and 
-  some icing already smudged over her nose.”
-  ”Monika takes one cupcake for herself, and Yuri follows her example.”
-  ”I finally take one as well and start turning it around in my fingers, looking for 
-  the best angle to take a bite."
-  n ”...”
-  ”Natsuki is the only one who still hasn’t touched the cupcakes, and I can see her
-  sneaking glances in my direction."
-  ”Is she waiting for me to try it?”
-  ”After finally finding an angle I’m satisfied with, I take a bite.”
-  ”[...]”
-  ”The icing is sweet and full of flavor.”
-  ”Whether she made them herself or had some help, it’s still really impressive!”
-  mc “This is really delicious.”
-  mc “Thank you, Natsuki.”
-  n “W-Why are you thanking me? It's not like I..."
+  s "They're soooo cuuuuute!"
+  
+  "For some reason I feel like I’ve {i}seen{/i} them somewhere before..."
+  "..."
+  "In a recipe or an advertisement somewhere online, most likely..."
+  
+  m "Wow, I knew you were good at baking, Natsuki, but I never expected something of this scale!"
+  n "Ehehe. Well, the more you know..."
+  n "Don’t just sit there. Grab one already!"
+  
+  "You don’t have to tell Sayori twice..."
+  "She grabs one and takes a huge bite."
+  
+  s "Shhooo goooood!"
+  
+  "Without even chewing it all down, she starts talking, her voice muffled, and some icing already smudged over her nose."
+  "Monika takes one cupcake for herself, and Yuri follows her example."
+  "I finally take one as well and start turning it around in my fingers, looking for the best angle to take a bite."
+  
+  n "..."
+  
+  "Natsuki is the only one who still hasn’t touched the cupcakes, and I can see her sneaking glances in my direction."
+  "Is she waiting for me to try it?"
+  "After finally finding an angle I'm satisfied with, I take a bite."
+  "..."
+  "The icing is sweet and full of flavor."
+  "Whether she made them herself or had some help, it’s still really impressive!"
+  
+  mc "This is really delicious."
+  mc "Thank you, Natsuki."
+  n "W-Why are you thanking me? It's not like I..."
   n "...made them just for you or anything!"
-  ”I swear I’ve heard that somewhere before...”
-  ”I decide to ignore her and just enjoy my meal.”
-  ”Meanwhile, Yuri has finished pouring tea into all the cups and begins carefully placing them in front on of everyone.”
-  y “So, [mc-kun], what do you usually like to read?”
-  mc-kun “...”
-  ”I hoped that we could avoid topics like that, since I’ve just recently said that I am not joining their club.”
-  ”But I guess I can’t blame them for hoping for me to change my decision.”
-  mc  "Well... um..."
-  ”Besides, considering how little I've read these past few years, I don't really 
-  have a good way of answering that.”
-  mc “Manga..."
-  ”I mutter it quietly to myself, half-joking.”
-  ”Natsuki's head suddenly perks up.”
-  ”My words clearly peaked her interest, but she keeps quiet.”
+  
+  "I swear I’ve heard that somewhere before..."
+  "I decide to ignore her and just enjoy my meal."
+  "Meanwhile, Yuri has finished pouring tea into all the cups and begins carefully placing them in front of everyone."
+  
+  y "So, [player], what do you usually like to read?"
+  mc "..."
+  
+  "I hoped that we could avoid topics like that, since I've just recently said that I am not joining their club."
+  "But I guess I can't blame them for hoping for me to change my decision."
+  
+  mc "Well... um..."
+  
+  "Besides, considering how little I've read these past few years, I don't really have a good way of answering that."
+  
+  mc "Manga..."
+  
+  "I mutter it quietly to myself, half-joking."
+  "Natsuki's head suddenly perks up."
+  "My words clearly peaked her interest, but she keeps quiet."
+  
   y "N-Not much of a reader, I guess..."
-  ”Yuri, on the other hand, obviously had some higher expectations.”
-  n “H-Hey! Don’t say that like that’s a bad thing or something!”
-  y “Oh?”
-  y “Ah, uhm, s-sorry... I didn’t mean it that way...”
-  ”Monika leans to me, half-whispering.”
-  m “Natsuki keeps her entire manga collection in the clubroom...”
-  n ”..!!”
-  ”Sayori lets out a giggle, snorting in her teacup.”
-  s “Yeah, she’s always saying that it’s literature as well!”
-  n “Gnnnn!!”
-  ”Now you did it, Sayori...”
-  n “Manga {b}IS{/b} literature!”
-  ”We all laugh, unable to keep it together while looking at Natsuki’s quickly 
-  reddening face.”
+  
+  "Yuri, on the other hand, obviously had some higher expectations."
+  
+  n "H-Hey! Don’t say that like that's a bad thing or something!"
+  y "Oh?"
+  y "Ah, uhm, s-sorry... I didn’t mean it that way..."
+  
+  "Monika leans to me, half-whispering."
+  
+  m "Natsuki keeps her entire manga collection in the clubroom..."
+  n "...!"
+  
+  "Sayori lets out a giggle, snorting in her teacup."
+  
+  s "Yeah, she’s always saying that it’s literature as well!"
+  n "Gnnnn!!"
+  
+  "Now you did it, Sayori..."
+  
+  n "Manga {i}IS{/i} literature!"
+  
+  "We all laugh, unable to keep it together while looking at Natsuki's quickly reddening face."
 
-  [fast-forward screen]
-  [change background – clubroom, day]
-  [change soundtrack – “Daijoubu!” OST; looped version]
-  ”With the atmosphere finally getting less tense, we spend the next few minutes just chatting and drinking tea; Natsuki’s cupcakes fading away with alarming speed.”
-  m “So, [mc-kun], I take it that you’re enjoying your stay here so far?”
-  ”I reach out to grab the last cupcake from the tray.”
-  mc “Well, I’d be lying if I said I wasn’t.”
-  ”I mean, what sane guy would say no to that question?”
-  ”And besides, those sweet smiles that answer earns from Monika, Yuri, Sayori 
-  and even Natsuki are definitely worth it.”
-  mc “By the way, Monika, I wanted to ask you...”
-  mc “How come you decided to start your own club?”
+  # fast forward screen
+  play music t8  # Daujoubu!
+  
+  "With the atmosphere finally getting less tense, we spend the next few minutes just chatting and drinking tea."
+  "Natsuki's cupcakes fade away with alarming speed."
+  
+  m "So, [player], I take it that you’re enjoying your stay here so far?"
+  
+  "I reach out to grab the last cupcake from the tray."
+  
+  mc "Well, I'd be lying if I said I wasn't."
+  
+  "I mean, what sane guy would say no to that question?"
+  "And besides, those sweet smiles that answer earns from Monika, Yuri, Sayori and even Natsuki are definitely worth it."
+  
+  mc "By the way, Monika, I wanted to ask you..."
+  mc "How come you decided to start your own club?"
   mc "You could easily be a board member for any of the major clubs."
   mc "Actually, weren't you a leader of the debate club last year?"
-  ”Monika smiles and takes a sip of tea.”
-  m “I knew you would bring it up sooner or later...”
-  m “You see, to be honest, I can't stand all of the politics around the major 
-  clubs."
+  
+  "Monika smiles and takes a sip of tea."
+  
+  m "I knew you would bring it up sooner or later..."
+  m "You see, to be honest, I can't stand all of the politics around the major clubs."
   m "It feels like nothing but arguing about the budget and publicity and how to prepare for events..."
   m "I'd much rather take something I personally enjoy and make something special out of it."
-  m "And if it encourages others to get into literature, then I'm fulfilling that 
-  dream!"
-  y “That is indeed an admirable cause.”
-  s “And that’s why we’re here to help you with it!”
-  ”The girls are clearly fond of Monika. Nothing surprising about that, to be honest.”
-  ”Whatever it is she decides to undertake, she always succeeds in it.”
-  ”What’s not to admire about that?”
-  mc “I’m actually surprised there aren't more people in the club yet…”
-  ”Monika’s expression changes; a smirk appears on her face and her eyebrow raises teasingly.”
-  ”[...]”
-  ”Dammit...”
-  ”I shouldn’t have said that...”
-  ”Now I’ve cornered myself...”
-  ”Meanwhile Monika continues, pretending that she hasn’t noticed that little slip up I just made.”
-  m “Well, you see, not many people are very interested in putting out all the effort to start something brand new..."
+  m "And if it encourages others to get into literature, then I'm fulfilling that dream!"
+  y "That is indeed an admirable cause."
+  s "And that's why we're here to help you with it!"
+  
+  "The girls are clearly fond of Monika. Nothing surprising about that, to be honest."
+  "Whatever it is she decides to undertake, she always succeeds in it."
+  "What’s not to admire about that?"
+  
+  mc "I'm actually surprised there aren't more people in the club yet..."
+  "Monika’s expression changes; a smirk appears on her face and her eyebrow raises teasingly."
+  "..."
+  "Damn it."
+  "I shouldn’t have said that..."
+  "Now I’ve cornered myself..."
+  "Meanwhile, Monika continues, pretending that she hasn't noticed that little slip up I just made."
+  
+  m "Well, you see, not many people are very interested in putting out all the effort to start something brand new..."
   m "Especially when it comes to something that doesn't grab your attention, like literature."
   m "You have to work hard to convince people that you're both fun and worthwhile."
   m "But it makes school events, like the festival, that much more important."
   m "So I'm confident that we can all really grow this club before we graduate!"
   m "Right, everyone?"
-  s “Yeah!”
-  y “We’ll do our best.”
-  n “You know it!”
-  ”Such different girls, all interested in the same goal...”
-  ”Monika must have worked really hard just to find these three.”
-  ”Maybe that's why they were all so delighted by the idea of a new member joining.”
-  ”Though I still don't know if I can keep up with their level of enthusiasm about literature...”
-  ”However...”
-  ”What really bugs me is that while I know only one of these girls well enough…”
-  ”I mean, Monika and I have barely spoken to each other, and I’ve only met Yuri and Natsuki today...”
-  ”...I can’t help but feel like I’ve {i}known{/i} them for a while...”
-  ”[...]”
-  ”I should probably quit spacing out and try to keep up the conversation, otherwise they’ll think I’m getting bored.”
-  mc “So, Yuri, and what do you like to read?”
-  y “H-Huh?!”
-  y “Um, me??”
-  ”Man, could you have possibly picked someone even {i}more{/i} difficult to talk to?”
-  ”While she is trying her best to act natural, she’s obviously still not used to having me around.”
-  y “W-Well, I suppose there’s no simple answer to that question...”
-  y “But I guess the best way to describe my preferences is something that is truly... {i}immersive{/i}.”
-  ”I watch as she calms down, the remnants of a shy, introverted girl fading away, clearing the way for a wise and mature... {i}woman{/i}, whose eyes light up when she finds her comfort zone.”
-  y “I really love it when the book acts like a guide, taking you on a journey, making you feel like you’re actually entering that beautifully described world, so different from our own...”
-  y “...helping you to get involved into the story, relate to its characters...”
-  ”I find myself admiring Yuri’s little speech, and I really hope that I don’t look too stupid while I’m gawking.”
-  ”I have to admit - I’ve never met someone so passionate about literature in my life.”
-  ”As she goes on, I look back into my memory, trying my best to find at least something I can relate to.”
-  mc “I’m impressed, Yuri! You truly make it sound so fascinating!”
-  ”Yuri stops in her tracks, blushing a little.”
-  y “I’m... glad you feel that way...”
-  mc “To be honest, the only thing I can remember that got me so immersed was a horror novel I had read... a really long time ago.”
-  y “Oh? Really?”
-  ”Surprisingly enough, my words seem to peak Yuri’s interest.”
-  y “I’ve actually been reading a lot of different horror stories as well...”
-  ”Okay... that was unexpected...”
-  y “N-Not that I am f-fond of horror!  It’s just that...”
-  y “You see, stories with deep psychological elements is something I particularly enjoy. They make you feel all those emotions that characters have to experience; their shock, their anxiety...”
-  y “...and quite often, they can even make you ponder about your own ideology, changing the way you look at the world.”
-  m “Honestly I would never have expected that from you,Yuri."
+  s "Yeah!"
+  y "We’ll do our best."
+  n "You know it!"
+  
+  "Such different girls, all interested in the same goal..."
+  "Monika must have worked really hard just to find these three."
+  "Maybe that's why they were all so delighted by the idea of a new member joining."
+  "Though I still don't know if I can keep up with their level of enthusiasm about literature..."
+  "However..."
+  "What really bugs me is that while I know only one of these girls well enough..."
+  "I mean, Monika and I have barely spoken to each other, and I've only met Yuri and Natsuki today..."
+  "...I can’t help but feel like I've {i}known{/i} them for a while..."
+  "..."
+  "I should probably quit spacing out and try to keep up the conversation, otherwise they’ll think I’m getting bored."
+ 
+  mc "So, Yuri, and what do you like to read?"
+  y "H-Huh?!"
+  y "Um, me??"
+  
+  "Man, could you have possibly picked someone even {i}more{/i} difficult to talk to?"
+  "While she is trying her best to act natural, she’s obviously still not used to having me around."
+  
+  y "W-Well, I suppose there's no simple answer to that question..."
+  y "But I guess the best way to describe my preferences is something that is truly... {i}immersive{/i}."
+  
+  "I watch as she calms down, the remnants of a shy, introverted girl fading away, clearing the way for a wise and mature... {i}woman{/i}, whose eyes light up when she finds her comfort zone."
+  
+  y "I really love it when the book acts like a guide, taking you on a journey, making you feel like you’re actually entering that beautifully described world, so different from our own..."
+  y "...helping you to get involved into the story, relate to its characters..."
+  
+  "I find myself admiring Yuri's little speech, and I really hope that I don't look too stupid while I'm gawking."
+  "I have to admit - I’ve never met someone so passionate about literature in my life."
+  "As she goes on, I look back into my memory, trying my best to find at least something I can relate to."
+  
+  mc "I'm impressed, Yuri! You truly make it sound so fascinating!"
+  
+  "Yuri stops in her tracks, blushing a little."
+  
+  y "I'm... glad you feel that way..."
+  mc "To be honest, the only thing I can remember that got me so immersed was a horror novel I had read... a really long time ago."
+  y "Oh? Really?"
+  
+  "Surprisingly enough, my words seem to peak Yuri’s interest."
+  
+  y "I’ve actually been reading a lot of different horror stories as well..."
+  
+  "Okay... that was unexpected..."
+  
+  y "N-Not that I am f-fond of horror!  It’s just that..."
+  y "You see, stories with deep psychological elements is something I particularly enjoy."
+  y "They make you feel all those emotions that characters have to experience; their shock, their anxiety..."
+  y "...and quite often, they can even make you ponder about your own ideology, changing the way you look at the world."
+  m "Honestly I would never have expected that from you, Yuri."
   m "For someone as gentle as you..."
-  m "To take interest in something so... unique.”
-  ”To be honest, when it comes to Yuri, I’m pretty sure everything that can be described  as “unique” is applicable.”
-  y “Well, I guess we all have our own little demons inside us...”
-  n “Ugh, I hate horror..."
+  m "To take interest in something so... unique."
+  
+  "To be honest, when it comes to Yuri, I'm pretty sure everything that can be described as \"unique\" is applicable."
+  
+  y "Well, I guess we all have our own little demons inside us..."
+  n "Ugh, I hate horror..."
   y "Oh? Why's that?"
-  n “Well, I just..."
-  ”Natsuki's eyes dart over to me for a split second.”
-  n "Nevermind."
-  m “That's right, you usually like to write about cute things, don't you, Natsuki?"
+  n "Well, I just..."
+  
+  "Natsuki's eyes dart over to me for a split second."
+  
+  n "Never mind."
+  m "That's right, you usually like to write about cute things, don't you, Natsuki?"
   n "W-What?!"
   n  "What gives you that idea?"
   m "You left a piece of scrap paper behind last club meeting."
-  n “Gnnnn!!”
-  m "It looked like you were working on a poem called-"
+  n "Gnnnn!!"
+  m "It looked like you were working on a poem called-{nw}"
   n "Don't say it out loud!!"
   n "And give that back!"
   m "Fine, fine~"
   s "Ehehe, your cupcakes, your poems...”
   s "Everything you do is just as cute as you are~"
-  ”Sayori sidles up behind Natsuki and puts her hands on her shoulders, almost hugging her.”
-  n {b}I'm not cute!!{/b}"
-  ”Are you sure about that?”
+  
+  "Sayori sidles up behind Natsuki and puts her hands on her shoulders, almost hugging her."
+  
+  n {i}I'm not cute!!{/i}"
+  
+  "Are you sure about that?"
+  
   mc "Natsuki, you write your own poems?"
-  n “Eh? Well, yeah... sometimes."
-  n “Why do you care?"
+  n "Eh? Well, yeah... sometimes."
+  n "Why do you care?"
   mc "Wow, I think that's really impressive."
   mc "Why don't you share them sometime?"
   n "N-No!"
-  ”Natsuki averts her eyes.”
-  n “You wouldn't...like them..."
+  
+  "Natsuki averts her eyes."
+  
+  n "You wouldn't...like them..."
   mc "Ah...not a very confident writer yet?"
   y "I can understand how Natsuki feels."
   y "Sharing that level of writing takes more than just confidence."
@@ -1274,214 +1332,294 @@ label prologue_2:
   y "You must be willing to open up to your readers, exposing your vulnerabilities and showing even the deepest reaches of your heart."
   m "I take it that you have some writing experience too, Yuri?"
   m "Maybe if you share some of your work, you can set an example and help Natsuki feel comfortable enough to share hers."
-  y “U-Ummm...”
+  y "U-Ummm..."
   mc "I guess it's the same for Yuri..."
   s "Aww... But I wanted to read everyone's poems..."
-  ”We all sit in silence for a moment, until it’s broken by Monika clapping her hands.”
+  
+  "We all sit in silence for a moment, until it’s broken by Monika clapping her hands."
   m "Okay!"
   m "I have an idea, everyone~"
-  ”All of us look at her quizzically.”
-  m  “Let's all go home and write a poem of our own!"
+  
+  "All of us look at her quizzically.”
+  m "Let's all go home and write a poem of our own!"
   m "Then, next time we meet, we'll all share them with each other."
   m "That way, everyone is even!"
-  ”The reaction follows shortly after.”
-  n “What?!”
-  y ”U-Um...”
+  
+  "The reaction follows shortly after.”
+  
+  n "What?!"
+  y "U-Um..."
   s "Yay! Let's do it!"
   m "Besides, since we now have a new member, I think it will help us all get a little more comfortable with each other, and strengthen the bond of our club."
-  ”[...?!]”
-  mc ”(cough)”
-  mc “Uhm, Monika?”
-  ”Monika rolls her eyes and lets out a sigh, turning to me with her arms folded on her chest.”
-  ”There’s no malevolence on her face, but she looks clearly annoyed by my stubbornness.”
-  m “[player].”
-  ”Well, here it goes...”
-  m “I know it’s all a bit overwhelming, and you never intended to do this...”
-  m “...and that Sayori bit off more than she could chew, telling us that you would definitely join...”
-  s “Eheheh~”
-  m “But I would like to be straightforward with you and ask you this one question...”
-  ”She takes a short pause, inhaling before saying the words I knew she would say sooner or later...”
-  m “Would you like to join the Literature Club?”
-  mc ”...”
-  ”I can’t remember the last time I’d been so conflicted.”
-  ”On one hand, it’s just like Monika said – I never intended to come here in the first place...”
-  ”But on the other one...”
-  ”I take a look at those four beautiful girls, surrounding me...”
-  ”They all stare at me, their eyes full of hope, the corners of their mouth slowly moving downwards with each passing second...”
-  ”Sayori, the good childhood friend of mine, a little lump of sunshine in this grey, boring world...”
-  ”Natsuki, a cute, fragile girl, hidden beneath that harsh exterior...”
-  ”Yuri, a maiden of mystery, covering her true-self behind that timid facade...”
-  ”And Monika, a girl who’d always impress me, who is now giving me the most genuine smile, hoping to hear “yes” for an answer...”
-  ”[...]”
-  ”What was that about making clear-headed decisions?”
-  ”Ah, who cares, being logical is overrated...”
-  mc “Okay.”
-  ”One by one, the girls' eyes light up.”
-  mc “I cannot lie – I really enjoyed spending time with you all, and therefore...”
-  mc “...while I still can’t believe I’m saying this, I’ve made a decision.”
-  ”Sayori is almost ready to explode at this point.”
-  mc “I will join the Literature Club!”
-  ”With that said, I brace myself for impact.”
-  s “Yaaaaaaay! I’m so hapyyyy~”
-  ”Sayori wraps her arms around me, jumping up and down.”
-  mc “H-Hey, easy there...” 
-  y “I was honestly worried that you would just... leave at the end...”
-  n “Yeah! If you really came here just for the cupcakes, I would be super pissed!"
-  m “I’m so glad that you’ve finally made up your mind.”
-  m “And... I guess that makes it official!”
-  m “[player].”
-  ”Monika reaches out her hand for a handshake.”
-  m “Welcome to the Literature Club!”
-  ”I smile and delicately shake her hand.”
-  ”I still can’t get a rid of that feeling that everyone and everything here seem so familiar.”
-  ”Maybe it’s just a hint to me that this is where I {i}belong{/i}.”
-  ”Honestly, it doesn’t matter.”
-  ”I’ve made up my mind.”
-  ”And I’m ready for whatever the future has in store for me.”
+  
+  "...?!"
+  
+  mc "{i}*Cough*{/i}"
+  mc "Uhm, Monika?"
+  
+  "Monika rolls her eyes and lets out a sigh, turning to me with her arms folded on her chest."
+  "There’s no malevolence on her face, but she looks clearly annoyed by my stubbornness."
+  
+  m "[player]."
+  
+  "Well, here it goes..."
+  
+  m "I know it’s all a bit overwhelming, and you never intended to do this..."
+  m "...and that Sayori bit off more than she could chew, telling us that you would definitely join..."
+  s "Eheheh~"
+  m "But I would like to be straightforward with you and ask you this one question..."
+  
+  "She takes a short pause, inhaling before saying the words I knew she would say sooner or later..."
+  
+  m "Would you like to join the Literature Club?"
+  mc "..."
+  
+  "I can’t remember the last time I’d been so conflicted."
+  "On one hand, it’s just like Monika said – I never intended to come here in the first place..."
+  "But on the other hand..."
+  "I take a look at those four beautiful girls, surrounding me..."
+  "They all stare at me, their eyes full of hope, the corners of their mouth slowly moving downwards with each passing second..."
+  "Sayori, the good childhood friend of mine, a little lump of sunshine in this grey, boring world..."
+  "Natsuki, a cute, fragile girl, hidden beneath that harsh exterior..."
+  "Yuri, a maiden of mystery, covering her true-self behind that timid façade..."
+  "And Monika, a girl who'd always impressed me, who is now giving me the most genuine smile, hoping to hear \"yes\" for an answer..."
+  "..."
+  "What was that about making clear-headed decisions?"
+  "Ah, who cares, being logical is overrated..."
+  
+  mc "Okay."
+  
+  "One by one, the girls' eyes light up."
+  
+  mc "I cannot lie – I really enjoyed spending time with you all, and therefore..."
+  mc "...while I still can't believe I'm saying this, I've made a decision."
+  
+  "Sayori is almost ready to explode at this point."
+  
+  mc "I will join the Literature Club!"
+  
+  "With that said, I brace myself for impact."
+  
+  s "Yaaaaaaay! I’m so happyyyy~"
+  
+  "Sayori wraps her arms around me, jumping up and down."
+  
+  mc "H-Hey, easy there..."
+  y "I was honestly worried that you would just... leave at the end..."
+  n "Yeah! If you really came here just for the cupcakes, I would be super pissed!"
+  m "I'm so glad that you've finally made up your mind."
+  m "And... I guess that makes it official!"
+  m "[player]."
+  
+  "Monika reaches out her hand for a handshake."
+  
+  m "Welcome to the Literature Club!"
+  
+  "I smile and delicately shake her hand."
+  "I still can't get rid of that feeling that everyone and everything here seems so familiar."
+  "Maybe it’s just a hint to me that this is where I {i}belong{/i}."
+  "Honestly, it doesn’t matter."
+  "I've made up my mind."
+  "And I’m ready for whatever the future has in store for me."
+  
   m "Okay, everyone!"
   m "I think with that, we can officially end today's meeting on a good note."
   m "Everyone remember tonight's assignment:"
   m "Write a poem to bring to the next meeting, so we can all share!"
-  ”Monika looks over at me once more.”
-  m "That’s especially important in your case, [player]! I’m really looking forward to see how you express yourself.”
-  ”I chuckle as I jokingly salute her.”
-  m “Yes, ma’am.”
-  ”Monika smiles sweetly and goes to the teacher’s desk.”
-  ”Soon, the girls  have cleaned up all the tableware and packed up their things, ready to leave.”
+  
+  "Monika looks over at me once more."
+  
+  m "That's especially important in your case, [player]! I'm really looking forward to see how you express yourself."
+  
+  "I chuckle as I jokingly salute her."
+  
+  mc "Yes, ma'am."
+  
+  "Monika smiles sweetly and goes to the teacher's desk."
+  "Soon, the girls have cleaned up all the tableware and packed up their things, ready to leave."
+  
   s "Hey, [player], since we're already here, do you want to walk home together?"
-  mc “Sure, why not? It’s been a while since we last did it, after all.”
-  s “Yeah, it really has...”
+  mc "Sure, why not? It’s been a while since we last did it, after all."
+  s "Yeah, it really has..."
 
-  [fast-forward screen]
-  [change background – residential.png, evening]
-  [do not change soundtrack]
-  ”That day was clearly a complete surprise for me.”
-  ”A very good one, to be completely honest.”
-  ”I’m still unsure whether it was all just some weird dream.”
-  ”But it doesn’t matter.”
-  ”Right now, I’m happy how things have turned out.”
-  ”And I’m ready for whatever I’ll have to face.”
-  ”Because this time...”
-  ”{i}I’ll set things right{/i}”
-  ”[...]”
-  ”What am I even on about?”
-  s “Helloooooo?”
-  mc “Huh?”
-  s “Come on, don’t tell me you’re spacing out again!”
-  s “[player], promise me that you’ll get enough sleep tonight, okay?”
-  mc “I will.”
-  mc “Seriously, Sayori, you worry about me too much.”
-  ”Sayori smiles.”
-  s “Well, who else would worry about you, if not your best friend?”
-  ”I smile back, unable to find any good way to answer that question.”
-  ”It’s only a matter of minutes before we reach Sayori’s house.”
-  s “Ahhh... I’m so glad you joined us, [player]!”
-  s “I still can’t wrap my mind around it, I’m just so happy!”
-  mc “Yeah, I’m still analyzing it myself, to be honest...”
-  s “Don’t worry! I promise you won’t regret it!”
-  s “Now, go home and get some sleep! I’d like to walk to school with you again tomorrow morning!
-  s “And I don’t want you to be all sleepy and grumpy again...”
-  mc “Hahah~ Noted.” 
-  s “Oh! But before you go to sleep - don’t forget to write your poem today!”
-  s “It’s really important, and we’ll all be upset if you just forgot about it…”
-  ”She pouts falsely, looking me straight in the eyes.”
-  s “You wouldn’t want to make us upset, right?”
-  mc “Don’t worry, I’ll do my best, I promise.”
-  s “Great!”
-  ”She almost jumps with joy.”
-  s “Well, I’ll see you tomorrow, then!” 
-  s “Have a good night!”
-  mc “Night.”
-  ”As I walk away, I see Sayori skipping to her house.”
-  ”[...]”
-  ”Yes.”
-  ”It was indeed a good day.”
-  [change background – slowly change to black screen]
-  [change soundtrack – music slowly fades away]
-  ??? ”Oh my, this is about to get interesting!” (NOTE – this message appears in “glitched” font)
+  # fast forward screen
+  scene bg residential_day
+  
+  "That day was clearly a complete surprise for me."
+  "A very good one, to be completely honest."
+  "I'm still unsure whether it was all just some weird dream."
+  "But it doesn't matter."
+  "Right now, I’m happy how things have turned out.”
+  "And I'm ready for whatever I'll have to face."
+  "Because this time..."
+  "{i}I'll set things right{/i}"
+  "..."
+  "What am I even on about?"
+  
+  s "Helloooooo?"
+  mc "Huh?"
+  s "Come on, don’t tell me you're spacing out again!"
+  s "[player], promise me that you'll get enough sleep tonight, okay?"
+  mc "I will."
+  mc "Seriously, Sayori, you worry about me too much."
+  
+  "Sayori smiles."
+  
+  s "Well, who else would worry about you, if not your best friend?"
+  
+  "I smile back, unable to find any good way to answer that question."
+  "It's only a matter of minutes before we reach Sayori's house."
+  
+  s "Ahhh... I'm so glad you joined us, [player]!"
+  s "I still can't wrap my mind around it, I'm just so happy!"
+  mc "Yeah, I'm still analyzing it myself, to be honest..."
+  s "Don’t worry! I promise you won't regret it!"
+  s "Now, go home and get some sleep! I'd like to walk to school with you again tomorrow morning!"
+  s "And I don't want you to be all sleepy and grumpy again..."
+  mc "Hahah~ Noted."
+  s "Oh! But before you go to sleep - don’t forget to write your poem today!"
+  s "It's really important, and we'll all be upset if you just forgot about it...”
+  
+  "She pouts falsely, looking me straight in the eyes."
+  
+  s "You wouldn't want to make us upset, right?"
+  mc "Don’t worry, I'll do my best, I promise."
+  s "Great!"
+  
+  "She almost jumps with joy."
+  
+  s "Well, I'll see you tomorrow, then!"
+  s "Have a good night!"
+  mc "Night."
+  
+  "As I walk away, I see Sayori skipping to her house."
+  "..."
+  "Yes."
+  "It was indeed a good day."
+  
+  scene black with dissolve_cg
+  stop music fadeout 4.0
+  
+  $ style.say_dialogue = style.edited
+  "???" "Oh my, this is about to get interesting!"
+  $ style.say_dialogue = style.normal
+return
 
-  [fast-forward screen]
-  [change background – clubroom, day]
-  [change soundtrack – “Ohayou Sayori!” OST]
-  ”It‘s an ordinary day in our club.”
-  ”I can’t say that I’m an expert on calling things “ordinary” around here, since I’ve been here for just a couple of days.”
-  ”But I got fairly used to the most of our usual routine.”
-  m “So, [player], how are you doing at school?”
-  ”I’m standing in front of the teacher’s desk with Monika on it’s opposite side, writing something. She barely even looks at me.”
-  mc “I manage... more or less. It can be a bit stressful with exams on the horizon.”
-  m “Yeah, I can understand that, believe me.”
-  mc “And what about you? How are you doing?” 
-  m “Fine, actually.”
-  mc “You sure? I mean, I’d imagine it’d be pretty tough to keep up with your studies while also being president of a club.”
-  ”Monika looks at me with her eyebrow raised.”
-  m “You seem to take a bit too much interest in me, [player], is there something I should know?”
-  mc ”..!!”
-  ”That teasing smirk of hers is just as trademark as her smile.”
-  mc “I-I was just... trying to keep up the conversation, that’s all!”
-  m “Ahahaha!”
-  m “Sorry, [player], I’m just-“
-  n “There you are, [player]!”
-  mc and m “Huh?”
-  ”Natsuki unceremoniously interrupts our little chat.”
-  n “Finally! I’ve been waiting for you, you know!”
-  mc “Oh, hey there, Natsuki! Sorry, I’m kinda late today, I arrived a couple of minutes ago.”
-  m “Yeah, he was just keeping me company.”
-  ”[...]”
-  ”Whenever it comes from Monika, even something completely harmless like this phrase sounds like it has some hidden subtext to it...”
-  m “Either way, why were you waiting for him, Natsuki? Do you need help with something?”
+label prologue_day_2:
+  # fast forward screen
+  scene bg club_day
+  play music t2  # Ohayou Sayori!
+  
+  "It's an ordinary day in our club."
+  "I can’t say that I'm an expert on calling things \"ordinary\" around here, since I've been here for just a couple of days."
+  "But I got fairly used to the most of our usual routine."
+  
+  m "So, [player], how's school going for you?"
+  
+  "I'm standing in front of the teacher's desk with Monika on its opposite side, writing something. She barely even looks at me."
+  
+  mc "I'm managing... more or less. It can be a bit stressful with exams on the horizon."
+  m "Yeah, I can understand that, believe me."
+  mc "And what about you? How are you doing?"
+  m "Fine, actually."
+  mc "You sure? I mean, I'd imagine it'd be pretty tough to keep up with your studies while also being president of a club."
+  
+  "Monika looks at me with her eyebrow raised."
+  
+  m "You seem awfully... {i}concerned{/i} for me, [player]..."
+  
+  "She flashes me a teasing smirk that's just as trademark as her smile."
+  
+  m "Is there something I should know?"
+  mc "...!"
+  mc "I-I was just... trying to keep up the conversation, that's all!"
+  m "Ahahaha!"
+  m "Sorry, [player], I'm just-{nw}"
+  n "There you are, [player]!"
+  
+  $ mc_m = player + " and Monika"
+  "[mc_m]" "Huh?"
+  
+  "Natsuki unceremoniously interrupts our little chat."
+  
+  n "Finally! I’ve been waiting for you, you know!"
+  mc "Oh, hey there, Natsuki! Sorry, I’m kinda late today, I arrived a couple of minutes ago."
+  m "Yeah, he was just keeping me company."
+  
+  "Coming from Monika, even something as seemingly harmless as this sounds like it has some hidden meaning to it..."
+  "..."
+  "{i}That{/i} or it's just me watching way too much anime..."
+  
+  m "Either way, why were you waiting for him, Natsuki? Do you need help with something?"
   n "Well, I needed him to help me carry some books to my classroom."
   n "But in case you two are {i}that{/i} busy, then I'll just do it myself!"
-  ”With that said, Natsuki turns away from us, preparing to walk away.”
-  m “Wait!”
+  
+  "With that said, Natsuki turns away from us, preparing to walk away."
+  
+  m "Wait!"
   m "[player], I think it's better if you'd go and help her. After all, she's quite frail."
-  n “W-What?!”
+  n "W-What?!"
   n "I'm not frail! I'm just... small..."
-  n “({i}Why did I say that…?{i/})”
+  n "({i}Why did I say that...?{/i})"
   n "Anyway, are you gonna help me out or not?"
-  mc "Yeah, yeah I'll help you out.. Though not for free...”
-  n “Huh?!”
-  mc “You did bring something with you today, right? If I recall correctly, you were planning to share some homemade cookies.”
-  n “What?! Are you really trying to charge me just for your help?!”
+  mc "Yeah, yeah I'll help you out.. Though not for free..."
+  n "Huh?!"
+  mc "You did bring something with you today, right? If I recall correctly, you were planning to share some homemade cookies."
+  n "What?! Are you really trying to charge me just for your help?!"
   mc "Heheh... I'm just joking, Natsuki. Don't take it seriously."
   mc "Come on, I'll help you out, no strings attached."
-  n "Hmpf!" 
+  n "Hmph!" 
 
-  [fast-forward screen]
-  [change background – corridor, day]
-  [don’t change the soundtrack]
+  # fast forward screen
+  scene bg corridor
 
-  After helping Natsuki out, we go back to the clubroom for our club activities. 
-  n "Just so you know, I didn't ask for your help just to spend more time with you or anything.”
+  "After helping Natsuki out, we go back to the clubroom for our club activities."
+  n "Just so you know, I didn't ask for your help just to spend more time with you or anything."
   n “I just needed a hand to help carry the books, that's all!"
   mc "I know, I know... Just happy to help."
 
-  [fast-forward screen]
-  [change background – clubroom, day]
-  [don’t change the soundtrack]
-  ”The first thing I hear when we enter the clubroom is Sayori’s upset voice.”
-  s “Monikaaaa!”
-  ”It seems to be coming from the closet...”
-  m “What is it, Sayori?”
-  s “I’ve looked {i}everywhere{/i}, we seem to be all out of colored paper!”
-  m “Yeah... That’s a pity...”
-  m “I’ll add it to the list, then. We’ll get it along with all other supplies for the festival...”
-  s “Huh... Okay....”
-  ”Sayori literally crawls out of the closet, dusting off her skirt as she stands up.
-  As she notices me, her face shines with joy.”
-  s “Oh, hey there, [mc-kun]!”
-  mc “Emm, yes, hello, we’ve already met today...”
-  s “Tehehe~”
-  s “Yeah, I’m still getting used to it.”
-  s “It’s just so unusual to meet you every morning, let alone see you every day in the club.”
-  mc “Heh... that’s true...”
-  ”Sayori walks to Monika, followed by Natsuki shortly after.”
-  ”Meanwhile I, having nothing better to do, grab the water pitcher and start watering the flowers.”
-  y "Oh, hello [mc-kun]!”
-  mc “Hmm?”
-  ”I barely even noticed Yuri entering the clubroom.”
+  # fast forward screen
+  scene bg club_day
+  
+  "The first thing I hear when we enter the clubroom is Sayori’s upset voice."
+  
+  s "Monikaaaa!"
+  
+  "It seems to be coming from the closet..."
+  
+  m "What is it, Sayori?"
+  s "I've looked {i}everywhere{/i}, but I just can't find any colored paper!"
+  m "Yeah... That’s a pity..."
+  m "I'll add it to the list, then. We'll get it along with all other supplies for the festival..."
+  s "Huh... Okay..."
+  
+  "Sayori literally crawls out of the closet, dusting off her skirt as she stands up."
+  "As she notices me, her face shines with joy."
+  
+  s "Oh, hey there, [player]!"
+  mc "Umm, hi? We've kinda... already seen each other today..."
+  s "Tehehe~"
+  s "Yeah, I'm still getting used to it."
+  s "It's just so unusual to meet you every morning, let alone see you every day in the club."
+  mc "Heh... that’s true..."
+  
+  s "Oh! By the way, Monika..."
+  "Sayori and Monika walk towards the other end of the clubroom while discussing plans for the festival. Natsuki follows soon after."
+  "Meanwhile I, having nothing better to do, grab the water pitcher and start watering the flowers."
+  
+  y "Oh, hello [player]!"
+  mc "Hmm?"
+  
+  "I barely even noticed Yuri entering the clubroom."
+  
   mc "Hey there Yuri, are you feeling better? We were worried since you called in sick yesterday."
   y "I am feeling much better already, thank you."
-  ”She smiles sweetly as to assure me that she’s totally fine, but something about all this seems a bit off.”
+  
+  "She smiles sweetly as to assure me that she’s totally fine, but something about all this seems a bit off."
+  
+  ###########################################################################################################
+  ###########################################################################################################
+  
   mc “You sure you’re okay with being at school? I mean, it’s only been one day and you’re back already...”
   mc “What made you stay at home, by the way? Cold? Fever?”
   y “Eheheh... I-It’s okay, [player], please don’t worry about it, I am fine...”
