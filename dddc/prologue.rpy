@@ -125,7 +125,7 @@ label prologue_intro:
   m "A-And why is it so dark?"
   m "W-Wait, I..."
   m "I don't understand..."
-  m "Let me check something...”
+  m "Let me check something..."
   
   $ renpy.pause(1.0)
   call updateconsole("Changing user status...")
@@ -144,7 +144,7 @@ label prologue_intro:
     "I want to set things right.":
       pass
 
-  m "...y-you...”
+  m "...y-you..."
   m "Wait, you can't be serious!"
   m "..."
   m "No... No-no-no-no, this can't be..."
@@ -209,7 +209,7 @@ label prologue_intro:
   call updateconsole("Error: \"monika.chr\" – unable to recover file. Retrying...")
   m "I do deserve this..."
   m "I’ve done so many horrible things..."
-  m "But still...”
+  m "But still..."
   m "Do you really get pleasure from this?"
   m "Tormenting me?"
   m "Not letting it go?"
@@ -285,7 +285,8 @@ label prologue_intro:
   
   call updateconsole("...")
   m "Are those mine?"
-  [dev console-message] ...
+  
+  call updateconsole("...")
   m "I'm..."
   
   call updateconsole("...")
@@ -540,9 +541,9 @@ label prologue_day_1:
   s "...pretending that you didn’t hear me?"
   s "That is {i}super{/i} mean, [player]!"
   
-  "Her accusing gaze and her hands on her hips don't go well with her otherwise cute appearance and extremely (sometimes – even ridiculously) cheerful personality.”
+  "Her accusing gaze and her hands on her hips don't go well with her otherwise cute appearance and extremely (sometimes – even ridiculously) cheerful personality."
   
-  mc "I’m sorry, Sayori, I ju-{nw}"
+  mc "I'm sorry, Sayori, I ju-{nw}"
   mc "{i}*Yawn*...{/i}"
   
   "As I yawn, Sayori’s expression quickly shifts from irritated to concerned."
@@ -601,7 +602,7 @@ label prologue_day_1:
   "We start off a typical, insignificant morning chat, which my mind doesn't even record, keeping up the conversation completely autonomously."
   "Sayori and I have been good friends since we were children. And to be quite honest, I can't even imagine befriending her right now."
   "I mean, while I’m just being your stereotypical, unremarkable high-schooler..."
-  "...whose interests are limited mostly (if not exclusively) to only the greatest of humanity’s achievements in terms of technological and cultural progress...”
+  "...whose interests are limited mostly (if not exclusively) to only the greatest of humanity’s achievements in terms of technological and cultural progress..."
   "In other words – video games and anime..."
   "Sayori, on the other hand is..."
   "Well..."
@@ -784,7 +785,7 @@ label prologue_day_1:
   
   "I roll my eyes and facepalm."
   
-  mc "No...:
+  mc "No..."
   s "Pleeeease?"
   
   "Don’t you dare..."
@@ -825,7 +826,7 @@ label prologue_day_1:
   "But I just don't have the guts to say that out loud."
   "I finally realize that it's been quite a while since I last got to hang out with Sayori."
   "For the past few months, we’ve almost never crossed paths."
-  Yet there once was a time when we used to walk to school together every morning.”
+  "Yet there once was a time when we used to walk to school together every morning."
   "Or just wander around, trying to kill time..."
   "Man, we even had sleepovers..."
   "At her place, mostly, since an airhead like herself would usually tend to keep her house in an almost complete mess, and she'd constantly rely on my help."
@@ -843,7 +844,7 @@ label prologue_day_1:
   s "Come on, then! You won't be disappointed, I promise!"
   s "You'll get along with everyone just fine! And you’ll also like our room, and our president..."
   s "And- OH! Did I tell you about the cupcakes?!"
-  mc “Err, yes, you mentioned them... Something about the perfect timing...”
+  mc "Err, yes, you mentioned them... Something about the perfect timing..."
   s "They are to {i}die{/i} for! Seriously! Natsuki is {i}super{/i} good at baking!"
   s "You’re lucky that she decided to bring them today!"
   
@@ -857,7 +858,7 @@ label prologue_day_1:
   # fast forward screen
   scene bg corridor
   
-  "As we leave the classroom, one of my classmates notices us.”
+  "As we leave the classroom, one of my classmates notices us."
   
   "Classmate" "Oh, hey, [player]! You’re still here?"
   
@@ -947,14 +948,14 @@ label prologue_day_1:
   mc "H-Hi there, Monika. I can say that I’m quite surprised as well."
   s "Whoa, you two know each other?"
   mc "Yeah, we... kinda were in the same class some time ago."
-  mc “We didn't get to talk much, though...”
+  mc "We didn't get to talk much, though..."
   m "Yeah... that’s true..."
   
   "Monika looks away, almost apologetically."
   "To be honest, it feels a bit awkward to talk to her even now."
   "We almost never talked, despite being in the same class."
   "I'm not so sure whether she's an exchange student or maybe some of her parents have foreign backgrounds..."
-  ”What I {i}do{/i} remember, however, is that since the day she first appeared here, she started climbing the popularity ranks rapidly, gaining favor amongst both teachers and other students.”
+  "What I {i}do{/i} remember, however, is that since the day she first appeared here, she started climbing the popularity ranks rapidly, gaining favor amongst both teachers and other students."
   "Her confidence, charisma and trademark smile quickly earning her certain recognition."
   "Add her intelligence, good looks, and athletic ability into the mix, and you’ll get the full picture."
   "..."
@@ -984,7 +985,7 @@ label prologue_day_1:
   n "Hmph!"
   
   "Ah, so {i}that's{/i} Natsuki, the one who supposedly brought some cupcakes today, according to Sayori..."
-  ”She looks quite short, almost half as tall as me, in fact.”
+  "She looks quite short, almost half as tall as me, in fact."
   "And I’m pretty sure she’s the youngest here as well, though I might be mistaken."
   "Looks can be deceiving, after all..."
   
@@ -1306,12 +1307,12 @@ label prologue_day_1:
   n "Don't say it out loud!!"
   n "And give that back!"
   m "Fine, fine~"
-  s "Ehehe, your cupcakes, your poems...”
+  s "Ehehe, your cupcakes, your poems..."
   s "Everything you do is just as cute as you are~"
   
   "Sayori sidles up behind Natsuki and puts her hands on her shoulders, almost hugging her."
   
-  n {i}I'm not cute!!{/i}"
+  n "{i}I'm not cute!!{/i}"
   
   "Are you sure about that?"
   
@@ -1340,12 +1341,12 @@ label prologue_day_1:
   m "Okay!"
   m "I have an idea, everyone~"
   
-  "All of us look at her quizzically.”
+  "All of us look at her quizzically."
   m "Let's all go home and write a poem of our own!"
   m "Then, next time we meet, we'll all share them with each other."
   m "That way, everyone is even!"
   
-  "The reaction follows shortly after.”
+  "The reaction follows shortly after."
   
   n "What?!"
   y "U-Um..."
@@ -1449,7 +1450,7 @@ label prologue_day_1:
   "A very good one, to be completely honest."
   "I'm still unsure whether it was all just some weird dream."
   "But it doesn't matter."
-  "Right now, I’m happy how things have turned out.”
+  "Right now, I’m happy how things have turned out."
   "And I'm ready for whatever I'll have to face."
   "Because this time..."
   "{i}I'll set things right{/i}"
@@ -1478,7 +1479,7 @@ label prologue_day_1:
   s "And I don't want you to be all sleepy and grumpy again..."
   mc "Hahah~ Noted."
   s "Oh! But before you go to sleep - don’t forget to write your poem today!"
-  s "It's really important, and we'll all be upset if you just forgot about it...”
+  s "It's really important, and we'll all be upset if you just forgot about it..."
   
   "She pouts falsely, looking me straight in the eyes."
   
@@ -1575,7 +1576,7 @@ label prologue_day_2:
 
   "After helping Natsuki out, we go back to the clubroom for our club activities."
   n "Just so you know, I didn't ask for your help just to spend more time with you or anything."
-  n “I just needed a hand to help carry the books, that's all!"
+  n "I just needed a hand to help carry the books, that's all!"
   mc "I know, I know... Just happy to help."
 
   # fast forward screen
@@ -1636,7 +1637,7 @@ label prologue_day_2:
   m "Natsuki, don't gossip about them. They might be able to hear you, you know. Besides, it's just rude."
   mc "So, what are you guys talking about?"
   s "Oh, we're just talking about you, [player]."
-  mc "Really? Never considered myself as an interesting topic for discussion.”
+  mc "Really? Never considered myself as an interesting topic for discussion."
   n "Yeah, well, you know... With you and Yuri being so close together all of a sudden."
   mc "What? We aren't even that close! We're just friends, that's all."
   mc "If I didn't know you any better, I'd assume you're just being jealous!"
