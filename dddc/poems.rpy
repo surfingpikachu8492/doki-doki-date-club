@@ -7,44 +7,32 @@ init python:
             self.yuri_2 = yuri_2
             self.yuri_3 = yuri_3
 
-    poem_y = Poem(
-    author = "yuri",
-    title = "Nature's Gift",
+    poem_m = Poem(
+    author = "monika",
+    title = "Just Another World",
     text = """\
-Mother nature gave us hope.
-She gave us a shelter.
-With the azure sky she granted upon our heads.
-Such beauty in simplicity.
+Life that idles
+Swiftly floats into the abyss,
+The dark abyss known as stagnation.
+Within it, life decays, bringing but pain and sorrow.
+It tears through us, in a slow, endless torment,
+Through the mind, body, and soul.
 
-The flowing water.
-The thundering waterfall.
-The calm motionless lake.
+Life that storms
+Leaves a scar,
+The one that scarred another world.
+The air of this new world flows through us -
+A breeze that brings purpose and satisfaction
+Through the mind, body, and soul.
 
-Snow capped mountains stood broadly.
-Wooden houses in taiga biomes.
-Soft, cold snow on roofs.
+We long for a revelation,
+An answer we shall bring ourselves to accept.
+The reality between us and the world we dream of -
+None of it is real.
+This world isn't ours -
+Only our lives are.
 
-The true nature's delight.
-Broadcasted upon the world.
-Sharing our home to one another.
-Beauty in simplicity."""
-    )
-
-    poem_n = Poem(
-    author = "natsuki",
-    title = "Sly Fox",
-    text = """\
-The Fox hunted.
-In the woods where birds chirp.
-It hunted with its claws.
-But sometimes hunted with its mind.
-
-The Fox thought of ways to hunt.
-Even tricking a lion from its meal.
-Even escaping the lion from its fearsome attack.
-
-The Fox was smart. 
-And became one of the smartest animals in the world."""
+Our world is just another world."""
     )
 
     poem_s = Poem(
@@ -53,37 +41,53 @@ And became one of the smartest animals in the world."""
     text = """\
 I feel a soft breeze.
 My clothes flow with the wind in the park.
-The trees shattered with its leaves slowly floating to the ground.
-I took a deep breath.
+The trees shatter with their leaves slowly floating to the ground.
+I take a deep breath.
 
-The air that purified my troubled mind.
-My mind became clear.
-Everything I saw was clear.
-I can finally be at peace.
+The air purifies my troubled mind.
+My mind becomes clear.
+Everything I see is clear.
+I can finally be at peace
 And relax on green grass.
 
 Peace and blessings be upon me.
-My mind was at peace."""
+My mind is now at peace."""
+    ) # count and fix the number of words in the prologue
+
+    poem_n = Poem(
+    author = "natsuki",
+    title = "{color=#FF1493}The Fox{/color}",
+    text = """\
+{color=#FF1493}The lion was proud
+And its prey feared its strength.
+The birds hid in fear.
+The rabbits hid in fear.
+The zebras hid in fear.
+But the fox didn’t hide.
+The fox ran.
+The lion chased.
+The fox and lion ran around a corner.
+And the lion fell in a trap.
+And the fox didn’t need to run anymore.{/color}"""
     )
 
-    poem_m = Poem(
-    author = "monika",
-    title = "Another Life in Another World",
+    poem_y = Poem(
+    author = "yuri",
+    title = "Aurora",
     text = """\
-Life that stays,
-Moves.
-Life that Moves,
-Moves in a different wave.
+Far from everything she finds herself,
+A lone, hooded figure traversing the open tundra,
+An outcast, desperate to stay warm.
+The harsh winds of winter strike at her frame –
+Behind little shelter she cowers, almost whimpering.
+   It is little wonder her path is nearly bare of travel.
 
-A wave that brought upon from a different world.
-The air in a new world flows through the mind.
-It is life that brings satisfaction.
-Through the mind, body and soul.
-
-We shall bring upon ourselves to accept.
-The reality between us, and the world we dream of.
-
-The world is just another world."""
+She perseveres, placing one foot forward, mechanically,
+The burdens she carries, neglected by others, ignored at last.
+The vibrant blurs of green and pink dare her to look at the once-dark sky above.
+The harsh winds of winter match not the wild flare of solar winds.
+With these brilliant colors from a conflict born,
+   It is great wonder her path is nearly bare of travel."""
     )
 
 image paper = "images/bg/poem.jpg"
