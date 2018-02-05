@@ -1065,8 +1065,8 @@ label prologue_day_1:
 
     "Sayori grabs my arm and turns me around to face the two girls I didn't recognize."
 
-    show natsuki zorder 2 2c at t21
-    show yuri zorder 2 4a at t22
+    show natsuki 2c zorder 2 at t21
+    show yuri 4a zorder 2 at t22
 
     "...who are already standing right in front of me."
     "...I can also hear Monika behind me, standing up from the teacher desk."
@@ -1097,7 +1097,7 @@ label prologue_day_1:
     "Looks can be deceiving, after all..."
     "Sayori leans closer to me before whispering in my ear."
 
-    show sayori zorder 2 1q at l31
+    show sayori 1q zorder 2 at l31
     show natsuki 5t2 at l32
 
     s "Just ignore her when she gets all moody..."
@@ -1234,7 +1234,7 @@ label prologue_day_1:
     # fast forward screen
 
     "Shortly after, we form a table with enough space for all of us."
-    show yuri 1a zorder at t11
+    show yuri 1a zorder 2 at t11
     "I see Yuri coming back, carrying a tray with a kettle and several cups."
 
     mc "Do you keep a whole tea set here?"
@@ -1250,7 +1250,7 @@ label prologue_day_1:
     s "Yeah! Thankfully we have Monika as our president, so we basically have all the teaching staff on our side, no matter what!"
     y 2u "I agree, we couldn't have asked for a better president."
 
-    show monika 1l zorder at l31
+    show monika 1l zorder 2 at l31
     show sayori 1x at t32
     show yuri 1a at t33
 
@@ -1881,342 +1881,342 @@ label prologue_day_2:
     scene bg club_day with dissolve_scene_full
     play music t2  # Ohayou Sayori!
 
-    "It's an ordinary day in our club."
-    "I can't say that I'm an expert on calling things \"ordinary\" around here, since I've been here for just a couple of days."
-    "But I've gotten fairly used to the most of our usual routine."
-
-    show monoika 1j zorder 2 at t11
-    m "So, [player], how's school going for you?"
-
-    "I'm standing in front of the teacher's desk with Monika on the opposite side, writing something. She barely even looks at me."
-
-    mc "I'm managing... more or less. It can be a bit stressful with exams on the horizon."
-    m 1m "Yeah, I can understand that, believe me."
-    mc "And what about you? How are you doing?"
-    m 1k "Fine, actually."
-    mc "You sure? I mean, I'd imagine it'd be pretty tough to keep up with your studies while also being president of a club."
-
-    show monika 5a at t11
-    "Monika looks at me with her eyebrow raised."
-
-    m "You seem awfully... {i}concerned{/i} for me, [player]..."
-
-    "She flashes me a teasing smirk that's just as trademark as her smile."
-
-    m "Is there something I should know?"
-    mc "...!"
-    mc "I-I was just... trying to keep up the conversation, that's all!"
-    m 1l "Ahahaha!"
-    m "Sorry, [player], I'm just-{w=1.0}{nw}"
-
-    show monika 1d at t21
-    show natsuki 4e zorder 2 at t22
-    n "There you are, [player]!"
-
-    "Natsuki unceremoniously interrupts our little chat."
-
-    n "Finally! I've been waiting for you, you know!"
-    mc "Oh, hey there, Natsuki! Sorry, I was kinda late today. I just got here a couple of minutes ago."
-    m 3b "Yeah, he was just keeping me company."
-
-    "Coming from Monika, even something as seemingly harmless as this sounds like it has some hidden meaning to it..."
-    "\[...\]"
-    "{i}That{/i} or it's just me watching way too much anime..."
-
-    m 1b "Either way, why were you waiting for him, Natsuki? Do you need help with something?"
-    n 5w "Well, I wanted him to help me carry some books to my locker."
-    n "But if you two are {i}that{/i} busy, then I'll just do it myself!"
-
-    show natsuki zorder 1 at thide
-    hide natsuki
-    show monika 1g
-    "Natsuki turns away from us, preparing to walk away."
-
-    m 3g "Wait!"
-    m "[player], I think it'd be better if you'd go and help her. After all, she's quite frail."
-
-    show monika zorder 1 at thide
-    hide monika
-    show natsuki 1o zorder 2 at t11
-
-    n "W-What?!"
-    n 4y "I'm not frail! I'm just... small..."
-    n 3q "({i}Why did I say that...?{/i})"
-    n 3h "Anyway, are you gonna help me out or not?"
-    mc "Yeah, yeah. I'll help you out.. Though not for free..."
-    n 1p "Huh?!"
-    mc "You {i}did{/i} bring something with you today, right? If I recall correctly, you were planning to share some homemade cookies."
-    n "What?! Are you really trying to charge me just for your help?!"
-    mc "Heheh... I'm just joking, Natsuki. Don't take it seriously."
-    mc "Come on, I'll help you out, no strings attached."
-    n 5t2 "Hmph!"
-
-    # fast forward screen
-    scene bg corridor with wipeleft_scene
-
-    "After helping Natsuki out, we go back to the clubroom for our club activities."
-
-    show natsuki 4h zorder 2 at t11
-    n "Just so you know, I didn't ask for your help just to spend more time with you or anything."
-    n "I just needed a hand to help carry the books, that's all!"
-    mc "I know, I know... Just happy to help."
-
-    # fast forward screen
-    scene bg club_day with wipeleft_scene
-
-    "The first thing I hear when we enter the clubroom is Sayori's upset voice."
-
-    s "Monikaaaa!"
-
-    "It seems to be coming from the closet..."
-
-    show monika 1i zorder 2 at t21
-    m "What is it, Sayori?"
-
-    show sayori 4p zorder 2 at t22
-    s "I've looked {i}everywhere{/i}, but I just can't find any colored paper!"
-    m 1p "Yeah... That's a pity..."
-    m 3i "I'll add it to the list, then. We'll get it along with all other supplies for the festival..."
-    s 1k "Huh... Okay..."
-
-    show monika zorder 1 at thide
-    hide monika
-
-    "Sayori literally crawls out of the closet, dusting off her skirt as she stands up."
-
-    show sayori 1a at t11
-    "As she notices me, her face shines with joy."
-
-    s 2b "Oh, hey there, [player]!"
-    mc "Umm, hi? We've kinda... already seen each other today..."
-    s 1q "Tehehe~"
-    s "Yeah, I'm still getting used to it."
-    s 1a "It's just so unusual to meet you every morning, let alone see you every day in the club."
-    mc "Heh... that's true..."
-    s 3o "Oh! By the way, Monika..."
-
-    show sayori zorder 1 at thide
-    hide sayori
-
-    "Sayori and Monika walk towards the other end of the clubroom while discussing plans for the festival. Natsuki follows soon after."
-    "Meanwhile I, having nothing better to do, grab the water pitcher and start watering the flowers."
-
-    show yuri 1c zorder 2 at t11
-    y "Oh, hello [player]!"
-    mc "Hmm?"
-
-    "I didn't notice Yuri entering the clubroom."
-
-    mc "Hey there Yuri, are you feeling better? We were worried since you called in sick yesterday."
-    y 1s "I am feeling much better already, thank you."
-
-    "She smiles sweetly as if to reassure me, but something about her seems a bit off."
-
-    mc "You sure you're okay with being at school? I mean, it's only been one day and you're back already..."
-    mc "What made you stay at home, by the way? Cold? Fever?"
-    y 3q "Eheheh... I-It's okay, [player], please don't worry about it, I am fine..."
-    mc "Hmm... if you say so..."
-
-    "I still don't buy it, but knowing Yuri's gentle and private personality, pushing her any further won't lead to anything good."
-
-    y 1t "A-Anyway, how are you doing with your studies? I would be happy to give some assistance in case you need help."
-    mc "Ahaha- Nah, I'm... I'm good, Yuri. But thanks for your offer."
-
-    "That's a blatant lie to be honest, but I'd hate to cause her any trouble."
-    "Though it might also be my pride talking..."
-
-    show yuri zorder 1 at thide
-    hide yuri
-
-    "\[...\]"
-    "As I look back at the teacher's desk, I see Monika, Sayori, and Natsuki chatting while occasionally glancing at me."
-
-    show sayori 1b zorder 2 at t31
-    show natsuki 4h zorder 2 at t32
-    show monika 1d zorder 2 at t33
-
-    n "They seem so close, right? I'm starting to think that Yuri has feelings for him..."
-    m 3i "Natsuki, don't gossip about them. They might be able to hear you, you know. Besides, it's just rude."
-    mc "So, what are you guys talking about?"
-    s 2c "Oh, we're just talking about you, [player]."
-    mc "Really? Never considered myself as an interesting topic for discussion."
-    n 4y "Yeah, well, you know... With you and Yuri being so close together all of a sudden."
-    mc "What?! We aren't even that close! We're just friends, that's all."
-    mc "If I didn't know you any better, I'd assume you're just being jealous!"
-    n 1v "W-WHAT?!"
-    m 1r "Natsuki, mind your volume."
-
-    show sayori at t41
-    show natsuki at t42
-    show monika at t43
-    show yuri 2t zorder 2 at t44
-
-    y "Umm... are you talking about me, by any chance?"
-    show sayori 1a
-    n 2c "Well yeah, we are."
-    mc "Not really, Yuri. Don't mind Natsuki, we're just... uh..."
-    m 2b "We're discussing the poems we're going to write for the school festival."
-    mc "Y-Yeah, what she said."
-
-    "Writing poems had become a part of our everyday routine, as well as our homework."
-    "It was pretty difficult for everyone at first (especially me, since literature and I don't mix well)."
-    "But we've all been making some slow, yet steady progress."
-
-    m 4b "Does anyone have a topic in mind?"
-    s 4r "Oh, I know! How about writing a poem about the future?"
-    mc "Um... that's kinda vague..."
-    s 2k "You think so? Aww..."
-    n 3l "What about writing a poem about animals, then? I mean, every animal has its own perks. It should be interesting!"
-    y 2l "Natsuki's idea seems fine, but I'd suggest writing about our surroundings, like nature."
-    n 4e "What? \"Seems fine\"? It's way better than your idea!"
-    n 4w "Writing about surroundings and nature? That'll put people to sleep at the festival!"
-    y 2h "Excuse me, but nature is beautiful in so many ways. The peacefulness of an untouched forest, or the vibrant colors of the Northern Lights..."
-    y 1k "It's a perfect topic for a poem."
-    y "Writing about hidden beauty and tranquility is what poetry is all about."
-    y 1w "On the other hand, I find it hard to turn a subject such as animals into a poem..."
-    n 1e "What?! A poem about animals is easy! You could write about something like the life of a cat in plenty of ways!"
-    n "Like how they behave and the cute things they do!"
-    m 3r "Come on, guys, there's no need to argue over something that trivial."
-    n 4e "I didn't start it! Yuri did!"
-    y 2r "Excuse me? I wasn't arguing, I was just stating facts."
-    n 4e "Facts? Those aren't {i}facts{/i}! That's just your opinion!"
-
-    show yuri 1w
-    "Yuri rolls her eyes and lets out a sigh."
-    "I guess Natsuki can really push anyone over the edge, even someone like Yuri."
-
-    n 5t2 "Hmph!"
-
-    "As their argument slowly falls silent, Natsuki suddenly turns to me."
-
-    n 4w "It's your fault we started arguing, [player]!"
-    mc "Huh? What?! What did {i}I{/i} do?!"
-
-    show sayori 1r
-    show natsuki 2z
-    show monika 1k
-    show yuri 1d
-    "The others start to laugh, and soon both Natsuki and I join them."
-
-    # fast-forward screen
-    scene bg club_day with wipeleft_scene
-
-    "The atmosphere in the clubroom became much less tense after Natsuki's joke."
-
-    show monika 4b zorder 2 at t11
-    m "Okay, everyone! How about we all support our point of views with some actual arguments?"
-    m "Everyone brought their poems today, right?"
-    m 2b "Let's skip straight to sharing them and {i}then{/i} we can get back to exchanging our ideas about the festival..."
-
-    show monika zorder 1 at thide
-    hide monika
-
-    show sayori 1r zorder 2 at t31
-    s "Works for me!"
-
-    show yuri 2a zorder 2 at t32
-    y "Y-Yes, of course."
-
-    show natsuki 4w zorder at t33
-    n "Ugh, fine."
-
-    show sayori zorder 1 at thide
-    hide sayori
-
-    show yuri zorder 1 at thide
-    hide yuri
-
-    show natsuki zorder 1 at thide
-    hide natsuki
-
-    "All of the girls stand up and go to where they left their poems."
-    "I shrug."
-    "Guess there's nothing better to do..."
-    "I decide to start with Monika, just because I'm standing right next to her."
-
-    show monika 2k zorder 2 at t11
-    m "So, [player], are you ready to read my poem?"
-    mc "Sure, I mean... That's what we usually do, right?"
-    m 3i "Huh? And that's it? And you are not even looking forward to it?"
-
-    show monika 1p at s11
-    m "Awww... and here I thought..."
-
-    "Monika pouts falsely, almost mimicking Sayori with her puppy eyes."
-    "...and I guess that cliche still works... {i}goddammit{/i}..."
-
-    mc "H-Hey! I didn't mean it {i}that{/i} way, how did you even came up with that idea?!"
-    m 1k "Ahahah! I'm sorry, [player], you're just so easy to tease!"
-    mc "{i}sigh{/i}"
-    mc "Whatever..."
-
-    show monika 3a
-    "Monika finally hands me her poem, written in her notebook with her accurate handwriting."
-
-    call showpoem(poem_m)
-
-    show monika 1a zorder 2 at t11
-
-    mc "..."
-
-    "I look at Monika. She is obviously eager to hear some feedback."
-
-    m 1b "So... what do you think?"
-    mc "I like it. I just..."
-    mc "I'm... kinda having trouble figuring out what it's about."
-    m 1d "Really? Hmm... that definitely wasn't my intention."
-    mc "It really is amazing though. We should definitely showcase it in the school festival!"
-
-    show monika 1m
-    "Am I just seeing things, or is Monika, of all people, actually blushing right now?"
-
-    m "I'm glad you like it, [player].This is actually one of my bes-{w=1.25}{nw}"
-
-    show monika 1i at t21
-    show sayori 4x zorder 2 at t22
-
-    s "Hey! Hey, [player]! Do you want to read my poem?"
-    mc "Sayori, please, watch your manners."
-    show sayori 1b
-    mc  "You just interrupted Monika."
-    s 1l "Ehehe... S-Sorry Monika, I'm just too excited."
-    m 3l "Ahaha, don't worry about it, Sayori. It's okay."
-    mc "So, Monika. You were saying?"
-    m 1n "Yeah... I consider this one to be one of my best poems."
-    mc "I can definitely tell you put a lot of effort into it."
-    m 1k "Well, honestly it wasn't all that difficult. I just got some inspiration, and... here we are!"
-    s 2x "Okay, okay, now check out my poem!"
-    s 4r "Pleeeease!"
-
-    "I sigh as I look at Monika, waiting for her approval."
-
-    m 3b "It's okay, [player], go ahead. We should actually finish with this as soon as we can since we don't have that much time."
-    mc "Okay..."
-
-    show monika zorder 1 at thide
-    show sayori 1r at h11
-    s "Yay, finally, my turn!"
-
-    "You're literally the second one..."
-
-    show sayori 1q
-    "I take the sheet of paper on which Sayori wrote her poem."
-
-    call showpoem(poem_s)
-
-    show sayori 1r zorder 2 at t11
-    mc "Wow, Sayori, you actually wrote this?"
-    s 1x "Yeah! How was it?"
-    mc "Well, it kinda gave me almost the same feelings that Monika's poem did."
-    s 2n "Oh? And how did it make you feel?"
-    mc "If I had to put it into words, I'd say it is peaceful and serene."
-    s 1x "Really?!"
-    s 4r "Haha, I outdid myself!"
+    # "It's an ordinary day in our club."
+    # "I can't say that I'm an expert on calling things \"ordinary\" around here, since I've been here for just a couple of days."
+    # "But I've gotten fairly used to the most of our usual routine."
+    #
+    # show monoika 1j zorder 2 at t11
+    # m "So, [player], how's school going for you?"
+    #
+    # "I'm standing in front of the teacher's desk with Monika on the opposite side, writing something. She barely even looks at me."
+    #
+    # mc "I'm managing... more or less. It can be a bit stressful with exams on the horizon."
+    # m 1m "Yeah, I can understand that, believe me."
+    # mc "And what about you? How are you doing?"
+    # m 1k "Fine, actually."
+    # mc "You sure? I mean, I'd imagine it'd be pretty tough to keep up with your studies while also being president of a club."
+    #
+    # show monika 5a at t11
+    # "Monika looks at me with her eyebrow raised."
+    #
+    # m "You seem awfully... {i}concerned{/i} for me, [player]..."
+    #
+    # "She flashes me a teasing smirk that's just as trademark as her smile."
+    #
+    # m "Is there something I should know?"
+    # mc "...!"
+    # mc "I-I was just... trying to keep up the conversation, that's all!"
+    # m 1l "Ahahaha!"
+    # m "Sorry, [player], I'm just-{w=1.0}{nw}"
+    #
+    # show monika 1d at t21
+    # show natsuki 4e zorder 2 at t22
+    # n "There you are, [player]!"
+    #
+    # "Natsuki unceremoniously interrupts our little chat."
+    #
+    # n "Finally! I've been waiting for you, you know!"
+    # mc "Oh, hey there, Natsuki! Sorry, I was kinda late today. I just got here a couple of minutes ago."
+    # m 3b "Yeah, he was just keeping me company."
+    #
+    # "Coming from Monika, even something as seemingly harmless as this sounds like it has some hidden meaning to it..."
+    # "\[...\]"
+    # "{i}That{/i} or it's just me watching way too much anime..."
+    #
+    # m 1b "Either way, why were you waiting for him, Natsuki? Do you need help with something?"
+    # n 5w "Well, I wanted him to help me carry some books to my locker."
+    # n "But if you two are {i}that{/i} busy, then I'll just do it myself!"
+    #
+    # show natsuki zorder 1 at thide
+    # hide natsuki
+    # show monika 1g
+    # "Natsuki turns away from us, preparing to walk away."
+    #
+    # m 3g "Wait!"
+    # m "[player], I think it'd be better if you'd go and help her. After all, she's quite frail."
+    #
+    # show monika zorder 1 at thide
+    # hide monika
+    # show natsuki 1o zorder 2 at t11
+    #
+    # n "W-What?!"
+    # n 4y "I'm not frail! I'm just... small..."
+    # n 3q "({i}Why did I say that...?{/i})"
+    # n 3h "Anyway, are you gonna help me out or not?"
+    # mc "Yeah, yeah. I'll help you out.. Though not for free..."
+    # n 1p "Huh?!"
+    # mc "You {i}did{/i} bring something with you today, right? If I recall correctly, you were planning to share some homemade cookies."
+    # n "What?! Are you really trying to charge me just for your help?!"
+    # mc "Heheh... I'm just joking, Natsuki. Don't take it seriously."
+    # mc "Come on, I'll help you out, no strings attached."
+    # n 5t2 "Hmph!"
+    #
+    # # fast forward screen
+    # scene bg corridor with wipeleft_scene
+    #
+    # "After helping Natsuki out, we go back to the clubroom for our club activities."
+    #
+    # show natsuki 4h zorder 2 at t11
+    # n "Just so you know, I didn't ask for your help just to spend more time with you or anything."
+    # n "I just needed a hand to help carry the books, that's all!"
+    # mc "I know, I know... Just happy to help."
+    #
+    # # fast forward screen
+    # scene bg club_day with wipeleft_scene
+    #
+    # "The first thing I hear when we enter the clubroom is Sayori's upset voice."
+    #
+    # s "Monikaaaa!"
+    #
+    # "It seems to be coming from the closet..."
+    #
+    # show monika 1i zorder 2 at t21
+    # m "What is it, Sayori?"
+    #
+    # show sayori 4p zorder 2 at t22
+    # s "I've looked {i}everywhere{/i}, but I just can't find any colored paper!"
+    # m 1p "Yeah... That's a pity..."
+    # m 3i "I'll add it to the list, then. We'll get it along with all other supplies for the festival..."
+    # s 1k "Huh... Okay..."
+    #
+    # show monika zorder 1 at thide
+    # hide monika
+    #
+    # "Sayori literally crawls out of the closet, dusting off her skirt as she stands up."
+    #
+    # show sayori 1a at t11
+    # "As she notices me, her face shines with joy."
+    #
+    # s 2b "Oh, hey there, [player]!"
+    # mc "Umm, hi? We've kinda... already seen each other today..."
+    # s 1q "Tehehe~"
+    # s "Yeah, I'm still getting used to it."
+    # s 1a "It's just so unusual to meet you every morning, let alone see you every day in the club."
+    # mc "Heh... that's true..."
+    # s 3o "Oh! By the way, Monika..."
+    #
+    # show sayori zorder 1 at thide
+    # hide sayori
+    #
+    # "Sayori and Monika walk towards the other end of the clubroom while discussing plans for the festival. Natsuki follows soon after."
+    # "Meanwhile I, having nothing better to do, grab the water pitcher and start watering the flowers."
+    #
+    # show yuri 1c zorder 2 at t11
+    # y "Oh, hello [player]!"
+    # mc "Hmm?"
+    #
+    # "I didn't notice Yuri entering the clubroom."
+    #
+    # mc "Hey there Yuri, are you feeling better? We were worried since you called in sick yesterday."
+    # y 1s "I am feeling much better already, thank you."
+    #
+    # "She smiles sweetly as if to reassure me, but something about her seems a bit off."
+    #
+    # mc "You sure you're okay with being at school? I mean, it's only been one day and you're back already..."
+    # mc "What made you stay at home, by the way? Cold? Fever?"
+    # y 3q "Eheheh... I-It's okay, [player], please don't worry about it, I am fine..."
+    # mc "Hmm... if you say so..."
+    #
+    # "I still don't buy it, but knowing Yuri's gentle and private personality, pushing her any further won't lead to anything good."
+    #
+    # y 1t "A-Anyway, how are you doing with your studies? I would be happy to give some assistance in case you need help."
+    # mc "Ahaha- Nah, I'm... I'm good, Yuri. But thanks for your offer."
+    #
+    # "That's a blatant lie to be honest, but I'd hate to cause her any trouble."
+    # "Though it might also be my pride talking..."
+    #
+    # show yuri zorder 1 at thide
+    # hide yuri
+    #
+    # "\[...\]"
+    # "As I look back at the teacher's desk, I see Monika, Sayori, and Natsuki chatting while occasionally glancing at me."
+    #
+    # show sayori 1b zorder 2 at t31
+    # show natsuki 4h zorder 2 at t32
+    # show monika 1d zorder 2 at t33
+    #
+    # n "They seem so close, right? I'm starting to think that Yuri has feelings for him..."
+    # m 3i "Natsuki, don't gossip about them. They might be able to hear you, you know. Besides, it's just rude."
+    # mc "So, what are you guys talking about?"
+    # s 2c "Oh, we're just talking about you, [player]."
+    # mc "Really? Never considered myself as an interesting topic for discussion."
+    # n 4y "Yeah, well, you know... With you and Yuri being so close together all of a sudden."
+    # mc "What?! We aren't even that close! We're just friends, that's all."
+    # mc "If I didn't know you any better, I'd assume you're just being jealous!"
+    # n 1v "W-WHAT?!"
+    # m 1r "Natsuki, mind your volume."
+    #
+    # show sayori at t41
+    # show natsuki at t42
+    # show monika at t43
+    # show yuri 2t zorder 2 at t44
+    #
+    # y "Umm... are you talking about me, by any chance?"
+    # show sayori 1a
+    # n 2c "Well yeah, we are."
+    # mc "Not really, Yuri. Don't mind Natsuki, we're just... uh..."
+    # m 2b "We're discussing the poems we're going to write for the school festival."
+    # mc "Y-Yeah, what she said."
+    #
+    # "Writing poems had become a part of our everyday routine, as well as our homework."
+    # "It was pretty difficult for everyone at first (especially me, since literature and I don't mix well)."
+    # "But we've all been making some slow, yet steady progress."
+    #
+    # m 4b "Does anyone have a topic in mind?"
+    # s 4r "Oh, I know! How about writing a poem about the future?"
+    # mc "Um... that's kinda vague..."
+    # s 2k "You think so? Aww..."
+    # n 3l "What about writing a poem about animals, then? I mean, every animal has its own perks. It should be interesting!"
+    # y 2l "Natsuki's idea seems fine, but I'd suggest writing about our surroundings, like nature."
+    # n 4e "What? \"Seems fine\"? It's way better than your idea!"
+    # n 4w "Writing about surroundings and nature? That'll put people to sleep at the festival!"
+    # y 2h "Excuse me, but nature is beautiful in so many ways. The peacefulness of an untouched forest, or the vibrant colors of the Northern Lights..."
+    # y 1k "It's a perfect topic for a poem."
+    # y "Writing about hidden beauty and tranquility is what poetry is all about."
+    # y 1w "On the other hand, I find it hard to turn a subject such as animals into a poem..."
+    # n 1e "What?! A poem about animals is easy! You could write about something like the life of a cat in plenty of ways!"
+    # n "Like how they behave and the cute things they do!"
+    # m 3r "Come on, guys, there's no need to argue over something that trivial."
+    # n 4e "I didn't start it! Yuri did!"
+    # y 2r "Excuse me? I wasn't arguing, I was just stating facts."
+    # n 4e "Facts? Those aren't {i}facts{/i}! That's just your opinion!"
+    #
+    # show yuri 1w
+    # "Yuri rolls her eyes and lets out a sigh."
+    # "I guess Natsuki can really push anyone over the edge, even someone like Yuri."
+    #
+    # n 5t2 "Hmph!"
+    #
+    # "As their argument slowly falls silent, Natsuki suddenly turns to me."
+    #
+    # n 4w "It's your fault we started arguing, [player]!"
+    # mc "Huh? What?! What did {i}I{/i} do?!"
+    #
+    # show sayori 1r
+    # show natsuki 2z
+    # show monika 1k
+    # show yuri 1d
+    # "The others start to laugh, and soon both Natsuki and I join them."
+    #
+    # # fast-forward screen
+    # scene bg club_day with wipeleft_scene
+    #
+    # "The atmosphere in the clubroom became much less tense after Natsuki's joke."
+    #
+    # show monika 4b zorder 2 at t11
+    # m "Okay, everyone! How about we all support our point of views with some actual arguments?"
+    # m "Everyone brought their poems today, right?"
+    # m 2b "Let's skip straight to sharing them and {i}then{/i} we can get back to exchanging our ideas about the festival..."
+    #
+    # show monika zorder 1 at thide
+    # hide monika
+    #
+    # show sayori 1r zorder 2 at t31
+    # s "Works for me!"
+    #
+    # show yuri 2a zorder 2 at t32
+    # y "Y-Yes, of course."
+    #
+    # show natsuki 4w zorder 2 at t33
+    # n "Ugh, fine."
+    #
+    # show sayori zorder 1 at thide
+    # hide sayori
+    #
+    # show yuri zorder 1 at thide
+    # hide yuri
+    #
+    # show natsuki zorder 1 at thide
+    # hide natsuki
+    #
+    # "All of the girls stand up and go to where they left their poems."
+    # "I shrug."
+    # "Guess there's nothing better to do..."
+    # "I decide to start with Monika, just because I'm standing right next to her."
+    #
+    # show monika 2k zorder 2 at t11
+    # m "So, [player], are you ready to read my poem?"
+    # mc "Sure, I mean... That's what we usually do, right?"
+    # m 3i "Huh? And that's it? And you are not even looking forward to it?"
+    #
+    # show monika 1p at s11
+    # m "Awww... and here I thought..."
+    #
+    # "Monika pouts falsely, almost mimicking Sayori with her puppy eyes."
+    # "...and I guess that cliche still works... {i}goddammit{/i}..."
+    #
+    # mc "H-Hey! I didn't mean it {i}that{/i} way, how did you even came up with that idea?!"
+    # m 1k "Ahahah! I'm sorry, [player], you're just so easy to tease!"
+    # mc "{i}sigh{/i}"
+    # mc "Whatever..."
+    #
+    # show monika 3a
+    # "Monika finally hands me her poem, written in her notebook with her accurate handwriting."
+    #
+    # call showpoem(poem_m)
+    #
+    # show monika 1a zorder 2 at t11
+    #
+    # mc "..."
+    #
+    # "I look at Monika. She is obviously eager to hear some feedback."
+    #
+    # m 1b "So... what do you think?"
+    # mc "I like it. I just..."
+    # mc "I'm... kinda having trouble figuring out what it's about."
+    # m 1d "Really? Hmm... that definitely wasn't my intention."
+    # mc "It really is amazing though. We should definitely showcase it in the school festival!"
+    #
+    # show monika 1m
+    # "Am I just seeing things, or is Monika, of all people, actually blushing right now?"
+    #
+    # m "I'm glad you like it, [player].This is actually one of my bes-{w=1.25}{nw}"
+    #
+    # show monika 1i at t21
+    # show sayori 4x zorder 2 at t22
+    #
+    # s "Hey! Hey, [player]! Do you want to read my poem?"
+    # mc "Sayori, please, watch your manners."
+    # show sayori 1b
+    # mc  "You just interrupted Monika."
+    # s 1l "Ehehe... S-Sorry Monika, I'm just too excited."
+    # m 3l "Ahaha, don't worry about it, Sayori. It's okay."
+    # mc "So, Monika. You were saying?"
+    # m 1n "Yeah... I consider this one to be one of my best poems."
+    # mc "I can definitely tell you put a lot of effort into it."
+    # m 1k "Well, honestly it wasn't all that difficult. I just got some inspiration, and... here we are!"
+    # s 2x "Okay, okay, now check out my poem!"
+    # s 4r "Pleeeease!"
+    #
+    # "I sigh as I look at Monika, waiting for her approval."
+    #
+    # m 3b "It's okay, [player], go ahead. We should actually finish with this as soon as we can since we don't have that much time."
+    # mc "Okay..."
+    #
+    # show monika zorder 1 at thide
+    # show sayori 1r at h11
+    # s "Yay, finally, my turn!"
+    #
+    # "You're literally the second one..."
+    #
+    # show sayori 1q
+    # "I take the sheet of paper on which Sayori wrote her poem."
+    #
+    # call showpoem(poem_s)
+    #
+    # show sayori 1r zorder 2 at t11
+    # mc "Wow, Sayori, you actually wrote this?"
+    # s 1x "Yeah! How was it?"
+    # mc "Well, it kinda gave me almost the same feelings that Monika's poem did."
+    # s 2n "Oh? And how did it make you feel?"
+    # mc "If I had to put it into words, I'd say it is peaceful and serene."
+    # s 1x "Really?!"
+    # s 4r "Haha, I outdid myself!"
     s "My poem was on par with Monika's!"
     mc "Don't get over your head - yours wasn't even close to Monika's standard."
     s 1h "Wha-?"
     s "But I even wrote more words than Monika!"
-    s "I wrote 68 words and Monika only wrote 66!"
+    s "I wrote [poem_s.num_words] words and Monika only wrote [poem_m.num_words]!"
 
     "{i}When did you even manage to count them?!{/i}"
 
