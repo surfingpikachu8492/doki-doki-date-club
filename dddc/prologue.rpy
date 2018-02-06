@@ -118,6 +118,8 @@ label prologue_intro:
     show mbg zorder 1 at thide
     hide mbg
 
+    $ renpy.pause(0.5)
+
     show monika 1g zorder 2 at t11
     menu:
         m "Is... Is that really you?"
@@ -420,7 +422,7 @@ label prologue_intro:
 
     "Whatever it was..."
     "It can definitely wait until morning."
-    "I lay back onto my pillow, falling asleep almost instantly..."
+    "Exhausted, I lay back onto my pillow, falling asleep almost instantly..."
 
     scene black with close_eyes
     stop music fadeout 4.0
@@ -499,7 +501,7 @@ label prologue_day_1:
     "I start with my morning routine..."
     "Getting dressed..."
     "Brushing my teeth..."
-    "And while I'm, like, 50\% positive that if I were offered to exchange my soul for at least one extra hour of sleep, I would definitely say \"yes\"..."
+    "And while I'm, like, 50\% positive that if I were offered to exchange my soul for at least one extra hour of sleep, I would say \"yes\"..."
     "...skipping classes now, with the exams on the horizon... is clearly not the best idea."
     "And besides..."
     "For some reason... I feel like I..."
@@ -600,7 +602,7 @@ label prologue_day_1:
     mc "Sayori, this is the first time in, like, I don't even remember how long..."
     mc "But it's been a {i}while{/i} since we last met each other before school, and would you like to know why?"
     s 1l "Eheheh... Well..."
-    mc "Because whenever I pass by your house, you're still sleeping!"
+    mc "Because whenever I pass by your house, {i}you're{/i} the one who's still sleeping!"
     mc "Seriously, I can almost hear you snoring. Right here, from the street!"
     s 4p "Awww! Okay! Okay!"
     s 5d "You win..."
@@ -789,7 +791,7 @@ label prologue_day_1:
     mc "Just... n-not now..."
     s 4j "Oh, come oooon! That's the exact same excuse you {i}always{/i} give me!"
 
-    "It's worked so far..."
+    "Well, it's been working so far..."
 
     s 1o "Heeeeey..."
     s 3n "I've just got a brilliant idea!"
@@ -817,7 +819,7 @@ label prologue_day_1:
     mc "Seriously, Sayori?"
     mc "You're {i}seriously{/i} trying to get me into {i}your{/i} club just by guilt-tripping me?"
 
-    "During our morning chat, I forgot that Sayori is the vice president of the Literature Club."
+    "During our morning chat, I completely forgot that Sayori is the vice president of the Literature Club."
     "To be honest, I can hardly see how Sayori and literature even mix..."
     "But I guess that every club just needs someone as passionate and proactive as her every now and then."
     "Besides, I'm pretty sure the main reason for her being so enthusiastic about it was just the opportunity to help start start a new club."
@@ -1092,7 +1094,7 @@ label prologue_day_1:
     n 5t2 "Hmph!"
 
     "Ah, so {i}that's{/i} Natsuki, the one who supposedly brought some cupcakes today, according to Sayori..."
-    "She looks quite short, even several inches shorter than my already small frame."
+    "She looks quite short, and that's coming from a guy who's not... exactly towering, himself."
     "And I'm pretty sure she's the youngest here as well, though I could be wrong about that."
     "Looks can be deceiving, after all..."
     "Sayori leans closer to me before whispering in my ear."
@@ -1102,7 +1104,7 @@ label prologue_day_1:
 
     s "Just ignore her when she gets all moody..."
 
-    "I may have known Natsuki for only a few minutes, but her sour attitude is something you can't help but notice."
+    "I may have known Natsuki for just a few minutes, but her sour attitude is something you can't help but notice."
     "...Though it seems quite jarring against her outwardly cute appearance."
     "I have to admit, it's hard to keep myself from smiling when I look at her pouting like this."
 
@@ -1126,7 +1128,8 @@ label prologue_day_1:
     "As for her looks... well..."
 
     show yuri 4a
-    "Let's just say that when I use the word \"mature\" to describe her, I mean it on {i}many{/i} levels..."  # (gentlemen, would somebody, please, be so kind as to pass me my monocle? XD) -- SSShadow666
+    "Let's just say that when I call her \"mature,\" I mean it on... {i}many{/i} levels..."
+    # "Let's just say that when I use the word \"mature\" to describe her, I mean it on... {i}many{/i} levels..."  # (gentlemen, would somebody, please, be so kind as to pass me my monocle? XD) -- SSShadow666
 
     mc "A pleasure."
 
@@ -1310,7 +1313,7 @@ label prologue_day_1:
     show natsuki 3a
 
     "Without even chewing it all down, she starts talking, her voice muffled, and some icing already smudged over her nose."
-    "Monika takes one cupcake for herself, and Yuri follows her example."
+    "Monika takes one cupcake for herself, and Yuri follows."
     "I finally take one as well and start turning it around in my fingers, looking for the best angle to take a bite."
 
     n 3k "..."
@@ -1469,8 +1472,10 @@ label prologue_day_1:
     "Maybe that's why they were all so delighted by the idea of a new member joining."
     "Though I still don't know if I can keep up with their level of enthusiasm about literature..."
     "However..."
-    "Monika and I and have barely spoken and I've only just met Yuri and Natsuki today..."
-    "So although Sayori is the only one of these girls I really know, I can't help but feel like I've known them {i}all{/i} for a while."
+    "There is one thing that's particularly bugging me..."
+    "I've hardly ever talked to Monika and I've only just met Yuri and Natsuki today..."
+    "And Sayori is the only one of these girls I really know..."
+    "But for some reason, I can't help but feel like I've known them {i}all{/i} for a while."
     "\[...\]"
     "I should probably quit spacing out and try to keep up the conversation, otherwise they'll think I'm getting bored."
 
@@ -1529,7 +1534,7 @@ label prologue_day_1:
     show monika 3d zorder 2 at t21
     show yuri 1w at t22
 
-    m "Honestly I would never have expected that from you, Yuri."
+    m "Honestly, I would never have expected that from you, Yuri."
     m "For someone as gentle as you..."
     m 3e "To take interest in something so... unique."
 
@@ -1736,7 +1741,7 @@ label prologue_day_1:
     show sayori 4t
     "Sayori is almost ready to explode at this point."
 
-    mc "I will join the Literature Club!"
+    mc "I'll join the Literature Club!"
 
     "With that said, I brace myself for impact."
 
@@ -1941,7 +1946,7 @@ label prologue_day_2:
 
     n "W-What?!"
     n 4y "I'm not frail! I'm just... small..."
-    n 3q "({i}Why did I say that...?{/i})"
+    n 3q "({i}Why did I even say that...?{/i})"
     n 3h "Anyway, are you gonna help me out or not?"
     mc "Yeah, yeah. I'll help you out.. Though not for free..."
     n 1p "Huh?!"
@@ -1959,7 +1964,7 @@ label prologue_day_2:
     show natsuki 4h zorder 2 at t11
     n "Just so you know, I didn't ask for your help just to spend more time with you or anything."
     n "I just needed a hand to help carry the books, that's all!"
-    mc "I know, I know... Just happy to help."
+    mc "I know, I know... Don't sweat it."
 
     # fast forward screen
     scene bg club_day with wipeleft_scene
@@ -1991,7 +1996,7 @@ label prologue_day_2:
     mc "Umm, hi? We've kinda... already seen each other today..."
     s 1q "Tehehe~"
     s "Yeah, I'm still getting used to it."
-    s 1a "It's just so unusual to meet you every morning, let alone see you every day in the club."
+    s 1a "It's just so weird to see you every morning, let alone every day in the club."
     mc "Heh... that's true..."
     s 3o "Oh! By the way, Monika..."
 
@@ -1999,7 +2004,7 @@ label prologue_day_2:
     hide sayori
 
     "Sayori and Monika walk towards the other end of the clubroom while discussing plans for the festival. Natsuki follows soon after."
-    "Meanwhile I, having nothing better to do, grab the water pitcher and start watering the flowers."
+    "Meanwhile I, having nothing better to do, grab a water pitcher and start watering the flowers."
 
     show yuri 1c zorder 2 at t11
     y "Oh, hello [player]!"
@@ -2007,7 +2012,7 @@ label prologue_day_2:
 
     "I didn't notice Yuri entering the clubroom."
 
-    mc "Hey there Yuri, are you feeling better? We were worried since you called in sick yesterday."
+    mc "Hey there Yuri. Are you feeling better? We were worried since you called in sick yesterday."
     y 1s "I am feeling much better already, thank you."
 
     "She smiles sweetly as if to reassure me, but something about her seems a bit off."
@@ -2022,7 +2027,7 @@ label prologue_day_2:
     y 1t "A-Anyway, how are you doing with your studies? I would be happy to give some assistance in case you need help."
     mc "Ahaha- Nah, I'm... I'm good, Yuri. But thanks for your offer."
 
-    "That's a blatant lie to be honest, but I'd hate to cause her any trouble."
+    "That's a blatant lie, to be honest, but I'd hate to cause her any trouble."
     "Though it might also be my pride talking..."
 
     show yuri zorder 1 at thide
@@ -2039,7 +2044,7 @@ label prologue_day_2:
     m 3i "Natsuki, don't gossip about them. They might be able to hear you, you know. Besides, it's just rude."
     mc "So, what are you guys talking about?"
     s 2c "Oh, we're just talking about you, [player]."
-    mc "Really? Never considered myself as an interesting topic for discussion."
+    mc "Really? Never considered myself an interesting topic for discussion."
     n 4y "Yeah, well, you know... With you and Yuri being so close together all of a sudden."
     mc "What?! We aren't even that close! We're just friends, that's all."
     mc "If I didn't know you any better, I'd assume you're just being jealous!"
@@ -2202,6 +2207,7 @@ label prologue_day_2:
     show sayori 1q
     "I take the sheet of paper on which Sayori wrote her poem."
 
+    label test:
     call showpoem(poem_s)
 
     show sayori 1r zorder 2 at t11
@@ -2215,6 +2221,7 @@ label prologue_day_2:
     s "My poem was on par with Monika's!"
     mc "Don't get over your head - yours wasn't even close to Monika's standard."
     s 1h "Wha-?"
+
     s "But I even wrote more words than Monika!"
     s "I wrote [poem_s.num_words] words and Monika only wrote [poem_m.num_words]!"
 
@@ -2291,7 +2298,7 @@ label prologue_day_2:
     mc "And, hey! I {i}do{/i} leave my house... every once in a while."
     n "Oh really? And where do you go?"
     mc "..."
-    mc "The... park or something..?"
+    mc "The... park or something...?"
     n "Hah... Figures..."
     n "Anyway..."
     n "No one ever seems to take my writing seriously."

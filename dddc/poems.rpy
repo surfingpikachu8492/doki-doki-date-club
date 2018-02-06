@@ -7,6 +7,12 @@ init python:
             self.yuri_2 = yuri_2
             self.yuri_3 = yuri_3
 
+        @property
+        def num_words(self):
+            replaced = self.text.replace("\n", " ").replace("-", "")
+            words = [word for word in replaced.split(" ") if word]
+            return len(words)
+
     poem_m = Poem(
     author = "monika",
     title = "Just Another World",
@@ -37,22 +43,35 @@ Our world is just another world."""
 
     poem_s = Poem(
     author = "sayori",
-    title = "A Windy Day",
+    title = "Winds",
     text = """\
-I feel a soft breeze.
-My clothes flow with the wind in the park.
-The trees shatter with their leaves slowly floating to the ground.
-I take a deep breath.
+I hear the winds' gentle breeze outside my window.
+I see tree branches swaying lazily.
+Kids in the nearby park fly kites against the mostly blue skies,
+And part of me wants to join them.
 
-The air purifies my troubled mind.
-My mind becomes clear.
-Everything I see is clear.
-I can finally be at peace
-And relax on green grass.
+I close my eyes.
 
-Peace and blessings be upon me.
-My mind is now at peace."""
-    ) # count and fix the number of words in the prologue
+I hear the winds' stronger gusts rattle against my skull.
+I see the branches crashing wildly.
+The sky darkens, the near-blue clarity now full of clouds.
+It looks like it might rain.
+
+The winds grow stronger, howling now.
+The branches groan and creak under the weight of the winds.
+These sounds overwhelm my mind and it's all I can hear.
+The sky darkens... darkens... darkens... until it's just clouds -
+The sun hid a long time ago.
+
+Are those kids still there?
+Their kites won't last long in these winds.
+Are those kids still there?
+I certainly don't want to join them.
+
+I open my eyes.
+
+The sun shines."""
+    )
 
     poem_n = Poem(
     author = "natsuki",
