@@ -1,4 +1,5 @@
 label start:
+    # call test
     if not persistent.seen_intro:
         call prologue_intro
         $ persistent.seen_intro = True
